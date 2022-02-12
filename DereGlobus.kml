@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DereGlobus</name>
+	<open>1</open>
+	<styleUrl>#DereGlobus</styleUrl>
+
+
+
+ 	<Style id="DereGlobus">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DereGlobus_Favicon.png</href>
+ 			</ItemIcon>     
+		</ListStyle>
+	</Style>
+
+
+
+
+ 	<Style id="Menue">
+    		<ListStyle>
+			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+  			</ItemIcon>     
+		</ListStyle>
+	</Style>
+
+
+
+
+ 	<Style id="Dere">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Dere.png</href>
+  			</ItemIcon>     
+		</ListStyle>
+	</Style>
+
+
+
+
+	<LookAt>
+		<longitude>5.00345741084906</longitude>
+		<latitude>28.23149698551686</latitude>
+		<altitude>0</altitude>
+		<range>4563880.165594862</range>
+		<tilt>0</tilt>
+		<heading>-2.95394016040924e-013</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+
+
+
+
+
+	<NetworkLink>
+		<name>Menü</name>
+		<open>0</open>
+		<styleUrl>#Menue</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/kml/Menue.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+
+
+	<NetworkLink>
+		<name>Dere</name>
+		<open>1</open>
+		<flyToView>1</flyToView>
+		<styleUrl>#Dere</styleUrl>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Dere.kml</href>
+		</Link>
+	</NetworkLink>
+
+
+
+
+
+</Document>
+</kml>

@@ -40,7 +40,7 @@
     function replaceNetworkLinkContent(&$dom, &$networkLinkNode, &$selfURL) {
         //Collect Information
         foreach ($networkLinkNode->childNodes as $childNode) {  
-            if ($childNode->nodeName == "ExtendedData") {
+            if ($childNode->nodeName == "ExtendedData" && $childNode->namespaceURI == "http://www.dereglobus.orkenspalter.de") {
                 //Search for extended data relvant for the replacement
                 foreach ($childNode->childNodes as $extendedDataChildNode) {
                     if($extendedDataChildNode->nodeName == "dg:FilePath"){

@@ -1,0 +1,9 @@
+Idea: Have a single php script resonsible for handing files to the user. 
+- Every "NetworkLink" in a .kml file should point to this php script with a "file" query in the url indicating the file it wants to link to as a path within th DereGlobus project.
+- Attach additional data to every "NetworkLink" which contains the file it wants to link to as a path within the dere globus project
+	- php script should recognize this data and if it exists, replace the "Link" element in the "NetworkLink" with a call to itself with the given path as a query (replacmnt only in the returnd file, not in the original)
+	- This removes the need for an explicit path to the php scrip in every but the most toplevel call -> asy chang of file locations e.g. to have a development version
+	- Original "Link" entry in "NetworkLink" can b used as a fallback to hav the pure .kml version still working
+	- This new data does not need to be added for parts of the kml tree which already exists and is not modified (can also be omitted in new files, optional feature)
+- language can be addd as a query, php script can look for a language specific file and then return that one (or a default one if none is found)
+ 

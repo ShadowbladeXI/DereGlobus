@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+
 <Document>
 	<name>DereGlobus</name>
 	<open>1</open>
 	<styleUrl>#DereGlobus</styleUrl>
-
-
 
  	<Style id="DereGlobus">
     		<ListStyle>
@@ -15,9 +14,6 @@
 		</ListStyle>
 	</Style>
 
-
-
-
  	<Style id="Menue">
     		<ListStyle>
 			<ItemIcon>     
@@ -26,9 +22,6 @@
 		</ListStyle>
 	</Style>
 
-
-
-
  	<Style id="Dere">
     		<ListStyle>
   			<ItemIcon>     
@@ -36,9 +29,6 @@
   			</ItemIcon>     
 		</ListStyle>
 	</Style>
-
-
-
 
 	<LookAt>
 		<longitude>5.00345741084906</longitude>
@@ -50,12 +40,8 @@
 		<altitudeMode>relativeToGround</altitudeMode>
 	</LookAt>
 
-
-
-
-
 	<NetworkLink>
-		<name>Menü</name>
+		<name>MenÃ¼</name>
 		<open>0</open>
 		<styleUrl>#Menue</styleUrl>
 		<Link>
@@ -63,22 +49,19 @@
 		</Link>
 	</NetworkLink>
 
-
-
-
 	<NetworkLink>
-		<name>Dere</name>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de"><!-- data for processing by the DereGlobus web script -->
+			<dg:nameTag></dg:nameTag><!-- tag for looking up the name in a seperate file -->
+			<dg:FilePath>DereGlobus/Dere.kml</dg:FilePath><!-- path for the DereGlobus web script -->
+		</ExtendedData>
+		<name>Dere</name><!-- default name -->
 		<open>1</open>
 		<flyToView>1</flyToView>
 		<styleUrl>#Dere</styleUrl>
-		<Link>
+		<Link><!-- default link for use without DereGlobus web script -->
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Dere.kml</href>
 		</Link>
 	</NetworkLink>
-
-
-
-
 
 </Document>
 </kml>

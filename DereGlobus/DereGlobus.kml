@@ -41,6 +41,11 @@
 	</LookAt>
 
 	<NetworkLink>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de"><!-- data for processing by the DereGlobus web script -->
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="MenueName"/></name>
+			</dg:translationStructure>
+		</ExtendedData>
 		<name>Menü</name>
 		<open>0</open>
 		<styleUrl>#Menue</styleUrl>
@@ -51,7 +56,6 @@
 
 	<NetworkLink>
 		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de"><!-- data for processing by the DereGlobus web script -->
-			<dg:nameTag></dg:nameTag><!-- tag for looking up the name in a seperate file -->
 			<dg:FilePath>DereGlobus/Dere.kml</dg:FilePath><!-- path for the DereGlobus web script -->
 		</ExtendedData>
 		<name>Dere</name><!-- default name -->

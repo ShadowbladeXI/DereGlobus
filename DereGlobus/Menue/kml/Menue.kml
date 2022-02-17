@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+<!--
+<NetworkLinkControl>
+    <message>UPDATE: DereGlobus Beta wurde auf Version 0.3 aktualisiert! Für weitere Informationen siehe die Release Notes im Menü. PS: Es gibt auch ein aktuelles Update für Google Earth vom 5. Mai.</message>
+</NetworkLinkControl> 
+-->
+
+
+  
+  
+<Document>
+
+    <Style id="menue">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+<name id="Menue">Menü</name>
+	<LookAt>
+		<longitude>5.00345741084906</longitude>
+		<latitude>28.23149698551686</latitude>
+		<altitude>0</altitude>
+		<range>4563880.165594862</range>
+		<tilt>0</tilt>
+		<heading>-2.95394016040924e-013</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+
+
+
+	<ScreenOverlay id="Willkommen">
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de"><!-- data for processing by the DereGlobus web script -->
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="WelcomeName"/></name>
+				<description><dg:translationMarker translationName="WelcomeDescription"/></description>
+			</dg:translationStructure>
+		</ExtendedData>
+		<name>Willkommen</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+<h3>Herzlich willkommen in Deinem virtuellen Schwarzen Auge!</h3>
+<p>Mit DereGlobus kannst Du die Welt aus den Augen eines Gottes betrachten, über sie hinweggleiten wie ein Drache und erkunden wie nur Aves selbst es vermag. Tauche ein in Raum und Zeit und erfahre Zusammenhänge, die Dir vorher fremd waren. Lasse dein Blick aus der sechsten Sphäre über Dere schweifen und komme langsam näher.</p>
+<p>Schon kannst du die verschiedenen <em><strong>Kontinente</strong></em> erkennen. Dein Blick schweift weiter und bleibt an einem kleinen gebeutelten Lande im Osten Aventuriens hängen - Weißtobrien. Beim näherkommen tauchen einige <em><strong>Städte</strong></em> auf, welche bei kurzem Verweilen mehr über sich preisgeben. Mit einem Blick kannst Du die <em><strong>Landschaft</strong></em> und politischen <em><strong>Grenzen</strong></em> des Landstrichs erfassen und bis nahe hinab auf die Hauptstadt des Herzogtums gleiten - Perainefurten.</p>
+<p>Informiere Dich wo es in der Stadt Gasthäuser gibt oder wandle durch den Innenhof des Peraineklosters oder anderer <strong><em>Gebäude</em></strong>. Die bewegte Geschichte des Landes geben die <em><strong>Chroniken</strong></em> preis, welche die schreckliche Invasion des Sphärenschänders mit einer Reise durch die Zeit wieder aufleben lassen. Und möchtest Du Dir einen Überblick über die <strong><em>Publikationen</em></strong> der Region verschaffen oder gar detaillierte Informationen über die Handlungsorte von Abenteuern erhalten - auch das ist möglich! </p>
+<p><b>Lese weiter: <a href="http://www.dereglobus.org/dokumentation/handbuch/ueberblick">Was ist DereGlobus?</a></b></p>
+<p>Viel Spaß wüscht Dir<br />
+Dein DereGlobus-Team</p>
+<div style="text-align: center">
+<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DereGlobus_Logo.png" alt="DereGlobus Beta" align="center" /></div>]]></description>
+		<styleUrl>#menue</styleUrl>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DereGlobus_Icon_v.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="8" xunits="pixels" yunits="pixels"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	
+	
+<!--
+<NetworkLink>
+	<name>Adventskalender</name>
+	<Link>
+		<href>http://spreadsheets.google.com/pub?key=0ApSSGF7wh5V6dFVHM0QzOEd4aG9JNGpIVWh4ZVRVUGc&amp;hl=de&amp;single=true&amp;gid=1&amp;range=A1%3AA26&amp;output=txt</href>
+	</Link>
+	<styleUrl>#menue</styleUrl>
+</NetworkLink>
+-->
+	
+	
+	
+	<Folder>
+		<name id="Neuigkeiten">Neuigkeiten</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center" width="470" height="390">
+<tr>
+<td>
+<span style="color:#cccccc">Hier erfährst Du brandneue Neuigkeiten rund um DereGlobus: Blog-Artikel, Updates und Einträge im Entwicklertagebuch. Um den Ticker anzuhalten, einfach mit der Maus drüberfahren und in Ruhe lesen - und bei interessanten Themen auf die weiterführende Links klicken. Du kannst die News auch <a href="http://www.dereglobus.org/neuigkeiten">abonnieren</a>.<br><br>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 30,
+  interval: 6000,
+  title: 'Tweets von Weltenbauern:',
+  subject: 'DereGlobus Twitter',
+  width: 'auto',
+  height: 200,
+  theme: {
+    shell: {
+      background: '#1c1c1c',
+      color: '#366598'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#cccccc',
+      links: '#d5aa00'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'default'
+  }
+}).render().setUser('DereGlobus').start();
+</script>
+</td>
+</tr>
+</table>]]></description>
+
+		<styleUrl>#menue</styleUrl>
+		<gx:balloonVisibility>0</gx:balloonVisibility>
+
+<!--		<Region>
+			<LatLonAltBox>
+				<north>76.85423041350332</north>
+				<south>-39.22581132241628</south>
+				<east>69.48204799503996</east>
+				<west>-144.7181997719975</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>-1</minLodPixels>
+				<maxLodPixels>4700</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>300</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Twitterbird.png</href>
+		</Icon>
+		<overlayXY x="0" y="-119" xunits="fraction" yunits="pixels"/>
+		<screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0.1" y="0" xunits="fraction" yunits="fraction"/> -->
+				
+	</Folder>
+	
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/download/suche&quot;&gt;Suche&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>	
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/dokumentation/release-notes&quot;&gt;Release Notes&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/dokumentation/handbuch&quot;&gt;Handbuch&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/dokumentation/faq&quot;&gt;FAQ&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<Folder>
+		<name>&lt;a href=&quot;http://dereglobus.orkenspalter.de/posting.php?mode=reply&amp;f=4&amp;t=238&quot;&gt;Hilfe?&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<Folder>
+		<name>Feedback</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+<p><span class="style4">Hallo lieber DereGlobus-Nutzer!</span><br />
+<br />
+Obwohl wir die Beta-Phase hinter uns gelassen haben, heißt das nicht, dass in DereGlobus keine Fehler mehr vorhanden sind, geschweige denn das es "fertig" ist. Nein, solange Publikationen zu DSA erscheinen, wird auch DereGlobus weiter wachsen und ausgebaut werden. Wie sagt man so schön: Das Abenteuer hört niemals auf!<br />
+<br />
+Wir möchten uns herzlich bei allen Nutzern für das bisherige Feedback bedanken, dass es unter anderem ermöglicht hat eine <a href="#FAQs;balloon">FAQ-Liste</a> zu erstellen, welche wir jedem sehr ans Herz legen möchten. Natürlich sind wir sehr bemüht Fehler in DereGlobus zu vermeiden und ordentlich zu recherchieren und zu lektorieren - doch ab und an schleicht sich immer mal wieder ein kleiner Bug ein. Auch Weltenbauer sind nur Menschen! <br />
+<br />
+Damit auch zukünftige Versionen möglichst fehlerfrei sind, brauchen wir weiterhin <em>Deine</em> tatkräftige Mithilfe als Tester! Bitte melde uns wenn Du <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&amp;t=316&amp;start=0" title="Thread für inhaltliche Fehler">inhaltliche</a> oder <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&amp;t=417&amp;start=0" title="Thread für technische Fehler">technische Fehler</a> findest in den entsprechenden Threads. Auch über <a href="http://dereglobus.orkenspalter.de/viewtopic.php?f=4&t=289&p=9040#p9040" title="Thread für allgemeines Feedback">allgemeines Feedback</a> freuen wir uns sehr, egal ob Du <em>Fragen, Kritik, Lob <em>oder</em> Verbesserungsvorschläge</em> loswerden möchtest!</p>
+
+<p>Deine Meinung ist uns wichtig! Egal ob <em>Wünsche, Ideen, Vorschläge</em> - Dein Beitrag hilft uns DereGlobus zu verbessern. Damit du uns noch einfacher - auch ohne Anmeldung - Feedback geben kannst, haben wir ein spezielles UserVoice Feedback-Forum eingerichtet. Entscheide mit, in welche Richtung sich das Projekt entwickeln soll und vergebe jetzt deine <a href="http://dereglobus.uservoice.com">10 Stimmen</a>! Klicke auf den Feedback-Button und los geht's:</p>
+<p><br></p>
+<p><center><a href="http://dereglobus.uservoice.com/" rel="alternate" title="Zum Feedback-Forum"><img alt="Feedback" style="border: 0pt none;" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Feedback-gelb.jpg" /></a></p>
+
+<p>Vielen Dank für Deine Mithilfe!<br />
+  Dein DereGlobus-Team</p></center>]]></description>
+		<styleUrl>#menue</styleUrl>
+		
+	<!--	<Region>
+			<LatLonAltBox>
+				<north>76.85423041350332</north>
+				<south>-39.22581132241628</south>
+				<east>69.48204799503996</east>
+				<west>-144.7181997719975</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>-1</minLodPixels>
+				<maxLodPixels>4700</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>300</maxFadeExtent>
+			</Lod>
+		</Region>
+
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Feedback-DG.png</href>
+		</Icon>
+		<overlayXY x="0" y="360" xunits="fraction" yunits="pixels"/>
+		<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/> 				-->
+		
+	</Folder>
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/team&quot;&gt;Team&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<ScreenOverlay id="MachMit">
+		<name>&lt;a href=&quot;http://www.dereglobus.org/mach-mit-1&quot;&gt;Mach mit!&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+		<Icon>
+			<href>http://dereglobus.orkenspalter.de/public/Medien/Menue/media/Fan-Projekt-Logo.png</href>
+		</Icon>
+		<overlayXY x="0.5" y="62" xunits="fraction" yunits="pixels"/>
+		<screenXY x="0.5" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/mach-mit-1/add-ons&quot;&gt;Add-Ons&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<Folder>
+		<name>&lt;a href=&quot;http://www.dereglobus.org/lizenz&quot;&gt;Lizenz&lt;/a&gt;</name>
+		<styleUrl>#menue</styleUrl>
+	</Folder>
+	<ScreenOverlay id="Impressum">
+		<name>Impressum</name>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+<p>DAS SCHWARZE AUGE, AVENTURIEN und DERE sind eingetragene Marken in Schrift und Bild der <a href="http://www.ulisses-spiele.de">Ulisses Medien & Spiel Distribution GmbH</a> oder deren Partner. Ohne vorherige schriftliche Genehmigung der Ulisses Medien und Spiel Distribution GmbH ist eine Verwendung der Ulisses-Spiele-Markenzeichen nicht gestattet.</p>
+<p><img src="http://www.dereglobus.org/_/rsrc/1220953831653/Home/UlissesLogo.png?height=37&amp;width=119" alt="Ulisses Spiele"  /></p>
+<hr><div id="footnote">
+<p>Das Erweiterungsset DereGlobus für Google Earth, enhällt nichtoffizielle Informationen zum Rollenspiel DAS SCHWARZE AUGE und zur Welt DERE. Diese Informationen können im Widerspruch zu offiziell publizierten stehen.</p>]]></description>
+		<styleUrl>#menue</styleUrl>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Inhalte-Ulisses.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="pixels" yunits="pixels"/>
+		<screenXY x="0.5" y="4" xunits="pixels" yunits="pixels"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+</Document>
+</kml>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inseln Rakshazars</name>
+	
+      <Region>
+			<LatLonAltBox>
+				<north>56.74077927769645</north>
+				<south>2.904595940080863</south>
+				<east>69.49764543749859</east>
+				<west>12.96520920142949</west>
+			</LatLonAltBox>
+			<Lod>
+			  <minLodPixels>1700</minLodPixels>
+			  <maxLodPixels>-1</maxLodPixels>
+			  <minFadeExtent>0</minFadeExtent>
+			  <maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		
+	<Folder>
+		<name>Inseln</name>
+		<Placemark>
+			<name>Unlon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Offizielle Quelle: Es wird ein Reich namens Unlon erwähnt, zu welchem ab dem Jahr 900 v.BF Handelskontakt besteht.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>18.01746188015443</longitude>
+				<latitude>15.43955587060449</latitude>
+				<altitude>1971950.155256469</altitude>
+				<heading>32.53111052139563</heading>
+				<tilt>0.03411014012060351</tilt>
+				<roll>38.46417096276045</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.08783019479907,16.37943571884399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jomin</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>48.43820721090957</longitude>
+				<latitude>18.19917823007684</latitude>
+				<altitude>3536606.823069689</altitude>
+				<heading>65.56333346360437</heading>
+				<tilt>0.02310719204264819</tilt>
+				<roll>61.99006619812896</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.8302893013819,18.28936893528657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kalumba</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>48.43820721090957</longitude>
+				<latitude>18.19917823007684</latitude>
+				<altitude>3536606.823069689</altitude>
+				<heading>65.56333346360437</heading>
+				<tilt>0.02310719204264819</tilt>
+				<roll>61.99006619812896</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.92535630117295,14.82349285938249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manamek</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>46.50171972825384</longitude>
+				<latitude>18.3042615720807</latitude>
+				<altitude>3536606.823069688</altitude>
+				<heading>64.95678813619693</heading>
+				<tilt>0.02310719201109546</tilt>
+				<roll>61.99006619777495</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.46050028858518,12.20218842290792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ikta</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>43.5909126474665</longitude>
+				<latitude>10.16835084279076</latitude>
+				<altitude>1965848.265620937</altitude>
+				<heading>63.75287557941993</heading>
+				<tilt>0.02334852125724757</tilt>
+				<roll>61.42896231252485</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>41.87969253242147,9.687806230985071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kasa</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>43.5909126474665</longitude>
+				<latitude>10.16835084279076</latitude>
+				<altitude>1965848.265620937</altitude>
+				<heading>63.75287557941993</heading>
+				<tilt>0.02334852125724757</tilt>
+				<roll>61.42896231252485</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.0462442293864,9.912089886850877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shesal</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>43.5909126474665</longitude>
+				<latitude>10.16835084279076</latitude>
+				<altitude>1965848.265620937</altitude>
+				<heading>63.75287557941993</heading>
+				<tilt>0.02334852125724757</tilt>
+				<roll>61.42896231252485</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.24515262506858,7.782283860835834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parhini</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>43.5909126474665</longitude>
+				<latitude>10.16835084279076</latitude>
+				<altitude>1965848.265620937</altitude>
+				<heading>63.75287557941993</heading>
+				<tilt>0.02334852125724757</tilt>
+				<roll>61.42896231252485</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.96356197697526,5.517910110376144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Olum</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>46.37656989956052</longitude>
+				<latitude>5.737177452325738</latitude>
+				<altitude>1965848.26562094</altitude>
+				<heading>64.0239569486842</heading>
+				<tilt>0.02334852122602096</tilt>
+				<roll>61.42896231258398</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>43.89648849147275,4.12406093811646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urum</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>46.37656989956052</longitude>
+				<latitude>5.737177452325738</latitude>
+				<altitude>1965848.26562094</altitude>
+				<heading>64.0239569486842</heading>
+				<tilt>0.02334852122602096</tilt>
+				<roll>61.42896231258398</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>44.3764277042246,3.509528555032317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Echseninsel</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>55.86711949336991</longitude>
+				<latitude>10.4603764153042</latitude>
+				<altitude>2665531.648617519</altitude>
+				<heading>89.27253808799415</heading>
+				<tilt>0.02043113077163289</tilt>
+				<roll>85.54169021089513</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>55.93014449281106,10.35660097569312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jominische Inseln</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>jominischen Inseln</b> sind die Heimat der <a href="http://rakshazar.de/wiki/index.php?title=Parnhai" title="Parnhai">Parnhai</a>, dunkelhäutige Menschen die hier die <a href="http://rakshazar.de/wiki/index.php?title=Schwarzer_Vulkanschrat" title="Schwarzer Vulkanschrat">Vulkanschrate</a> anbeten und größtenteils friedliebend sind. Letzteres wurde ihnen zum Verhängnis, denn die Piraten und Sklavenjäger hielten unter ihnen reiche Ernte und heutzutage sind die Parnhai nur noch auf wenigen Inseln verbreitet, meist dienen diese paradiesischen Eilande als Piratenstützpunkte und Siedlungen für <a href="http://rakshazar.de/wiki/index.php?title=Sanskitaren" title="Sanskitaren">sanskitarische</a> Flüchtlinge oder Exilanten aus dem fernen Reich <a href="http://rakshazar.de/wiki/index.php?title=Kithorra&amp;action=edit&amp;redlink=1" class="new" title="Kithorra (Seite nicht vorhanden)">Kithorra</a>.
+</p><p>Im Inneren der Inseln warten unaussprechliche Geheimnisse aus längst vergangenen Zeiten auf mutige Entdecker. Ab und an kann man hier auch die Festung aus <a href="http://rakshazar.de/wiki/index.php?title=Shahana" title="Shahana">Shahana</a> antreffen. Zuweilen begegnet man südlich der Insel <a href="http://rakshazar.de/wiki/index.php?title=Manamek&amp;action=edit&amp;redlink=1" class="new" title="Manamek (Seite nicht vorhanden)">Manamek</a> den Schilfinseln der <a href="http://www.wiki-aventurica.de/index.php?title=Tocamuyac" class="extiw" title="ave:Tocamuyac">Tocamuyac</a>, einem geheimnisvollen Volk, das als Nomaden der Wellen auf dem <a href="http://rakshazar.de/wiki/index.php?title=Unbezwingbarer_Ozean" title="Unbezwingbarer Ozean">unbezwingbaren Ozean</a> lebt. Die große Hauptinsel nennt sich <a href="http://rakshazar.de/wiki/index.php?title=Jomin&amp;action=edit&amp;redlink=1" class="new" title="Jomin (Seite nicht vorhanden)">Jomin</a>.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>45.8209563518095</longitude>
+				<latitude>15.32514715449208</latitude>
+				<altitude>4698764.504432493</altitude>
+				<heading>0.007965127416055789</heading>
+				<tilt>0</tilt>
+				<roll>0</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>41.03232689087317,13.68399161997499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grogtopylen</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Unzählige kleine Inseln liegen im <a href="http://rakshazar.de/wiki/index.php?title=Totenwasser" title="Totenwasser">Totenwasser</a>, und auf einigen dieser zerklüfteten Eilande wachsen sogar kleine mediterrane Oliven- und Zedernhaine, die dort im warmen Klima gut gedeihen oder zumindest sprudelnde Quellen (die freilich zuweilen auch nur schwarze Säure ausströmen lassen). Auf diesen Inseln haben sich geflohene Sklaven angesiedelt, die hoffen dort nicht von den Schiffen der <a href="http://rakshazar.de/wiki/index.php?title=Amhasim" title="Amhasim">Amhasim</a> entdeckt zu werden.
+</p><p>Die größte Gruppe allerdings hat sich entschlossen, zurück zu schlagen. Die Inselgruppe der <b>Grogtopylen</b> liegt tief im Totenwasser und bietet einiges an Nahrung und Trinkwasser. Knapp 200 Jahre soll es her sein, dass es die Vorfahren der <a href="http://rakshazar.de/wiki/index.php?title=Seenomade#Variante_Korsar_des_Totenwassers" title="Seenomade">Korsaren</a> hierher verschlug. Sie entstammen zum großen Teil dem Volk der <a href="http://rakshazar.de/wiki/index.php?title=Orks" title="Orks">Orks</a>, doch auch wenn man die Korsaren des öfteren „See-Orks“ nennt, leben auch einige Angehörige anderer Völker auf den Grogtopylen. Vor allem Menschen und <a href="http://rakshazar.de/wiki/index.php?title=Brokthar" title="Brokthar">Brokthar</a> stärken die Reihen der Piraten. Eines der Korsarenschiffe ist sogar komplett mit <a href="http://rakshazar.de/wiki/index.php?title=Donari" title="Donari">Donari</a> bemannt. Man sagt, die ersten Siedler seien Überlebende eines Sklavenschiffes, das vom Schwarzen Wasser versenkt wurde. Wie durch ein Wunder konnten sich die Sklaven auf eine der Inseln retten und waren in Sicherheit. In den ersten Jahren versuchten sie noch, die Existenz ihrer kleinen Gemeinschaft Schiffbrüchiger geheim zu halten. Doch als die Siedlung mit den Jahren wuchs, war das nicht mehr möglich. Die Korsaren sind mittlerweile darauf angewiesen, Frachtschiffe zu überfallen, um zu überleben, denn auf Dauer sind die Inseln nicht für eine so große Zahl von Siedlern geeignet.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>40.36382384892072</longitude>
+				<latitude>39.03001199131771</latitude>
+				<altitude>0</altitude>
+				<heading>6.951097902523654</heading>
+				<tilt>0.8314570087986601</tilt>
+				<range>257762.6646114377</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>40.58695916339759,38.79387718214462,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

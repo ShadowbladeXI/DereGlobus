@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sieben-Baronien-Weg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Goblinstieg bis Efferd 1026 -->
+			<name>Goblinstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Sieben-Baronien-Weg</b>, auch <i>Sieben-Baronien-Stieg</i>, <i>Goblinpfad</i> sowie <i>Goblinstieg</i> genannt, ist der Fuhrweg zwischen <a href="http://www.wiki-aventurica.de/wiki/Salthel" title="Salthel">Salthel</a> und <a href="http://www.wiki-aventurica.de/wiki/Irberod" title="Irberod">Irberod</a> durch die langgezogene breite Talmulde zwischen <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roter</a> und <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel" title="Schwarze Sichel">Schwarzen Sichel</a> sowie den <a href="http://www.wiki-aventurica.de/wiki/Drachensteine" title="Drachensteine">Drachensteinen</a>. Ein Großteil dieser Talmulde ist zu der staubigen toten <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei von Dragenfeld</a> verdorrt.
+							</p>
+							<p>
+							Seit <a href="http://www.wiki-aventurica.de/wiki/Chronik:1021" title="Chronik:1021">1021 BF</a> wurde der durch Entstehung der <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei</a> unterbrochene Bau der Herzogenstraße fortgeführt und stellt seit seiner Vollendung im <a href="http://www.wiki-aventurica.de/wiki/Travia" title="Travia">Travia</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1026" title="Chronik:1026">1026 BF</a> eine wichtige Verkehrsader zwischen <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Neuem Reich</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> dar.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					05.835870,33.151313,0  <!--<POI>Siedlung:Salthel</POI>--> <!--<POI>SOE:Tobrische Straße</POI>--> <!--<POI>SOE:Sichelstieg</POI>-->
+					05.869422,33.174747,0 
+					05.897636,33.192362,0 
+					05.943095,33.217112,0 
+					05.960387,33.236694,0 
+					05.982482,33.277852,0  <!--<POI>Siedlung:Sichelweg</POI>-->
+					06.002247,33.290329,0 
+					06.021858,33.298115,0 
+					06.047028,33.320275,0 
+					06.072997,33.332574,0 
+					06.091104,33.348206,0  <!-- <POI>Siedlung:Runhag</POI> -->
+					06.117844,33.362815,0 
+					06.150786,33.366604,0 
+					06.231605,33.377998,0 
+					06.260703,33.390937,0 
+					06.297933,33.416958,0 
+					06.319686,33.422872,0 
+					06.347800,33.437500,0 
+					06.373178,33.443381,0 
+					06.396911,33.438913,0 
+					06.450390,33.477679,0 
+					06.463606,33.488090,0 
+					06.485479,33.510294,0 
+					06.501532,33.526023,0 
+					06.522925,33.542689,0 
+					06.554567,33.568147,0 
+					06.574031,33.598595,0 
+					06.602083,33.637344,0 
+					06.630405,33.653593,0 
+					06.636234,33.664330,0 <!-- <POI>Abzweig:Weg nach Zollhaus</POI> -->
+					06.660384,33.686097,0 
+					06.703931,33.684849,0 
+					06.724338,33.699335,0 
+					06.750010,33.719370,0 
+					06.765612,33.730777,0 
+					06.789070,33.728084,0 
+					06.806853,33.731364,0 
+					06.844787,33.754069,0 
+					06.871224,33.752500,0 
+					06.890008,33.758341,0 
+					06.915696,33.773675,0 
+					06.936889,33.790850,0 
+					06.967031,33.793110,0 
+					06.993250,33.804034,0 
+					07.013364,33.811350,0 
+					07.039785,33.823455,0 <!-- <POI>Siedlung:Dragenfeld</POI> -->
+					07.074574,33.827181,0 
+					07.114987,33.821946,0 
+					07.139358,33.848832,0 
+					07.149395,33.858197,0 
+					07.165464,33.884737,0 
+					07.186501,33.899972,0 
+					07.219590,33.920248,0 
+					07.249542,33.930485,0 
+					07.302214,33.912943,0 
+					07.332141,33.926321,0 
+					07.339918,33.950800,0 
+					07.337797,33.974175,0 
+					07.328447,34.000242,0 
+					07.323279,34.027496,0 
+					07.324899,34.055972,0 
+					07.331179,34.083064,0 
+					07.332035,34.099441,0  <!-- <POI>Siedlung:Tiefenfurt</POI> --> <!-- <POI>Abzweig:Pass von Dunkelbrunn nach Tiefenfurt</POI> -->
+					07.361154,34.092590,0 
+					07.375226,34.092823,0 
+					07.391490,34.098200,0 
+					07.403159,34.107956,0 
+					07.424603,34.136112,0 
+					07.449044,34.157745,0 
+					07.480892,34.171751,0  <!-- <POI>Station:Drakensteen</POI> --> <!-- <POI>Abzweig:Ornaldsjoch</POI> -->
+					07.512800,34.186387,0 
+					07.553595,34.203648,0 
+					07.581667,34.219996,0 
+					07.630729,34.229379,0 
+					07.682069,34.249257,0 
+					07.722890,34.261688,0 
+					07.768565,34.266494,0 
+					07.801669,34.258783,0 
+					07.836939,34.264258,0 
+					07.864509,34.281869,0 
+					07.854460,34.320824,0 
+					07.862230,34.357811,0 
+					07.893700,34.385768,0 
+					07.942453,34.400270,0 
+					07.974581,34.418130,0 
+					07.996321,34.429297,0 
+					08.043835,34.428886,0 
+					08.085770,34.428052,0 
+					08.123863,34.423717,0 
+					8.137355229533579,34.42218260077078,0
+					08.152272,34.421097,0 <!-- <POI>Fluss:Westerbach</POI> -->
+					08.182019,34.425571,0 
+					08.200027,34.429267,0 
+					08.213214,34.436624,0 
+					08.229960,34.439323,0 
+					08.246660,34.440492,0 
+					08.257226,34.442810,0 <!-- <POI>Fluss:Westerbach</POI> -->
+					08.266062,34.454087,0 
+					08.265834,34.466310,0 
+					08.250324,34.483439,0 
+					08.237131,34.495935,0 
+					08.227526,34.504792,0 
+					08.221702,34.516113,0 
+					08.220371,34.532937,0 
+					08.215222,34.546281,0 
+					08.225375,34.554719,0 
+					08.238585,34.562073,0 
+					08.257815,34.564205,0 
+					08.267225,34.568583,0 
+					8.280838612879705,34.57189979212935,0  <!--<POI>Siedlung:Drachenzwinge</POI>--> <!--<POI>SOE:Weg von Harden nach Hulga </POI>--> 
+					08.282781,34.596614,0 
+					08.281164,34.623146,0 
+					08.279752,34.636928,0 
+					08.281386,34.668462,0 
+					08.286648,34.697362,0 
+					08.301598,34.719430,0 
+					08.314418,34.732892,0 
+					08.318204,34.754186,0 
+					08.316403,34.775097,0 
+					08.331325,34.795646,0 
+					08.344734,34.807574,0 <!-- <POI>Siedlung:Irberod</POI> --> <!--<POI>SOE:Weg von Irberod nach Karkriwen </POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1026-03-31</when>
+				</gx:TimeStamp>
+				<longitude>7.039785</longitude>
+				<latitude>33.823455</latitude>
+				<altitude>350000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1026-03-31</end>
+			</TimeSpan>
+		</Placemark>
+
+	<name>Sieben-Baronien-Weg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Goblinstieg ab Travia 1026 BF -->
+			<name>Goblinstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Sieben-Baronien-Weg</b>, auch <i>Sieben-Baronien-Stieg</i>, <i>Goblinpfad</i> sowie <i>Goblinstieg</i> genannt, ist der Fuhrweg zwischen <a href="http://www.wiki-aventurica.de/wiki/Salthel" title="Salthel">Salthel</a> und <a href="http://www.wiki-aventurica.de/wiki/Irberod" title="Irberod">Irberod</a> durch die langgezogene breite Talmulde zwischen <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roter</a> und <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel" title="Schwarze Sichel">Schwarzen Sichel</a> sowie den <a href="http://www.wiki-aventurica.de/wiki/Drachensteine" title="Drachensteine">Drachensteinen</a>. Ein Großteil dieser Talmulde ist zu der staubigen toten <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei von Dragenfeld</a> verdorrt.
+							</p>
+							<p>
+							Seit <a href="http://www.wiki-aventurica.de/wiki/Chronik:1021" title="Chronik:1021">1021 BF</a> wurde der durch Entstehung der <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei</a> unterbrochene Bau der Herzogenstraße fortgeführt und stellt seit seiner Vollendung im <a href="http://www.wiki-aventurica.de/wiki/Travia" title="Travia">Travia</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1026" title="Chronik:1026">1026 BF</a> eine wichtige Verkehrsader zwischen <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Neuem Reich</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> dar.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					06.636234,33.664330,0 <!-- <POI>Abzweig:Weg nach Zollhaus</POI> -->
+					06.660384,33.686097,0 
+					06.703931,33.684849,0 
+					06.724338,33.699335,0 
+					06.750010,33.719370,0 
+					06.765612,33.730777,0 
+					06.789070,33.728084,0 
+					06.806853,33.731364,0 
+					06.844787,33.754069,0 
+					06.871224,33.752500,0 
+					06.890008,33.758341,0 
+					06.915696,33.773675,0 
+					06.936889,33.790850,0 
+					06.967031,33.793110,0 
+					06.993250,33.804034,0 
+					07.013364,33.811350,0 
+					07.039785,33.823455,0 <!-- <POI>Siedlung:Dragenfeld</POI> -->
+					07.074574,33.827181,0 
+					07.114987,33.821946,0 
+					07.139358,33.848832,0 
+					07.149395,33.858197,0 
+					07.165464,33.884737,0 
+					07.186501,33.899972,0 
+					07.219590,33.920248,0 
+					07.249542,33.930485,0 
+					07.302214,33.912943,0 
+					07.332141,33.926321,0 
+					07.339918,33.950800,0 
+					07.337797,33.974175,0 
+					07.328447,34.000242,0 
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1026-04-01</when>
+				</gx:TimeStamp>
+				<longitude>7.039785</longitude>
+				<latitude>33.823455</latitude>
+				<altitude>350000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1026-04-01</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+
+		<Placemark> 	<!-- Sieben-Baronien-Weg ab Travia 1026 BF-->
+			<name>Sieben-Baronien-Weg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Sieben-Baronien-Weg</b>, auch <i>Sieben-Baronien-Stieg</i>, <i>Goblinpfad</i> sowie <i>Goblinstieg</i> genannt, ist der Fuhrweg zwischen <a href="http://www.wiki-aventurica.de/wiki/Salthel" title="Salthel">Salthel</a> und <a href="http://www.wiki-aventurica.de/wiki/Irberod" title="Irberod">Irberod</a> durch die langgezogene breite Talmulde zwischen <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roter</a> und <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel" title="Schwarze Sichel">Schwarzen Sichel</a> sowie den <a href="http://www.wiki-aventurica.de/wiki/Drachensteine" title="Drachensteine">Drachensteinen</a>. Ein Großteil dieser Talmulde ist zu der staubigen toten <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei von Dragenfeld</a> verdorrt.
+							</p>
+							<p>
+							Seit <a href="http://www.wiki-aventurica.de/wiki/Chronik:1021" title="Chronik:1021">1021 BF</a> wurde der durch Entstehung der <a href="http://www.wiki-aventurica.de/wiki/W%C3%BCstenei_von_Dragenfeld" title="Wüstenei von Dragenfeld">Wüstenei</a> unterbrochene Bau der Herzogenstraße fortgeführt und stellt seit seiner Vollendung im <a href="http://www.wiki-aventurica.de/wiki/Travia" title="Travia">Travia</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1026" title="Chronik:1026">1026 BF</a> eine wichtige Verkehrsader zwischen <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Neuem Reich</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> dar.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					05.835870,33.151313,0  <!--<POI>Siedlung:Salthel</POI>--> <!--<POI>SOE:Tobrische Straße</POI>--> <!--<POI>SOE:Sichelstieg</POI>-->
+					05.869422,33.174747,0 
+					05.897636,33.192362,0 
+					05.943095,33.217112,0 
+					05.960387,33.236694,0 
+					05.982482,33.277852,0  <!--<POI>Siedlung:Sichelweg</POI>-->
+					06.002247,33.290329,0 
+					06.021858,33.298115,0 
+					06.047028,33.320275,0 
+					06.072997,33.332574,0 
+					06.091104,33.348206,0  <!-- <POI>Siedlung:Runhag</POI> -->
+					06.117844,33.362815,0 
+					06.150786,33.366604,0 
+					06.231605,33.377998,0 
+					06.260703,33.390937,0 
+					06.297933,33.416958,0 
+					06.319686,33.422872,0 
+					06.347800,33.437500,0 
+					06.373178,33.443381,0 
+					06.396911,33.438913,0 
+					06.450390,33.477679,0 
+					06.463606,33.488090,0 
+					06.485479,33.510294,0 
+					06.501532,33.526023,0 
+					06.522925,33.542689,0 
+					06.554567,33.568147,0 
+					06.574031,33.598595,0 
+					06.602083,33.637344,0 
+					06.630405,33.653593,0 
+					06.636234,33.664330,0 <!-- <POI>Abzweig:Weg nach Zollhaus</POI> -->
+					6.606525544042297,33.6715045495305,0 
+					6.572283609313683,33.67416077130464,0
+					6.58586649448236,33.69633948850728,0
+					6.56635419622426,33.76459952191233,0 
+					6.656813572578346,33.7895993246529,0 
+					6.687036577584705,33.84311829518001,0 
+					6.68514635573678,33.86793103434668,0 
+					6.711465681408515,33.89659961416319,0 
+					6.720640937866181,33.92378558562144,0 
+					6.711600023396249,33.94553684170485,0 
+					6.720260953196171,33.96903714026347,0 
+					6.766257995877883,33.97114545562324,0 
+					6.803581912984082,34.01824841125981,0 
+					6.804271604807994,34.07952224076093,0 
+					6.797838009324597,34.09386922531384,0 
+					6.825409295190188,34.10116186667435,0 
+					6.809863731856741,34.11615803685105,0 
+					6.81524867094164,34.12982437454791,0 
+					6.838400214440002,34.13411435093968,0 
+					6.858063125298832,34.13043284699386,0 
+					6.874134841044139,34.11765956819484,0 
+					6.892414856960332,34.11510092051814,0 
+					6.93612759546455,34.13495802135379,0 
+					6.947950791477117,34.12877371507906,0 
+					6.942161262509321,34.11484819682482,0 
+					6.971895063020426,34.1024611900154,0 
+					7.010381345642465,34.07342158247771,0 
+					7.021379646937939,34.05678029685995,0 
+					7.048210621283824,34.0608109517582,0 
+					7.076667427084493,34.05341486699815,0
+					7.116860586274358,34.03079535622594,0 
+					7.144630583381271,34.02422962265286,0 
+					7.176363011171492,34.02865209956971,0 
+					7.21554282912969,34.01928632309711,0 
+					7.23253844324069,34.00603346275042,0 
+					7.271977387510697,34.00706129643982,0 
+					7.298602850488678,33.99424235003791,0 
+					07.328447,34.000242,0 
+					07.323279,34.027496,0 
+					07.324899,34.055972,0 
+					07.331179,34.083064,0 
+					07.332035,34.099441,0  <!-- <POI>Siedlung:Tiefenfurt</POI> --> <!-- <POI>Abzweig:Pass von Dunkelbrunn nach Tiefenfurt</POI> -->
+					07.361154,34.092590,0 
+					07.375226,34.092823,0 
+					07.391490,34.098200,0 
+					07.403159,34.107956,0 
+					07.424603,34.136112,0 
+					07.449044,34.157745,0 
+					07.480892,34.171751,0  <!-- <POI>Station:Drakensteen</POI> --> <!-- <POI>Abzweig:Ornaldsjoch</POI> -->
+					07.512800,34.186387,0 
+					07.553595,34.203648,0 
+					07.581667,34.219996,0 
+					07.630729,34.229379,0 
+					07.682069,34.249257,0 
+					07.722890,34.261688,0 
+					07.768565,34.266494,0 
+					07.801669,34.258783,0 
+					07.836939,34.264258,0 
+					07.864509,34.281869,0 
+					07.854460,34.320824,0 
+					07.862230,34.357811,0 
+					07.893700,34.385768,0 
+					07.942453,34.400270,0 
+					07.974581,34.418130,0 
+					07.996321,34.429297,0 
+					08.043835,34.428886,0 
+					08.085770,34.428052,0 
+					08.123863,34.423717,0 
+					8.137355229533579,34.42218260077078,0
+					08.152272,34.421097,0 <!-- <POI>Fluss:Westerbach</POI> -->
+					08.182019,34.425571,0 
+					08.200027,34.429267,0 
+					08.213214,34.436624,0 
+					08.229960,34.439323,0 
+					08.246660,34.440492,0 
+					08.257226,34.442810,0 <!-- <POI>Fluss:Westerbach</POI> -->
+					08.266062,34.454087,0 
+					08.265834,34.466310,0 
+					08.250324,34.483439,0 
+					08.237131,34.495935,0 
+					08.227526,34.504792,0 
+					08.221702,34.516113,0 
+					08.220371,34.532937,0 
+					08.215222,34.546281,0 
+					08.225375,34.554719,0 
+					08.238585,34.562073,0 
+					08.257815,34.564205,0 
+					08.267225,34.568583,0 
+					8.280838612879705,34.57189979212935,0  <!--<POI>Siedlung:Drachenzwinge</POI>--> <!--<POI>SOE:Weg von Harden nach Hulga </POI>--> 
+					08.282781,34.596614,0 
+					08.281164,34.623146,0 
+					08.279752,34.636928,0 
+					08.281386,34.668462,0 
+					08.286648,34.697362,0 
+					08.301598,34.719430,0 
+					08.314418,34.732892,0 
+					08.318204,34.754186,0 
+					08.316403,34.775097,0 
+					08.331325,34.795646,0 
+					08.344734,34.807574,0 <!-- <POI>Siedlung:Irberod</POI> --> <!--<POI>SOE:Weg von Irberod nach Karkriwen </POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1026-04-01</when>
+				</gx:TimeStamp>
+				<longitude>7.039785</longitude>
+				<latitude>33.823455</latitude>
+				<altitude>350000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1026-04-01</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

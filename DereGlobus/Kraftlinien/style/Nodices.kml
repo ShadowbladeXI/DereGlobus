@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>Nodices-Styles</name>
+
+
+<!-- Zuerst definieren wir alle Stylemaps der verschiedenen Nodices -->
+
+	<StyleMap id="nodix_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_4-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_4-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_1-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_1-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_1-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_2-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_2-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_2-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_3-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_3-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_3-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="nodix_4-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#nodix_4-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#nodix_4-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+<!-- So, ab hier werden die einzelnen Styles definiert -->
+	<!-- M�gliche Styles sind 
+		<IconStyle>...</IconStyle>
+		<LabelStyle>...</LabelStyle>
+		<LineStyle>...</LineStyle>
+		<PolyStyle>...</PolyStyle>
+		<BalloonStyle>...</BalloonStyle>
+		<ListStyle>...</ListStyle>
+	 -->
+
+        <Style id="nodix_1-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+		  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+		  <scale>1.0</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort3.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_1-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort3.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+        <Style id="nodix_2-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+	          <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+         	  <scale>1.0</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort4.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_2-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+	    	  <scale>1.5</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort4.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+        <Style id="nodix_3-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+	 	  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+ 		  <scale>1.0</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort5.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+	<Style id="nodix_3-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort5.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+        <Style id="nodix_4-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+		  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+		  <scale>1.0</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort7.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_4-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>FFFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort7.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+	
+        <Style id="nodix_1-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+		  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+		  <scale>1.0</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort3.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_1-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort3.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+        <Style id="nodix_2-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+		  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+		  <scale>1.0</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort4.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_2-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort4.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+        <Style id="nodix_3-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+		  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+		  <scale>1.0</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort5.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_3-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort5.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+        <Style id="nodix_4-X-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LabelStyle>
+		  <scale>0</scale>
+		  <color>00FFFFFF</color>
+		</LabelStyle>
+		<IconStyle>
+		  <scale>1.0</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort7.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+	</Style>
+        <Style id="nodix_4-X-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<IconStyle>
+		  <scale>1.5</scale>
+		  <color>7FFFFFFF</color>
+		  <colorMode>normal</colorMode>
+		  <Icon>
+		    <href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/media/icons/Magischer_Ort7.png</href>
+		  </Icon>
+		  <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+		<LabelStyle>
+		  <scale>1</scale>
+		  <color>FFFFFFFF</color>
+		</LabelStyle>
+	</Style>
+
+
+</Document>
+</kml>

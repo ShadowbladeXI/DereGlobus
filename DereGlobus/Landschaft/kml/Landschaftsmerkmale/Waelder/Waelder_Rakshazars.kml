@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Wälder Rakshazars</name>
+	
+      <Region>
+			<Lod>
+			  <minLodPixels>1700</minLodPixels>
+			  <maxLodPixels>-1</maxLodPixels>
+			  <minFadeExtent>0</minFadeExtent>
+			  <maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+	
+		<Placemark>
+			<name>Echsendschungel</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>52.53443956264622</longitude>
+				<latitude>16.34977778930185</latitude>
+				<altitude>0</altitude>
+				<heading>0.7296394316696023</heading>
+				<tilt>0.7501406952640887</tilt>
+				<range>1835270.078331829</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<TimeSpan>
+				<end>0337</end>
+			</TimeSpan>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation_Rakshazar</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>56.82195609792166,14.29308581652207,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Tal der Tempel</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Beherrschten die <a href="http://rakshazar.de/wiki/index.php?title=Ipexco" title="Ipexco">Ipexco</a> einst fast die gesamte <a href="http://rakshazar.de/wiki/index.php?title=Halbinsel_von_Ribukan&amp;action=edit&amp;redlink=1" class="new" title="Halbinsel von Ribukan (Seite nicht vorhanden)">Halbinsel von Ribukan</a>, so wurden sie mit den Jahren durch die <a href="http://rakshazar.de/wiki/index.php?title=Sanskitaren" title="Sanskitaren">Sanskitaren</a> immer weiter zurück gedrängt. Nur in einem großen Dschungeltal, welches im Norden und im Süden durch mächtige Regengebirge flankiert wird, konnten sie sich halten. Alle Versuche der Sanskitaren auch dieses letzte Rückzugsgebiet zu erobern schlugen fehl und nur wenigen Invasoren gelang die Flucht aus dem Tal das den Ipexco wahrhaftig heilig ist. Sie verteidigen es verbissen gegen jeden Eindringling, denn in ihm verborgen liegen die großen Tempelstädte ihres Volkes, weshalb sie es selbst auch das <b>Tal der Tempel</b> nennen.
+</p><p>Das Tal ist durch den dichten Dschungel nur schwer zugänglich und nur wenige, verborgene Trampelfade erleichtern das Vorankommen. Die Gebiete um die großen Städte jedoch wurden über Jahrhunderte gerodet und für die Landwirtschaft nutzbar gemacht. So entstanden große Ebenen, die heute nahezu gänzlich frei von Vegetation sind. Straßen gibt es nur in den und in der direkten Umgebung der Städte. Innerhalb des Dschungels existieren auch noch ausgedehnte Sumpfgebiete, die für des Geländes Unkundige zur tödlichen Falle werden können. Neben der ausgedehnten und dichten Vegetation ist das Tal auch von einer Vielzahl verschiedener Tierarten bewohnt und wenn der Dschungel des Nachts zum Leben erwacht, beginnen seine Bewohner ihr ohrenbetäubendes Konzert.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>58.65796065814647</longitude>
+				<latitude>22.71157713410537</latitude>
+				<altitude>0</altitude>
+				<heading>1.952874239289047</heading>
+				<tilt>0.417899421949861</tilt>
+				<range>2596672.233720725</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>58.88628246954168,27.49970559796351,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Firnwälder</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>28.02883867684983</longitude>
+				<latitude>47.99112875288184</latitude>
+				<altitude>2593391.391565435</altitude>
+				<heading>-2.905725775288708</heading>
+				<tilt>0.08699095065014734</tilt>
+				<roll>-0.512886679157373</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>22.52940945840631,50.54481077050778,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Vaestfogg</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>Vaestfogg</b> ist ein feuchtes, kaltes Land; bedrückend und schweigsam. Während des gesammten Jahres hängen tiefe Wolken über ihren Bergen und Hügeln. Die Sonne erscheint hier nur als heller, matter Fleck am Firmament und der Mond ist kaum mehr als ein Schemen in der Nacht. Die Nebel dämpfen jedes Geräusch und verschlucken den einsamen Wanderer schon nach wenigen Metern oder verzerren seine Konturen zu den absonderlichsten Formen.
+</p><p>Während des kurzen Sommers im Norden werden die schwülen Niederrungen von Abermillionen Stechmücken und anderem vielbeinigen Geschmeiß bewohnt. Der Boden scheint sich in ein warmes feuchtes Wesen, das alles Lebende verschlingen will, zu verwandeln. Über die Hügel weht ein unablässiger, kalter Wind aus dem hohen Norden vom <a href="http://rakshazar.de/wiki/index.php?title=Eisw%C3%BCste" title="Eiswüste">ewigen Eis</a> herab. Die Flüsse und Seen treten ob der ständigen Regenfälle und der Unmengen Schmelzwasser aus den nördlichen Steppen und den Gletschern über die Ufer. Gleichzeitig scheint das Leben zu explodieren. In allen nur erdenklichen Formen und Farben tritt es ans Tageslicht. Alle Pflanzen versuchen in der kurzen Spanne, die ihnen der Sommer gewährt, aufs prächtigste zu Erblühen, wobei sie durch Geruch bestechen und kaum durch Farben beeindrucken - wozu auch, wenn der Nebel alle Farben verschluckt? - und ihren Samen möglichst reichhaltig in alle Winde zu verstreuen. Alle landbewohnenden Tiere nutzen die Zeit des Überflusses, um ihre Nachkommen großzuziehen und Fettpolster für den langen, kalten Winter anzulegen.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>39.539840354848</longitude>
+				<latitude>48.32760724065943</latitude>
+				<altitude>0</altitude>
+				<heading>-5.54741742727092</heading>
+				<tilt>0.2294831511061389</tilt>
+				<range>2927906.587034192</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>37.40477466110488,47.83692012655685,0</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>

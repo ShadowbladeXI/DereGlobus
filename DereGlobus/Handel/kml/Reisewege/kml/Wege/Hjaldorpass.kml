@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Hjaldorpass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Hjaldorpass-->
+			<name>Hjaldorpass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Hjaldorpass</b> führt durch die <a href="http://www.wiki-aventurica.de/wiki/Hjaldorberge" title="Hjaldorberge">Hjaldorberge</a> und verbindet die Orte <a href="http://www.wiki-aventurica.de/wiki/Felsteyn" title="Felsteyn">Felsteyn</a> und <a href="http://www.wiki-aventurica.de/wiki/Orkgard" title="Orkgard">Orkgard</a> miteinander. Der <a href="http://www.wiki-aventurica.de/wiki/Pass" title="Pass">Pass</a> ist eine wichtige Verbindung zwischen dem <a href="http://www.wiki-aventurica.de/wiki/Bodirtal" title="Bodirtal">Bodirtal</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Waskirer_Hochland" title="Waskirer Hochland">Waskirer Hochland</a>.
+							</p>
+							<p>
+							Die Route kann nur zu Fuß oder mit einem Lasttier während den Monaten <a href="http://www.wiki-aventurica.de/wiki/Ingerimm" title="Ingerimm">Ingerimm</a>/<a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a> bis <a href="http://www.wiki-aventurica.de/wiki/Efferd" title="Efferd">Efferd</a> benutzt werden.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.621016561954495,34.18632588375851,0  <!--<POI>Siedlung:Skovbjerg</POI>--> <!-- <POI>SOE:Weg von Liskor nach Skovbjerg</POI> --> <!--<POI>SOE:Waskirer Pfad</POI>-->
+						-4.591918808960395,34.16708315796258,0 
+						-4.547028590572642,34.11565455631626,0 
+						-4.507460860209704,34.09418414681151,0 
+						-4.487280264990284,34.05265403234937,0 
+						-4.461099567465361,34.03218453775252,0 
+						-4.447189380441695,34.03182694549241,0 
+						-4.410284288534897,34.01098513875436,0 
+						-4.395969737589325,34.01193632208211,0   <!--<POI>Siedlung:Orkgard</POI>-->
+						-4.374053552672424,34.02571550619732,0 
+						-4.348286690855713,34.01723066395356,0 
+						-4.329281376723085,34.00169641348631,0 
+						-4.311773783354266,34.00757169089407,0 
+						-4.297905481007208,33.99929396237808,0 
+						-4.286912136671415,33.97159041508632,0 
+						-4.251056461250436,33.95409108755568,0 
+						-4.226166768030483,33.93160325063316,0 
+						-4.188074723543881,33.92848794624991,0 
+						-4.141292037868448,33.91675590309501,0 
+						-4.103531992277921,33.91954271517818,0 
+						-4.074223840586107,33.90423591637872,0 
+						-4.050990437842874,33.86838461800457,0 
+						-4.039334675895469,33.83670511276423,0 
+						-4.037723227122209,33.78874248598186,0 
+						-4.023499326557777,33.77960624075282,0  <!--<POI>Siedlung:Felsteyn</POI>--> <!-- <POI>SOE:Weg von Felsteyn nach Vilnvad</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-4.300518</longitude>
+				<latitude>34.005421</latitude>
+				<altitude>115000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<Folder>
+	<name>Handelsstätten Trallop</name>
+	<Region>
+		<LatLonAltBox>
+			<north>33.65273612972145</north>
+			<south>33.64472693665064</south>
+			<east>5.064291725862548</east>
+			<west>5.049143744397889</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+		</Region>
+	<!--<Placemark>
+		<name>Alte Gasse der Seehändler und Seeschiffer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil:</I> Hohenufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.057892</longitude>
+			<latitude>33.651018</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.057892,33.651018,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Alter Markt</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Schild des Reiches, S. 75</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061565</longitude>
+			<latitude>33.649561</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061565,33.649561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Feuermarkt</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Schild des Reiches, S. 75</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061942</longitude>
+			<latitude>33.647731</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061942,33.647731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061180</longitude>
+			<latitude>33.648469</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061180,33.648469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061212</longitude>
+			<latitude>33.648379</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061212,33.648379,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061000</longitude>
+			<latitude>33.648435</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061000,33.648435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061384</longitude>
+			<latitude>33.648524</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061384,33.648524,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061017</longitude>
+			<latitude>33.648378</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061017,33.648378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061249</longitude>
+			<latitude>33.648854</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061249,33.648854,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Flusshändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061246</longitude>
+			<latitude>33.648972</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061246,33.648972,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stellmacherei Kolenbrander</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <a href="http://www.wiki-aventurica.de/wiki/Stellmacherei" title="Stellmacherei">Stellmacherei</a> <b>Kolenbrander</b> besitzt eine riesige Flotte aus Fuhrwerken in ganz <a href="http://www.wiki-aventurica.de/wiki/Nordaventurien" title="Nordaventurien">Nordaventurien</a>. Da der Ankauf unnötig teuer wäre, produziert das <a href="http://www.wiki-aventurica.de/wiki/Haus_Kolenbrander" title="Haus Kolenbrander" class="mw-redirect">Haus Kolenbrander</a> ihre Fahrzeuge selbst in den hauseigenen Stellmacherei in <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a>.
+			<hr>
+			<div id="wiki">
+				<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+			<longitude>5.060665</longitude>
+			<latitude>33.644652</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.060665,33.644652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gilden- und Zunfthaus</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 46<TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.062225</longitude>
+			<latitude>33.648105</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.062225,33.648105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Großer Markt</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Hohenufern<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Schild des Reiches, S. 74</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.059091</longitude>
+			<latitude>33.650628</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.059091,33.650628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kaufmann</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Altentrallop<TR><TD><I>Besitzer/Vorsteher:</I> Hanno Menzheim<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061365</longitude>
+			<latitude>33.648862</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061365,33.648862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kontor Ibendorn</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 41<TR><TD><I>Stadtteil:</I> Altentrallop<TR><TD><I>Besitzer/Vorsteher:</I> Mikail Ibendorn<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.061361</longitude>
+			<latitude>33.648710</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.061361,33.648710,0</coordinates>
+		</Point>
+	</Placemark>
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Besitzer/Vorsteher:</I> Jargold Silberschütt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.643936</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.643936,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.642336</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.642336,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.644736</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.644736,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.647136</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.647136,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.051544</longitude>
+			<latitude>33.650336</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.051544,33.650336,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.643136</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.643136,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.651936</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.651936,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<!--<Placemark>
+		<name>Krämer</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.052344</longitude>
+			<latitude>33.645536</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.052344,33.645536,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Markthalle</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 22<TR><TD><I>Stadtteil:</I> Hohenufern<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Schild des Reiches, S. 74</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.058712</longitude>
+			<latitude>33.650303</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.058712,33.650303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055005</longitude>
+			<latitude>33.648446</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055005,33.648446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055092</longitude>
+			<latitude>33.648452</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055092,33.648452,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055293</longitude>
+			<latitude>33.648491</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055293,33.648491,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055439</longitude>
+			<latitude>33.648478</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055439,33.648478,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055650</longitude>
+			<latitude>33.648504</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055650,33.648504,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.056103</longitude>
+			<latitude>33.648566</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.056103,33.648566,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.056301</longitude>
+			<latitude>33.648596</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.056301,33.648596,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.056675</longitude>
+			<latitude>33.648561</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.056675,33.648561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Viehhändlerin Faßloch</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<TR><TD><I>Besitzer/Vorsteher:</I> Furgund Faßloch<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055820</longitude>
+			<latitude>33.648480</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055820,33.648480,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weinhändler</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Hohenufern<TR><TD><I>Besitzer/Vorsteher:</I> Knorrhold Erlgrimm<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>5.055506</longitude>
+			<latitude>33.650330</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>5.055506,33.650330,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</Document>
+</kml>

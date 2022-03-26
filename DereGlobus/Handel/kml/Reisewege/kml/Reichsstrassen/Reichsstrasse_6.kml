@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		<Placemark> 	<!-- Reichsstrasse 6 (Ferdokstraße) -->
+			<name>Reichsstraße 6</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Reichsstraße 6</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Grambusch" title="Grambusch">Grambusch</a> nach <a href="http://www.wiki-aventurica.de/wiki/Ferdok" title="Ferdok">Ferdok</a> und wird gemeinhin als <b>Ferdokstraße</b> bezeichnet.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.666847629776944,29.52816223284093,0 <!-- <POI>Siedlung:Grambusch</POI> -->
+					3.542333025089468,29.47198010460362,0 
+					3.406799761431072,29.44075325195979,0 
+					3.369083089044653,29.44094354200647,0 <!-- <POI>Siedlung:Achbar</POI> -->
+					3.259409956741661,29.44426340259609,0 
+					3.180631064710697,29.42712558395525,0 <!-- <POI>Siedlung:Symenolt</POI> -->
+					3.103876507429502,29.42461103035257,0 
+					2.978946516368328,29.39723582803676,0 
+					2.927105767148011,29.39042019542466,0 <!-- <POI>Siedlung:Marano</POI> -->
+					2.79229846797648,29.38502861433637,0 
+					2.730113733378294,29.37070689815138,0 
+					2.699623130724596,29.37602047841216,0 <!-- <POI>SOE:</POI> -->
+					2.625285889809437,29.40058132053921,0 
+					2.570148420641767,29.40408957793052,0 
+					2.498672247542271,29.39688318667409,0 
+					2.462850042309643,29.40096125800185,0 
+					2.409006738103809,29.4239773232225,0 
+					2.357198613367566,29.43868688458045,0 
+					2.323603119296476,29.43730501391838,0 <!-- <POI>Siedlung:Luring</POI> -->
+					2.174726525879431,29.38516787306945,0 <!-- <POI>Siedlung:Spinnried</POI> -->
+					2.123632055379114,29.38360586809848,0 
+					2.071923297422476,29.39096472948766,0 
+					2.033555352676635,29.40889849633882,0 
+					1.999125893247054,29.4356220596247,0 <!-- <POI>Siedlung:</POI> -->
+					1.936234595125699,29.52672725030183,0 
+					1.907862782419532,29.5458513757135,0 
+					1.888384937380929,29.54456267644506,0 
+					1.8790308135389,29.53807313475575,0 <!-- <POI>SOE:</POI> -->
+					1.873114137487422,29.52813312357239,0 <!-- <POI>Fluss:Rakula</POI> -->
+					1.86697252086959,29.52009062553823,0  
+					1.856389622141499,29.51593335529306,0  
+					1.841887342107222,29.52235255883899,0  
+					1.827487349383228,29.53482917449182,0  
+					1.824626654043255,29.54009620527731,0 
+					1.812872161529857,29.54607696658659,0  <!--Anfang Detailkarte Ferdok--> 
+					1.812414887380871,29.54609995360354,0 
+					1.81176281001157,29.54607624198521,0   <!-- <POI>Siedlung:Ferdok</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.697867</longitude>
+				<latitude>29.515501</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>
+

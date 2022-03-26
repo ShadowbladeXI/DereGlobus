@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Nordask und Nebenfluss</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Nordask</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nordask</b> ist ein Fluss in <a href="http://www.wiki-aventurica.de/wiki/Meridiana" title="Meridiana">Meridiana</a>, der am Nordrand des <a href="http://www.wiki-aventurica.de/wiki/Regengebirge" title="Regengebirge">Regengebirges</a> entspringt und nach etwa 100 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">Mengbilla</a> ins <a href="http://www.wiki-aventurica.de/wiki/Askanisches_Meer" title="Askanisches Meer">Askanische Meer</a> mündet. Der Fluss weist zahllose kleine sumpfige Inseln und Halbinseln auf.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.09589422926694735,21.39365501753002,0 -0.1017762118392762,21.41691997080842,0 -0.1206469222008355,21.442280862569,0 -0.1487259473527514,21.47464443000816,0 -0.1593736530286505,21.479181881579,0 -0.174198141036509,21.49266037915285,0 -0.2106284301440198,21.4950869711537,0 -0.2280668792272411,21.50430950480809,0 -0.2351435388506162,21.52047873130803,0 -0.2566499453838711,21.53668490084496,0 -0.261161727074164,21.54899158456554,0 -0.2771720365865926,21.56753215085386,0 -0.2725219965307535,21.58374100730161,0 -0.2692373773843726,21.59957360026034,0 -0.2729470910387777,21.62149858880263,0 -0.2855570193336565,21.63447724555201,0 -0.2864810030027931,21.64625005916034,0 -0.3160959245383543,21.6757014484132,0 -0.3344127898711546,21.68088804266946,0 -0.3857818469111973,21.6845499427204,0 -0.4204735830982809,21.68771187595433,0 -0.4613613176416287,21.69399063792702,0 -0.4854267643576227,21.70310723538323,0 -0.5020717449526202,21.70486687566836,0 -0.5186066774748532,21.73556110489801,0 -0.539500471419081,21.74499362632694,0 -0.565372078552393,21.75415286418378,0 -0.581614551850278,21.76763893465792,0 -0.5901333025625966,21.78257514400053,0 -0.6237885118643971,21.78902497168162,0 -0.6375365182225357,21.79656424924125,0 -0.660921605141539,21.79977140037627,0 -0.6805141143007498,21.79489207469845,0 -0.7071788344230057,21.79483529144595,0 -0.7266909353526319,21.81581186724376,0 -0.7411951073779022,21.82839233574907,0 -0.7655801376505644,21.82950260422798,0 -0.791021455977301,21.81218347720135,0 -0.8133384593011162,21.80694074484529,0 -0.8240099399068701,21.79843381382793,0 -0.8431573411205695,21.77926207288358,0 -0.8604530792382359,21.77513422731326,0 -0.8875492647980499,21.77505176449056,0 -0.9130532528102675,21.77792337043418,0 -0.9216130904661535,21.77497505897925,0 -0.9315948992100676,21.76959648502505,0 -0.9456035015317643,21.76287186948105,0 -0.9527851525495579,21.76069464644072,0 -0.9648501136778032,21.76061289134496,0 -0.9658771458953142,21.76052184355458,0 -0.9669971342377526,21.76009106779879,0 -0.9679484320654341,21.75953254686539,0 -0.9687145223256932,21.75888054018912,0 -0.9694248948244977,21.7581971309394,0 -0.9705086767490023,21.75698182916228,0 -0.9732356373078155,21.75313301471197,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Cuoris</name>
+<ExtendedData>
+<Data name="Link">
+ <value>Cuoris (Fluss)</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Cuoris</b> entspringt in zwei Quellflüssen und fließt durch <a title="Askanien" href="http://www.wiki-aventurica.de/wiki/Askanien">Askanien</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-0.720082037622366,21.97957257065903,0 -0.7211382933095412,21.96156880260426,0 -0.7146679101574927,21.9521555843008,0 -0.7181819682395541,21.94177189171228,0 -0.731141679033348,21.93291889298293,0 -0.740032373779369,21.92394826870557,0 -0.7407554398624172,21.90215961482293,0 -0.7627859535809534,21.87846544647578,0 -0.7620386118297895,21.85998522273482,0 -0.7579505863748581,21.84686026030111,0 -0.7630443088611827,21.82938157573446,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Östlicher Cuoris</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-0.6334925170914707,22.05214218049322,0 -0.6408595198361911,22.04414311369179,0 -0.6625457578789096,22.04066697831955,0 -0.6714006527161032,22.03216461344469,0 -0.670231484969166,22.02309808490742,0 -0.6733763683557936,22.01744152687915,0 -0.6866333743571296,22.00961526294207,0 -0.6988737940646506,22.00559075276599,0 -0.7105670273035358,21.99142344803354,0 -0.7210229302206395,21.97886170706025,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Westlicher Cuoris</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-0.7546553445463133,22.02361495423132,0 -0.7536132965233533,22.00169165172883,0 -0.7325067230567239,21.98849768277726,0 -0.7204332149943082,21.97884470281782,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

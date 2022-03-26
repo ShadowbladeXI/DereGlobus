@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Molgard-Pass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Molgard-Pass-->
+			<name>Molgard-Pass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Molgard-Pass</b> ist ein Gebirgspass, der die Oase <a href="http://www.wiki-aventurica.de/wiki/Birscha" title="Birscha">Birscha</a> mit <a href="/index.php?title=Therkabasquell&amp;action=edit&amp;redlink=1" class="new" title="Therkabasquell (Seite nicht vorhanden)">Therkabasquell</a> verbindet. Der Abschnitt, der in der <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a> von den <a href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen" title="Hohe Eternen" class="mw-redirect">Hohen Eternen</a> bis nach <a href="http://www.wiki-aventurica.de/wiki/Birscha" title="Birscha">Birscha</a> verläuft, wird auch als <b>Moumad-Pfad</b> bezeichnet und hat für die <a href="http://www.wiki-aventurica.de/wiki/Novadi" title="Novadi">Novadis</a> eine symbolische Bedeutung, da der Pfad von den <a href="http://www.wiki-aventurica.de/wiki/Krieger" title="Krieger">Kriegern</a> beschritten wird, die sich dem Glaubenskrieg der <a href="http://www.wiki-aventurica.de/wiki/Beni_Brachtar" title="Beni Brachtar">Beni Brachtar</a> anschließen wollen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						0.862027866879056,23.19067521297867,0   <!--<POI>Siedlung:Kobashand</POI>-->
+						0.9912588148538659,23.19554382855378,0 
+						1.01566728355001,23.18521614218328,0 
+						1.042284056612184,23.18727857018316,0 
+						1.079407077185315,23.21019650508792,0 
+						1.124269059432324,23.21542510377311,0 
+						1.20001027463631,23.23903934179996,0 
+						1.240015067986828,23.23364376737967,0 
+						1.258900235620697,23.24720689715037,0 
+						1.267214864310151,23.27793332044325,0 
+						1.287815234776504,23.2950244370875,0 
+						1.334477652162209,23.31385892499387,0 
+						1.340935687124008,23.33789262524109,0 
+						1.332843133372992,23.39565098977121,0 
+						1.282091762193269,23.44355020683275,0 
+						1.258575865903211,23.49027430885679,0 
+						1.257124022369476,23.57047385530167,0 
+						1.283546888943223,23.60764080032922,0 
+						1.302819008441163,23.60901360278131,0 
+						1.328570052667577,23.58549366246391,0 
+						1.38000226369392,23.55802742904634,0 
+						1.433411596034171,23.54851710675373,0 
+						1.491882434187057,23.54980332905155,0 
+						1.525570646966299,23.55787450530825,0 
+						1.548894787292969,23.57900567591565,0 
+						1.591593230626653,23.58231805497122,0 
+						1.628604674604002,23.60451792086155,0 
+						1.655281109128226,23.6404637774303,0 
+						1.704328764631451,23.68603851902029,0 
+						1.752194636836515,23.68723153514018,0 
+						1.896184164135812,23.71400975109519,0 
+						1.946503276950593,23.73718837101604,0 
+						1.992091327719388,23.73438726905341,0 
+						2.073076202760733,23.73595339786462,0 
+						2.087454157853428,23.75288362302111,0 
+						2.092775021299813,23.77293916612483,0 
+						2.121388662044974,23.79781527997484,0 
+						2.186728287561051,23.80605061994181,0  <!--<POI>Abzweig:Karawanenroute von Keft nach Achan</POI>-->
+						2.235521796334195,23.7892010504189,0 
+						2.2700186304323,23.78807774438533,0 
+						2.320522865232841,23.81140045311697,0  <!-- Anfang Stadtkarte Birscha -->
+						2.322056010805438,23.81042061928189,0 
+						2.322244758360763,23.81001490411063,0 
+						2.322779284232508,23.81004047679414,0 
+						2.322945802952121,23.80979299671851,0  <!--<POI>Siedlung:Birscha</POI>--> <!--<POI>SOE:Karawanenroute von Keft nach Achan</POI>-->
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>1.547681</longitude>
+				<latitude>23.496355</latitude>
+				<altitude>190520</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

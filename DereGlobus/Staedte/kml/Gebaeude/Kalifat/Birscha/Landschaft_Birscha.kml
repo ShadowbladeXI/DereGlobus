@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+       	<Folder>
+		<name>Landmarken Birscha</name>
+	<Region>
+		<LatLonAltBox>
+			<north>23.81298014153157</north>
+			<south>23.80869217165211</south>
+			<east>2.327067021500694</east>
+			<west>2.320435406253254</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+		<Placemark>
+			<name>Der See</name>
+		    <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><!-- EDIT: KURZBESCHREIBUNG (CODE) --><a href="http://www.wiki-aventurica.de/wiki/Birscha" title="Birscha">Birschas</a> größter Schatz ist der See inmitten der Oase. Er führt das ganze Jahr über Wasser.<!-- END EDIT --></p>
+            <!-- WIKI-IMPRESSUM --><hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" /></a>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/See_in_Birscha">See in Birscha</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/See_in_Birscha&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/See_in_Birscha&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.323965890805229</longitude>
+				<latitude>23.81064291163532</latitude>
+				<altitude>0</altitude>
+				<range>433.7034574945104</range>
+				<tilt>0</tilt>
+				<heading>-0.8797903416915992</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+				<coordinates>2.323610094220234,23.81077020459952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Djurkaram-Massiv</name>
+	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+			<LookAt>
+				<longitude>2.323965890805229</longitude>
+				<latitude>23.81064291163532</latitude>
+				<altitude>0</altitude>
+				<range>433.7034574945104</range>
+				<tilt>0</tilt>
+				<heading>-0.8797903416915992</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+				<coordinates>2.326203614727809,23.81174065254159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ausgetrocknetes Flusstal</name>
+	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+			<LookAt>
+				<longitude>2.323701120583361</longitude>
+				<latitude>23.81037728034318</latitude>
+				<altitude>0</altitude>
+				<range>588.5737369334004</range>
+				<tilt>0</tilt>
+				<heading>-0.8857015424363504</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+			<Point>
+				<coordinates>2.320959779279643,23.81100254355766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kakteenhecke</name>
+	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+			<LookAt>
+				<longitude>2.323787285751202</longitude>
+				<latitude>23.8104818007059</latitude>
+				<altitude>0</altitude>
+				<range>584.2212965467234</range>
+				<tilt>0</tilt>
+				<heading>-0.8798624457660084</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>2.323620345616866,23.81189865337069,0</coordinates>
+			</Point>
+			<Point>
+				<coordinates>2.324284295051577,23.80953334860805,0</coordinates>
+			</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Felder und Bewässerungsgräben</name>
+	<description><![CDATA[		
+			<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+			<LookAt>
+				<longitude>2.323787285751202</longitude>
+				<latitude>23.8104818007059</latitude>
+				<altitude>0</altitude>
+				<range>584.2212965467234</range>
+				<tilt>0</tilt>
+				<heading>-0.8798624457660084</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>2.32178820725784,23.81003931839894,0</coordinates>
+			</Point>
+			<Point>
+				<coordinates>2.324281920495706,23.81191224267309,0</coordinates>
+			</Point>
+			<Point>
+				<coordinates>2.322243832352433,23.81113642716123,0</coordinates>
+			</Point>
+			<Point>
+				<coordinates>2.325037124496701,23.80998191866501,0</coordinates>
+			</Point>
+			</MultiGeometry>
+		</Placemark>
+             </Folder>
+    </Document>
+</kml>

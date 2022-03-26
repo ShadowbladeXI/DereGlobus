@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+<Folder>
+	<name>Hohe Eternen</name>
+
+		<Placemark>
+			<name>Hohe Eternen</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Hohen Eternen</b> sind ein <a href="http://www.wiki-aventurica.de/wiki/Gebirge" title="Gebirge">Gebirge</a> im südwestlichen <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventurien</a> und stellen mit <a href="http://www.wiki-aventurica.de/wiki/Eternen" title="Eternen">Eternen</a> und <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a> eine Grenze zwischen <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a> und <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a> dar. Die höchsten Gipfel erreichen bis zu 5000 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a>.
+</p>
+<p>
+Der Kaiserdrache <a href="http://www.wiki-aventurica.de/wiki/Shafir" title="Shafir">Shafir</a> ist von seinem Hort auf dem <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4mblick" title="Khômblick">Khômblick</a> im Norden des Gebirges Herrscher über die Region. Ansonsten ist die Gebirgskette ist nahezu unbewohnt von Menschen bis auf ein versteckt liegendes Kloster der <a href="http://www.wiki-aventurica.de/wiki/Tarisharim" title="Tarisharim">Tarisharim</a>, eines <a href="http://www.wiki-aventurica.de/wiki/Hadjinim" title="Hadjinim">Hadjinim</a>-Ordens.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.183288592422795</longitude>
+			<latitude>23.30038963048522</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>1.183288592422835,23.30038963048522,0</coordinates>
+			</Point>
+		</Placemark>
+
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
+
+		<Placemark>
+			<name>Dämonenmaul</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das <b>Dämonenmaul</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Vulkan" title="Vulkan">Vulkan</a> den <a href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen" title="Hohe Eternen">Hohen Eternen</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>0.6524129511574639</longitude>
+				<latitude>23.85303419623223</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vulkan-X</styleUrl>
+			<Point>
+				<coordinates>0.645505293396339,23.8537458214738,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Djer Chuzach</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Djer Chuzach</b> ist mit etwa 5250 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> der höchste <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> der <a href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen" title="Hohe Eternen">Hohen Eternen</a>. 
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>1.112011670820501</longitude>
+				<latitude>23.58528238044931</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>1.09503104693076,23.5960823619488,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Feuerschweif</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Feuerschweif</b> ist der höchste <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> der <a href="http://www.wiki-aventurica.de/wiki/Drachenz%C3%A4hne" title="Drachenzähne">Drachenzähne</a> in den <a href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen" title="Hohe Eternen">Hohen Eternen</a>. Er weist einen <a href="http://www.wiki-aventurica.de/wiki/Nodix" title="Nodix">Nodix</a> von mindestens zwei <a href="http://www.wiki-aventurica.de/wiki/Kraftlinie" title="Kraftlinie">Kraftlinien</a> auf.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>0.6120931164475052</longitude>
+				<latitude>24.29563807677193</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+			<Point>
+				<coordinates>0.6111934149204437,24.29529758319305,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Khômblick</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Khômblick</b> ist ein knapp über 4000 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> hoher <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> in den <a href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen" title="Hohe Eternen">Hohen Eternen</a>. Am <a href="http://www.wiki-aventurica.de/wiki/Nodix" title="Nodix">Nodix</a> zweier <a href="http://www.wiki-aventurica.de/wiki/Kraftlinie" title="Kraftlinie">Kraftlinien</a> hat der <a href="http://www.wiki-aventurica.de/wiki/Kaiserdrache" title="Kaiserdrache">Kaiserdrache</a> <a href="http://www.wiki-aventurica.de/wiki/Shafir" title="Shafir">Shafir</a> seinen Hort.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>0.4247791592005391</longitude>
+				<latitude>24.33057823890559</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+			<Point>
+				<coordinates>0.4266664244661904,24.33123100000001,0</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Folder>
+</Document>
+</kml>

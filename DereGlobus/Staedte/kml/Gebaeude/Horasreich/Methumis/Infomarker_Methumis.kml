@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Infomarker Methumis</name>
+	<Region>
+		<LatLonAltBox>
+			<north>24.40999537364826</north>
+			<south>24.40376673182352</south>
+			<east>-0.6153675342119886</east>
+			<west>-0.6247157652578632</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Infomarker</name>
+		<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Herberge Sieben Segel<br/>
+					Hotel Methumischer Hof<br/>
+					Schänke Schiffers Wind<br/>
+					Taverne Homo Ludens<br/>
+					Taverne Magister Vino<br/>
+					<br/>
+					<b>Handelsstätten:</b><br/>
+					Filiale (Bankhaus Bosparan)<br/>
+					Filiale (Handelsbank ya Strozza)<br/>
+					Filiale (Nordlandbank)<br/>
+					Kontor (Terdilion)<br/>
+					<br/>
+					<!--<b>Landschaft:</b><br/>
+					<br/>-->
+					<b>Öffentliche Bauwerke:</b><br/>
+					Seekadettenschule<br/>
+					Schola defensoria<br/>
+					<br/>
+					<b>Privathäuser:</b><br/>
+					Herrenhaus der Erleuchteten<br/>
+					Palazzo (di Laro)<br/>
+					Patrizierturm (della Pallyo)<br/>
+					Patrizierturm (ya Gallasini)<br/>
+					Patrizierturm (ya Strozza)<br/>
+					Patrizierturm (ya Ulpeggio)<br/>
+					Wohnhaus (Sarostes)<br/>
+					<br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					Nandus-Schrein<br/>
+					Ordenshaus (Bannstrahler)<br/>
+					<br/>
+					<!--<b>Staatliche Bauwerke:</b><br/>
+					<br/>-->
+					<!--<b>Straßen:</b><br/>
+					<br/>-->
+					<!--<b>Werkstätten:</b><br/>
+					<br/>-->
+					<B>Mögliche Quellen:</B><BR>Das Land des Schwarzen Auges, S. 98<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<br/>Das Herzogtum Weiden, S. 52<br/>Das Große Donnersturmrennen, S. 47<br/>Unsterbliche Gier, S. 17<br/>Die Welt des Schwarzen Auges, S. 58<br/>Unsterbliche Gier, S. 17<br/>Geographia Aventurica, S. 53<br/>Rückkehr der Finsternis, S. 98<br/>Schild des Reiches, S. 72<br/>Wetterleuchten, S. 32<br/>Im Bann des Diamanten, S. 36<br/>Schatten über Bosparan, S. 136<br/>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]></description>
+		<LookAt>
+			<longitude>-0.620264</longitude>
+			<latitude>24.406717</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1250</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+		<Point>
+			<coordinates>-0.625332,24.407290,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

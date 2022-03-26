@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Ferkinastämme.kml</name>
+	<open>1</open>	
+	<Folder>
+		<name>Ferkinastämme</name>
+		<open>1</open>
+		<Placemark>
+			<name>Bân Anghrachan</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Anghrachan</b> sind einer der Stämme der <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkinas</a>. Sie bewohnen den <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> oberhalb der <a href="http://www.wiki-aventurica.de/wiki/Kamah" title="Kamah">Kamah</a>-Quelle und haben deshalb häufig Kontakt zu den <a href="http://www.wiki-aventurica.de/wiki/Brillantzwerg" title="Brillantzwerg">Brillantzwergen</a> des <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwergenkönigreichs</a> <a href="http://www.wiki-aventurica.de/wiki/Angralosch" title="Angralosch" class="mw-redirect">Angralosch</a>.
+								</p>
+								<p>
+								Im Gegensatz zu den meisten anderen Ferkinastämmen verehren sie nicht <a href="http://www.wiki-aventurica.de/wiki/Raschtula" title="Raschtula" class="mw-redirect">Raschtula</a>, sondern <a href="http://www.wiki-aventurica.de/wiki/Anghravash" title="Anghravash" class="mw-redirect">Anghravash</a> als obersten <a href="http://www.wiki-aventurica.de/wiki/Gott" title="Gott">Gott</a>. Der Berg <a href="/index.php?title=Djer_Anghravash&amp;action=edit&amp;redlink=1" class="new" title="Djer Anghravash (Seite nicht vorhanden)">Djer Anghravash</a> gilt ihnen dabei als heiliger Ort.
+								</p>
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.606071556210956,27.20898790960868,1500 4.541887835975011,27.2363998524925,1500 4.446740511075149,27.23602429386553,1500 4.347718607929783,27.23730922045339,1500 4.283756745676904,27.22145167536365,1500 4.251060368443556,27.17811156505374,1500 4.220455689572244,27.11752185147515,1500 4.205273459428911,27.072558465605,1500 4.180491279211218,27.01718643109295,1500 4.194257090179983,26.9896533643154,1500 4.242915397246696,26.95541274322747,1500 4.304988232844076,26.93675693004664,1500 4.368853604697625,26.9387900840564,1500 4.422998228397034,26.94938178907639,1500 4.461607152150244,26.97197280808829,1500 4.507976012706305,26.99630883403306,1500 4.570044069593777,26.99848578920334,1500 4.603456322089254,27.00932446325827,1500 4.623738231231336,27.02683327756552,1500 4.626525426152018,27.05818393147428,1500 4.61665709599634,27.07237828686061,1500 4.651302733304219,27.09902014484401,1500 4.670896619639892,27.12956282917266,1500 4.658637285546754,27.16252043760657,1500 4.627480883348818,27.19351248457272,1500 4.606071556210956,27.20898790960868,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Awallakh</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Awallakh</b> sind ein kleiner Teilstamm der <a href="http://www.wiki-aventurica.de/wiki/Shai%27Aian" title="Shai'Aian">Shai'Aian</a>, die sich im <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">aranischen</a> <a href="http://www.wiki-aventurica.de/wiki/Awallakand" title="Awallakand">Awallakand</a> nahe des Klosters <a href="/index.php?title=Sidi_Awalla&amp;action=edit&amp;redlink=1" class="new" title="Sidi Awalla (Seite nicht vorhanden)">Sidi Awalla</a> nieder gelassen haben.
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.725526416959083,26.52330612126388,1500 4.734561407233779,26.50985737652789,1500 4.74021387439617,26.49395412727262,1500 4.753561513111071,26.48694709676031,1500 4.773948747692303,26.48492982498384,1500 4.781831602719953,26.48683681038025,1500 4.799126844328166,26.48099659059688,1500 4.810723844927473,26.46749972412432,1500 4.833627577653871,26.45622067226794,1500 4.833168726228916,26.44576341494256,1500 4.83530518680257,26.42779453060827,1500 4.85663750564691,26.40303027425993,1500 4.868086402387062,26.39738307049403,1500 4.888935925388978,26.39488947631,1500 4.90520906298898,26.36591752211708,1500 4.923782370610994,26.36699057380545,1500 4.935210675723503,26.37181582894363,1500 4.940111118230027,26.37787574814864,1500 5.003420946580814,26.38427295266581,1500 5.041170081457889,26.39619642861413,1500 5.094062083804916,26.41745285403206,1500 5.143939780229436,26.43734960199122,1500 5.178828888701565,26.46408366075568,1500 5.222874156965771,26.50152280741179,1500 5.22896608645741,26.50821999362852,1500 5.295819700369537,26.56162406896148,1500 5.297341137019503,26.56295986710647,1500 5.335518300688007,26.60848476670785,1500 5.346479397378865,26.64614822688002,1500 5.339350358895601,26.68531576353636,1500 5.323132164836735,26.7218607140584,1500 5.319062162116108,26.76504041592815,1500 5.319482256961859,26.80413833838356,1500 5.312348260955941,26.84330206872248,1500 5.288838991484917,26.90687957412037,1500 5.268049420681966,26.94346593621993,1500 5.25793897403833,26.98941975179476,1500 5.24919472384788,27.02187880267133,1500 5.231330278920849,27.05171503116403,1500 5.164900088629127,27.073812833734,1500 5.104350938095967,27.08278424462382,1500 5.080004039538471,27.06081021988758,1500 5.061749745933579,27.05428375166149,1500 5.050303619884584,27.02516082878245,1500 5.038026835022116,27.00891581422241,1500 5.031297665094099,26.98798221310576,1500 5.014988717331821,26.97766466464126,1500 4.994551745448552,26.9713454969448,1500 4.96014632583343,26.94243834997097,1500 4.943546039966432,26.94111007948302,1500 4.934613176897966,26.93437613384547,1500 4.898745861712786,26.93629799759718,1500 4.883156211549711,26.92531051527234,1500 4.833605770072191,26.90185996003966,1500 4.788051088888652,26.87512049896616,1500 4.772711226467107,26.83742693941817,1500 4.766473865760739,26.80373615421143,1500 4.732975683656853,26.76342616244441,1500 4.719519407592577,26.75034386715635,1500 4.716009510613177,26.73787772238489,1500 4.714211383884543,26.73065199586807,1500 4.722786841645899,26.72307324841129,1500 4.727483180479199,26.71165106125924,1500 4.738757831812908,26.69801622175851,1500 4.730859277802743,26.68702119719731,1500 4.719939974220759,26.67480095842208,1500 4.715831567938302,26.66566138724605,1500 4.713232607573543,26.65523844530058,1500 4.685408799743954,26.63866784051517,1500 4.67813635651601,26.63444102152401,1500 4.665239510091346,26.63525026631618,1500 4.654890769447477,26.62739677866266,1500 4.645005970652127,26.62064433026309,1500 4.64678621476873,26.61349944933019,1500 4.653116270679472,26.60545559605038,1500 4.652957442285814,26.59203419424006,1500 4.664250865051951,26.58307583815682,1500 4.667626157393054,26.5452772276477,1500 4.677506051556364,26.54233246933856,1500 4.725526416959083,26.52330612126388,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Farkash</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Farkash</b> sind ein kleiner <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Stamm, der das Gebiet zwischen dem <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirge</a> und den <a href="http://www.wiki-aventurica.de/wiki/Unauer_Berge" title="Unauer Berge">Unauer Bergen</a> bewohnt, wo sie der Schrecken der dort passierenden Karawanen sind.
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.251641896529078,24.04582933587121,1500 5.286853456904746,24.00423107387665,1500 5.334357230678791,23.85653279175461,1500 5.333973793068648,23.69758244015065,1500 5.311092854889699,23.56184496770433,1500 5.260006179258292,23.4810898434408,1500 5.147331500986427,23.40838351600823,1500 5.122190400928326,23.3871693435921,1500 5.042388237248748,23.32891162880117,1500 5.044992859211057,23.28445731172537,1500 5.085380247634619,23.23093186955434,1500 5.137891564212618,23.18035512942429,1500 5.257875982512594,23.14348755644021,1500 5.260376117099533,23.1434846859134,1500 5.377894784936959,23.14100026056517,1500 5.463079464140465,23.19599162806849,1500 5.503268128435255,23.24417279682885,1500 5.536161780512023,23.34525640846883,1500 5.541215264454211,23.35674025884662,1500 5.543871163341847,23.39812606217371,1500 5.614422124650302,23.47153286361577,1500 5.675073745840562,23.54728648890887,1500 5.675621847229917,23.64857844884394,1500 5.668437564845419,23.71308941491061,1500 5.651263878236352,23.79148265419323,1500 5.678301647741293,23.87246808203708,1500 5.665636274598311,23.9511424073673,1500 5.634855385908644,23.99688936992062,1500 5.593546054869531,24.08633092863106,1500 5.620449559945717,24.13935943471599,1500 5.655462921186121,24.19827789468516,1500 5.674052127620302,24.25877675062085,1500 5.70124163303384,24.29585893547756,1500 5.686225246576131,24.32667932863758,1500 5.629280733188262,24.35742777603031,1500 5.575913872252166,24.32678165419833,1500 5.513399395636849,24.28736976693782,1500 5.413330851625567,24.26387704466534,1500 5.319023017409812,24.14525308732929,1500 5.262541373302668,24.08194262611788,1500 5.251641896529078,24.04582933587121,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Hadârri</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Hadârri</b> sind ein primitiver <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Stamm des <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirges</a>, der mit seinen Nachbarn, den <a href="http://www.wiki-aventurica.de/wiki/B%C3%A2n_Tirgh%C3%BBfa" title="Bân Tirghûfa">Bân Tirghûfa</a>, blutige Fehden ausfechtet. Wie diese auch sind sie ein Teilstamm der <a href="http://www.wiki-aventurica.de/wiki/Bart%C3%BBni_ai-Merech" title="Bartûni ai-Merech">Bartûni ai-Merech</a>.
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.136849158344155,24.20685139187658,1500 5.178702210005513,24.12297690463199,1500 5.262541373302668,24.08194262611788,1500 5.319023017409812,24.14525308732929,1500 5.413330851625567,24.26387704466534,1500 5.513399395636849,24.28736976693782,1500 5.575913872252166,24.32678165419833,1500 5.630686262269244,24.35832010134869,1500 5.605497139979492,24.39578242137936,1500 5.591516324271475,24.45763402099746,1500 5.46567246595711,24.44212716992711,1500 5.433280282512101,24.44075566402617,1500 5.339523208735402,24.51270196612923,1500 5.152597331009414,24.61914201349935,1500 5.086258693839715,24.64072216356869,1500 5.070144917141048,24.63904184354992,1500 5.012101418409552,24.59413281339539,1500 5.004939945824683,24.49248802461594,1500 5.086154960357052,24.37771545309929,1500 5.155651713186695,24.3143746140052,1500 5.136849158344155,24.20685139187658,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Khalil</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Khalil</b> ('Kinder des Rausches') sind einer der Stämme der <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkinas</a>. Sie bewohnen das <a href="http://www.wiki-aventurica.de/wiki/Djer_Khalil" title="Djer Khalil">Djer Khalil</a> genannte Umland <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasars</a>, wo sie Reittiere züchten oder sich als <a href="http://www.wiki-aventurica.de/wiki/S%C3%B6ldner" title="Söldner">Söldner</a> des hiesigen <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a>-Tempels verdingen. Auch bieten sie einigen Reisenden ihre Qualitäten als ortskundige Führer an.
+								</p>
+								<p>
+								Die Bân Khalil sind durch den Kontakt zu vielen anderen Menschen in <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> zivilisierter als ihre Vettern aus den Bergen, allerdings ist dieser Begriff bei den Ferkinas relativ zu sehen. Sie verehren <i><a href="http://www.wiki-aventurica.de/wiki/Rascha" title="Rascha" class="mw-redirect">Rascha</a></i> als oberste <a href="http://www.wiki-aventurica.de/wiki/Gott" title="Gott">Göttin</a>, die sie mit <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a> gleich setzen.
+								</p>
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.589315325239087,26.54407667800891,1500 4.59887770937141,26.56485344768344,1500 4.604556422553099,26.59080386730445,1500 4.554214380672752,26.61487603454954,1500 4.548255555914508,26.64942294020496,1500 4.548102271192733,26.6822497207356,1500 4.532446083843597,26.72365693477286,1500 4.48593530978239,26.74767698776998,1500 4.421997692833375,26.77505604107438,1500 4.363891948984657,26.79379200179294,1500 4.319067006685698,26.78813865509071,1500 4.294508804443571,26.75892409502424,1500 4.24643700769495,26.72067577113936,1500 4.213748249253159,26.69630755146595,1500 4.21182770658556,26.69456887890182,1500 4.186959754122741,26.65813984734683,1500 4.15269859381324,26.64747931619259,1500 4.137229627292864,26.61001173501795,1500 4.156609370029485,26.57844149483142,1500 4.195397404754768,26.55448175513317,1500 4.274586320326092,26.54975695329274,1500 4.344296504559006,26.5137929925371,1500 4.38103628286134,26.5018519712075,1500 4.441227525592584,26.51418301167021,1500 4.478787719936799,26.53270331041647,1500 4.497259285469699,26.53644755453688,1500 4.525378743890638,26.52797404164645,1500 4.567867836947848,26.52505269995594,1500 4.589315325239087,26.54407667800891,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Malya</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Malya</b> sind ein Teilstamm der <a href="http://www.wiki-aventurica.de/wiki/Shai%27Aian" title="Shai'Aian">Shai'Aian</a>, die sich im Hügelland in der Nähe <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasars</a> angesiedelt haben. Ihr Schamane ist <a href="/index.php?title=Azad_iban_Madawan&amp;action=edit&amp;redlink=1" class="new" title="Azad iban Madawan (Seite nicht vorhanden)">Azad iban Madawan</a>.
+								</p>
+								<p>
+								Viele Stammesmitglieder, die keine Rinder hüten, bestreiten ihren Unterhalt als <a href="http://www.wiki-aventurica.de/wiki/S%C3%B6ldner" title="Söldner">Söldner</a>, <a href="http://www.wiki-aventurica.de/wiki/Gladiator" title="Gladiator">Gladiatoren</a> oder einfache <a href="http://www.wiki-aventurica.de/wiki/Stra%C3%9Fenr%C3%A4uber" title="Straßenräuber" class="mw-redirect">Räuber</a>.
+								</p>
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.497123027681407,26.51231453026339,1500 4.452126017062774,26.49940982892628,1500 4.375437214052687,26.48419194092372,1500 4.304142346063655,26.50440842782346,1500 4.251325047482721,26.52457727551246,1500 4.174687777854196,26.53292313745931,1500 4.094061093831156,26.53177673581806,1500 4.037224623665836,26.51522097058272,1500 4.018746540886613,26.48328320014656,1500 4.00949850569333,26.47854952419685,1500 4.008177921130907,26.47736635866718,1500 3.985755196921366,26.43596330493871,1500 3.95676502135786,26.36971585254706,1500 3.968716157653016,26.30586655005125,1500 3.985913662526084,26.2502964966269,1500 4.0386871154909,26.22195474068519,1500 4.107228119682091,26.16993520553046,1500 4.174407348319702,26.14389903110619,1500 4.232346341584279,26.12611171844984,1500 4.237614808944194,26.12610676273426,1500 4.257364934735081,26.1213523140565,1500 4.31273378511716,26.15085691134658,1500 4.3668880079478,26.21699913844314,1500 4.397253686518261,26.23703827130716,1500 4.446086832887291,26.25347420279189,1500 4.485727818387185,26.27583334783499,1500 4.525443755944139,26.31237386796492,1500 4.542717442621312,26.34188459746276,1500 4.562686018819382,26.38084773287761,1500 4.561556800344695,26.42697638658762,1500 4.566973301987782,26.45652939622748,1500 4.544631986761556,26.48853175794424,1500 4.497123027681407,26.51231453026339,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Mhadjâduri</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Mhadjâduri</b> sind der größte Stamm der <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkinas</a>. Sie bewohnen das <a href="http://www.wiki-aventurica.de/wiki/Thalus-Massiv" title="Thalus-Massiv">Thalus-Massiv</a>, wo sie sich um ihre <a href="http://www.wiki-aventurica.de/wiki/Esel" title="Esel">Esel</a>-, <a href="/index.php?title=Ziege&amp;action=edit&amp;redlink=1" class="new" title="Ziege (Seite nicht vorhanden)">Ziegen</a>- und <a href="http://www.wiki-aventurica.de/wiki/Rind" title="Rind">Rinderherden</a> kümmern. Außerdem haben sie <a href="http://www.wiki-aventurica.de/wiki/W%C3%BChlschrat" title="Wühlschrat">Wühlschrate</a> domestiziert, die sie zum Höhlenbau einsetzen.
+								</p>
+								<p>
+								Sie kennen keine <a href="http://www.wiki-aventurica.de/wiki/Pferd" title="Pferd">Pferde</a>, sehen Rinder hingegen als heilige Wesen an, die sie teilweise sogar als vollwertige Stammesmitglieder betrachten. Der Stier stellt für sie das heilige Tier <a href="http://www.wiki-aventurica.de/wiki/Ras%27Ragh" title="Ras'Ragh" class="mw-redirect">Ras'Raghs</a> dar, wie sie <a href="http://www.wiki-aventurica.de/wiki/Raschtula" title="Raschtula" class="mw-redirect">Raschtula</a> nennen. Dessen Gefährtin <a href="http://www.wiki-aventurica.de/wiki/Rascha" title="Rascha" class="mw-redirect">Rascha</a> ist bei ihnen unter dem Namen Adschaja bekannt.
+								</p>
+								<p>
+								An den Zuflüssen des <a href="http://www.wiki-aventurica.de/wiki/Thalusim" title="Thalusim">Thalusim</a> bewachen sie viele alte Plätze der <a href="http://www.wiki-aventurica.de/wiki/Achaz" title="Achaz">Achaz</a>, die sie heutzutage bewachen, um eine Rückkehr ihrer Erzfeinde zu verhindern. 
+								</p>
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							6.175929510726395,22.61925536993048,1500 6.117417055541168,22.60162195969289,1500 6.043705507133035,22.58557517953629,1500 5.979551575876294,22.58913734863875,1500 5.925796450588248,22.57001922780608,1500 5.859862961543318,22.54962314581486,1500 5.809485196969089,22.54735597738893,1500 5.759440662834781,22.569014445709,1500 5.727745322166873,22.5946965331955,1500 5.692705987719904,22.59787300246276,1500 5.605961651714468,22.61282422382542,1500 5.543273147195544,22.59793843941974,1500 5.48076627493929,22.59852639197766,1500 5.415118434678028,22.59067564183263,1500 5.361532266133398,22.56861749214821,1500 5.298816546961382,22.54803038469413,1500 5.204002576331687,22.52063488105004,1500 5.153509349785495,22.50412278570488,1500 5.08024282520549,22.50747972192772,1500 5.022091731886813,22.49520640414517,1500 5.017496723324046,22.49382859456316,1500 4.969849617956788,22.45609375509574,1500 4.972679395231032,22.42225400702023,1500 4.978477031465487,22.3771254215343,1500 5.022539889510124,22.34585784687244,1500 5.104845285733672,22.33405888722306,1500 5.156826014539034,22.35060069280609,1500 5.244100363514981,22.3964160852773,1500 5.336962237076484,22.39004036824606,1500 5.416474403239661,22.42313887333894,1500 5.449748446863671,22.40173190888928,1500 5.49541191055723,22.40131509468032,1500 5.562380527527974,22.40068134081824,1500 5.609399358594988,22.38614708445244,1500 5.650576619570435,22.39276903484752,1500 5.687626921052718,22.43461102692998,1500 5.727435029030287,22.45108515069647,1500 5.766878411237533,22.43799487748431,1500 5.818474528267026,22.42194381181729,1500 5.87003883681567,22.40305839375855,1500 5.954072132933243,22.41474796316145,1500 6.01098529859244,22.44505056066367,1500 6.074344336583231,22.49218249374261,1500 6.123474599557119,22.50425986494506,1500 6.192674763663362,22.52312824374506,1500 6.214675721756411,22.55529040816078,1500 6.227504186788726,22.58757882139147,1500 6.206610393509966,22.6202927839137,1500 6.175929510726395,22.61925536993048,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Sharîda</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Sharîda</b> sind ein Teilstamm der <a href="http://www.wiki-aventurica.de/wiki/Bart%C3%BBni_ai-Merech" title="Bartûni ai-Merech">Bartûni ai-Merech</a>. Sie haben sich im östlichen <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirge</a> das Dorf <a href="http://www.wiki-aventurica.de/wiki/Bir_Shar%C3%AEd" title="Bir Sharîd">Bir Sharîd</a> als Heimstatt errichtet.
+								</p>
+								<p>
+								Sie betreiben von Zeit zu Zeit Handel mit den zivilisierten Bewohnern des Umlands und haben deswegen einige der raueren <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Sitten abgelegt. Magie ist ihnen nicht fremd, da sie früher einige Bande zu dem Meister-<a href="http://www.wiki-aventurica.de/wiki/Chim%C3%A4re" title="Chimäre">Chimärologen</a> <a href="http://www.wiki-aventurica.de/wiki/Abu_Terfas" title="Abu Terfas" class="mw-redirect">Abu Terfas</a> unterhielten. Zudem war ihr <a href="http://www.wiki-aventurica.de/wiki/Schamane" title="Schamane">Schamane</a> <a href="/index.php?title=Jikhab_iban_Tscharik&amp;action=edit&amp;redlink=1" class="new" title="Jikhab iban Tscharik (Seite nicht vorhanden)">Jikhab iban Tscharik</a> nicht unwesentlich an der Rekonstruktion von <a href="http://www.wiki-aventurica.de/wiki/Bastrabuns_Bann_%28Schutzwall%29" title="Bastrabuns Bann (Schutzwall)">Bastrabuns Bann</a> beteiligt.
+								</p>
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.266991603422579,24.88170023396028,1500 5.17450544229744,24.91207693365013,1500 5.112282088346118,24.92007530797948,1500 4.994934318056885,24.91633314983458,1500 4.894233365724931,24.91873425970474,1500 4.834412398861854,24.90987823336907,1500 4.803044165352426,24.88951393619299,1500 4.788863857859238,24.86002736962321,1500 4.795092936021397,24.80548723129012,1500 4.822857956543944,24.7723484475214,1500 4.841576247435569,24.75883828931316,1500 4.899329240043569,24.72353556982667,1500 4.957264357779168,24.69467767661502,1500 4.996311938337037,24.66188276496854,1500 5.081576542999315,24.64086230196261,1500 5.156623411788317,24.61850240686088,1500 5.19552613390966,24.59485536507462,1500 5.255980254879562,24.55543099443988,1500 5.345168201135144,24.51066673999355,1500 5.399699009761312,24.4620049149842,1500 5.430484574587058,24.43927240770319,1500 5.478032357714304,24.42153220646823,1500 5.52935302216679,24.42204901160721,1500 5.583668969298381,24.42049273735466,1500 5.593391106599597,24.4373995162393,1500 5.589719450686969,24.4557113019665,1500 5.509222517404522,24.4993327198667,1500 5.487919349861774,24.57580907514411,1500 5.497238434484038,24.64497643653403,1500 5.49370062022599,24.71118792765387,1500 5.485556082234282,24.72744618837286,1500 5.478187000136012,24.75385382665154,1500 5.470206949032974,24.77493726709579,1500 5.461686655676063,24.80640723621644,1500 5.456845524139135,24.84358065285289,1500 5.433100651702154,24.86909019377597,1500 5.404792076268006,24.89147686771242,1500 5.365960387281077,24.88746607120129,1500 5.346531334705944,24.87663589692758,1500 5.300272579783534,24.87263904625008,1500 5.266991603422579,24.88170023396028,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Tirgûfa</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Tirghûfa</b> sind ein primitiver <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Stamm des <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirges</a>, der mit seinen Nachbarn, den <a href="http://www.wiki-aventurica.de/wiki/B%C3%A2n_Had%C3%A2rri" title="Bân Hadârri">Bân Hadârri</a>, blutige Fehden ausfechtet. Wie diese auch sind sie ein Teilstamm der <a href="http://www.wiki-aventurica.de/wiki/Bart%C3%BBni_ai-Merech" title="Bartûni ai-Merech">Bartûni ai-Merech</a>.
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.802753098151184,24.76040127683224,1500 4.747706431790729,24.75862813983767,1500 4.663324927688947,24.74009456012794,1500 4.645993281748167,24.70671412885582,1500 4.597440385432501,24.67655750608587,1500 4.596933910342294,24.67759126361203,1500 4.570977657713069,24.67041805798584,1500 4.555435644707573,24.65855887918519,1500 4.538661986919614,24.63134915367417,1500 4.55561201230422,24.61725389502067,1500 4.582964733415656,24.61398091132661,1500 4.628872564279114,24.60664067967967,1500 4.699566016197041,24.57851468237295,1500 4.757405449638332,24.53530664126077,1500 4.83533684654148,24.50126832660272,1500 4.915953913154012,24.48885710557802,1500 5.006156337155683,24.49788077848861,1500 5.020395422005192,24.52385889085717,1500 5.02293854856771,24.57107422808478,1500 5.022916835275146,24.59231713705875,1500 5.056652746125401,24.61710902928558,1500 5.067027361927665,24.63481555198648,1500 5.059717498344547,24.64630505972145,1500 4.996538482157201,24.66141183542673,1500 4.956233431407577,24.69481057529236,1500 4.925655338861548,24.7099162765422,1500 4.872510781646662,24.73718451126361,1500 4.802753098151184,24.76040127683224,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bân Uludh</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bân Uludh</b> sind ein kleiner Teilstamm der <a href="http://www.wiki-aventurica.de/wiki/Shai%27Aian" title="Shai'Aian">Shai'Aian</a>. Eine große Zahl siedelte sich unter Häuptling <a href="/index.php?title=Yabman_Pasha&amp;action=edit&amp;redlink=1" class="new" title="Yabman Pasha (Seite nicht vorhanden)">Yabman Pasha</a> in <a href="http://www.wiki-aventurica.de/wiki/Oron" title="Oron">Oron</a> an und schloss sich den Horden der <a href="http://www.wiki-aventurica.de/wiki/Heptarch" title="Heptarch">Heptarchin</a> <a href="http://www.wiki-aventurica.de/wiki/Dimiona_von_Zorgan" title="Dimiona von Zorgan">Dimiona von Oron</a> an.
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.684037963087164,26.66245293757806,1500 4.705374594983001,26.69339922103904,1500 4.69645949309866,26.7231135491025,1500 4.717849129285073,26.76349265311819,1500 4.746915443748843,26.82406226577774,1500 4.760862342924337,26.88605081848552,1500 4.818579378242451,26.92082936000626,1500 4.895945241111717,26.94872514748119,1500 4.949004240779795,26.96189665257409,1500 4.996165044767889,26.99533177625783,1500 5.042011724887918,27.05036999642809,1500 5.081589837839924,27.0744041769023,1500 5.13014662381994,27.08351636335911,1500 5.168365941393251,27.11971276598541,1500 5.176269239348253,27.15343944655533,1500 5.190288258988747,27.19119295314047,1500 5.181607400092092,27.23454485104722,1500 5.154588816474391,27.26722490167722,1500 5.112150130840256,27.27700516428799,1500 5.019505175418903,27.27900275155944,1500 4.957135962959511,27.26723597648982,1500 4.914522640047618,27.25533100888662,1500 4.871899609487979,27.24071429316682,1500 4.868846544647858,27.23802650052767,1500 4.807953637037475,27.21404398471412,1500 4.75317562225756,27.19678046058045,1500 4.687715264774379,27.16738879403204,1500 4.664832155784399,27.14046018348515,1500 4.649530742841696,27.10538215030896,1500 4.641837591325507,27.07297812661506,1500 4.649302381851818,27.03240211605252,1500 4.640122556694635,27.01083180819643,1500 4.564125001960885,26.98550949084693,1500 4.503308099438426,26.96954572791847,1500 4.465278499784509,26.95887911385012,1500 4.424165552558828,26.92929088845654,1500 4.399769135477749,26.89017656631804,1500 4.392094074243271,26.84560692859894,1500 4.393607912351141,26.84154959169812,1500 4.420868470749674,26.79284708711617,1500 4.464854368234428,26.77247554766523,1500 4.519405061698651,26.75207020980945,1500 4.551124683525442,26.7222781737934,1500 4.557079615622892,26.69661424163112,1500 4.561483427174135,26.6642057811352,1500 4.565872296513791,26.63044609407027,1500 4.597561884139296,26.61145889326878,1500 4.626351742734749,26.62082043241674,1500 4.661226759471459,26.63824838880926,1500 4.684037963087164,26.66245293757806,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bartûni ai-Merech</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Bartûni ai-Merech</b>, oft auch nur <b>Merech</b> oder <b>Mherech</b> genannt, sind ein <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Stamm, der im <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirge</a> lebt. Die Merech besitzen noch viele der wilden Wesenszüge ihrer Vorfahren, haben aber Kontakt zu den <a href="http://www.wiki-aventurica.de/wiki/Novadi" title="Novadi">Novadis</a> der Gegend und betreiben sogar etwas Handel mit ihnen. Teilstämme der Merech sind die <a href="http://www.wiki-aventurica.de/wiki/B%C3%A2n_Shar%C3%AEda" title="Bân Sharîda">Bân Sharîda</a>, die <a href="http://www.wiki-aventurica.de/wiki/B%C3%A2n_Had%C3%A2rri" title="Bân Hadârri">Bân Hadârri</a> und die <a href="http://www.wiki-aventurica.de/wiki/B%C3%A2n_Tirgh%C3%BBfa" title="Bân Tirghûfa">Bân Tirghûfa</a>.
+
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.830245561871672,25.76581651377016,1000 2.792366270749296,25.81556753186822,1000 2.735640633558174,25.83672208177473,1000 2.709004174163996,25.84732573266824,1000 2.668993721530175,25.82307872866756,1000 2.636281417125985,25.78633006980056,1000 2.635957809758462,25.72557255357186,1000 2.647119508919515,25.66134898838773,1000 2.664915483552852,25.58997718849174,1000 2.689358337135914,25.50536001505494,1000 2.673554142620536,25.40577560068732,1000 2.655104942793582,25.32574464103899,1000 2.695473892667617,25.27349466483786,1000 2.766917067222996,25.23582985158647,1000 2.770907253132802,25.23236729567501,1000 2.823100313765923,25.1662253870526,1000 2.820570837292484,25.08515917930888,1000 2.861009672872181,25.00828236004659,1000 2.962912537001083,24.99575822675665,1000 3.084867690197952,24.93416717425593,1000 3.222044898571306,24.8762337446478,1000 3.359509852514071,24.76540146167417,1000 3.457670203477141,24.66452390836587,1000 3.577955287641683,24.65537129744904,1000 3.713478056569355,24.66033045146707,1000 3.887889894676413,24.62675713203472,1000 4.043030011694277,24.55758514826152,1000 4.217051960878989,24.52702271261396,1000 4.340425469915175,24.56285824499782,1000 4.502593623409206,24.57403511609855,1000 4.63410568711836,24.53563343573706,1000 4.792765916444566,24.46887298296355,1000 4.959190337921258,24.39826262832104,1000 5.136849158344155,24.20685139187658,1000 5.155809735134822,24.16799558521635,1000 5.181357460730805,24.12421074995563,1000 5.261220318594702,24.08326368260006,1000 5.418225015758809,24.2638899609493,1000 5.519185753301665,24.28841565366553,1000 5.570593647047899,24.32326827702993,1000 5.630686262269244,24.35832010134869,1000 5.605497139979492,24.39578242137936,1000 5.591516324271475,24.45763402099746,1000 5.46567246595711,24.44212716992711,1000 5.433280282512101,24.44075566402617,1000 5.339523208735402,24.51270196612923,1000 5.152597331009414,24.61914201349935,1000 5.086258693839715,24.64072216356869,1000 5.069668821748998,24.64288142014905,1000 4.918630014790841,24.71951267050958,1000 4.832033953805888,24.7790766587242,1000 4.759647492148,24.86933025874801,1000 4.617839370725736,24.90520652652522,1000 4.490936817134566,24.94769775493702,1000 4.324291496834521,24.98309552608509,1000 4.162569558468796,25.01378215164656,1000 4.050596125830412,25.026585010307,1000 3.945903823169092,25.05286875387497,1000 3.786279521626927,25.08085705564385,1000 3.696266169232587,25.10708989022174,1000 3.595774120054529,25.1669960686018,1000 3.55503638377658,25.23198692139271,1000 3.471741609745311,25.28978558443374,1000 3.365264736599045,25.37667805032015,1000 3.306502108162823,25.44378771189707,1000 3.214698025362983,25.51962059285708,1000 3.070569375337926,25.53838185461306,1000 2.935169158526669,25.60473443209484,1000 2.852145441650502,25.68990123131662,1000 2.830245561871672,25.76581651377016,1000 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Shai&apos;Aian</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Shai'Aian</b> sind ein Stamm der <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkinas</a>, der den <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> bewohnt. Man kann sie als die stereotypen wilden <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkinas</a> ansehen, deren einziger Kontakt mit anderen Menschen in Kämpfen und Plünderungen besteht.
+								</p>
+								<p>
+								Sie verehren neben ihrem Schöpfer<a href="http://www.wiki-aventurica.de/wiki/Gott" title="Gott">gott</a> <a href="http://www.wiki-aventurica.de/wiki/Raschtula" title="Raschtula" class="mw-redirect">Raschtula</a> den <a href="http://www.wiki-aventurica.de/wiki/Riese" title="Riese">Riesen</a> <a href="http://www.wiki-aventurica.de/wiki/Adawadt" title="Adawadt">Adawadt</a> und die ansässigen <a href="http://www.wiki-aventurica.de/wiki/Troll" title="Troll">Trolle</a>.
+								</p>
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.27436819021406,27.29433621336121,1500 4.265689549931977,27.38957774874037,1500 4.246893792959323,27.43161485056486,1500 4.361818855652397,27.60421953359067,1500 4.380066562478666,27.68299027756675,1500 4.441796612865869,27.76005797972521,1500 4.501750837099506,27.77485640522174,1500 4.561538626721628,27.84271705094968,1500 4.612911419243055,27.98200316056615,1500 4.587847712346393,28.04061899304371,1500 4.598051120503937,28.09565328406,1500 4.651933893197809,28.13425621198398,1500 4.749447840763191,28.21513990372153,1500 4.830524408778089,28.29422919691179,1500 4.830524260481255,28.29790762818051,1500 4.828440040422136,28.34390510657175,1500 4.755460492182602,28.4138431900197,1500 4.688737458193248,28.41378794056977,1500 4.596988437654,28.41185103492726,1500 4.546761401217301,28.45050882623432,1500 4.440222818849422,28.46143620867086,1500 4.388127066786862,28.44290894386154,1500 4.280141280768945,28.36343996556704,1500 4.211976730171651,28.2804183345582,1500 4.156548618062028,28.18277948891613,1500 4.105510868051756,28.0687015868747,1500 4.020532986692677,28.02246141339568,1500 3.917116397485672,27.94486980524808,1500 3.897640644518805,27.81630839011393,1500 3.835773509912885,27.75538088617551,1500 3.763249308311707,27.71450783099573,1500 3.722434621581887,27.63160386594865,1500 3.693954750116819,27.56344516574943,1500 3.700804669779088,27.53463955255656,1500 3.726593571855876,27.4376268177374,1500 3.710842890694706,27.36602135677722,1500 3.649789884849413,27.29591052213964,1500 3.603333764068606,27.21678049356785,1500 3.507918522435665,27.10975281100648,1500 3.44292886559209,27.04506475903121,1500 3.351699032508269,26.94710369360436,1500 3.233525322067843,26.86884813829786,1500 3.133454550735673,26.81813282170236,1500 3.027538780361512,26.74152925431028,1500 2.925589414680301,26.67029134932855,1500 2.857804708604563,26.62384013845484,1500 2.672151575965858,26.47096964703554,1500 2.528322580715734,26.38260067419104,1500 2.407905041700424,26.34758229850066,1500 2.283503547793491,26.29950594415237,1500 2.226066797716932,26.24985371815957,1500 2.192335090365547,26.13987258509843,1500 2.223489322770458,26.03027379891381,1500 2.321175083760447,25.9752931774001,1500 2.436873369502151,25.92979737372096,1500 2.541654483074616,25.90788727716707,1500 2.641927826042811,25.90049837500479,1500 2.81241075252489,25.95652050236652,1500 2.952250638057343,26.00810069111364,1500 3.086037550878,26.05388703160752,1500 3.306899721005734,26.14076222967754,1500 3.419901185442087,26.22981598195706,1500 3.435924564278059,26.25087545917813,1500 3.450916490049572,26.26366098204254,1500 3.473371657437956,26.28525788820684,1500 3.523010949437435,26.29840797385549,1500 3.622644810279878,26.29361350282228,1500 3.713650398460873,26.28188002741536,1500 3.822806015100362,26.18779470031202,1500 3.987638938779365,26.25018689557376,1500 4.040384368760988,26.22081720021261,1500 4.107347344181145,26.17095171201569,1500 4.173467633401662,26.14372696899045,1500 4.235810755967389,26.12695288672297,1500 4.258035616078364,26.12099358085527,1500 4.313951682986454,26.15004965796446,1500 4.369127013504799,26.21672710695828,1500 4.399296885024786,26.23957881428288,1500 4.439936434490095,26.25127477715527,1500 4.482979342303059,26.27412065373448,1500 4.526582796727292,26.31354024550388,1500 4.563934761018547,26.38167792601352,1500 4.562507286268682,26.42922784398087,1500 4.566109181766944,26.45633957587339,1500 4.545590297070563,26.4883456787707,1500 4.496043821256262,26.5124932421072,1500 4.375086433414611,26.48486958485269,1500 4.251420188780521,26.52392764084619,1500 4.179443799213338,26.53253879799827,1500 4.253424500466043,26.61374858038716,1500 4.313012887094589,26.71532358463328,1500 4.368251761267912,26.76725924268872,1500 4.420009881114226,26.81072187941217,1500 4.422887176637587,26.90367197016596,1500 4.394050541611245,26.95327481651783,1500 4.232413039628526,26.96758429306832,1500 4.203732085821321,27.01475497498798,1500 4.239408600325547,27.1198690547317,1500 4.311401423734518,27.24827884174301,1500 4.27436819021406,27.29433621336121,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ulad Barshîm</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Ulad Barshîm</b> sind ein Stamm der <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkinas</a>, der den <a href="http://www.wiki-aventurica.de/wiki/Balash" title="Balash">Balash</a> zwischen <a href="http://www.wiki-aventurica.de/wiki/Samra" title="Samra">Samra</a> und <a href="http://www.wiki-aventurica.de/wiki/Mherwed" title="Mherwed">Mherwed</a> bewohnt. 
+								</p>
+								<p>
+								Er hat sich hier bereits seit mehreren Generationen mit den ansässigen <a href="http://www.wiki-aventurica.de/wiki/Tulamide" title="Tulamide">Tulamiden</a> vermischt und viele der wilden <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Sitten abgelegt. Nicht nur dadurch zeigen sie aber ihre Anpassungsfähigkeit: Auch die Verehrung ihres <a href="http://www.wiki-aventurica.de/wiki/Gott" title="Gott">göttlichen</a> Paares <a href="http://www.wiki-aventurica.de/wiki/Raschtula" title="Raschtula" class="mw-redirect">Raschtula</a> und <a href="http://www.wiki-aventurica.de/wiki/Rascha" title="Rascha" class="mw-redirect">Rascha</a> bezeichnen sie (je nachdem, ob sie dem <a href="http://www.wiki-aventurica.de/wiki/Novadi" title="Novadi">novadischen</a> oder dem <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">aranischen</a> Herren näher sind) als <a href="http://www.wiki-aventurica.de/wiki/Rastullah" title="Rastullah">Rastullah</a>- oder <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a>-Glauben.
+								</p>
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.371949891535484,25.18241415984793,1500 5.36699094934892,25.15343060070556,1500 5.349082802324288,25.13604444702342,1500 5.351152008911122,25.09580850098569,1500 5.375077583061616,25.04057785433092,1500 5.394537375113712,24.98972344518261,1500 5.413974356947795,24.94243279835929,1500 5.433318689423312,24.87154900727635,1500 5.456845524139135,24.84358065285289,1500 5.421458968289916,24.81058710731637,1500 5.423587937226879,24.74233019247383,1500 5.457703204666295,24.73292322936499,1500 5.494040134360956,24.71110547602221,1500 5.497238434484038,24.64497643653403,1500 5.487919349861774,24.57580907514411,1500 5.509222517404522,24.4993327198667,1500 5.58961122568557,24.45673743882781,1500 5.604081480252148,24.39472505194301,1500 5.633382632968682,24.35639860242328,1500 5.686515548956286,24.32725587249065,1500 5.715994424528292,24.32919276135899,1500 5.755672422599513,24.3300396070796,1500 5.788576573669717,24.33504126966238,1500 5.797164949197788,24.340533210362,1500 5.806598246065812,24.34013075479054,1500 5.814000600320832,24.33890770645818,1500 5.810359482068266,24.36535236595688,1500 5.80972474885062,24.38805454521083,1500 5.805947478453435,24.40117400315505,1500 5.798667032394933,24.42118849478608,1500 5.796343200713389,24.45124884830614,1500 5.796365722622008,24.4750012383009,1500 5.802707783771012,24.49470913529754,1500 5.809843938161721,24.51249560643108,1500 5.814593607087664,24.52417494102477,1500 5.813449525460888,24.53664506968105,1500 5.80768983545783,24.55174324454677,1500 5.808962983029598,24.55925300694208,1500 5.813377569931573,24.57014320645621,1500 5.816594471856913,24.58081592254058,1500 5.816531028809518,24.61436505113196,1500 5.815889781780161,24.63085845771763,1500 5.814724956840718,24.63711599935391,1500 5.811685647472958,24.64156310098785,1500 5.803056751314914,24.64705556318526,1500 5.794275858607185,24.64958477099402,1500 5.783729636449555,24.65245761152574,1500 5.774358797581682,24.66094910358513,1500 5.769583105691575,24.67221706144964,1500 5.764390135912407,24.68701251306601,1500 5.758946683598465,24.69102050305553,1500 5.750819630816777,24.69487107635395,1500 5.738214622692479,24.69836912109816,1500 5.724191412665287,24.70921690838143,1500 5.714343984645791,24.72043139189178,1500 5.69401092977174,24.73799139352802,1500 5.688172743166524,24.74606151215992,1500 5.685328941556767,24.7604871408611,1500 5.685505322764386,24.7699285266687,1500 5.689607577073472,24.78055729703862,1500 5.689972379571662,24.79377019331871,1500 5.692698134907424,24.80067634172221,1500 5.698311784173697,24.8117822419018,1500 5.699580313566186,24.81928905099757,1500 5.696880929367339,24.82480110782853,1500 5.696974813731441,24.83262748256067,1500 5.699565475867896,24.84278084447781,1500 5.700805847244665,24.85569213205565,1500 5.69436220021877,24.86973631417042,1500 5.687436407335216,24.87852330046829,1500 5.679730520347748,24.89098737753406,1500 5.676801356946135,24.90379439799536,1500 5.668215283808243,24.91062660556104,1500 5.660990745157783,24.92091203872665,1500 5.651105881261788,24.9256380999508,1500 5.642868154069046,24.92759654684722,1500 5.627992662662682,24.93981701380352,1500 5.621570726159066,24.94845130692169,1500 5.610350833249913,24.95647321361584,1500 5.610594026774751,24.98563651822258,1500 5.609729425837047,24.99837209615109,1500 5.608782485076722,25.02070780868386,1500 5.614546710741766,25.03477991975583,1500 5.614419416414207,25.04423327002872,1500 5.610540270185971,25.06220928401773,1500 5.603958433820764,25.07381789543801,1500 5.603339462599166,25.08545403252873,1500 5.603804115178179,25.09488664508426,1500 5.59732466995118,25.10712062182685,1500 5.577945072704759,25.12801536004866,1500 5.564109543482525,25.14368949648525,1500 5.555844692119272,25.15751913832739,1500 5.54808663138666,25.16350073895037,1500 5.536312415509899,25.16667469347851,1500 5.524895171369549,25.16497458121823,1500 5.515119152978103,25.16023836874624,1500 5.500828606475954,25.16081161583566,1500 5.491136008393869,25.17010903218015,1500 5.482177271031756,25.17613769273262,1500 5.46510754178221,25.18735192965647,1500 5.459458608527386,25.194059495985,1500 5.442909088128296,25.19769239063914,1500 5.406982294797567,25.19615408451052,1500 5.386900865380446,25.19506135643819,1500 5.371949891535484,25.18241415984793,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

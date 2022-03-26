@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Oeffentliche_Bauwerke_Khezzara.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Oeffentliche_Bauwerke_Khezzara</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>33.79384081750062</north>
+				<south>33.79132804927691</south>
+				<east>-0.07822331810895376</east>
+				<west>-0.08284636149193105</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+    <Placemark>
+        <name>Grube der Qualen</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>18<TR><TD><I>Stadtteil: </I>Olochtai-Viertel<TR><TD><I>Besitzer/Vorsteher:</I> <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Welt des Schwarzen Auges, S. 39<TR><TD>Das Orkland, S. 21<TR><TD>Das Greifenopfer, S. 17<TR><TD>Geographia Aventurica, S. 33<TR><TD>Reich des Roten Mondes, S. 33<TR><TD>Das Jahr des Greifen - Die Entdeckung, S. 189<TR><TD>Aventurisches Archiv 1, S. 77<TR><TD>Aventurisches Archiv 2, S. 91<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD><font size=-1>Es ist möglich, dass Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+        <LookAt> 
+              <longitude>-0.070948</longitude>
+			  <latitude>33.784141</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+		<TimeSpan>
+				<begin>1008</begin>
+			</TimeSpan>
+        <Point>				
+			<coordinates>-0.07997788115532867,33.79254170956186,0</coordinates>
+		</Point>
+    </Placemark>
+	<Placemark>
+        <name>Statue des Riesen</name>
+		<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>2<TR><TD><I>Stadtteil: </I>Orichai-Viertel<TR><TD><I>Besitzer/Vorsteher:</I> <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Welt des Schwarzen Auges, S. 39<TR><TD>Das Orkland, S. 21<TR><TD>Das Greifenopfer, S. 17<TR><TD>Geographia Aventurica, S. 33<TR><TD>Reich des Roten Mondes, S. 33<TR><TD>Das Jahr des Greifen - Die Entdeckung, S. 189<TR><TD>Aventurisches Archiv 1, S. 77<TR><TD>Aventurisches Archiv 2, S. 91<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD><font size=-1>Es ist möglich, dass Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+        <LookAt> 
+              <longitude>-0.070948</longitude>
+			  <latitude>33.784141</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+		<TimeSpan>
+				<begin>1008</begin>
+			</TimeSpan>
+        <Point>
+             <coordinates>-0.07938221102399834,33.79213456936824,0</coordinates>
+        </Point>
+    </Placemark>
+	</Folder>
+</Document>
+</kml>

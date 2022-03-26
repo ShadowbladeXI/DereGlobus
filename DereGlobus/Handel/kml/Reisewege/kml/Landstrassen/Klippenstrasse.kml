@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Klippenstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Klippenstraße-->
+			<name>Klippenstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Klippenstraße</b> verläuft an der Küste des <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meers der Sieben Winde</a> von <a href="http://www.wiki-aventurica.de/wiki/Grangor" title="Grangor">Grangor</a> über <a href="http://www.wiki-aventurica.de/wiki/Harben" title="Harben">Harben</a> nach <a href="http://www.wiki-aventurica.de/wiki/Triveth" title="Triveth">Triveth</a>. Dort beginnt der <a href="http://www.wiki-aventurica.de/wiki/Schattengrundpass" title="Schattengrundpass">Schattengrundpass</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagberge</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-1.840742015325637,27.2120030680101,0 <!-- <POI>Siedlung:Triveth</POI> --> <!--<POI>SOE:Schattengrundpass</POI>-->
+					-1.83228726506155,27.19039622849722,0 
+					-1.826755259454059,27.13557583571112,0 
+					-1.789838581118295,27.05499838628147,0 
+					-1.76867059268892,27.02690640022398,0 
+					-1.753320496205119,27.00857210369242,0 
+					-1.737454328518705,26.9752417258701,0 
+					-1.727599658089777,26.92289410257619,0 
+					-1.729853875148943,26.91010255141026,0 <!-- Anfang Detailkarte Harben -->
+					-1.730009693809488,26.90795746534782,0 
+					-1.730628829397306,26.90743787949108,0 
+					-1.730058242270579,26.90716748572925,0 
+					-1.729651284966653,26.90729739016268,0 
+					-1.729456011499198,26.90719973689804,0 
+					-1.729204785282917,26.90676316355727,0
+					-1.729261241839897,26.90639260781152,0
+					-1.72923577193643,26.90622546483042,0 
+					-1.72911512462368,26.90599466972008,0 
+					-1.729256975078742,26.90576473096975,0 
+					-1.729075835178093,26.90555420606936,0 
+					-1.728776486103495,26.90540893677465,0 
+					-1.728672869239886,26.90503167312763,0 
+					-1.728779034722721,26.90476280818584,0 
+					-1.728638836769744,26.90417693249982,0 
+					-1.728560306540504,26.90418489124407,0 
+					-1.728374392935004,26.90480491742379,0 
+					-1.728217314992401,26.90481499718794,0 
+					-1.72814480656308,26.90463614103724,0 
+					-1.728267229745661,26.9039401296776,0 
+					-1.728534060581718,26.90338568163425,0 
+					-1.728799601153019,26.90314952006768,0 
+					-1.729371750429786,26.9027521867869,0 <!-- <POI>Siedlung:Harben</POI> -->
+					-1.728575850810286,26.90112604881043,0 
+					-1.728454945379468,26.90108174883847,0 
+					-1.727952632872789,26.9001803242662,0 
+					-1.726744344375822,26.89894581861062,0 
+					-1.725119855312675,26.89729915584274,0 
+					-1.724781869151156,26.89709148714802,0 
+					-1.724580078644932,26.89703299521318,0 
+					-1.724528943684925,26.89690343391742,0 
+					-1.724612912880412,26.89589701703939,0 <!--<POI>Flussquerung:Bleiche</POI>-->
+					-1.724926064685499,26.89590101971585,0 
+					-1.725345436094119,26.8958026313491,0 
+					-1.7257527441525,26.89559990633519,0 
+					-1.726044159425623,26.8953988905608,0 
+					-1.726538034025259,26.8949553330605,0 
+					-1.726939353021704,26.89449447065916,0 <!-- Ende Detailkarte Harben -->
+					-1.689469763832258,26.8118079009569,0 
+					-1.671680740748047,26.7486638450967,0 
+					-1.658439637738345,26.71890508136599,0 <!-- <POI>Siedlung:Harpenstein</POI> -->
+					-1.638009487129741,26.6811537415182,0
+					-1.630761031570029,26.64614869697238,0 
+					-1.666591110415019,26.61757200675113,0 
+					-1.673307755939272,26.59118212753743,0 
+					-1.666010607831966,26.53685570422551,0 
+					-1.674278201058176,26.49406709933089,0 
+					-1.638866168214822,26.44487787323297,0 
+					-1.616102863160964,26.40534502995726,0 
+					-1.557485378358984,26.35823088676795,0 
+					-1.52366940959652,26.35541070526361,0 
+					-1.475132953808114,26.35936257121396,0 
+					-1.453637743547988,26.35152765705973,0 
+					-1.396714372225197,26.31654692449267,0 
+					-1.357341017375525,26.31903375217799,0 <!-- <POI>Siedlung:Nervuk</POI> -->
+					-1.336630268623591,26.3564578327323,0 
+					-1.302787671657475,26.36286119095518,0
+					-1.275270009487028,26.38638662574585,0 
+					-1.252913430536867,26.38369562154205,0 <!-- Anfang Detailkarte Grangor -->
+					-1.252261848686952,26.38323206451523,0 
+					-1.251815585001707,26.38303809455762,0 
+					-1.251175948801021,26.38314363518559,0 
+					-1.250872725924693,26.38321708519773,0 
+					-1.250758466450571,26.38315246464249,0 <!-- <POI>Siedlung:Grangor</POI> --> <!-- <POI>Station:Bootsanlegestelle</POI> -->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-1.557898</longitude>
+				<latitude>26.773112</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

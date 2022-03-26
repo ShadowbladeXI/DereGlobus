@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Achan nach Amhallah</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Achan nach Amhallah-->
+			<name>Karawanenroute von Achan nach Amhallah</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Achan nach Amhallah</b> beginnt in <a href="/index.php?title=Achan" title="Achan">Achan</a> und führt über <a href="/index.php?title=Virinlassih" title="Virinlassih">Virinlassih</a> und <a href="/index.php?title=Shinadra&amp;action=edit&amp;redlink=1" class="new" title="Shinadra (Seite nicht vorhanden)">Shinadra</a> nach <a href="/index.php?title=Amhallah" title="Amhallah">Amhallah</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.6058276734735446,25.03643651422678,0 	<!-- <POI>SOE:Karawanenroute von Achan nach Amhallah</POI> --> <!-- <POI>Siedlung:Achan</POI> -->
+					0.5981512678031442,25.05196280571872,0 
+					0.6313122695973172,25.12997983125198,0 
+					0.5979790124187878,25.22890328929483,0 
+					0.5860198038663489,25.2633764905,0 
+					0.5673141100738288,25.29195549770255,0 
+					0.5394124306035031,25.31228224527184,0 
+					0.5287978445145569,25.36075534560135,0 
+					0.5175535613098603,25.391827628536,0 
+					0.5380874384246481,25.49853823646159,0 
+					0.5338294299566715,25.56351837873933,0 
+					0.5674258764588358,25.6500370970418,0 
+					0.5536597273500354,25.69815600405613,0 
+					0.5694559814326028,25.73459964262274,0 
+					0.5679815034155,25.77570900068362,0 	<!-- <POI>Ende:Goldener Pass</POI> -->
+					0.5825644905021576,25.82347884690265,0 
+					0.6028128566766555,25.8630616894576,0 
+					0.5777095271087696,25.90274974689282,0 	<!-- <POI>Siedlung: Virinlassih</POI> -->
+					0.5505835641402168,25.93339655675089,0 
+					0.536537716027139,25.97065627371768,0 
+					0.480327137286507,26.03122210737482,0 
+					0.4829854700696079,26.09642763218883,0 
+					0.5953560420622539,26.15299545650684,0 	<!-- Beginn Gebirge -->
+					0.6312782716101317,26.2062572500583,0 
+					0.6290387482262916,26.23360214668221,0 	<!-- Ende Gebirge --> <!-- <POI>Siedlung: Shinadra</POI> -->
+					0.6094759483670509,26.24674457491241,0 
+					0.5933127700451513,26.25370246071378,0 
+					0.5871798841598763,26.2649518567555,0 
+					0.5866681528512086,26.27922520718346,0 
+					0.5761187872553886,26.28920921346321,0 
+					0.5165874013501237,26.31328531665792,0 
+					0.4944931004828246,26.32520164631828,0 
+					0.4841116721205441,26.36059329384272,0 
+					0.4514944456159276,26.37212945737437,0 	<!-- Beginn Detailkarte Amhallah -->
+					0.4513805673112814,26.37229674683145,0 
+					0.4511675333529674,26.3725509499296,0 
+					0.4509682486949518,26.37274823935783,0 
+					0.4506450139629514,26.37299394088531,0 
+					0.4503149973806098,26.37310915880186,0 
+					0.4500256505377842,26.37322559087292,0 
+					0.4498270511278268,26.37336585049489,0 
+					0.4496776003939385,26.37349847973757,0 
+					0.4495046266633396,26.37372927581785,0 
+					0.4493820790685477,26.37391965906852,0 
+					0.449224796025578,26.37426276912621,0 
+					0.4490450361781506,26.37450648591508,0 
+					0.4488191130547614,26.37468815594081,0 	<!-- <POI>Station: Stadttor Amhallah</POI> -->
+					0.4475872307127471,26.37568804249343,0 	<!-- <POI>Station: Inneres Stadttor Amhallah</POI> -->
+					0.4473920210413995,26.37587461173697,0 
+					0.4462088411634668,26.37667205959241,0 
+					0.4449515811979898,26.37667300015205,0 	<!-- <POI>Siedlung: Amhallah</POI> --> <!-- <POI>SOE: Karawanenroute von Achan nach Amhallah</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>0.5381319253976136</longitude>
+				<latitude>25.7087226830577</latitude>
+				<altitude>214000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

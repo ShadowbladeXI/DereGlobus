@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Olats Wall</name>
+	<open>1</open>
+		<Placemark> 	<!-- Olats Wall-->
+			<name>Olats Wall</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							<b>Olats Wall</b> ist ein befestigter und begehbarer Damm und wurde von <a href="http://www.wiki-aventurica.de/wiki/Olat_der_Bogner" title="Olat der Bogner">Olat dem Bogner</a> errichtet. Er reicht von <a href="http://www.wiki-aventurica.de/wiki/Olat" title="Olat">Olat</a> 40 Meilen am <a href="http://www.wiki-aventurica.de/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> entlang bis nach <a href="http://www.wiki-aventurica.de/wiki/Beonfirn" title="Beonfirn" class="mw-redirect">Beonfirn</a> und soll die <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> vor den Übeln aus dem <a href="http://www.wiki-aventurica.de/wiki/Nebelmoor" title="Nebelmoor">Nebelmoor</a> schützen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					4.446860267497847,33.81164759383567,0 <!--<POI>Siedlung:Olat</POI>--> <!--<POI>SOE:Weg von Gashok nach Olat</POI>--> <!--<POI>SOE:Seeweg</POI>-->
+					4.446762744105765,33.81160737702459,0 
+					4.446701968277176,33.81172896052131,0 
+					4.446676919814672,33.81183913577442,0 
+					4.446668077962981,33.81197869127494,0 
+					4.446697543679408,33.81211146777167,0 
+					4.446756476882285,33.81224514950346,0 
+					4.446865505162789,33.81236144664955,0 
+					4.446834564107311,33.81238592987631,0 
+					4.446532523753564,33.8123198220584,0 
+					4.446326252073947,33.81230268156339,0 
+					4.446161235141988,33.81225493692134,0 
+					4.445785864944842,33.81224872294914,0 
+					4.444927166757447,33.81205110220041,0 
+					4.444554272831449,33.81203645557424,0 
+					4.444255069083612,33.81197057979217,0 
+					4.443890983657863,33.81197300827829,0 <!--Ende Detailkarte Olat-->	 
+					4.439780311975719,33.81166636117595,0
+					4.4286154035145,33.81184265632928,0 
+					4.418504581609442,33.81064010886845,0 
+					4.392997676203628,33.7980317655373,0 
+					4.360753752016349,33.79541361889855,0 
+					4.325579036344049,33.77523552781428,0 
+					4.298860308350559,33.76479925671706,0 
+					4.26874856296144,33.74698708904103,0 
+					4.246567775147316,33.74011671731683,0 
+					4.221085459486902,33.73847603370697,0 
+					4.186567336827642,33.73065482704944,0 
+					4.148445930735953,33.73490574333359,0 
+					4.13171581827352,33.73919310487148,0 
+					4.111997039764923,33.73572159706748,0 
+					4.078299143791395,33.74041184208075,0 
+					4.060187349982307,33.74536870172803,0 
+					4.014011102246499,33.73518971927264,0 
+					3.990189759219158,33.71445737024887,0 <!--<POI>Siedlung:Beonfirn</POI>--> 
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>4.189767</longitude>
+				<latitude>33.749136</latitude>
+				<altitude>100000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

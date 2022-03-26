@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Mysobstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Mysobstraße-->
+			<name>Mysobstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Mysobstraße</b> verläuft durch das <a href="http://www.wiki-aventurica.de/wiki/Königreich_Brabak" title="Königreich Brabak">Königreich Brabak</a> und verbindet seine <a href="http://www.wiki-aventurica.de/wiki/Brabak" title="Brabak">Hauptstadt</a> mit den <a href="http://www.wiki-aventurica.de/wiki/Mysob" title="Mysob">Mysobaufwärts</a> liegenden Städten <a href="http://www.wiki-aventurica.de/wiki/Sylphur" title="Sylphur">Sylphur</a> und <a href="http://www.wiki-aventurica.de/wiki/H'Rabaal" title="H'Rabaal">H'Rabaal</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				-3.055037294666405,16.90867385143958,0  <!-- <POI>Siedlung:Brabak</POI> -->
+				-3.054977151546171,16.90884007908292,0 
+				-3.054905872888155,16.90889761868883,0 
+				-3.054707632332524,16.90885712409571,0 
+				-3.054273288852921,16.90856728250623,0 
+				-3.054160136071906,16.90856546178245,0 
+				-3.053756957349688,16.90893366171124,0 
+				-3.053734962967183,16.90906867093927,0 
+				-3.053771611900431,16.90921876272954,0 
+				-3.053733124450054,16.90933799124429,0 
+				-3.053582846066567,16.90951858601606,0 
+				-3.053586508924314,16.90964231057616,0 
+				-3.053868722274533,16.91002895979746,0 
+				-3.053892541673756,16.91023059816691,0 
+				-3.053828289560806,16.91038195879986,0    <!-- Ende Detailkarte Brabak -->
+				-3.053488349444949,16.91078131939998,0 
+				-3.049840137332644,16.9126598808389,0 
+				-3.021402690778949,16.92378766800444,0 
+				-3.011459223216935,16.93117319505709,0 
+				-2.986332363212709,16.92935773768194,0 
+				-2.942286766795479,16.91434727827556,0 
+				-2.878379648360359,16.91545663147639,0 
+				-2.811189224556594,16.933394286301,0     <!-- <POI>Siedlung:unbenannt</POI> -->
+				-2.726797272480408,16.98417769491789,0    <!-- <POI>Siedlung:unbenannt</POI> -->
+				-2.673217639067393,17.03321281593697,0    <!-- <POI>Siedlung:unbenannt</POI> -->
+				-2.585699968631076,17.0862444989117,0 
+				-2.554948151053835,17.12249687765276,0
+				-2.526303389089023,17.21278909211313,0    <!-- <POI>Siedlung:unbenannt</POI> --> 
+				-2.501603727928098,17.2683552217799,0     <!-- <POI>Siedlung:unbenannt</POI> -->
+				-2.451580761122083,17.29560299117279,0 
+				-2.4093859180513,17.35544012554312,0 
+				-2.342296064812601,17.38852236882749,0 
+				-2.278010460269316,17.3952511163327,0     <!-- <POI>Siedlung:unbenannt</POI> -->
+				-2.248371781032549,17.40782405977965,0 
+				-2.149838425188117,17.50929508105547,0 
+				-2.118778510729839,17.51950738990216,0 
+				-2.079498193195708,17.51613099207716,0     <!-- <POI>Siedlung:Sylphur</POI> -->   <!-- <POI>Flussquerung:Gangreb</POI> -->
+				-2.01240583172152,17.54586257985104,0 
+				-1.954242012838111,17.58320252925985,0     <!-- <POI>Siedlung:unbenannt</POI> -->
+				-1.890032543254983,17.61560223737606,0 
+				-1.850321776695398,17.61821432086036,0 
+				-1.819297265884055,17.63358716504712,0 
+				-1.805114202117797,17.63473160928346,0 
+				-1.764139239876474,17.65537529703347,0 
+				-1.758296523419215,17.68869250855717,0     <!-- <POI>Siedlung:unbenannt</POI> -->
+				-1.675598156137473,17.72963619854719,0 
+				-1.624633108351172,17.76121603701527,0 
+				-1.57642575265969,17.76498073267994,0 
+				-1.530875236640684,17.7539741217829,0 
+				-1.505859541005579,17.76320535049576,0 
+				-1.484968364282191,17.79048877507693,0 
+				-1.470727319324985,17.79489111515206,0 
+				-1.445149819465758,17.8434389544276,0 
+				-1.447317066436693,17.87655523470266,0   <!-- <POI>Siedlung:H'Hrabaal</POI> -->  <!-- <POI>SOE:Weg nach Al'Anfa</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-2.250094</longitude>
+				<latitude>17.392560</latitude>
+				<altitude>170520</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Goldener Pass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Goldener Pass-->
+			<name>Goldener Pass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Güldene Pass</b> (auch <b>Güldener Steig</b> genannt) überquert die <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a> und verbindet dabei <a href="http://www.wiki-aventurica.de/wiki/Bomed" title="Bomed">Bomed</a> und <a href="http://www.wiki-aventurica.de/wiki/Virinlassih" title="Virinlassih">Virinlassih</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-0.4305287031470817,26.06431845039864,0 <!-- <POI>Siedlung: Oberbomed</POI> -->
+						-0.4303795386867781,26.0630745998238,0 
+						-0.4304141786142746,26.06261012842296,0 
+						-0.4303543653399611,26.0620359749249,0 
+						-0.4304299330225925,26.06172738923929,0 
+						-0.430914716380979,26.06099825832414,0 
+						-0.4312075271509097,26.06032511538479,0 
+						-0.4314397744627319,26.06003493424148,0 
+						-0.4318990399633915,26.05955145050693,0 
+						-0.4320604114079085,26.05928414568965,0 
+						-0.4323474480335166,26.05855247211382,0 <!-- Ende Detailkarte Oberbomed -->	
+						-0.4520820501516465,26.00589697933861,0 
+						-0.4513119112094577,25.98728303511679,0 
+						-0.4304150797231221,25.96613035591435,0  <!-- <POI>Siedlung: Estoria</POI> -->
+						-0.3962862679496115,25.95352499710051,0 
+						-0.3777162062768269,25.92808098628374,0 
+						-0.3511161751735126,25.91668651269323,0 
+						-0.3314606761550432,25.91711014358709,0 
+						
+						-0.2989194907424697,25.92949678532174,0 <!-- Anfang Detailkarte Trebesco -->	
+						-0.2978139184714179,25.92948238451604,0 
+						-0.2974351184238089,25.92942000486127,0 <!-- <POI>Siedlung: Trebesco</POI> -->
+						-0.2969762909111251,25.92943439293857,0 
+						-0.2966028259847509,25.92951115649671,0 
+						-0.2949595565670315,25.9301972505728,0 <!-- Ende Detailkarte Trebesco -->	
+						
+						-0.3014621051975708,25.93718772712308,0  
+						-0.2718248434319137,25.93959297704458,0 
+						-0.2297944477889358,25.97644492119233,0 
+						-0.190221966565044,26.00037571893445,0 
+						-0.1570475390082593,25.99795269701944,0 
+						-0.1218705943479059,26.0048496196054,0 
+						-0.08257489913626404,25.97221952849221,0 
+						-0.0681474953694039,25.96906278561295,0 
+						-0.0001572252818338171,25.91997045722706,0  <!-- <POI>Siedlung: Burg Leomarensteyn</POI> -->
+						0.006293165386845878,25.89861897771425,0 
+						0.0228415661585446,25.898440964697,0 
+						0.0473876550571628,25.91846282059894,0 
+						0.08166021408047675,25.91758494963049,0 
+						0.1420679477837505,25.8919754272881,0 
+						0.1737708845113994,25.89759421027619,0 
+						0.190340046659756,25.8903814573029,0 
+						0.1985163223057884,25.87631489612884,0 
+						0.2002277361633587,25.85754761734484,0 
+						0.2823799568936769,25.8172034909398,0 
+						0.3278156505894136,25.81107192503317,0 
+						0.4150754679572444,25.81285481090911,0 
+						0.4837514627479544,25.80132919101425,0
+						0.5679815034155,25.77570900068362,0 	<!-- <POI>Abzweig:Karawanenroute von Achan nach Amhallah</POI> -->
+						0.5825644905021576,25.82347884690265,0 
+						0.6028128566766555,25.8630616894576,0 
+						0.5777095271087696,25.90274974689282,0 	<!-- <POI>Siedlung: Virinlassih</POI> -->
+						</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>0.075345</longitude>
+				<latitude>25.920450</latitude>
+				<altitude>154870</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

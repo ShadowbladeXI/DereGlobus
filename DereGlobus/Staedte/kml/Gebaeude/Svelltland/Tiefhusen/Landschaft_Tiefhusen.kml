@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Landschaft_Tiefhusen.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Landschaft_Tiefhusen</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>35.00385887676055</north>
+				<south>34.99546802275255</south>
+				<east>1.102428316519272</east>
+				<west>1.095168976597658</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Ror</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Die Welt des Schwarzen Auges, S. 43<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 252<TR><TD>Das Orkland, S. 59<TR><TD>Xeledons Rache, S. 7<TR><TD>Das Orkland - Abenteuer im Orkland, S. 40<TR><TD>Das Levthansband, S. 20<TR><TD>Das Orkland - Abenteuer im Orkland, S. 40<TR><TD>Das vergessene Volk, S. 23<TR><TD>Geographia Aventurica, S. 37<TR><TD>Sternenschweif, S.-1<TR><TD><font size=-1>Es ist möglich, dass Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+			<LookAt> 
+				<longitude>1.111669</longitude>
+				<latitude>34.972307</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<Point>
+				 <coordinates>1.098660293973517,35.00143729166732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruine der Feste Roremund</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I>11 <TR><TD><I>Stadtteil:</I> Vor den Toren<TR><TD><I>Besitzer/Vorsteher:</I> <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Die Welt des Schwarzen Auges, S. 43<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 252<TR><TD>Das Orkland, S. 59<TR><TD>Xeledons Rache, S. 7<TR><TD>Das Orkland - Abenteuer im Orkland, S. 40<TR><TD>Das Levthansband, S. 20<TR><TD>Das Orkland - Abenteuer im Orkland, S. 40<TR><TD>Das vergessene Volk, S. 23<TR><TD>Geographia Aventurica, S. 37<TR><TD>Sternenschweif, S.-1<TR><TD><font size=-1>Es ist möglich, dass Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
+			<LookAt> 
+				  <longitude>1.112469</longitude>
+				  <latitude>34.976307</latitude>
+				  <altitude>0</altitude>
+				  <range>2000</range>
+				  <tilt>0</tilt>
+				  <heading>0</heading>
+				  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<TimeSpan>
+				<begin>595</begin>
+				<end></end>
+			</TimeSpan>
+			<Point>
+				 <coordinates>1.097896061736043,35.00211175073272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Svellt</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Die Welt des Schwarzen Auges, S. 43<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 252<TR><TD>Das Orkland, S. 59<TR><TD>Xeledons Rache, S. 7<TR><TD>Das Orkland - Abenteuer im Orkland, S. 40<TR><TD>Das Levthansband, S. 20<TR><TD>Das Orkland - Abenteuer im Orkland, S. 40<TR><TD>Das vergessene Volk, S. 23<TR><TD>Geographia Aventurica, S. 37<TR><TD>Sternenschweif, S.-1<TR><TD><font size=-1>Es ist möglich, dass Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+			<LookAt> 
+				<longitude>1.111669</longitude>
+				<latitude>34.972307</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<Point>
+				 <coordinates>1.095566746577588,35.00148527842339,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

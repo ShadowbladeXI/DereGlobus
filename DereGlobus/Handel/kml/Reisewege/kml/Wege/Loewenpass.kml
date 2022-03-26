@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Löwenpass</name>
+	<open>1</open>
+		<Placemark>
+			<name>Löwenpass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Klingenstieg</b> verläuft durch das <a href="http://www.wiki-aventurica.de/wiki/Osttobrisches_H%C3%BCgelland" title="Osttobrisches Hügelland">Osttobrische Hügelland</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Mendena" title="Mendena">Mendena</a> mit <a href="http://www.wiki-aventurica.de/wiki/Shamaham" title="Shamaham">Shamaham</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						9.203499510573723,30.0720501529758,0 <!--<POI>Siedlung:Shamaham</POI>--> <!--<POI>SOE:Klingenstieg</POI>--> <!--<POI>SOE:Weg nach Grünau</POI>-->
+						9.203497165256282,30.07157457328866,0 
+						9.203355981792743,30.07121933599075,0 
+						9.183779291172741,30.02364803517133,0 
+						9.187961706272851,29.98984823076703,0 
+						9.209184068530457,29.93008588637884,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						9.199792502024058,29.8951205634387,0 
+						9.206386316277106,29.75197261533536,0 
+						9.229109325643886,29.70738795164797,0 
+						9.238366766134591,29.66112135909,0 <!--<POI>Fluss:Vildrom</POI>-->
+						9.244319777980802,29.64669585074471,0 <!--<POI>Siedlung:Kurkum</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.214</longitude>
+				<latitude>29.86</latitude>
+				<altitude>80000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			</Placemark>
+</Document>
+</kml>

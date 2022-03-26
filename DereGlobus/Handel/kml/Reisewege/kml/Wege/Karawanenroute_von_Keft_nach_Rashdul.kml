@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Keft nach Rashdul</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Keft nach Rashdul-->
+			<name>Karawanenroute von Keft nach Rashdul</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Keft nach Rashdul</b> beginnt am Knotenpunkt aller <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a>, in <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a>, und führt über <a href="http://www.wiki-aventurica.de/wiki/Tarfui" title="Tarfui">Tarfui</a>, <a href="http://www.wiki-aventurica.de/wiki/Hayabeth" title="Hayabeth">Hayabeth</a>, <a href="http://www.wiki-aventurica.de/wiki/Al%27Tamur" title="Al'Tamur">Al'Tamur</a>, <a href="http://www.wiki-aventurica.de/wiki/Rab_El%27Dash" title="Rab El'Dash">Rab El'Dash</a> und <a href="http://www.wiki-aventurica.de/wiki/Tinqil" title="Tinqil">Tinqil</a> nach <a href="http://www.wiki-aventurica.de/wiki/Rashdul" title="Rashdul">Rashdul</a>. Die Strecke verläuft ab <a href="http://www.wiki-aventurica.de/wiki/Tarfui" title="Tarfui">Tarfui</a> parallel der <a href="http://www.wiki-aventurica.de/wiki/Unau-Berge" title="Unau-Berge" class="mw-redirect">Unau-Berge</a> vorbei an der <a href="http://www.wiki-aventurica.de/wiki/Karawanserei" title="Karawanserei">Karawanserei</a> "Ain Turamesh" und verlässt bei <a href="http://www.wiki-aventurica.de/wiki/Hayabeth" title="Hayabeth">Hayabeth</a> die Wüste.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.187454240589658,23.55705935898839,0 	<!-- <POI>SOE:Karawanenroute nach Unau</POI> --> <!-- <POI>Siedlung:Keft</POI> -->
+					3.1875117557896,23.55630747387184,0 
+					3.18762315523349,23.55629348014601,0 
+					3.187623958806598,23.55595866553747,0 
+					3.187792502164988,23.55593901046633,0 
+					3.188204007638644,23.55576681532066,0 
+					3.188289107643207,23.55568429506631,0 
+					3.188988643623409,23.55526857163304,0 
+					3.189486973562083,23.55495692256217,0 
+					3.189813021176791,23.55465334110473,0 
+					3.190293879889219,23.55411593064112,0 
+					3.190523870372177,23.55389613023226,0 
+					3.190812383640074,23.55367008484044,0 
+					3.191076646621132,23.55336061872508,0 
+					3.191320664791781,23.55296589054258,0 
+					3.191520598357485,23.55256122201294,0 	
+					3.191655190423477,23.55220245804926,0 	<!-- Ende Detailkarte: Keft -->
+					3.192125256404597,23.5452116114205,0 	
+					3.287084262707263,23.5345808618497,0 
+					3.317030884684917,23.52345149137964,0 
+					3.33453056480467,23.50674418461689,0 
+					3.384774910829971,23.44075862426382,0 
+					3.407249628171631,23.42813653539913,0 
+					3.453069952129528,23.42445687016664,0 
+					3.488782437818085,23.41518434129972,0 
+					3.503094625642649,23.40570939080671,0 
+					3.523511479016899,23.38301231047695,0 
+					3.557713749120628,23.36666600916819,0 
+					3.590826857275207,23.36193856908309,0 	<!-- <POI>AbzweigLinks:Karawanenroute nach Shobilla</POI> -->
+					3.656284182688692,23.34402173164373,0 
+					3.672048772506729,23.336142414383,0 
+					3.701347504382495,23.29666684262772,0 
+					3.726270002898728,23.27407257176812,0 
+					3.744942782590863,23.26509251985064,0	<!-- <POI>AbzweigRechts:Karawanenroute nach Kannemünde</POI> -->
+					3.782985205629834,23.26173694938318,0 
+					3.805233829610881,23.25332719722541,0 
+					3.836135488154246,23.21439838074434,0 
+					3.871870475959314,23.19505163191191,0 
+					3.952400095109294,23.18838309406017,0 
+					3.993851671588433,23.1519406566931,0 
+					4.042270925008788,23.13752480627286,0 
+					4.136617983309283,23.0910565182369,0 
+					4.172077843338789,23.0875370021478,0 
+					4.210083409286001,23.07202072366578,0 
+					4.253673110948844,23.03313472615475,0 
+					4.265601836425139,23.00637826398286,0 	<!-- <POI>AbzweigRechts:nach Unau</POI> --><!-- <POI>Siedlung:Tarfui</POI> -->
+					4.310074043736001,23.0622903643712,0 
+					4.395645423582295,23.07248074118071,0 
+					4.463649393370279,23.11714812495512,0 
+					4.510514385768589,23.12843485673841,0 
+					4.55217509913072,23.15937812503177,0 
+					4.588648847972612,23.16490656160428,0 
+					4.634730555027495,23.19097213100814,0 
+					4.670559925956319,23.24010857470142,0 
+					4.709967865230375,23.25720558842603,0 
+					4.750941655121381,23.26802563084699,0 
+					4.788583484614457,23.28747275853887,0 
+					4.820929928938136,23.29107914648664,0 
+					4.855190431078178,23.32399719716891,0 
+					4.889939083461867,23.34750310670113,0 
+					4.919438851668216,23.36090343746052,0 
+					4.950313506641901,23.41173188938151,0 
+					5.012421104144216,23.47320908203286,0 
+					5.016877154581836,23.50496927404299,0 
+					5.056188143925049,23.54382260010366,0 
+					5.067368993271439,23.59506718865593,0 
+					5.076283560540849,23.60321293222673,0 
+					5.08206134481209,23.66159769540747,0 
+					5.130249947313801,23.71530659013311,0 
+					5.214310919656107,23.77545163882435,0 	<!-- <POI>AbzweigLinks:nach Madrash</POI> -->
+					5.22456365546849,23.76126801012669,0 	<!-- <POI>Station:Karawanserei "Ain Turamesh"</POI> -->
+					5.261675707587877,23.72654127783183,0 
+					5.302482549862891,23.70004625630655,0 
+					5.344761338592788,23.68615556750498,0 	<!-- <POI>Siedlung:Hayàbeth</POI> -->
+					5.368658041028542,23.68203651943702,0 
+					5.403886448017095,23.67047800574648,0 
+					5.443135377332251,23.66509965417398,0 
+					5.480415772653275,23.67279971630101,0 
+					5.545968338993106,23.69625778891148,0 
+					5.597392487661468,23.6979847613482,0 
+					5.622773524146457,23.71205126027531,0 
+					5.711159848543066,23.71018755535627,0 
+					5.747435909092062,23.72943457508504,0 
+					5.797546537012075,23.74153211430438,0 	<!-- <POI>AbzweigRechts:nach Khalim</POI> -->
+					5.807610571763942,23.75897376101108,0 	<!-- <POI>SOE:Karawanenroute von Al'Tamur nach Rashdul</POI> --> <!-- <POI>Siedlung:Al'Tamur</POI> -->
+					5.808772925152441,23.78217700343242,0 
+					5.821447490825939,23.80426524025061,0 
+					5.840985877726506,23.83759796432064,0 	<!-- <POI>AbzweigLinks:nach Haisach</POI> -->
+					5.856349382921189,23.85713354320813,0 
+					5.902057363265055,23.89077911805336,0 
+					5.91494876322334,23.89380365038948,0 
+					5.948659157688749,23.92296539331688,0 	<!-- <POI>Siedlung:Rab El'Dash</POI> -->
+					5.954715250458897,23.93240220695521,0 	<!-- <POI>AbzweigLinks:nach Bakir</POI> -->
+					6.012576431235502,23.94920176726813,0 
+					6.032839475193468,23.96614880361428,0 
+					6.05430879482888,23.97649990226156,0 
+					6.074179283250729,23.9948113885287,0 
+					6.113074421266129,24.02821192311856,0 
+					6.11450881886249,24.03927672232038,0 
+					6.126112191069519,24.0460861391734,0 	<!-- <POI>Siedlung:**Unbekannt**</POI> --> <!-- noch nicht eingezeichnet! -->
+					6.144333918239521,24.06913549786335,0 
+					6.18930516672205,24.08874741590705,0 
+					6.214749868621398,24.10420362934892,0 
+					6.241133569781954,24.11505515585215,0 	<!-- <POI>Siedlung:Tinqil</POI> -->
+					6.242332426785144,24.12524624062571,0 
+					6.250473342699994,24.14214394562221,0 
+					6.260895836704141,24.15454951255692,0 
+					6.263763256253143,24.16851484422352,0 
+					6.257852571519127,24.20313166596823,0 
+					6.267369793874272,24.22202550180159,0 
+					6.2709172499294,24.23522508641569,0 	<!-- Beginn Detailkarte Rashdul -->
+					6.270554944255158,24.23555587465092,0 
+					6.270299753664698,24.2356602136943,0 
+					6.26997458164285,24.23585479118358,0 
+					6.269674508677234,24.23593757162817,0 
+					6.269527529754582,24.23605048892126,0 
+					6.269325455091758,24.23613810577184,0 
+					6.269079243583178,24.23647962923148,0 
+					6.26878879661632,24.23663233253711,0 
+					6.268663539480118,24.2368565809038,0 
+					6.268404518974053,24.23701814391012,0 
+					6.268342921508625,24.23717847526757,0 
+					6.268434768892844,24.23743466881886,0 	<!-- <POI>Flussquerung:Schuboch</POI> -->
+					6.268963254051219,24.23857717103701,0
+					6.268986344715639,24.2395714717006,0 
+					6.269025187054025,24.24041340595568,0 
+					6.268611503035744,24.24043215348459,0 
+					6.268614279508055,24.2406655799543,0 
+					6.267335,24.241073,0 	<!-- <POI>SOE:Sultansstraße</POI> --> <!-- <POI>SOE:Karawanenroute von Rashdul nach Unau</POI> -->  <!-- <POI>Siedlung:Rashdul</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>4.734551319985563</longitude>
+				<latitude>23.60729308308707</latitude>
+				<altitude>315000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

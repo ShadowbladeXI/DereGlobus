@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Arvepass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Arvepass-->
+			<name>Arvepass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Bei dem <b>Arvepass</b> handelt es sich um eine langgezogene, schroffe Schlucht. Diese Schneise durch die südlichen <a href="http://www.wiki-aventurica.de/wiki/Trollzacken" title="Trollzacken">Trollzacken</a> ist eine wichtige Route zwischen der <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Perricum" title="Markgrafschaft Perricum">Markgrafschaft Perricum</a> und der <a href="http://www.wiki-aventurica.de/wiki/Warunkei" title="Warunkei">Warunkei</a>, über die Karren fahren können und deshalb zur Not auch der Tross einer Armee ziehen kann. In den vergangenen Jahren war der Pass stets heftig umkämpft.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					6.794662967899723,29.20795844667612,0 <!--<POI>Siedlung:Hagenshain</POI>--> <!--<POI>SOE:Weg von Dergelmund nach Hagenshain</POI>-->
+					6.816931248429199,29.20346447014224,0
+					6.857069513908368,29.21822201955722,0 
+					6.923804515771172,29.22178533965753,0 
+					6.970646801083211,29.24480134512961,0 
+					7.003139440387991,29.27072045277468,0 
+					7.050090471384067,29.32763982778029,0 <!--<POI>Siedlung:Burg Leuenfels</POI>--> <!--<POI>Siedlung:Arveburg</POI>-->
+					7.065413817774169,29.37012052203313,0 
+					7.065827188603315,29.4246881727924,0 
+					7.049851020862816,29.48670621193598,0 
+					7.047449863796178,29.55604981767556,0 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>6.969310</longitude>
+				<latitude>29.355347</latitude>
+				<altitude>150000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

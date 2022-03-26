@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Selicum nach Samra</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Selicum nach Samra-->
+			<name>Straße von Selicum nach Samra</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						03.584350,25.899532,0	<!--<POI>Siedlung:Selicum</POI>--> <!--<POI>SOE:Zedernstraße</POI>-->
+						3.62364060227564,25.8966254331893,0 
+						3.693408264204876,25.8659159285871,0 
+						3.715756374571673,25.81142084859373,0 
+						3.713198880132167,25.77762622120996,0 
+						3.73162937677388,25.76296385031325,0   <!--<POI>Siedlung:unbenannt</POI>-->
+						3.771367756310669,25.76458310132039,0  
+						3.808179302221317,25.75433400836284,0 
+						3.828839485863822,25.72407129521131,0  <!--<POI>Siedlung:Kerbal</POI>--> <!--<POI>Abzweig:Straße von Kerbal nach Barqipa</POI>-->
+						3.829174196383023,25.6769363156959,0   <!--<POI>Flussquerung:unbenannt</POI>-->
+						3.824420563341584,25.63929332703856,0 
+						3.808332593563077,25.61689232658121,0 
+						3.810462553842449,25.59632616327097,0 
+						3.822239433116612,25.57445257938888,0 
+						3.835264189842287,25.56393180738533,0 
+						3.855621771850382,25.52998074722927,0 
+						3.868843522694694,25.51151654443407,0 
+						3.895115826404725,25.49762077779804,0  <!--<POI>Siedlung:Vishid</POI>-->
+						3.92330124600716,25.47498505140044,0 
+						3.932361131670907,25.44081546929433,0 
+						3.951325955079592,25.41791316255281,0 
+						3.95895070684388,25.39236290552306,0 
+						3.99031713345122,25.36931091896024,0 
+						4.031570958274388,25.35466791638517,0 
+						4.080167411390141,25.36052032478012,0 
+						4.103973859135714,25.34818301538568,0 
+						4.117095515339071,25.34816335279224,0 
+						4.135566855178987,25.33351397631359,0 
+						4.158611035737129,25.31958331124746,0 
+						4.19920798917989,25.31460807274669,0 
+						4.236322960433689,25.31842456918978,0 
+						4.271338636930439,25.33980966886726,0 
+						4.306025358098733,25.34167176686631,0  <!--<POI>Siedlung:Shobilla</POI>--> <!--<POI>Abzweig:Straße von Ben-Oni nach Shobilla</POI>-->
+						4.332839171267837,25.3504047337593,0 
+						4.379838476833515,25.37481369985557,0 
+						4.433371096436984,25.36773481865993,0 
+						4.462994486274425,25.3542045966763,0 
+						4.48433540729032,25.35379346591847,0 
+						4.516960620495178,25.32757196802119,0 
+						4.524529632965527,25.28561520086959,0 
+						4.544253461902179,25.26696807108115,0 
+						4.580352282426398,25.25079663097919,0 
+						4.657218226559577,25.19754060940835,0 
+						4.680124466933404,25.16879044144893,0 
+						4.742096663062445,25.14303089956253,0 
+						4.756852412341814,25.14164510119321,0 
+						4.798540999350816,25.16647714472351,0  <!--<POI>Siedlung:Bagfua</POI>--> <!--<POI>Abzweig:Straße von Ben-Oni nach Bagfua</POI>-->
+						4.82812462615609,25.16465963497981,0   <!--<POI>Flussquerung:unbenannt</POI>-->
+						4.876317462253774,25.13471277043438,0 
+						4.891782196262349,25.13330649431239,0 
+						4.92244955523393,25.14480788395935,0 
+						4.947880102470876,25.13293023375035,0 
+						4.965153250752101,25.13280416426596,0 
+						4.992865512120583,25.11121266935439,0 
+						5.014656344173984,25.11202849330473,0 
+						5.067126457481468,25.14470328452493,0 
+						5.075902446269726,25.17399219105557,0   <!--<POI>Siedlung:Ivrinno</POI>-->
+						5.098737515060448,25.1865798819218,0 
+						5.160820783764526,25.20478188518116,0 
+						5.24369159611715,25.18303235645428,0 
+						5.329508395245981,25.18878072103692,0 
+						5.367850063242985,25.207803498775,0     <!--<POI>Flussquerung:Gadang</POI>-->
+						5.472470363722028,25.21140026950933,0   <!-- <POI>Siedlung:Samra</POI> --> <!-- <POI>SOE:Straße von Ulahbar nach Mherwed</POI> --> <!-- <POI>Abzweig:Straße von Samra nach Al'Rabat</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>4.547279</longitude>
+				<latitude>25.484345</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

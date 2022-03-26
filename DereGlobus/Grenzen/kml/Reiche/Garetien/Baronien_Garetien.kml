@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+    <Region>
+      <LatLonAltBox>
+        <north>44.68523182173993</north>
+        <south>13.83211470255367</south>
+        <east>13.82951187257615</east>
+        <west>-8.928795211729799</west>
+        <minAltitude>0</minAltitude>
+        <maxAltitude>0</maxAltitude>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>4800</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+        <minFadeExtent>200</minFadeExtent>
+        <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+    </Region>
+    <Folder>
+	  <name>Garetien</name>
+      <visibility>1</visibility>
+      <open>0</open>
+<Placemark>
+	<name>Baronie Kaiserlich Ochsenblut</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>
+				3.663687,30.162655,1000 3.64285019740046,30.17132410468506,1000 3.620387145824093,30.17540109931014,1000 3.564508645383699,30.14967027886644,1000 3.497838342588717,30.12502461994556,1000 3.464506,30.112847,1000 3.445142946568829,30.09004426746341,1000 3.417417018769779,30.06837693352308,1000 3.371669946889107,30.04770020179693,1000 3.308413854775019,30.00366380899161,1000 3.254058745826098,29.95039329985569,1000 3.227360535439321,29.91939208036295,1000 3.211316,29.892145,1000 3.199912070826059,29.87937426042615,1000 3.154600662325997,29.82548094812761,1000 3.122862006619533,29.79732411747486,1000 3.092124353365657,29.77497817989686,1000 3.072280,29.753014,1000 3.086894099484243,29.75408346100096,1000 3.150092881590312,29.7422157276872,1000 3.236155940203966,29.74056995391111,1000 3.269276620854595,29.73153452151626,1000 3.330867373488047,29.73198487311663,1000 3.394082449354696,29.73653697206708,1000 3.41067057345618,29.73578291480319,1000 3.429051,29.731622,1000 3.458899596173946,29.73414275750952,1000 3.527541874792122,29.73421940257646,1000 3.579152191131303,29.74673580163568,1000 3.60310235741129,29.74998561222506,1000 3.626364,29.748727,1000 3.621635974777482,29.76890252019027,1000 3.60683162144491,29.8463413682258,1000 3.599563371685199,29.85853179933953,1000 3.594516025865642,29.87198635314673,1000 3.595339744807677,29.88220786926165,1000 3.605002157141581,29.89173509316997,1000 3.624970530396849,29.89863744490483,1000 3.652386669418988,29.91379684877663,1000 3.66967378748746,29.9507592848758,1000 3.674342740907703,29.97822200471767,1000 3.665036039331848,30.01154335849507,1000 3.64982772812015,30.04683071789081,1000 3.632196578622013,30.09851085304207,1000 3.632364211437082,30.12069491716513,1000 3.650992120226324,30.14541239014006,1000 3.663687,30.162655,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Kaiserlich Sighelmsmark</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				3.072280,29.753014,1000 3.057738837255699,29.74004112070191,1000 3.043324911897458,29.72071997045579,1000 3.038969648558045,29.70075725695117,1000    3.035288,29.672918,1000 3.041451371663784,29.65398383179773,1000 3.055803793678806,29.62330972915109,1000 3.078717451315558,29.58076516594451,1000 3.114508590400711,29.54007724084793,1000 3.170335821408206,29.50245458465826,1000 3.225396493116044,29.46981480782949,1000 3.24311657759456,29.42793823013239,1000 3.249009,29.400726,1000 3.267677328294332,29.40870898014809,1000 3.305844136844873,29.4384695294576,1000 3.355750802970592,29.47515884919349,1000 3.415812620493826,29.49905555300532,1000 3.44731501425708,29.50971663831545,1000     3.468842,29.512961,1000 3.465215401966222,29.53867222991812,1000 3.467568278898909,29.59279244194102,1000 3.455229283077976,29.62197370150022,1000 3.447778359109646,29.66113372692244,1000 3.445241137471378,29.69959187904674,1000 3.434524761072251,29.72380126869819,1000 3.429051,29.731622,1000 3.41067057345618,29.73578291480319,1000 3.394082449354696,29.73653697206708,1000 3.330867373488047,29.73198487311663,1000 3.269276620854595,29.73153452151626,1000 3.236155940203966,29.74056995391111,1000 3.150092881590312,29.7422157276872,1000 3.086894099484243,29.75408346100096,1000 3.072280,29.753014,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Kaiserlich Halsmark</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				3.249009,29.400726,1000 3.246475837615253,29.39221781092925,1000 3.245892734994464,29.38737038367469,1000     3.246050,29.381719,1000 3.24234672532145,29.36822729872454,1000 3.262663072473915,29.34664282901357,1000 3.290637973780175,29.31212946399669,1000 3.308054035568888,29.28258041973446,1000 3.315572629269057,29.24693335759634,1000 3.311126658275756,29.21073035479314,1000 3.316506237646304,29.17140633710207,1000 3.323852,29.149414,1000 3.338842547503471,29.15344735137242,1000 3.541781955755383,29.19897471579029,1000 3.572097988980729,29.20614510456253,1000 3.629140956560037,29.20943832737961,1000 3.69832036509254,29.22490806585707,1000 3.733826,29.235965,1000 3.723011203457092,29.27485144713138,1000 3.715761071108532,29.32451505725942,1000 3.699704795987524,29.36077664196883,1000 3.681593637278389,29.38358976848092,1000 3.678170,29.402247,1000 3.669774924942371,29.42553060185284,1000 3.649346433348133,29.46896115838278,1000 3.610079034200573,29.50100164175527,1000 3.58143476257532,29.51452310977449,1000 3.545427294764134,29.51877623468172,1000 3.510239567836002,29.5187479817862,1000 3.468842,29.512961,1000 3.44731501425708,29.50971663831545,1000 3.415812620493826,29.49905555300532,1000 3.355750802970592,29.47515884919349,1000 3.305844136844873,29.4384695294576,1000 3.267677328294332,29.40870898014809,1000 3.249009,29.400726,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Kaiserlich Alriksmark</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				3.733826,29.235965,1000 3.750650814866046,29.23991494863489,1000 3.779642494477657,29.24079543277669,1000       3.796477,29.234577,1000 3.816420579485798,29.23744962492264,1000 3.845311887336667,29.23643128861032,1000 3.896857098514046,29.24466155611014,1000 3.966512570447729,29.25900231694451,1000 4.033542778032981,29.27884176790692,1000 4.051993,29.281038,1000 4.071566237068205,29.30830298480068,1000 4.104519057362939,29.37582930523073,1000 4.116346974520742,29.41186419696706,1000 4.150134331272914,29.4433083355456,1000 4.162585515259245,29.47608317838849,1000 4.159664187265335,29.49429405125635,1000  4.158538,29.506482,1000 4.12932398943825,29.50566085268259,1000 4.092164028435463,29.50902702004239,1000 4.060641348893652,29.52611283745157,1000 4.040259489800775,29.54235126095505,1000 4.011485578383141,29.55700546825095,1000 3.992897461006464,29.56191739096578,1000 3.981742,29.558870,1000 3.947386777897568,29.55484723754038,1000 3.915280461517099,29.53966161824842,1000 3.876488167528114,29.51552473071709,1000 3.833485360267048,29.49084845417182,1000 3.815418,29.479841,1000 3.795372665759713,29.47354427881622,1000 3.779036804185156,29.46356053743167,1000 3.766327875308395,29.44883530880259,1000 3.742732468756502,29.43148576862386,1000 3.726402135978746,29.42728476956175,1000 3.71430428409625,29.42202679022689,1000 3.691923603920784,29.40887388379733,1000 3.678170,29.402247,1000 3.681593637278389,29.38358976848092,1000 3.699704795987524,29.36077664196883,1000 3.715761071108532,29.32451505725942,1000 3.723011203457092,29.27485144713138,1000 3.733826,29.235965,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Retogau</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				4.158538,29.506482,1000 4.158531999302213,29.52126951441042,1000 4.16223580527975,29.54754296442942,1000       4.169742,29.560204,1000 4.170158169528435,29.59276585782369,1000 4.175401965795702,29.65638293513777,1000 4.167053820511228,29.71694089166824,1000 4.162120153363427,29.75874078975664,1000 4.165108,29.780569,1000 4.168827058408766,29.8026613663371,1000 4.144651087264073,29.83663940767666,1000 4.133941088958819,29.86404746445696,1000 4.132845563814318,29.87369262637558,1000 4.076432935665102,29.90214793149632,1000 4.048264769135597,29.9206470652261,1000 4.036033,29.924665,1000 4.019322989493162,29.91478473737547,1000 3.988905263661939,29.88140658800315,1000 3.963706701888272,29.84284813675896,1000 3.946067933490884,29.80603645558164,1000 3.93347090161287,29.77182447536116,1000 3.927256,29.752022,1000 3.940222660673352,29.73672546242898,1000 3.988476882855792,29.69830437569251,1000 3.997324808896245,29.68604293179825,1000 3.997165029687781,29.66273014183685,1000 3.992308532674043,29.64275927613465,1000 3.98184501307955,29.6132040771593,1000 3.98677143431692,29.58987425638663,1000 3.985819434160853,29.57730277032087,1000 3.981742,29.558870,1000 3.992897461006464,29.56191739096578,1000 4.011485578383141,29.55700546825095,1000 4.040259489800775,29.54235126095505,1000 4.060641348893652,29.52611283745157,1000 4.092164028435463,29.50902702004239,1000 4.12932398943825,29.50566085268259,1000 4.158538,29.506482,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Kaiserlich Raulsmark</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				4.036033,29.924665,1000 4.021748730105919,29.93646976895236,1000 4.000823950011645,29.94256250660995,1000 3.969449298385999,29.95249571717678,1000 3.954060,29.956683,1000 3.934376581702535,29.96240305481832,1000 3.897951983374501,29.98227724727428,1000 3.83641722407396,30.02595873028859,1000 3.731983203867964,30.11148900435171,1000 3.680610658495178,30.15424471616914,1000 3.663687,30.162655,1000 3.650992120226324,30.14541239014006,1000 3.632364211437082,30.12069491716513,1000 3.632196578622013,30.09851085304207,1000 3.64982772812015,30.04683071789081,1000 3.665036039331848,30.01154335849507,1000 3.674342740907703,29.97822200471767,1000 3.66967378748746,29.9507592848758,1000 3.652386669418988,29.91379684877663,1000 3.624970530396849,29.89863744490483,1000 3.605002157141581,29.89173509316997,1000 3.595339744807677,29.88220786926165,1000 3.594516025865642,29.87198635314673,1000 3.599563371685199,29.85853179933953,1000 3.60683162144491,29.8463413682258,1000 3.621635974777482,29.76890252019027,1000  3.626364,29.748727,1000 3.634510460855951,29.74355255999284,1000 3.649678254968554,29.73191587262009,1000 3.67025886110937,29.73472953307345,1000 3.69636840466149,29.73360684097385,1000 3.715855004494542,29.71688847459756,1000 3.743143636842021,29.70864123646319,1000 3.769131184054551,29.70262742189048,1000 3.809965396179571,29.71394558893476,1000 3.821745,29.715016,1000 3.846683620476663,29.72274209635299,1000 3.869758590568089,29.72564009147174,1000 3.902096421342933,29.73449657443777,1000 3.916567185741349,29.74343509688888,1000 3.927256,29.752022,1000 3.93347090161287,29.77182447536116,1000 3.946067933490884,29.80603645558164,1000 3.963706701888272,29.84284813675896,1000 3.988905263661939,29.88140658800315,1000 4.019322989493162,29.91478473737547,1000 4.036033,29.924665,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Kaiserlich Gerbaldsmark</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				3.626364,29.748727,1000 3.60310235741129,29.74998561222506,1000 3.579152191131303,29.74673580163568,1000 3.527541874792122,29.73421940257646,1000 3.458899596173946,29.73414275750952,1000 3.429051,29.731622,1000 3.434524761072251,29.72380126869819,1000 3.445241137471378,29.69959187904674,1000 3.447778359109646,29.66113372692244,1000 3.455229283077976,29.62197370150022,1000 3.467568278898909,29.59279244194102,1000 3.465215401966222,29.53867222991812,1000 3.468842,29.512961,1000 3.510239567836002,29.5187479817862,1000 3.545427294764134,29.51877623468172,1000 3.58143476257532,29.51452310977449,1000 3.610079034200573,29.50100164175527,1000 3.649346433348133,29.46896115838278,1000 3.669774924942371,29.42553060185284,1000 3.678170,29.402247,1000 3.691923603920784,29.40887388379733,1000 3.71430428409625,29.42202679022689,1000 3.726402135978746,29.42728476956175,1000 3.742732468756502,29.43148576862386,1000 3.766327875308395,29.44883530880259,1000 3.779036804185156,29.46356053743167,1000 3.795372665759713,29.47354427881622,1000 3.815418,29.479841,1000 3.800419913323367,29.49262368518363,1000 3.77698621654061,29.52624142032266,1000 3.757076203950502,29.5679048284401,1000 3.75375539149704,29.58996284284413,1000 3.760793812050165,29.60997501275821,1000 3.778857649267056,29.64795187421618,1000 3.78645903674266,29.66994473482063,1000 3.800349795995004,29.68190106072297,1000 3.814825862345677,29.69485483230537,1000 3.821745,29.715016,1000 3.809965396179571,29.71394558893476,1000 3.769131184054551,29.70262742189048,1000 3.743143636842021,29.70864123646319,1000 3.715855004494542,29.71688847459756,1000 3.69636840466149,29.73360684097385,1000 3.67025886110937,29.73472953307345,1000 3.649678254968554,29.73191587262009,1000 3.634510460855951,29.74355255999284,1000 3.626364,29.748727,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>
+<Placemark>
+	<name>Baronie Vierok</name>
+	<Snippet maxLines="0"></Snippet>
+	<description><![CDATA[<style type="text/css"><!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki  { font-size:10px; } --></style> <table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die <b>$[name]</b> liegt in der <a href="http://www.wiki-aventurica.de/wiki/Kaisermark_Gareth" title="Kaisermark Gareth">Kaisermark Gareth</a>.</p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki
+            Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+            <p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" href="http://www.wiki-aventurica.de" rel="nofollow">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" rel="nofollow">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/index.php? title=$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>]]></description>
+	<TimeSpan>
+		<begin></begin>
+	</TimeSpan>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Reiche.kml#Baronie</styleUrl>
+		<ExtendedData>
+		<Data name="Link">
+			<value>$[name]</value>
+		</Data>
+	</ExtendedData>
+	<Polygon id="KMLe_857">
+		<tessellate>1</tessellate>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>  
+				3.821745,29.715016,1000 3.814825862345677,29.69485483230537,1000 3.800349795995004,29.68190106072297,1000 3.78645903674266,29.66994473482063,1000 3.778857649267056,29.64795187421618,1000 3.760793812050165,29.60997501275821,1000 3.75375539149704,29.58996284284413,1000 3.757076203950502,29.5679048284401,1000 3.77698621654061,29.52624142032266,1000 3.800419913323367,29.49262368518363,1000 3.815418,29.479841,1000 3.833485360267048,29.49084845417182,1000 3.876488167528114,29.51552473071709,1000 3.915280461517099,29.53966161824842,1000 3.947386777897568,29.55484723754038,1000 3.981742,29.558870,1000 3.985819434160853,29.57730277032087,1000 3.98677143431692,29.58987425638663,1000 3.98184501307955,29.6132040771593,1000 3.992308532674043,29.64275927613465,1000 3.997165029687781,29.66273014183685,1000 3.997324808896245,29.68604293179825,1000 3.988476882855792,29.69830437569251,1000 3.940222660673352,29.73672546242898,1000 3.927256,29.752022,1000 3.916567185741349,29.74343509688888,1000 3.902096421342933,29.73449657443777,1000 3.869758590568089,29.72564009147174,1000 3.846683620476663,29.72274209635299,1000 3.821745,29.715016,1000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</Placemark>	
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Heidestieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Heidestieg-->
+			<name>Heidestieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Heidestieg</b> ist ein quer durch die Heide <a href="http://www.wiki-aventurica.de/wiki/S%C3%BCdthorwal" title="Südthorwal">Südthorwals</a> führender Handelsweg. Er beginnt in <a href="http://www.wiki-aventurica.de/wiki/Kendrar" title="Kendrar">Kendrar</a> und führt durch <a href="http://www.wiki-aventurica.de/wiki/Skardan" title="Skardan">Skardan</a>, <a href="http://www.wiki-aventurica.de/wiki/Nehult" title="Nehult">Nehult</a>, <a href="http://www.wiki-aventurica.de/wiki/Rovamund" title="Rovamund">Rovamund</a> und <a href="http://www.wiki-aventurica.de/wiki/Peilinen" title="Peilinen">Peilinen</a>. In <a href="http://www.wiki-aventurica.de/wiki/Breida" title="Breida">Breida</a> gabelt er sich, nordwestlich führt er nach <a href="http://www.wiki-aventurica.de/wiki/Tjoila" title="Tjoila">Tjoila</a>, westlich nach <a href="http://www.wiki-aventurica.de/wiki/Serske" title="Serske">Serske</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.243117662333155,31.5987180529884,0   <!--<POI>Siedlung:Kendrar</POI>--> <!--<POI>Abzweigung:Küstenstraße von Thorwal nach Nostria</POI>-->
+						-04.229677,31.620665,0	
+						-04.224191,31.630273,0	
+						-04.221135,31.647820,0	
+						-04.213488,31.662604,0	
+						-04.210047,31.673056,0	
+						-04.208900,31.691309,0	
+						-04.160887,31.738370,0	
+						-04.151980,31.742097,0	
+						-04.137825,31.741440,0	
+						-04.111938,31.742073,0	
+						-04.098541,31.748243,0	
+						-04.090876,31.758133,0	
+						-04.088183,31.768215,0	<!-- <POI>Siedlung:Skardan</POI> -->
+						-04.078077,31.782445,0	
+						-04.050121,31.800676,0	
+						-04.037866,31.810163,0	
+						-04.025573,31.828967,0	
+						-04.013735,31.847585,0	
+						-03.997623,31.858715,0	
+						-03.961062,31.883608,0	
+						-03.903077,31.922841,0	<!-- <POI>Siedlung:unbenannt</POI> -->
+						-03.881418,31.942625,0	
+						-03.881094,31.950998,0	
+						-03.860629,31.966288,0	
+						-03.838616,31.978462,0	
+						-03.819980,32.000066,0	
+						-03.793309,32.017365,0	
+						-03.760427,32.034021,0	<!-- <POI>Siedlung:Nehult</POI> --> <!-- <POI>Kreuzung:Straße von Efferdûn nach Lyckmoor</POI> -->
+						-03.706480,32.067963,0	
+						-03.683586,32.083084,0	
+						-03.656486,32.090685,0	
+						-03.624768,32.111555,0	
+						-03.606801,32.113688,0	
+						-03.568282,32.142152,0	
+						-03.522143,32.192680,0	<!-- <POI>Siedlung:unbenannt</POI> -->
+						-03.525742,32.216037,0	
+						-03.524131,32.248337,0	
+						-03.502214,32.279731,0	
+						-03.476730,32.313788,0	<!-- <POI>Siedlung:Rovamund</POI> --> <!-- <POI>Kreuzung:Straße von Rovamund nach Nordvest</POI> -->
+						-03.465719,32.332580,0	
+						-03.461378,32.358756,0	
+						-03.444612,32.400605,0	
+						-03.420985,32.449943,0	
+						-03.420615,32.493102,0	
+						-03.410586,32.517609,0	
+						-03.397087,32.539348,0	
+						-03.397206,32.561132,0	
+						-03.404435,32.569144,0	
+						-03.416939,32.580088,0	<!-- <POI>Siedlung:Peilingn</POI> -->
+						-03.436673,32.586040,0	
+						-03.473754,32.600432,0	
+						-03.512879,32.626518,0	
+						-03.544617,32.643141,0	<!-- <POI>Siedlung:Wirtshaus</POI> -->
+						-03.596070,32.650085,0	
+						-03.622051,32.655558,0	
+						-03.650251,32.654877,0	
+						-03.667176,32.654955,0	
+						-03.691286,32.667712,0	
+						-03.715587,32.672150,0	
+						-03.736018,32.678477,0	<!-- <POI>Siedlung:Breida</POI> -->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-03.736018,32.678477,0	<!-- <POI>Siedlung:Breida</POI> -->
+						-03.752590,32.671055,0	
+						-03.772886,32.666885,0	
+						-03.802680,32.663804,0	
+						-03.829335,32.652937,0	
+						-03.841286,32.643080,0	
+						-03.875980,32.639642,0	
+						-03.911178,32.639375,0	
+						-03.920378,32.642922,0	
+						-03.943189,32.643677,0	
+						-03.965626,32.643366,0	
+						-03.990724,32.638467,0	
+						-04.011596,32.638148,0	
+						-04.041027,32.636069,0	
+						-04.067642,32.634687,0	
+						-04.086664,32.637612,0	
+						-04.104357,32.654720,0	<!-- <POI>Siedlung:Serske</POI>--> <!--<POI>Abzweigung:Küstenstraße von Thorwal nach Nostria</POI>-->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-03.736018,32.678477,0	<!-- <POI>Siedlung:Breida</POI> -->
+						-03.750673,32.692736,0	
+						-03.763969,32.706830,0	
+						-03.775754,32.726661,0	
+						-03.786075,32.736909,0	
+						-03.818786,32.759006,0	
+						-03.822772,32.781697,0	
+						-03.825111,32.795604,0	
+						-03.831934,32.808656,0	
+						-03.848952,32.817625,0	
+						-03.877021,32.830170,0	
+						-03.899758,32.846473,0	
+						-03.923159,32.856715,0	
+						-03.935096,32.862343,0	<!-- <POI>Siedlung:Tjoila</POI> -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>-4.046590</longitude>
+				<latitude>32.199058</latitude>
+				<altitude>265000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

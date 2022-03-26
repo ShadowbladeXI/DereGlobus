@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Infomarker Havena</name>
+	<Region>
+		<LatLonAltBox>
+			<north>29.06572891215429</north>
+			<south>29.05595236559286</south>
+			<east>-3.157933754779839</east>
+			<west>-3.172997625522446</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Infomarker</name>
+		<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Pension Hafenmelodie<br/>
+					Wirtshaus Zum Nord-Gardisten<br/>
+					<br/>
+					<b>Handelsstätten:</b><br/>
+					Bootshändler (Paramud Badrasch)<br/>
+					Händler (Garje)<br/>
+					Juwelierin (Aurentia)<br/>
+					Laden (Joben)<br/>
+					Tuchhändlerin (Selinde Redenwald)<br/>
+					<br/>
+					<b>Landschaft:</b><br/>
+					Alter Praiostempel [Unterstadt/Ruine]<br/>
+					Alter Rahjatempel [Unterstadt]<br/>
+					Ferdockbogen [Unterstadt/Ruine]<br/>
+					Thaumaturgische Akademie [Unterstadt/Ruine]<br/>
+					Versunkenes Gildenhaus [Unterstadt]<br/>
+					<br/>
+					<b>Öffentliche Bauwerke:</b><br/>
+					Große Bibliothek [Unterstadt]<br/>
+					Kaiser-Gerbald-Säule [Unterstadt]<br/>
+					Naturkundliches Museum<br/>
+					Schwertmeisterin (Scanlail ni Uinin)<br/>
+					<br/>
+					<b>Privathäuser:</b><br/>
+					Floßhütte (Ordhan Faic)<br/>
+					Hütte (Perainwen) [Vor den Toren]<br/>
+					Patrizierhaus (Ole Tarbhach)<br/>
+					Wohnhaus (Corn'her)<br/>
+					Wohnhaus (Melina saba Zajh)<br/>
+					<br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					<br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					<br/>
+					<b>Straßen:</b><br/>
+					<br/>
+					<b>Werkstätten:</b><br/>
+					Apotheker (Ansgar Suhwen)<br/>
+					Drei-Kronen-Druckerei<br/>
+					Fleischerei (Cucanai)<br/>
+					Heiler (Bennwir Faihc)<br/>
+					Garos Rollfuhrwerke<br/>
+					Gildenhaus Töpfer [Ruine]<br/>
+					Kurhaus (Fingorn Seledie) [Vor den Toren]<br/>
+					Rechtsgelehrter (Elkrard Bosserossi)<br/>
+					Schmied (Sugosch)<br/>
+					Schreibstube Dolch und Gänsekiel<br/>
+					<br/>
+					<B>Mögliche Quellen:</B><BR> Das Land des Schwarzen Auges, S. 81<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<br/>Das Fürstentum Albernia, S. 32<br/>Havena, S. 1<br/>Die Welt des Schwarzen Auges, S. 999<br/>Geographia Aventurica, S. 51<br/>Havena - Grundrißpläne, S. 1<br/>Stromschnellen, S. 50<br/>In den Nebeln Havenas, S. 7<br/>Efferds Wogen, S. 74<br/>Efferds Wogen, S. 85<br/>Pilgerpfade, S. 51<br/>Handelsherr und Kiepenkerl, S. 15<br/>Wege des Meisters, S. 141<br/>Kleinodien, S. 39<br/>Liebliche Prinzessin Yasmina, S. 25<br/>Aventurischer Bote (07), S. 1<br/>Aventurischer Bote (10), S. 1<br/>Im Rücken des Königs, S. 1<br/>Wege der Helden, S. 98<br/>Götter, Kulte, Mythen, S. 41<br/>Aventurien, S. 12<br/>Das Ferdoker Pergament, S. 15<br/>Vater der Fluten, S. 14<br/>Hort in der Tiefe, S. 43<br/>Aventurischer Bote (142), S. 11<br/>Aventurisches Archiv 1, S. 11<br/>Im Bann des Diamanten, S. 113<br/>Schatten über Bosparan, S. 75<HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]></description>
+		<LookAt>
+			<longitude>-3.165826</longitude>
+			<latitude>29.060458</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+		<Point>
+			<coordinates>-3.175747,29.061504,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

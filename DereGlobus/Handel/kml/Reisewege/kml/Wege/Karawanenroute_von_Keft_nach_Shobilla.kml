@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Keft nach Shobilla</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Keft nach Shobilla-->
+			<name>Karawanenroute von Keft nach Shobilla</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Keft nach Shobilla</b> beginnt am Knotenpunkt aller <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Khom" title="Khom" class="mw-redirect">Khom</a>, in <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a> und führt über <a href="http://www.wiki-aventurica.de/wiki/Al%27Rifat" title="Al'Rifat">Al'Rifat</a> und <a href="http://www.wiki-aventurica.de/wiki/El%27Karram" title="El'Karram">El'Karram</a> nach <a href="http://www.wiki-aventurica.de/wiki/Shobilla" title="Shobilla">Shobilla</a>. Neben der <a href="http://www.wiki-aventurica.de/wiki/Khom" title="Khom" class="mw-redirect">Khom</a>-Wüste muss zwischen <a href="http://www.wiki-aventurica.de/wiki/Al%27Rifat" title="Al'Rifat">Al'Rifat</a> und <a href="http://www.wiki-aventurica.de/wiki/Shobilla" title="Shobilla">Shobilla</a> auch das <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirge</a> durchquert werden.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.187454240589658,23.55705935898839,0 	<!-- <POI>SOE:Karawanenroute von Keft nach Shobilla</POI> --> <!-- <POI>Siedlung: Keft</POI> -->
+					3.1875117557896,23.55630747387184,0 
+					3.18762315523349,23.55629348014601,0 
+					3.187623958806598,23.55595866553747,0 
+					3.187792502164988,23.55593901046633,0 
+					3.188204007638644,23.55576681532066,0 
+					3.188289107643207,23.55568429506631,0 
+					3.188988643623409,23.55526857163304,0 
+					3.189486973562083,23.55495692256217,0 
+					3.189813021176791,23.55465334110473,0 
+					3.190293879889219,23.55411593064112,0 
+					3.190523870372177,23.55389613023226,0 
+					3.190812383640074,23.55367008484044,0 
+					3.191076646621132,23.55336061872508,0 
+					3.191320664791781,23.55296589054258,0 
+					3.191520598357485,23.55256122201294,0 	
+					3.191655190423477,23.55220245804926,0 	<!-- Ende Detailkarte: Keft -->
+					3.192125256404597,23.5452116114205,0 
+					3.287084262707263,23.5345808618497,0 
+					3.317030884684917,23.52345149137964,0 
+					3.33453056480467,23.50674418461689,0 
+					3.384774910829971,23.44075862426382,0 
+					3.407249628171631,23.42813653539913,0 
+					3.453069952129528,23.42445687016664,0 
+					3.488782437818085,23.41518434129972,0 
+					3.503094625642649,23.40570939080671,0 
+					3.523511479016899,23.38301231047695,0 
+					3.557713749120628,23.36666600916819,0 
+					3.590826857275207,23.36193856908309,0 	<!-- AbzweigRechts:Karawanenroute nach Kannemünde, Krawaneroute nach Rashdul -->
+					3.605573423718844,23.38612617709417,0 
+					3.665237122471128,23.42761040557586,0 
+					3.662779445993678,23.46232598157107,0 
+					3.683894942767381,23.48460655800276,0 
+					3.709855364697989,23.51482089257935,0 
+					3.731512414847376,23.55571960265716,0 
+					3.812190903654558,23.59670182895134,0 
+					3.8537445620206,23.64456512458474,0 
+					3.926370302456699,23.68610939504328,0 
+					3.945191256911473,23.7636976062343,0 
+					3.934839328782929,23.78669160709367,0 
+					3.959859762816198,23.81524402107074,0 
+					3.958903869101256,23.85893457135438,0 
+					3.953226125994647,23.89296532278754,0 
+					3.959292862253605,23.91705636847896,0 
+					3.980754464816116,23.93422415585597,0 
+					4.005572374983508,23.94259496779732,0 	<!-- Siedlung:Al'Rifat -->
+					4.007008190682305,23.98682032095634,0 
+					4.032422613980766,24.05862151680262,0 
+					4.029206364258677,24.07982397813649,0 
+					4.01877703683446,24.09746589414923,0 
+					4.0363005707638,24.15245260431028,0 
+					4.036382926904947,24.1846858432163,0 
+					4.028009996281272,24.20327984246447,0 
+					4.034075232676237,24.22845365164514,0 
+					4.028722418673771,24.2616823450624,0 
+					3.971359945626021,24.32511622649757,0 
+					3.974106916302207,24.34246076451494,0 
+					4.016341974729945,24.37533390913114,0 	<!-- Anfang Khoram Gebirge -->
+					4.026549406402388,24.41178056185808,0 
+					4.056232653446362,24.42912502822464,0 
+					4.070737604963233,24.42871716980617,0 
+					4.092979568545887,24.44977289915061,0 
+					4.15553547899049,24.44719067061676,0 
+					4.186643837194564,24.48357501466791,0 
+					4.200627931377152,24.52134740166707,0 
+					4.168803204558191,24.56753542596464,0 	<!-- Siedlung:El'Kariam --> <!-- AbzweigRechts:nach Madrash-->
+					4.142143272821103,24.59446591144574,0 
+					4.076624363478762,24.62768584616793,0 
+					4.032250946693421,24.60948280060322,0 	<!-- AbzweigLinks:nach Kireh -->
+					4.009755479359695,24.65015622772533,0 
+					4.009135809430466,24.67257636778961,0 
+					4.027246804296063,24.70002060153719,0 
+					4.022125234515128,24.73340674330762,0 
+					4.012843210139197,24.75956258510594,0 
+					4.021058775385782,24.77320916442908,0 
+					4.06948972036274,24.81529004994046,0 
+					4.068672522377399,24.84624059351148,0 
+					4.053673196388468,24.87891741843304,0 
+					4.053656979513265,24.90858891431953,0 
+					4.081772658534031,24.92440643925711,0 
+					4.116595682117379,24.93329178775874,0 
+					4.151292835894029,24.97379766172503,0 
+					4.154796661253581,24.99368209606334,0 
+					4.146283718601056,25.01607382014615,0 
+					4.157072218874236,25.03831105974901,0 
+					4.161102824554712,25.07836060911576,0 	<!-- Ende Khoram Gebirge -->
+					4.184620988325493,25.13327524729904,0 
+					4.193483292931006,25.17829983472539,0 
+					4.209220463794496,25.22590827533731,0 
+					4.210269190668758,25.28934328289157,0 	<!-- AbzweigLinks: -->
+					4.262267712533405,25.30901234349465,0 
+					4.281543189899388,25.31998483655477,0 
+					4.305700978366877,25.31605128320144,0 
+					4.317760971018303,25.32118100591205,0 	<!-- Siedlung:Shobilla --> <!-- <POI>SOE:Karawanenroute von Keft nach Shobilla</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>3.865089713771972</longitude>
+				<latitude>24.29431106456347</latitude>
+				<altitude>362000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

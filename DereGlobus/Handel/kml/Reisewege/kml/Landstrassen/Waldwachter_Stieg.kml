@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Waldwachter Stieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Waldwachter Stieg-->
+			<name>Waldwachter Stieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Waldwachter Stieg</b> südlich des <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwalds</a> ist eine Handelsstraße der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Waldwacht" title="Grafschaft Waldwacht">Grafschaft Waldwacht</a> und führt von <a href="http://www.wiki-aventurica.de/wiki/Mesch" title="Mesch">Mesch</a> gen <a href="http://www.wiki-aventurica.de/wiki/Taladur" title="Taladur">Taladur</a>. Hauptsächlich dient er dem Transport von <a href="http://www.wiki-aventurica.de/wiki/Eisen_%28Metall%29" title="Eisen (Metall)">Eisenerz</a> aus den Eisenwalder Minen in Richtung der Provinzcapitale. Der Teilabschnitt zwischen <a href="http://www.wiki-aventurica.de/wiki/Mesch" title="Mesch">Mesch</a> und <a href="http://www.wiki-aventurica.de/wiki/Geierschrei" title="Geierschrei">Geierschrei</a> ist auch als <b>Agumer Weg</b> bekannt, während die letzten Meilen von <a href="http://www.wiki-aventurica.de/wiki/Bangour" title="Bangour">Bangour</a> nach <a href="http://www.wiki-aventurica.de/wiki/Taladur" title="Taladur">Taladur</a> identisch mit der <a href="http://www.wiki-aventurica.de/wiki/Eisenstra%C3%9Fe" title="Eisenstraße">Eisenstraße</a> sind.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-0.1214797079367469,27.51827764520292,0 <!--<POI>Siedlung:Mesch</POI>-->
+					-0.07027076088332307,27.51247247970396,0 
+					0.05013823075293189,27.46833440838646,0 
+					0.1488256152791534,27.47342982031941,0 
+					0.2154033464055449,27.45840305459126,0 <!--<POI>Siedlung:Agum</POI>-->
+					0.2382844412691987,27.45763905015197,0 
+					0.3161959281006954,27.43538392023824,0 
+					0.3838149239741928,27.42862512711314,0 
+					0.4265808419229922,27.41273750664094,0 
+					0.5208156236788653,27.40594296118407,0 
+					0.5741130568147135,27.39185546494466,0 
+					0.6118464384678224,27.39772581087694,0 <!--<POI>Siedlung:Geierschrei</POI>--> <!--<POI>Abzweig:Weg von Makamesch nach Geierschrei</POI>-->
+					0.6526016144851643,27.40264428649343,0 <!--<POI>Fluss:Brigella</POI>-->
+					0.7126672736104345,27.43034740283058,0 
+					0.8289184622863743,27.42877014480782,0 
+					0.9174435003440618,27.44409360141923,0 <!--<POI>Siedlung:Flogglond</POI>-->
+					1.001654008339168,27.45338166210977,0 
+					1.11498550835063,27.4381247016093,0 <!--<POI>Siedlung:Viryamun</POI>-->
+					1.179539347463321,27.4228666398369,0 
+					1.232243734954017,27.42219027716385,0 
+					1.312208058879008,27.4006453847097,0 
+					1.346612120977671,27.40017266307237,0 <!--<POI>Siedlung:Bangour</POI>--> <!--<POI>SOE:Eisenstraße</POI>-->
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>0.607105</longitude>
+				<latitude>27.468767</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

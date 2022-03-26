@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Infomarker Al'Anfa</name>
+	<Region>
+		<LatLonAltBox>
+			<north>18.43051248368561</north>
+			<south>18.41795447710933</south>
+			<east>-0.8018981744279408</east>
+			<west>-0.8200000042336131</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Infomarker</name>
+		<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Hakims Teestube<br/>
+					Hotel Villa Narziss<br/>
+					Kneipe Zur Schwarzen See<br/>
+					Pension Adaqua<br/><br/>
+					<b>Handelsstätten:</b><br/>
+					Filiale der Nordlandbank<br/>
+					Kontor Dhachmani<br/>
+					Kontor Gerbelstein<br/>
+					Kontor Murenbkeker<br/>
+					Kontor Stoerrebrandt<br/>
+					Krämerladen Naschrod<br/>
+					Rauschkrauthändler Frumol Bagosch<br/>
+					Schmuckhändler Ando Mastor<br/>
+					Schmuckhändler Kasan Dorano<br/>
+					Teehändler Said ben Yali<br/><br/>
+					<b>Landschaft:</b><br/>
+					<br/>
+					<b>Öffentliche Bauwerke:</b><br/>
+					<br/>
+					<b>Privathäuser:</b><br/>
+					Anwesen Ratonos H´Estin<br/>
+					Wohnhaus Anpaha<br/><br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					Kloster der Göttlichen Genesung (Noioniten)<br/>
+					Levthan-Tempel (geheim)<br/>
+					Peraine-Tempel<br/><br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					Hafenfestung<br/>
+					Magazine<br/><br/>
+					<b>Straßen:</b><br/>
+					<br/>
+					<b>Werkstätten:</b><br/>
+					Apotheke Savertin Salish<br/>
+					Blattgoldschmied Ogdan Florios<br/>
+					Fleischer Hesidane Nesber<br/>
+					Fuhrmann Lago Naraseta<br/>
+					Stellmacherei Zurban Gauroles<br/>
+					Stoffdruckerin Illeon Sonnentanz<br/><br/>
+					<B>Mögliche Quellen:</B><br/>Das Land des Schwarzen Auges, S. 70 <br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 9 <br/>Al'Anfa - Stolze Herrscherin, S. 22 <br/>Die Welt des Schwarzen Auges, S. 86 <br/>In den Dschungeln Meridianas, S. 38 <br/>Geographia Aventurica, S. 82 <br/>Efferds Wogen, S. 34 <br/>Efferds Wogen, S. 75 <br/>Efferds Wogen, S. 83 <br/>Bardensang und Gaukelspiel, S. 45 <br/>Wahl der Waffen, S. 11 <br/>Toras von Havena, S. 1 <br/>Die Nacht der Schlange, S. 1 <br/>Aventurischer Bote (139), S. 14 <br/>Aventurien, S. 34 <br/>Katakomben und Kavernen, S. 168 <br/>In den Dschungeln Meridianas, S. 97 <br/>Flucht aus Ghurenia, S. 206 <br/>Vater der Fluten, S. 12 <br/>Aventurischer Bote (128), S. 29 <br/>Aventurisches Archiv 1, S. 35 <br/>Im Bann des Diamanten, S. 104 <br/>Im Bann des Diamanten, S. 137<br/><HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]></description>
+		<LookAt>
+			<longitude>-0.811730</longitude>
+			<latitude>18.423563</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+		<Point>
+			<coordinates>-0.822091,18.424925,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

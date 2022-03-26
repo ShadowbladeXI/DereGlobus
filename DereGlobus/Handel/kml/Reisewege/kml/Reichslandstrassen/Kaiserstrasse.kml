@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kaiserstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Kaiserstraße-->
+			<name>Kaiserstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Kaiserstraße</b>, im Rang einer <a href="http://www.wiki-aventurica.de/wiki/Kronstra%C3%9Fe_%28Bornland%29" title="Kronstraße (Bornland)">Kronstraße</a>, ist eine <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">bornische</a> Handelsstraße und führt von <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festum</a> über <a href="http://www.wiki-aventurica.de/wiki/Skorpsky" title="Skorpsky">Skorpsky</a> nach <a href="http://www.wiki-aventurica.de/wiki/Usnadamm" title="Usnadamm">Usnadamm</a>. In <a href="http://www.wiki-aventurica.de/wiki/Skorpsky" title="Skorpsky">Skorpsky</a> fürt ein Weg nach <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> ab.
+							</p>
+							<p>
+							Die gesamte Strecke von <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> nach <a href="http://www.wiki-aventurica.de/wiki/Neersand" title="Neersand">Neersand</a> wird auch als <i>Große Küstenstraße</i> bezeichnet.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						10.09954530704811,33.91242789026368,0	<!-- <POI>Siedlung:Festum</POI> --> <!--<POI>SOE:Bornstraße</POI>--> <!--<POI>SOE:Küstenstraße von Festum nach Neersand</POI>-->
+						10.09942358291736,33.91210659310565,0 
+						10.09907009208037,33.91200263204932,0 
+						10.09882715515322,33.91123427034385,0 
+						10.09883778096943,33.91099210174027,0 	
+						10.09867508504413,33.91062084107698,0 
+						10.09796039222263,33.90911776376439,0 
+						10.09689360748914,33.90806168409696,0 
+						10.09696530181791,33.90768726823855,0 	<!-- <POI>Station:Stadttor Festum</POI> -->
+						10.09714606408397,33.90709451673795,0 	<!-- <POI>Station:Brückentor Festum</POI> -->
+						10.0974948115634,33.90662599536479,0 	<!-- <POI>Flussquerung</POI> -->
+						10.09786012600992,33.90614266363953,0 	<!-- <POI>Station:Brückentor Festum</POI> -->
+						10.09809966239952,33.90602792350764,0 
+						10.09811114498998,33.90564441510602,0 	<!-- Beginn Detailkarte Festum -->
+						10.08800068405831,33.90362089503801,0 
+						10.08103278352951,33.87941310153271,0 
+						10.06489707459186,33.8467696250948,0 
+						10.062671,33.824416,0 					<!-- <POI>Siedlung:Bangra</POI> -->
+						10.0575399187126,33.79739003808267,0 
+						10.03644506049158,33.76194270967596,0 
+						10.03224016233895,33.75219882528342,0 
+						9.990273684478179,33.70578310102535,0 	<!-- <POI>Siedlung:Tsastrand</POI> -->
+						9.93870475011882,33.67453357946526,0 	<!-- <POI>Siedlung:Neuhaven</POI> -->
+						9.911575599325884,33.64982724544622,0 
+						9.887234590475089,33.61688496060009,0 
+						9.875408904060716,33.59561768626235,0 
+						9.86534805437616,33.56719719490202,0 
+						9.86082876529186,33.55693681733827,0 	<!-- <POI>Siedlung:Baldrom</POI> -->
+						9.840764011583914,33.52549015410721,0 
+						9.829810505694404,33.47796956554888,0 	<!-- <POI>Siedlung:Geestwindskoje</POI> -->
+						9.823492808842257,33.45617671473723,0 
+						9.806263172692191,33.43450317314242,0 
+						9.798542745585895,33.4167473205792,0 
+						9.783246168489054,33.39871799325152,0 
+						9.766996939823645,33.38430661391614,0 
+						9.750446691928472,33.37027400932658,0 
+						9.739269309767341,33.35893070547907,0 
+						9.734861422397954,33.34027888105112,0 
+						9.727251866962941,33.3274059090309,0 
+						9.708261798686879,33.30152566929483,0 	<!-- <POI>Siedlung:Neu-Wulzen</POI> -->
+						9.685510997219279,33.27943644802089,0 
+						9.665841144259453,33.25269343121115,0 
+						9.645370101070327,33.2252884560382,0 
+						9.624977193778555,33.2012979757918,0 
+						9.615826957943682,33.19062864430011,0 
+						9.609474381569907,33.17636933723642,0 
+						9.605182094758227,33.13853422921144,0 	<!-- <POI>Siedlung:Skorpsky</POI> --> <!-- <POI>Abzweig:Weg von Skorpsky nach Vallusa</POI> --> 
+						9.577629359929603,33.13379202729773,0 
+						9.535333863892248,33.12649413062736,0 
+						9.517267522810622,33.12410155309854,0 
+						9.502851804830669,33.11742878113844,0 
+						9.443601266569985,33.08759979718337,0 
+						9.416758133701713,33.08032518372495,0 
+						9.387546240892943,33.07614176004226,0 
+						9.365925328829821,33.06996993751576,0 	<!-- <POI>Siedlung:Ahrholt</POI> -->
+						9.334333602615331,33.06108796813626,0 
+						9.308717608354986,33.05708823185413,0 
+						9.294045326343255,33.0560448362342,0 
+						9.281587812828022,33.04838782663039,0 
+						9.26997351844517,33.04198459554141,0 
+						9.257797832276957,33.03408746483095,0 	<!-- <POI>Siedlung:Aurrghrhrropp</POI> -->
+						9.237290492934809,33.02673224596589,0 
+						9.188521740015151,33.02667220246982,0 
+						9.166092989090004,33.0315643315184,0 
+						9.153871251883629,33.03166426480938,0 
+						9.129256599871884,33.02314360383756,0 
+						9.119761733913673,33.01427061900753,0 
+						9.104080406320772,32.99202403220478,0 
+						9.092065615953162,32.97862838056609,0 	<!-- <POI>Siedlung:Usnadamm</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.666515</longitude>
+				<latitude>33.436880</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

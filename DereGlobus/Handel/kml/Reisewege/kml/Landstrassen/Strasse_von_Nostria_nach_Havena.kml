@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Nostria nach Havena</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Nostria nach Havena-->
+			<name>Straße von Nostria nach Havena</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-03.010977,30.039115,0	<!--<POI>Siedlung:Nostria</POI>--> <!-- <POI>SOE:Küstenstraße von Thorwal nach Nostria</POI>--> <!--<POI>SOE:Straße von Nostria nach Seshwick</POI>-->
+					-3.011135720307165,30.03902860492685,0 
+					-3.01116008807259,30.03861410912189,0 
+					-3.011263891405958,30.03851880440881,0 
+					-3.011185600110662,30.03839232102211,0 
+					-3.01127817847104,30.03829881881075,0 
+					-3.011072948313541,30.03791863424251,0 
+					-3.010899607457502,30.03775327304328,0 
+					-3.010795191683395,30.03721294944565,0 
+					-3.010607147648872,30.03694136608799,0 
+					-3.009948722943014,30.03512216644821,0  <!--Ende Detailkarte Nostria</POI>-->
+					-3.014563123461922,29.98181186159551,0 
+					-3.012763012761911,29.92209662740281,0 
+					-2.984201450327304,29.85665406531628,0 
+					-2.929142502805929,29.79983947168694,0 
+					-2.923183072521567,29.78559336343811,0 
+					-2.908765931144624,29.77077512048973,0 
+					-2.885380192852256,29.7197965783814,0 
+					-2.867867196862806,29.70222537944453,0 
+					-2.842891269951755,29.68852840001978,0 
+					-2.811018918389405,29.64842784513045,0 
+					-2.802811051624992,29.62364635427389,0 
+					-2.801548300436148,29.5849914288457,0   <!--<POI>Siedlung:Lyngwyn</POI>-->
+					-2.788907312136661,29.55592537774805,0 
+					-2.791570359931513,29.54064496206807,0 
+					-2.807824448631159,29.52056438893951,0 
+					-2.839297957139265,29.45850606024778,0 
+					-2.847427424741097,29.41072479626742,0  <!--<POI>Siedlung:Nordhag</POI>-->
+					-2.855070674599811,29.38286376749447,0 
+					-2.87975720678488,29.35667493462571,0 
+					-2.887792235337461,29.34011161176809,0 
+					-2.929676633295597,29.30469311600135,0 
+					-2.969508372098704,29.26647844798757,0 
+					-2.993098313481069,29.23338903237259,0   <!--<POI>Siedlung:Dela</POI>-->
+					-3.008833531536545,29.21608556255105,0 
+					-3.051971489850429,29.19229211400584,0 
+					-3.08293338777247,29.18192888444345,0   <!--<POI>Siedlung:Windanach</POI>-->
+					-3.095924238174246,29.16587535488264,0 
+					-3.150637442637337,29.0922087902404,0 
+					-3.160777810034199,29.0658683776313,0 
+					-3.161307301013501,29.06516209921457,0  <!-- Anfang Detailkarte Havena -->
+					-3.161719668693453,29.06481155283232,0 
+					-3.161975380006787,29.06473384865082,0 
+					-3.162409848528547,29.06471001387197,0 
+					-3.163396448997519,29.06472648822369,0 
+					-3.163430920266518,29.06418997153811,0 
+					-3.163332554057889,29.06408342136153,0 
+					-3.163342121255753,29.06371089112037,0 
+					-3.163610795312386,29.0634677740145,0 
+					-3.163937235488197,29.06345692990388,0 
+					-3.163936588848675,29.06214142782349,0  <!-- <POI>Siedlung:Havena</POI> --> <!-- <POI>SOE:Reichslandstraße von Havena nach Abilacht</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-3.163131</longitude>
+				<latitude>28.831488</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

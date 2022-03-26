@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		<Placemark> 	<!-- Yaquirstieg -->
+			<name>Yaquirstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Yaquirstieg</b> ist einer der am besten ausgebauten Wege <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a> und sogar den <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe" title="Reichsstraße">Reichsstraßen</a> noch etwas überlegen. Er führt von <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> nach <a href="http://www.wiki-aventurica.de/wiki/Vinsalt" title="Vinsalt">Vinsalt</a> rechts am <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquir</a> entlang und verbindet damit die <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe" title="Reichsstraße">Reichsstraßen</a> <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_2" title="Reichsstraße 2">2</a> und <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_4" title="Reichsstraße 4" class="mw-redirect">4</a> sowie die beiden großen Reiche <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreich</a> und <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a>.
+							</p>						
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				2.656447359381973,27.04917927119185,0 <!--<POI>Siedlung:Punin</POI>--> <!--<POI>SOE:Reichsstraße 2</POI>--> <!--<POI>SOE:Weinstraße</POI>-->
+				02.656457,27.048775,0 
+				02.656455,27.048552,0 	<!--<POI>AbzweigungRechts:</POI>-->
+				02.656427,27.048317,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				02.656423,27.048160,0 	<!--<POI>AbzweigungRechts:</POI>-->
+				02.656420,27.048093,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				02.656416,27.047920,0 	<!--<POI>AbzweigungRechts:</POI>-->
+				02.656421,27.047842,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				02.656423,27.047617,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				02.656256,27.047283,0 
+				02.656263,27.047003,0 	<!--<POI>AbzweigungRechts:</POI>-->
+				02.656260,27.046958,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				02.656274,27.046717,0 	<!--<POI>AbzweigungRechts:</POI>-->
+				02.656288,27.046381,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+				02.656295,27.045985,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+				02.656259,27.045843,0 	<!--<POI>Station:Süd Standttor Punin</POI>-->
+				02.656213,27.045679,0 
+				02.656208,27.045582,0 	<!-- <POI>SOE:</POI> -->
+				02.656202,27.045476,0 	<!-- <POI>SOE:</POI> -->
+				02.656195,27.045264,0 	<!-- <POI>SOE:</POI> -->
+				02.656194,27.045214,0 	<!-- <POI>SOE:</POI> -->
+				02.656199,27.045021,0 	<!-- <POI>SOE:</POI> -->
+				02.656199,27.044908,0 	<!-- <POI>SOE:</POI> -->
+				02.656166,27.044757,0 	<!-- <POI>SOE:</POI> -->
+				02.656060,27.044687,0 	<!-- <POI>SOE:</POI><POI>SOE:</POI> -->
+				02.656006,27.044537,0 	<!-- <POI>SOE:</POI> -->
+				02.655993,27.044347,0 	<!-- <POI>SOE:</POI> -->
+				02.655981,27.044220,0 	<!-- <POI>SOE:</POI> -->
+				02.655963,27.043996,0 	<!-- <POI>SOE:</POI> -->
+				02.655967,27.043967,0 	<!-- <POI>SOE:</POI> -->
+				02.655954,27.043817,0 	<!-- <POI>SOE:</POI> -->
+				02.655961,27.043751,0 	<!-- <POI>SOE:</POI> -->
+				02.655937,27.043597,0 	<!-- <POI>SOE:</POI> -->
+				02.655901,27.043435,0 	<!-- <POI>SOE:</POI> -->
+				02.655869,27.043353,0 	<!-- <POI>SOE:</POI> -->
+				02.655844,27.043281,0 	<!-- <POI>SOE:</POI> -->
+				02.655694,27.042890,0 	<!-- <POI>SOE:</POI> -->
+				02.655657,27.042798,0 	<!-- <POI>SOE:</POI> -->
+				02.655478,27.042340,0 	<!-- <POI>SOE:</POI><POI>SOE:</POI> -->
+				02.655417,27.042236,0 	<!-- <POI>SOE:</POI> -->
+				02.655234,27.041999,0 
+				02.654974,27.041713,0 	<!-- <POI>SOE:</POI> -->
+				02.654418,27.041117,0 	<!-- <POI>SOE:</POI> -->
+				02.654287,27.040986,0 	<!-- <POI>SOE:</POI> -->
+				02.654155,27.040903,0 	<!-- <POI>SOE:</POI> -->
+				02.653960,27.040678,0 	<!-- <POI>SOE:</POI> -->
+				02.653797,27.040466,0 	<!-- <POI>SOE:</POI> -->
+				02.653725,27.040401,0 	<!-- <POI>SOE:</POI> -->
+				02.653668,27.040321,0 	<!-- <POI>SOE:</POI> -->
+				02.653401,27.040017,0 
+				02.653213,27.039730,0 	<!-- <POI>SOE:</POI> -->
+				02.653097,27.039580,0 
+				02.653043,27.039442,0 	<!-- <POI>SOE:</POI> -->
+				02.652927,27.039203,0 
+				02.652550,27.038407,0 
+				02.652531,27.038241,0 
+				02.622824,26.980650,0 
+				02.631566,26.941073,0 
+				02.629049,26.915585,0 
+				02.633104,26.876707,0 
+				02.588141,26.826757,0 	<!-- <POI>Siedlung:Then</POI> -->
+				02.518832,26.766466,0 
+				02.488793,26.757866,0 
+				02.445267,26.764183,0 
+				02.418292,26.760274,0 
+				02.389911,26.748791,0 
+				02.345370,26.744291,0 
+				02.294736,26.725531,0 
+
+				2.257461904410019,26.69990538624333,0 
+				2.224166614530634,26.68734017446045,0 <!-- Anfang Detailkarte Cumrat</POI> --> 	
+				2.223894242231439,26.68730695376686,0 
+				2.223241834180456,26.68742296375238,0 
+				2.222503668930531,26.68733351609221,0 
+				2.221539178605025,26.68730706193552,0 
+				2.221033615210257,26.68744516696994,0 
+				2.220182554589041,26.68747668146219,0 
+				2.219993334896286,26.68741951673178,0 <!-- <POI>Siedlung:Cumrat</POI> -->
+				2.219675189093084,26.68730813996367,0 
+				2.219321181245708,26.68711243438043,0 <!-- Ende Detailkarte Cumrat</POI> --> 	
+				2.184927500363112,26.68204216217386,0 
+
+				02.164727,26.682225,0 
+				02.144835,26.677316,0 
+				02.112677,26.662026,0 
+				02.051538,26.653071,0 	<!-- <POI>Siedlung:Jassafheim</POI> -->
+				02.037487,26.654123,0 
+				02.005995,26.641603,0 
+				01.987676,26.626991,0 
+				01.975869,26.595847,0 
+				01.937449,26.565491,0 
+				01.893205,26.539538,0 
+				01.861736,26.526434,0 
+				01.860054,26.524096,0 
+				01.858446,26.519848,0 
+				01.858581,26.515968,0 
+				01.858531,26.512906,0 
+				01.857523,26.511053,0 
+				01.856558,26.509740,0 
+				01.855662,26.509333,0 
+				01.855120,26.509115,0 	<!--<POI>Station:Karten Anfang</POI>-->
+				01.854672,26.508992,0 
+				01.854354,26.508909,0 
+				01.854139,26.508879,0 
+				01.853809,26.508827,0 
+				01.853507,26.508806,0 
+				01.853210,26.508817,0 
+				01.852831,26.508857,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				01.852598,26.508907,0 
+				01.852376,26.508972,0 
+				01.852176,26.509058,0 
+				01.852097,26.509115,0 	<!--<POI>Station:Karten Ende</POI>-->
+				01.851818,26.509328,0 
+				01.851386,26.509506,0 
+				01.850930,26.509621,0 	<!--<POI>AbzweigungLinks:</POI>-->
+				01.850397,26.509664,0 
+				01.849917,26.509673,0 
+				01.849432,26.509596,0 
+				01.848948,26.509495,0 
+				01.848587,26.509372,0 
+				01.848402,26.509230,0 
+				01.848294,26.509118,0 	<!--<POI>Station:Karten Anfang</POI>-->
+				01.848132,26.509003,0 
+				01.847925,26.508837,0 
+				01.847743,26.508653,0 
+				01.847562,26.508469,0 
+				01.847472,26.508339,0 	<!--<POI>AbzweigungRechts:</POI>-->
+				01.847391,26.508179,0 
+				01.847318,26.508020,0 
+				01.847263,26.507853,0 
+				01.847203,26.507686,0 
+				01.847148,26.507500,0 
+				01.847088,26.507333,0 
+				01.846997,26.507233,0 
+				01.846927,26.507164,0 
+				01.846793,26.507121,0 	<!--<POI>Station:Karten Ende</POI>-->
+				01.846255,26.507053,0 
+				01.845422,26.507087,0 
+				01.844633,26.507246,0 
+				01.842865,26.508148,0 
+				01.840406,26.509265,0 
+				01.836278,26.509933,0 
+				01.831910,26.509758,0 
+				01.829511,26.509545,0 
+				01.822229,26.508597,0 
+				01.816285,26.507371,0 
+				01.787267,26.499881,0 
+				01.751829,26.493245,0 
+				01.704872,26.493091,0 
+				01.685490,26.499448,0 
+				01.654661,26.500508,0 
+				01.629869,26.511538,0 
+				01.558294,26.515833,0 	<!-- <POI>Siedlung:Asperg</POI> -->
+				01.385645,26.456940,0 
+				1.313063547146653,26.46641002196065,0  <!--<POI>Siedlung:Weinbergen</POI>--> <!--<POI>Abzweig:Pass der Winde</POI>--> <!--<POIAbzweig:Weinstraße</POI>--> 
+				01.264707,26.464700,0 
+				01.237115,26.474162,0 
+				01.204840,26.477185,0 
+				01.177235,26.471405,0 
+				01.150794,26.470856,0 	<!-- <POI>Siedlung:Bactrim</POI> -->
+				01.122401,26.473062,0 
+				01.086742,26.456288,0 
+				01.051557,26.446097,0 
+				01.025013,26.446955,0 
+				00.984681,26.435821,0 
+				00.954988,26.412285,0 
+				00.914225,26.392118,0 
+				00.857062,26.396541,0 
+				00.840715,26.409893,0 
+				00.832447,26.430867,0 
+				00.818077,26.441692,0 
+				00.801971,26.443032,0 
+				00.762253,26.414072,0 
+				00.695375,26.416678,0 
+				00.687185,26.415297,0 
+				00.681673,26.412661,0 
+				00.677517,26.409118,0 
+				00.675750,26.406192,0 
+				00.674708,26.404934,0 
+				00.673995,26.404547,0 
+				00.673464,26.404357,0 
+				00.673372,26.404336,0 
+				00.673256,26.404303,0 	<!-- <POI>SOE:</POI> -->
+				00.673073,26.404252,0 	<!-- <POI>SOE:</POI> -->
+				00.672808,26.404231,0 	<!-- <POI>Fluss:Brigella</POI> -->
+				00.672603,26.404220,0 	<!-- <POI>SOE:</POI> -->
+				00.672370,26.404248,0 	<!-- <POI>SOE:</POI> -->
+				00.672114,26.404243,0 	<!-- <POI>SOE:</POI> -->
+				00.671848,26.404231,0 	<!-- <POI>SOE:</POI> -->
+				00.671694,26.404201,0 	<!-- <POI>SOE:</POI> -->
+				00.671425,26.404110,0 	<!-- <POI>SOE:</POI> -->
+				00.671306,26.404077,0 	<!-- <POI>SOE:</POI> -->
+				00.671138,26.404055,0 	<!-- <POI>SOE:</POI> -->
+				00.670866,26.404051,0 	<!-- <POI>SOE:</POI> -->
+				00.670742,26.404053,0 	<!-- <POI>SOE:</POI> -->
+				00.670334,26.404093,0 	<!-- <POI>SOE:</POI> -->
+				00.670151,26.404097,0 	<!-- <POI>Fluss:Brigella</POI> -->
+				00.669958,26.404089,0 	<!-- <POI>SOE:</POI> -->
+				00.669638,26.404103,0 
+				00.669389,26.404273,0 	<!-- <POI>SOE:</POI> -->
+				00.669119,26.404415,0 
+				00.666840,26.405657,0 
+				00.656016,26.410840,0 
+				00.644584,26.413479,0 
+				00.620883,26.412392,0 
+				00.602085,26.409012,0 
+				00.543661,26.382585,0 
+				00.519381,26.380158,0 
+				00.493575,26.384677,0 
+				00.480591,26.386118,0 
+				00.471216,26.384015,0 
+				00.465992,26.382705,0 
+				00.463010,26.381049,0 
+				00.461334,26.379799,0 
+				00.457764,26.378362,0 
+				00.455545,26.378055,0 
+				00.453906,26.378217,0 
+				00.452830,26.378347,0 <!--<POI>Station:Karten Anfang</POI>-->
+				00.452489,26.378412,0 
+				00.451519,26.378654,0 
+				00.450916,26.378879,0 
+				00.450374,26.379100,0 
+				00.450279,26.379161,0 <!--<POI>AbzweigungRechts:</POI>-->
+				00.449729,26.379455,0 
+				00.449384,26.379680,0 
+				00.449009,26.379899,0 
+				00.448751,26.380036,0 
+				00.448421,26.380140,0 
+				00.448002,26.380250,0 
+				00.447483,26.380375,0 
+				00.447060,26.380453,0 
+				00.446413,26.380557,0 
+				00.446069,26.380600,0 
+				00.445514,26.380623,0 
+				00.445093,26.380590,0 
+				00.444708,26.380541,0 
+				00.444398,26.380510,0 
+				00.444049,26.380453,0 
+				00.443680,26.380397,0 
+				00.443409,26.380353,0 
+				00.442775,26.380307,0 
+				00.442253,26.380288,0 
+				00.441637,26.380315,0 
+				00.441007,26.380342,0 
+				00.440379,26.380366,0 
+				00.440176,26.380384,0 <!--<POI>Station:</POI>-->
+				00.439603,26.380462,0 <!--<POI>Kreuzung:</POI>-->
+				00.439257,26.380447,0 <!--<POI>AbzweigungRechts:</POI>-->
+				00.439058,26.380402,0 <!--<POI>Station:</POI>-->
+				00.438634,26.380391,0 <!--<POI>Station:Karten Ende</POI>-->
+				00.438082,26.380472,0 
+				00.437154,26.380782,0 
+				00.433498,26.383449,0 
+				00.430876,26.387334,0 
+				00.430696,26.392647,0 
+				00.431614,26.399720,0 
+				00.432151,26.408194,0 
+				00.429768,26.414578,0 
+				00.425400,26.418764,0 
+				00.422267,26.422616,0 
+				00.403121,26.434299,0 
+				00.321227,26.430858,0 
+				00.270064,26.431199,0 
+				00.253479,26.422620,0 
+				00.231467,26.423306,0 
+				00.200519,26.416894,0 	<!-- <POI>Siedlung:Dâl</POI> -->
+				00.149307,26.423646,0 	<!-- <POI>Siedlung:</POI> -->
+				00.095563,26.450816,0 
+				00.067754,26.472381,0 
+				00.026691,26.489585,0 
+				00.015266,26.488675,0 
+				-00.011833,26.498013,0 
+				-00.035347,26.530635,0 	<!-- <POI>Siedlung:Inustal</POI> -->
+				-00.064994,26.533015,0 
+				-00.109053,26.514008,0 
+				-00.156408,26.512214,0 
+				-00.193676,26.504878,0 	<!-- <POI>Siedlung:Neu-Süderwacht</POI><POI>SOE:Yaquirstieg</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>1.232776729787746</longitude>
+				<latitude>26.64660850151986</latitude>
+				<altitude>282000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>
+

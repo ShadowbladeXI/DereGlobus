@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Theniran nach Winneb</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Theniran nach Winneb-->
+			<name>Straße von Theniran nach Winneb</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.201510549652159,22.76683525418553,0   <!-- <POI>Siedlung:Theniran</POI> --> <!-- <POI>SOE:Straße von Aldenia nach Drôl</POI> --> 
+						-1.185964686969067,22.72308568250478,0 
+						-1.145786794320702,22.70209836323791,0 
+						-1.130887495230415,22.68257090106851,0 
+						-1.0981191948369,22.658120766629,0 
+						-1.08131843938258,22.61906132159032,0 
+						-1.063059576745866,22.59580635003427,0 
+						-1.045668411295954,22.53027902816021,0 
+						-1.021322941136257,22.49149973342055,0 
+						-0.993222214034184,22.47885081163047,0 
+						-0.9722651345735189,22.44191138958181,0 
+						-0.9546946609247675,22.42707616502191,0 
+						-0.9452161646997759,22.40502699277419,0 
+						-0.8977399215872717,22.37249336807791,0 
+						-0.8795478157204695,22.35108522015377,0 
+						-0.8661989879173815,22.31722936975276,0 
+						-0.8433235807453354,22.29986505829251,0 
+						-0.7818448546942047,22.26972491629494,0 
+						-0.752631784127954,22.24738737880996,0 
+						-0.7233658320284009,22.21920572270707,0   <!-- <POI>Siedlung:Feste Ambarnis</POI> --> <!-- <POI>Kreuzung:Drunab-Straße</POI> --> 
+						-0.6765350769878298,22.19344843947442,0 
+						-0.6201455265236067,22.17544750428055,0 
+						-0.5617420380503735,22.17233886527588,0 
+						-0.5382003936736923,22.18041828580689,0 
+						-0.4656899341474319,22.17695910329472,0 
+						-0.3573787558155617,22.17791844348209,0  <!-- <POI>Siedlung:Winneb</POI> --> <!-- <POI>SOE:Knüppeldamm von Drôl nach Port Corrad</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-0.661146</longitude>
+				<latitude>22.489519</latitude>
+				<altitude>172150</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

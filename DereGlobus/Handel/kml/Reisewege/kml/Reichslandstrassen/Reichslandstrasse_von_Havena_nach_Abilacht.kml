@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Reichslandstraße von Havena nach Abilacht</name>
+	<open>1</open>
+		<Placemark> 	<!-- Reichslandstraße von Havena nach Abilacht-->
+			<name>Reichslandstraße von Havena nach Abilacht</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <a href="http://www.wiki-aventurica.de/wiki/Albernia" title="Albernia" class="mw-redirect">Albernische</a> <b>Reichslandstraße von Havena nach Abilacht</b> ist die wichtigste Straße Albernias und führt von der <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_3" title="Reichsstraße 3">Reichsstraße 3</a> in die Hauptstadt <a href="http://www.wiki-aventurica.de/wiki/Havena" title="Havena">Havena</a>. In der <a href="http://www.wiki-aventurica.de/wiki/Muhrsape" title="Muhrsape">Muhrsape</a> verläuft die Straße auf einem <a href="http://www.wiki-aventurica.de/wiki/Kn%C3%BCppeldamm" title="Knüppeldamm">Knüppeldamm</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-3.163936588848675,29.06214142782349,0  <!-- <POI>Siedlung:Havena</POI> --> <!-- <POI>SOE:Straße von Nostria nach Havena</POI> -->
+					-3.16364092976443,29.06213569026581,0 
+					-3.163352009073518,29.06202356578712,0 
+					-3.159164892835148,29.06201329325743,0 
+					-3.158351231170343,29.06199429087888,0 
+					-3.157785613433876,29.06200100366171,0  <!-- Ende Detailkarte Havena -->
+					-3.127245737899371,29.08154821169,0 
+					-3.090617077563157,29.09624659181327,0  <!-- <POI>Siedlung:Muhrwock</POI> -->
+					-3.040404502451966,29.09903435946087,0 
+					-2.989494387351205,29.11557194709694,0 
+					-2.872018947925079,29.10975917629985,0  <!-- <POI>Siedlung:unbenannt</POI> -->
+					-2.823051337728387,29.11371436016174,0 
+					-2.727376549964728,29.10718488654796,0 
+					-2.680174736512321,29.11670852333069,0  <!-- <POI>Siedlung:Truhjebor</POI> --> <!-- <POI>Abzweig:</POI> -->
+					-2.655667462105114,29.12060506710331,0 
+					-2.616143538062428,29.13964229842474,0 
+					-2.57953914864216,29.13752337894677,0 
+					-2.534128801578008,29.12816355719623,0 
+					-2.474798624259045,29.12861907715856,0 
+					-2.414544222006148,29.11931108306952,0 
+					-2.378415313649312,29.12085920938236,0 
+					-2.280813033498964,29.15298299718602,0  <!-- <POI>Siedlung:unbenannt</POI> --> <!-- <POI>Abzweig:</POI> -->
+					-2.072034145976451,29.22116452864269,0  <!-- <POI>Siedlung:Orbatal</POI> --> <!-- <POI>Abzweig:</POI> -->
+					-2.025097610625569,29.23455706917413,0 
+					-1.986615872980385,29.23740245377011,0 
+					-1.939809148621818,29.26029220874475,0 
+					-1.905817777065315,29.25962856379242,0 
+					-1.840021952050271,29.24452903192934,0 
+					-1.747553720414194,29.24500057167569,0 
+					-1.676574835904895,29.22446917662124,0 
+					-1.641645352800109,29.22795378480272,0 
+					-1.600242720881394,29.23666216986164,0  <!-- <POI>Siedlung:Otterntal</POI> --> <!-- <POI>Abzweig:</POI> -->
+					-1.500608398809047,29.23972259381291,0 
+					-1.446470277691729,29.2298515197434,0 
+					-1.418932065917644,29.23091320536771,0 
+					-1.386803628161334,29.23932840903554,0 
+					-1.326488161604174,29.24090477469558,0 
+					-1.281011712068974,29.2491071445615,0 
+					-1.240627539725774,29.24571171933566,0 
+					-1.202515307313061,29.24940129895083,0  <!-- <POI>Siedlung:unbenannt</POI> -->
+					-1.14499123122642,29.25138212150936,0 
+					-1.097098800677092,29.23935299749799,0 
+					-1.052176884929541,29.23936457802946,0 
+					-1.020422139952532,29.22862331815346,0 
+					-0.9625778336872259,29.22914206624005,0  <!-- <POI>Siedlung:Abilacht</POI> --> <!-- <POI>SOE:Weg von Abilacht nach Nummath</POI> --> <!-- <POI>SOE:Reichsstraße 3</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-1.969613</longitude>
+				<latitude>29.155522</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

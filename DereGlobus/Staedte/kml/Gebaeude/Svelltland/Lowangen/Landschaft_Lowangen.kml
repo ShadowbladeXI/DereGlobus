@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Landschaft_Lowangen.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Landschaft_Lowangen</name>
+		<Region>
+			<LatLonAltBox>
+				<north>33.68779154789822</north>
+				<south>33.66953580771619</south>
+				<east>2.278781060336955</east>
+				<west>2.262522439708353</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+        <name>Mirielsee</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Vor den Toren<TR><TD><I>Bemerkung:</I> am Firuntempel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+        <LookAt> 
+              <longitude> 2.284315</longitude>
+              <latitude> 33.668317</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.263791165505387,33.6863874023022,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Svellt</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Vor den Toren<TR><TD><I>Bemerkung:</I> am Firuntempel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+        <LookAt> 
+              <longitude> 2.284315</longitude>
+              <latitude> 33.668317</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.27211779465095,33.68272165766506,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Svelltje</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Vor den Toren<TR><TD><I>Bemerkung:</I> am Firuntempel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+        <LookAt> 
+              <longitude> 2.284315</longitude>
+              <latitude> 33.668317</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.272390394949364,33.6784310780865,0</coordinates>
+        </Point>
+    </Placemark>
+    <!--<Placemark>
+        <name>Nördlicher kleiner Fluß bzw. Bach</name>
+        <description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil: Vor den Toren<TR><TD><I>Bemerkung:</I> am Firuntempel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+        <LookAt> 
+              <longitude> 2.284315</longitude>
+              <latitude> 33.668317</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.277005300099868,33.68492150182791,0</coordinates>
+        </Point>
+    </Placemark>-->
+    <!--<Placemark>
+        <name>Südlicher kleiner Fluß bzw. Bach</name>
+        <description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil: Vor den Toren<TR><TD><I>Bemerkung:</I> am Firuntempel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#gewaesser</styleUrl>
+        <LookAt> 
+              <longitude> 2.284315</longitude>
+              <latitude> 33.668317</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.268883905018728,33.67094343109307,0</coordinates>
+        </Point>
+    </Placemark>-->
+		<Placemark>
+        <name>Rahjagarten</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Bunte Flucht<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+        <LookAt> 
+              <longitude> 2.284315</longitude>
+              <latitude> 33.669117</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.274419297547812,33.67810330773305,0</coordinates>
+        </Point>
+    </Placemark>
+    <!--<Placemark>
+        <name>Ruine Svelltstein</name>
+        <description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil: Umgebung Lowangens (Süden)<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 86<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 158<TR><TD>Das Orkland, S. 53<TR><TD>Das Levthansband, S. 8<TR><TD>Die Welt des Schwarzen Auges, S. 42<TR><TD>Das vergessene Volk, S. 12<TR><TD>Geographia Aventurica, S. 36<TR><TD>Reich des Roten Mondes, S. 65<TR><TD>Von Orks und Menschen, S. 26<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine-X</styleUrl>
+        <LookAt> 
+              <longitude> 2.284615</longitude>
+              <latitude> 33.669117</latitude>
+              <altitude>0</altitude>
+              <range>2000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.270538220781047,33.66804969669572,0</coordinates>
+        </Point>
+    </Placemark>-->
+	</Folder>
+</Document>
+</kml>

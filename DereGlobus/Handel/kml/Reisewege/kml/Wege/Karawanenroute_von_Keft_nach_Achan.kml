@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Keft nach Achan</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Keft nach Achan-->
+			<name>Karawanenroute von Keft nach Achan</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Keft nach Achan</b> beginnt am Knotenpunkt aller <a href="/index.php?title=Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="/index.php?title=Kh%C3%B4m" title="Khôm">Khôm</a>, in <a href="/index.php?title=Keft" title="Keft">Keft</a>, und führt über <a href="/index.php?title=Birscha" title="Birscha">Birscha</a>, <a href="/index.php?title=Shebah" title="Shebah">Shebah</a> und <a href="/index.php?title=Terekh" title="Terekh">Terekh</a> nach <a href="/index.php?title=Achan" title="Achan">Achan</a>. In <a href="/index.php?title=Achan" title="Achan">Achan</a> teilt sich die Route in die <a href="/index.php?title=Karawanenroute_nach_Amhallah&amp;action=edit&amp;redlink=1" class="new" title="Karawanenroute nach Amhallah (Seite nicht vorhanden)">Karawanenroute nach Amhallah</a> und die <a href="/index.php?title=Karawanenroute_nach_Theg%C3%BBn&amp;action=edit&amp;redlink=1" class="new" title="Karawanenroute nach Thegûn (Seite nicht vorhanden)">Karawanenroute nach Thegûn</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.187454240589658,23.55705935898839,0 	<!-- <POI>SOE:Karawane von Keft nach Achan</POI> --> <!-- <POI>Siedlung:Keft</POI> --> <!-- <POI>Station:Karawanserei</POI> -->
+						3.187435712165863,23.55743072984307,0 
+						3.187260871887807,23.5577463767805,0 
+						3.187139884249219,23.5579456714097,0 
+						3.186967517274246,23.55816431281351,0 
+						3.186646016315311,23.55849680104917,0 
+						3.186524137762921,23.55865734968294,0 	<!-- Ende Detailkarte Keft -->
+						3.18584192622402,23.57084179771087,0 	<!-- Rand Keft -->
+						3.187583293401615,23.58883718375786,0 
+						3.196665920198059,23.62539671425421,0 
+						3.157307870222454,23.63598599286704,0 	<!-- <POI>AbzweigRechts:Karawanenroute nach Omlad</POI> -->
+						3.112652627380121,23.65296693423198,0 
+						3.07583771903772,23.67186111765657,0 
+						3.01477926572453,23.68267078455892,0 
+						2.981640776448327,23.69920551182311,0 
+						2.929154660574191,23.70548553912119,0 
+						2.833293226824936,23.70793856210399,0 
+						2.754201201793123,23.75886636725217,0 
+						2.70446157541246,23.76615291973586,0 
+						2.663907191945365,23.78150608656709,0 
+						2.616903169838969,23.7828695537657,0 
+						2.5559478805781,23.81497650465446,0 
+						2.492157030940929,23.81048511126565,0 
+						2.463780852433561,23.78116902097668,0 
+						2.434392147349591,23.77628713096975,0 
+						2.415641000421396,23.76140413168317,0 
+						2.382492047026221,23.75159681809879,0 
+						2.36025785449399,23.75603946698953,0 
+						2.340236004246048,23.79951963677774,0 	
+
+						2.340236004246048,23.79951963677774,0 	
+						2.321972491862556,23.80879970977714,0 	<!-- Anfang Stadtkarte Birscha -->
+						2.322182611965313,23.80967170125673,0 	<!-- <POI>Station:Stadttor Birscha</POI> -->
+						2.322244758360763,23.81001490411063,0 
+						2.322779284232508,23.81004047679414,0 
+						2.322945011065225,23.80977838205633,0 	<!-- <POI>Siedlung:Birscha</POI> --> <!-- <POI>Station:Karawanserei</POI> -->
+
+						2.322945802952121,23.80979299671851,0  <!--<POI>Siedlung:Birscha</POI>--> <!--<POI>SOE:Karawanenroute von Keft nach Achan</POI>-->
+						2.322779284232508,23.81004047679414,0 
+						2.322244758360763,23.81001490411063,0 
+						2.322056010805438,23.81042061928189,0 
+						2.320522865232841,23.81140045311697,0  <!-- Ende Stadtkarte Birscha -->
+						2.2700186304323,23.78807774438533,0 
+						2.235521796334195,23.7892010504189,0 
+						2.186728287561051,23.80605061994181,0  <!--<POI>Abzweig:Molgard-Pass</POI>-->
+
+						2.172289221614958,23.8231792109119,0 
+						2.149475158309768,23.85163513670966,0 
+						2.083046312862382,23.91280345444963,0 
+						2.056894134505856,23.92779320231332,0 
+						2.026475885765797,23.93803910497164,0 
+						2.006616112226469,23.97061326749767,0 
+						1.980102644744426,23.98948482105087,0 
+						1.956184058109898,24.00310521841917,0 
+						1.935444565489668,24.05832697525191,0 
+						1.910751978766798,24.07821347142421,0 
+						1.846625596736957,24.12114602426614,0 
+						1.821216201654858,24.17237791407482,0 
+						1.766911029154175,24.20742292104719,0 	<!-- <POI>Siedlung:Shebah</POI> -->
+						1.815437906419386,24.26289902605035,0 
+						1.791030839065784,24.28373167788513,0 
+						1.769631336935669,24.2946564865055,0 
+						1.744186101288754,24.30093078710145,0 
+						1.719119951658077,24.3298406248784,0 
+						1.702211334039807,24.3385778470552,0 
+						1.664116781853577,24.38933884181789,0 
+						1.632928660550119,24.4025531425684,0 
+						1.59701107354693,24.44288881716187,0 
+						1.566228131317904,24.4659241537022,0 
+						1.520268993587011,24.46567295733277,0 
+						1.477248766207238,24.48572252951497,0 
+						1.450449853839626,24.5388926794189,0 
+						1.416606008381001,24.59117083001374,0 
+						1.406154183450186,24.63704578403411,0 
+						1.377244388711196,24.67455029390183,0 
+						1.357409808122534,24.72021391468488,0 
+						1.327556619247954,24.74629834375648,0 
+						1.31478124368452,24.76729927192314,0 
+						1.270303991682873,24.78950228934595,0 	<!-- <POI>Siedlung:Terekh</POI> -->
+						1.237121348006913,24.80453188948138,0 
+						1.089996962927633,24.81142286496124,0 
+						0.9611792352372128,24.81089619924984,0 
+						0.8225813237079804,24.87135546882549,0 
+						0.7511382611633821,24.87236264665705,0 
+						0.7269141592423645,24.89698354151449,0 
+						0.7030467050667832,24.91182080403989,0 
+						0.6746633509468314,24.91019984550443,0 
+						0.5883857428447814,25.01051441283691,0 	<!-- <POI>AbzweigLinks:Karawanenroute nach Thegûn</POI> -->
+						0.6058276734735446,25.03643651422678,0 	<!-- <POI>Siedlung:Achan</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>1.909613243195721</longitude>
+				<latitude>24.25425483082727</latitude>
+				<altitude>272000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

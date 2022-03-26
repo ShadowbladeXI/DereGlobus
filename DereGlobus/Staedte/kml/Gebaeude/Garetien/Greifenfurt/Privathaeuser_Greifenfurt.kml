@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Privathaeuser_GREIFENFURT.kml</name>
+	<open>1</open>	
+	<Folder>
+		<name>Privathaeuser_GREIFENFURT</name>
+		<open>0</open>
+     	<Region>
+			<LatLonAltBox>
+				<north>31.32786345312803</north>
+				<south>31.32352124878749</south>
+				<east>2.27255908729997</east>
+				<west>2.265440826161168</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<LookAt>
+			<longitude>2.26917068038756</longitude>
+			<latitude>31.32560073564712</latitude>
+			<altitude>0</altitude>
+			<range>716.2538035245117</range>
+			<tilt>0</tilt>
+			<heading>-1.111206291836316e-013</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		
+		<Placemark>
+			<name>Haus Zaberwitz</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 19<TR><TD><I>Stadtteil: Tuchweberviertel und Perainehof<TR><TD><I>Bemerkung: Haus des Stadtschreibers (Irgan Zaberwitz)<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+			<Point>
+			    <coordinates>2.271853501861056,31.32574169501634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hütte des Drugon</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+			<Point>
+			    <coordinates>2.268408764279035,31.32402089632454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Villa Brohm</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 7<TR><TD><I>Stadtteil: Praiosberg<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+			<Point>
+			    <coordinates>2.270005749228177,31.32550560964755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Villa Elfenberg</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 3<TR><TD><I>Stadtteil: Praiosberg<TR><TD><I>Bemerkung: Während der Ereignisse um Das Jahr des Greifen den Magiern als Unterkunft<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+			<Point>
+			    <coordinates>2.269841193795836,31.3260359008435,0</coordinates>
+			</Point>
+		</Placemark>
+    </Folder>
+  </Document>
+</kml>

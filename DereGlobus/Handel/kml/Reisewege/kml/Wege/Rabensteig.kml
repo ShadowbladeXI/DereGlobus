@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Rabensteig</name>
+	<open>1</open>
+		<Placemark> 	<!-- Rabensteig-->
+			<name>Rabensteig</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Rabensteig</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Chorhop" title="Chorhop">Chorhop</a> und <a href="http://www.wiki-aventurica.de/wiki/Vey" title="Vey">Vey</a> miteinander und überquert das <a href="http://www.wiki-aventurica.de/wiki/Regengebirge" title="Regengebirge">Regengebirge</a> über den <a href="http://www.wiki-aventurica.de/wiki/Petolo-Pass" title="Petolo-Pass">Petolo-Pass</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.9371598253985991,20.61800951962057,0   <!-- <POI>Siedlung:Chorhop</POI> -->  <!-- <POI>SOE:Magistrale Askania</POI> -->  <!-- <POI>SOE:an Weg nach Nasha</POI> --> 
+					-0.9356613428580274,20.61785997706609,0 
+					-0.9354114283464421,20.61721061750643,0 
+					-0.934373199681372,20.61702666372634,0 
+					-0.9334733308623522,20.61691206100943,0 
+					-0.9326422875260654,20.6168265568658,0 
+					-0.9323454520717689,20.61674036793134,0 
+					-0.93192999776748,20.61672438476574,0 
+					-0.9313771661634751,20.61653323764298,0 
+					-0.9300630365811025,20.61580459847658,0    <!-- Ende Detailkarte Chorhop -->
+					-0.9242499796506476,20.61442743153657,0 
+					-0.8948694706262184,20.61893777412546,0 
+					-0.8277143971986301,20.59215042064536,0 
+					-0.7506009201139263,20.60009324460464,0    <!-- <POI>Siedlung:Hoichem</POI> -->
+					-0.7076600547962153,20.56810862412706,0 
+					-0.6880493130325183,20.56823443278725,0 
+					-0.5947027974953545,20.63528724507923,0 
+					-0.569863891589425,20.64089776922953,0 
+					-0.5480378234780126,20.65634426926025,0
+					-0.5397886844065969,20.6688572938555,0    <!-- <POI>Flussquerung:Chamir</POI> -->
+					-0.5153844790425,20.6741896920403,0  	 <!-- Beginn Petolo-Pass -->
+					-0.4888249333626493,20.69356419133204,0 
+					-0.4723304863462141,20.69129803172238,0 
+					-0.408170589798762,20.65468996683338,0
+					-0.3722961809513736,20.65537700198144,0
+					-0.3331729895621582,20.67362759523401,0 
+					-0.317687209936145,20.67111565319769,0 
+					-0.2423319818715497,20.63267128633748,0 
+					-0.1777300853886754,20.61949366313318,0 
+					-0.1494557691564624,20.58758325809264,0 
+					-0.1460714176991318,20.56952349823043,0 
+					-0.119504802095175,20.55307737100423,0    	 <!-- Regengebirge -->
+					-0.1117682509404416,20.48991147891302,0 
+					-0.05600655652464037,20.45395399463448,0 
+					-0.01951367969159734,20.41327466989704,0 
+					0.008617508990433898,20.40507916895283,0 
+					0.04120162509816616,20.38655449959474,0 
+					0.08259389809392115,20.38042291669146,0 
+					0.1097036277466224,20.37127516069472,0   	 <!-- Ende Petolo-Pass -->
+					0.1423260240997082,20.37913410335922,0 
+					0.1626058350180348,20.36890336023206,0 
+					0.1816925826894056,20.33698794290321,0 
+					0.2026701172745549,20.32379770834007,0 
+					0.2319049581776289,20.31975472598329,0 
+					0.2504611252694278,20.30403647370549,0 
+					0.2696223415011567,20.27229307205133,0 
+					0.2870804354848344,20.26461433242102,0   <!-- <POI>SOE:Karawanenroute von Mirham nach Selem</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-0.325229</longitude>
+				<latitude>20.478893</latitude>
+				<altitude>129640</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

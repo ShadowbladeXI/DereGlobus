@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Nadersteig</name>
+	<open>1</open>
+		<Placemark> 	<!-- Nadersteig-->
+			<name>Nadersteig</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Nadersteig</b> ist einer der wenigen Wege durch <a href="http://www.wiki-aventurica.de/wiki/Nordthorwal" title="Nordthorwal">Nordthorwal</a> und führt an der <a href="http://www.wiki-aventurica.de/wiki/Nader" title="Nader">Nader</a> entlang. Er verbindet <a href="http://www.wiki-aventurica.de/wiki/Olport" title="Olport">Olport</a> mit <a href="http://www.wiki-aventurica.de/wiki/Hjedan" title="Hjedan">Hjedan</a>, jedoch ist die Strecke schlecht ausgebaut und nur im Sommer nutzbar.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.998270526956246,35.74550721163976,0  <!-- <POI>Siedlung:Olport</POI> -->
+						-4.997004704849023,35.7454069916714,0   <!--Ende Detailkarte Olport</POI>-->
+						-4.986496842931447,35.72604722721611,0 
+						-4.98717166784067,35.69890336880894,0 
+
+						-4.929144840886552,35.64678000898458,0  <!--<POI>Siedlung:Nadrafall</POI>--> <!--<POI>Abzweigung:Graubjergener Höhenweg</POI>-->
+						-4.893028488792346,35.65756070751559,0 
+						-4.844806006237462,35.66396896895759,0 
+						-4.81925860372428,35.67431401071418,0 
+						-4.790327883663016,35.67297720710865,0 
+						-4.76195873366922,35.65052050341999,0 
+						-4.754737744300069,35.62883969310274,0 
+						-4.721309977431446,35.60666195356923,0  <!--<POI>Siedlung:unbenannt</POI>-->
+						-4.669643664196535,35.60756412149067,0 
+						-4.616767709909548,35.58454335380787,0 
+						-4.561110789890486,35.53032807218435,0 
+						-4.539993088619858,35.53078754358477,0  <!--<POI>Siedlung:Nadorp</POI>-->
+						-4.523386072321087,35.54528277280065,0 
+						-4.503885776022924,35.55090954610737,0 
+						-4.468425766949931,35.54168693962849,0 
+						-4.431400051546321,35.52774246654534,0  <!--<POI>Flussquerung:Nader</POI>-->
+						-4.400302518136759,35.54025706004087,0 
+						-4.358504119954004,35.51514328005367,0 
+						-4.33488483940751,35.51536201561327,0 
+						-4.280389862992541,35.54636993596311,0  
+						-4.259020437642523,35.54476951514398,0  <!--<POI>Flussquerung:Nader</POI>-->
+						-4.230059037020526,35.51492922314353,0  <!--<POI>Siedlung:Svegan</POI>-->
+						-4.182940548319317,35.50891523155092,0 
+						-4.155241915013853,35.48526305023331,0 
+						-4.141232429519092,35.45472400871474,0 
+						-4.080006290171914,35.42470859996442,0 
+						-4.07112618971391,35.38891594194391,0 
+						-4.024979283502782,35.36591916633747,0 
+						-3.988602042660052,35.36041482813719,0 
+						-3.953111286959625,35.36635081730115,0 
+						-3.924753217340936,35.3517762864731,0   <!--<POI>Siedlung:Hjedan</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-4.361351</longitude>
+				<latitude>35.536356</latitude>
+				<altitude>130000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

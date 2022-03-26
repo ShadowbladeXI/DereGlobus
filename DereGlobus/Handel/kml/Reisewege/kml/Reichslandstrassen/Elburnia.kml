@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Elburnia</name>
+	<open>1</open>
+		<Placemark> 	<!-- Elburnia bis 1021 BF -->
+			<name>Elburnia</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Elburnia</b> ist eine mittlerweile größtenteils verfallene Straße von <a href="/index.php?title=Zorgan" title="Zorgan">Zorgan</a> über <a href="/index.php?title=Narhuabad" title="Narhuabad">Narhuabad</a>, <a href="/index.php?title=Keshal_Taref" title="Keshal Taref">Keshal Taref</a> und <a href="/index.php?title=Smijad" title="Smijad">Smijad</a> nach <a href="/index.php?title=Elburum" title="Elburum">Elburum</a>. Sie durchquert dabei die <a href="/index.php?title=Djerim_Yaleth&amp;action=edit&amp;redlink=1" class="new" title="Djerim Yaleth (Seite nicht vorhanden)">Djerim Yaleth</a>. Da es derzeit nur wenig Reisende in der Region gibt, werden kaum Anstrengungen unternommen, die Straße wieder instand zu setzen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						6.971781831460257,27.16514522973663,0   <!-- <POI>Siedlung:Zorgan</POI> --> <!-- <POI>SOE:Transaranica</POI> --> <!-- <POI>SOE:Küstenstraße</POI> -->
+						6.972238882251172,27.16362300820887,0 
+						6.972253538909559,27.16281256319168,0 
+						6.972885239634408,27.16164410847487,0 
+						6.974104596050125,27.16050681860159,0   <!-- <POI>Station:Elburisches Tor</POI> -->
+						6.975487849077906,27.15945083740483,0 
+						6.976889943196074,27.15930817846314,0 
+						6.979840944543958,27.15842874811698,0   <!-- Ende Detailkarte Zorgan</POI> -->
+						6.983339591563754,27.15817886320595,0 
+						7.085251650096374,27.15620672109231,0 
+						7.102392381065084,27.15237611106381,0 
+						7.141085369857643,27.15231798969242,0 	<!-- <POI>Anzweig:Weg zu unbenannter Siedlung</POI> -->
+						7.185330050193524,27.15471921569246,0 
+						7.233936814509569,27.14466822398172,0 	<!-- <POI>Siedlung:Chel'gan</POI> -->
+						7.287061390279376,27.14425398387185,0 
+						7.393512799678932,27.16399411992111,0 
+						7.443837879282356,27.16326375807432,0 	<!-- <POI>Siedlung:Narhuabad</POI> -->
+						7.532384570301827,27.15936245717214,0 
+						7.550546401943931,27.15575282499093,0 
+						7.577016841941959,27.15562910772026,0 
+						7.600424690018661,27.15982790190579,0 
+						7.698456820321362,27.15735122631161,0 
+						7.750477257033546,27.17203543273194,0 	<!-- <POI>Station:Kloster Nassori</POI> -->
+						7.854576400341051,27.19677235159549,0 
+						7.916378571659402,27.21634283264507,0 
+						7.999146662447751,27.21780308068111,0 
+						8.036393167538794,27.20954547694098,0 
+						8.060393781867878,27.19670636255261,0 	<!-- <POI>Siedlung:Keshal Taref</POI> -->
+						8.138958162757852,27.13611150972836,0 
+						8.168578928945955,27.12629742096859,0 
+						8.228477236913294,27.11626406610413,0 
+						8.364982986116862,27.09227601896994,0 
+						8.409263229106765,27.08794641259884,0 	<!-- <POI>Siedlung:Smijad</POI> -->
+						8.456262683795497,27.09168992030797,0 
+						8.537606276261087,27.11334173249674,0 
+						8.614525961517076,27.14402026015568,0 
+						8.647250709286245,27.14986973805284,0 
+						8.688118266524436,27.15251991811713,0 
+						8.691112336843309,27.15542196405715,0 
+						8.69290165235121,27.15738234129761,0 
+						8.695913564800637,27.1591575778231,0 
+						8.699705171842533,27.1598643926354,0 
+						8.701753347372152,27.160008933866,0    <!-- Anfang Detailkarte Elburum</POI> -->
+						8.704551357222206,27.1605133070959,0 
+						8.70577950656617,27.16102390864374,0 
+						8.706893402016846,27.16184666181599,0 
+						8.70730435919949,27.16231526940846,0 
+						8.708337819671129,27.16312588090111,0 
+						8.708943549844751,27.16353962595901,0 
+						8.710069617585702,27.16407559885459,0  <!-- <POI>Station:Stadttor</POI> -->
+						8.710835009875989,27.16472277266887,0 
+						8.711081588796912,27.16501967236714,0 
+						8.712760716857167,27.16599964235401,0 
+						8.713328252409481,27.16614826961189,0   <!-- <POI>Siedlung:Elburum</POI> --> <!-- <POI>SOE:Oronia</POI> --> <!-- <POI>SOE:Weg von Elburum nach Rathmos</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1021-12-31</when>
+				</gx:TimeStamp>
+				<longitude>7.74818</longitude>
+				<latitude>27.173402</latitude>
+				<altitude>600000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1021-12-31</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> 	<!-- Elburnia ab 1022 BF -->
+			<name>Elburnia</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Elburnia</b> ist eine mittlerweile größtenteils verfallene Straße von <a href="/index.php?title=Zorgan" title="Zorgan">Zorgan</a> über <a href="/index.php?title=Narhuabad" title="Narhuabad">Narhuabad</a>, <a href="/index.php?title=Keshal_Taref" title="Keshal Taref">Keshal Taref</a> und <a href="/index.php?title=Smijad" title="Smijad">Smijad</a> nach <a href="/index.php?title=Elburum" title="Elburum">Elburum</a>. Sie durchquert dabei die <a href="/index.php?title=Djerim_Yaleth&amp;action=edit&amp;redlink=1" class="new" title="Djerim Yaleth (Seite nicht vorhanden)">Djerim Yaleth</a>. Da es derzeit nur wenig Reisende in der Region gibt, werden kaum Anstrengungen unternommen, die Straße wieder instand zu setzen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						6.971781831460257,27.16514522973663,0   <!-- <POI>Siedlung:Zorgan</POI> --> <!-- <POI>SOE:Transaranica</POI> --> <!-- <POI>SOE:Küstenstraße</POI> -->
+						6.972238882251172,27.16362300820887,0 
+						6.972253538909559,27.16281256319168,0 
+						6.972885239634408,27.16164410847487,0 
+						6.974104596050125,27.16050681860159,0   <!-- <POI>Station:Elburisches Tor</POI> -->
+						6.975487849077906,27.15945083740483,0 
+						6.976889943196074,27.15930817846314,0 
+						6.979840944543958,27.15842874811698,0   <!-- Ende Detailkarte Zorgan</POI> -->
+						6.983339591563754,27.15817886320595,0 
+						7.085251650096374,27.15620672109231,0 
+						7.102392381065084,27.15237611106381,0 
+						7.141085369857643,27.15231798969242,0 	<!-- <POI>Anzweig:Weg zu unbenannter Siedlung</POI> -->
+						7.185330050193524,27.15471921569246,0 
+						7.233936814509569,27.14466822398172,0 	<!-- <POI>Siedlung:Chel'gan</POI> -->
+						7.287061390279376,27.14425398387185,0 
+						7.393512799678932,27.16399411992111,0 
+						7.443837879282356,27.16326375807432,0 	<!-- <POI>Siedlung:Narhuabad</POI> -->
+						7.532384570301827,27.15936245717214,0 
+						7.550546401943931,27.15575282499093,0 
+						7.577016841941959,27.15562910772026,0 
+						7.600424690018661,27.15982790190579,0 
+						7.698456820321362,27.15735122631161,0 
+						7.750477257033546,27.17203543273194,0 	<!-- <POI>Station:Kloster Nassori</POI> -->
+						7.854576400341051,27.19677235159549,0 
+						7.916378571659402,27.21634283264507,0 
+						7.999146662447751,27.21780308068111,0 
+						8.036393167538794,27.20954547694098,0 
+						8.060393781867878,27.19670636255261,0 	<!-- <POI>Siedlung:Keshal Taref</POI> -->
+						8.138958162757852,27.13611150972836,0 
+						8.168578928945955,27.12629742096859,0 
+						8.228477236913294,27.11626406610413,0 
+						8.364982986116862,27.09227601896994,0 
+						8.409263229106765,27.08794641259884,0 	<!-- <POI>Siedlung:Smijad</POI> -->
+						8.456262683795497,27.09168992030797,0 
+						8.537606276261087,27.11334173249674,0 
+						8.614525961517076,27.14402026015568,0 
+						8.647250709286245,27.14986973805284,0 
+						8.688118266524436,27.15251991811713,0 
+						8.691112336843309,27.15542196405715,0 
+						8.69290165235121,27.15738234129761,0 
+						8.695913564800637,27.1591575778231,0 
+						8.699705171842533,27.1598643926354,0 
+						8.701753347372152,27.160008933866,0    <!-- Anfang Detailkarte Elburum</POI> -->
+						8.704551357222206,27.1605133070959,0 
+						8.70577950656617,27.16102390864374,0 
+						8.706893402016846,27.16184666181599,0 
+						8.70730435919949,27.16231526940846,0 
+						8.708337819671129,27.16312588090111,0 
+						8.708943549844751,27.16353962595901,0 
+						8.710069617585702,27.16407559885459,0  <!-- <POI>Station:Stadttor</POI> -->
+						8.710835009875989,27.16472277266887,0 
+						8.711081588796912,27.16501967236714,0 
+						8.712760716857167,27.16599964235401,0 
+						8.713328252409481,27.16614826961189,0   <!-- <POI>Siedlung:Elburum</POI> --> <!-- <POI>SOE:Oronia</POI> --> <!-- <POI>SOE:Weg von Elburum nach Rathmos</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>7.74818</longitude>
+				<latitude>27.173402</latitude>
+				<altitude>600000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1022</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

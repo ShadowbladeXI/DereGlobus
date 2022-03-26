@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		<Placemark> <!-- Reichsstraße 2 (Debreks Pulether Pfalzstraße (Kaiser Debreks Pulether Pfalzstraße)) bis 1025 BF-->
+			<name>Reichsstraße 2</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Reichsstraße 2</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Baliho" title="Baliho">Baliho</a> über <a href="http://www.wiki-aventurica.de/wiki/Menzheim" title="Menzheim">Menzheim</a>, <a href="http://www.wiki-aventurica.de/wiki/Wehrheim" title="Wehrheim">Wehrheim</a>, <a href="http://www.wiki-aventurica.de/wiki/Gareth" title="Gareth">Gareth</a>, <a href="http://www.wiki-aventurica.de/wiki/Wieha&amp;action=edit&amp;redlink=1" class="new" title="Wieha (Seite nicht vorhanden)">Wieha</a>, <a href="http://www.wiki-aventurica.de/wiki/Eslamsgrund" title="Eslamsgrund">Eslamsgrund</a> und <a href="http://www.wiki-aventurica.de/wiki/Ragath" title="Ragath">Ragath</a> nach <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a>. Südlich von <a href="http://www.wiki-aventurica.de/wiki/Gareth" title="Gareth">Gareth</a> wird sie als <b>Eslamsweg</b> bezeichnet, nördlich davon verwendet man den Namen <b>Debreks Pulether Pfalzstraße</b>, aber auch der Name <b>Kaiser Debreks Pulether Pfalzstraße</b> ist geläufig.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					4.859577713802795,32.89247699060762,0 <!-- <POI>Siedlung:Baliho</POI> -->
+					4.860124618268829,32.89257950980286,0  
+					4.861313365784092,32.89261375595746,0 
+					4.861679488799537,32.89257203166412,0 
+					4.862021641645054,32.89261593951041,0 
+					4.862835624751211,32.89259911209263,0 
+					4.863469732719585,32.89237412941296,0 
+					4.864212512756144,32.89194385923609,0 
+					4.865233392509916,32.8912176677017,0   <!-- Ende Detailkarte Baliho -->	
+					4.879959344879906,32.88637812061676,0 
+					04.923436,32.868222,0 	
+					04.950729,32.836574,0 
+					04.961531,32.793437,0 
+					04.989986,32.755953,0 
+					05.017214,32.717552,0 
+					5.05759525358342,32.68582111034602,0 					
+					5.077028191058755,32.66051089491103,0 
+					5.080817599737999,32.65778660629671,0  <!-- Anfang Detailkarte Altnorden -->	
+					5.081738093662862,32.65762735698847,0 
+					5.082310568477295,32.65714091518862,0  <!-- <POI>Siedlung:Altnorden</POI> -->
+					5.082562252868743,32.65671864542809,0  <!-- Ende Detailkarte Altnorden -->	
+					5.082688712702028,32.65614551063884,0 
+					5.084775394440348,32.61907951103308,0 
+					5.07838099373963,32.59296285705686,0 
+					05.052060,32.558318,0 
+					05.008808,32.502673,0 
+					04.971807,32.472189,0 
+					04.935625,32.423393,0 
+					04.897865,32.400346,0 
+					04.871355,32.365757,0 
+					04.818337,32.325015,0 
+					04.774945,32.286940,0 
+					04.755654,32.251580,0 	<!-- <POI>Siedlung:Menzheim</POI> -->
+					04.729612,32.205278,0 
+					04.720044,32.171974,0 
+					04.702506,32.125784,0 
+					04.658575,32.085682,0 
+					04.614702,32.042194,0 
+					04.574059,32.000064,0 
+					04.552622,31.958649,0 
+					04.523925,31.936186,0 	<!-- <POI>Kreuzung:Auen-Blauenburg</POI> -->
+					04.494296,31.913016,0 
+					04.429173,31.825923,0 
+					04.364994,31.747022,0 	<!-- <POI>Siedlung:Barken</POI> -->
+					04.311056,31.618141,0 	<!-- <POI>SOE:R2-Hallingen</POI> -->
+					04.270714,31.577237,0 
+					04.222321,31.469043,0 	<!-- <POI>Siedlung:Galbenburg</POI> -->
+					04.097748,31.249132,0 
+					04.080219,31.205155,0 	<!-- <POI>Siedlung:Walsend</POI> -->
+					04.050484,31.185432,0 
+					03.997872,31.092847,0 	<!-- <POI>Siedlung:Helmdahl</POI> -->
+					03.979298,31.063090,0 
+					03.977474,31.008523,0 	<!-- <POI>SOE:R2-Burg Auraleth</POI> -->
+					03.970179,30.960296,0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+					03.968174,30.928797,0 	<!-- <POI>Fluss:Dergel</POI> -->
+					03.967474,30.885752,0 	<!-- <POI>Siedlung:Perz</POI> -->
+					03.910928,30.774493,0 	<!-- <POI>Kreuzung:St. Praiodan-Dergel</POI> -->
+					03.890860,30.685934,0 	<!-- <POI>Siedlung:Kaiserhain</POI> -->
+					03.872258,30.532522,0 	<!-- <POI>Siedlung:Puleth</POI> -->
+					03.863495,30.437646,0 
+					03.812792,30.340256,0 
+					03.769715,30.258125,0 	<!-- <POI>Siedlung:Natzungen</POI> -->
+					03.791216,30.133112,0 
+					03.816429,30.043026,0 
+					03.816100,29.975525,0 
+					03.800347,29.913566,0 
+					03.777738,29.876249,0 	<!-- <POI>SOE:R2-Rohalsweiler</POI> -->
+					03.742339,29.780528,0 	<!-- <POI>Siedlung:Gareth</POI> -->
+					3.721863973372441,29.64572211701002,0 	<!-- <POI>Siedlung:Silkwiesen</POI> -->
+					3.666847629776944,29.52816223284093,0 	<!-- <POI>Siedlung:Grambusch</POI> -->
+					3.660037317823808,29.46148415024322,0 	<!-- <POI>Siedlung:Wieha</POI> -->
+					3.64777980430556,29.39574717018773,0 
+					3.622717887348175,29.3108926376613,0 
+					3.618602024342119,29.21102321010644,0 	<!-- <POI>SOE:R2-Ackbar</POI> -->
+					3.621628422787169,29.13649663944497,0 	<!-- <POI>SOE:R2-Wandleth</POI> -->
+					3.615173780951471,29.08660086215104,0 
+					3.607580180546515,29.06734451800109,0 
+					3.595160168465801,29.05548956406149,0  <!--Anfang Detailkarte Eslamsgrund--> 
+					3.59487844045606,29.0543405318709,0 
+					3.594811957475559,29.0538415195265,0 
+					3.594773942464919,29.05289134250111,0 
+					3.594634657698599,29.05210191870268,0  <!--<POI>Abzweigung:Richtung Tor</POI>--> <!-- <POI>Siedlung:Eslamsgrund</POI> -->
+					3.59447956124392,29.05160115567079,0 
+					3.594110922479685,29.05085869557501,0 
+					3.594076097797108,29.05047375075164,0 
+					3.594310276017723,29.04990381089588,0  <!--Ende Detailkarte Eslamsgrund--> <!--<POI>Abzweigung:Dornensee</POI>-->
+					3.58444950711309,29.03082742184619,0 
+					3.511746476693838,28.95894328824286,0  <!--<POI>Siedlung:unbekannt</POI>-->
+					3.455645937569545,28.90715412021342,0 
+					3.420404064455718,28.85551751138332,0 
+					3.374039144511754,28.81214703072154,0 
+					3.354783572630051,28.78743209354003,0 	<!-- <POI>Siedlung:Steynebruk</POI> -->
+					3.334095690571646,28.74931399219036,0 	<!-- <POI>SOE:</POI> -->
+					3.272071571756574,28.63501787956422,0 
+					3.236310505779205,28.5927111055556,0 
+					3.127974598274725,28.37590453550121,0 	<!-- <POI>Siedlung:Franfeld</POI> -->
+					3.091676479995167,28.32042870716995,0 
+					3.032313271683114,28.25642045464518,0 
+					3.01107797386051,28.19786318704903,0 
+					3.000943889811161,28.14354212298895,0 	<!-- <POI>Fluss:Yaquir</POI> -->
+					2.995977435829851,28.11236616780552,0 	<!-- <POI>Kreuzung:Yasamir-Falado</POI> -->
+					2.973259812335178,28.03569135505471,0 
+					2.933091628389786,27.9989845332033,0 
+					2.902617061075783,27.9629995373149,0 	<!-- <POI>Siedlung:Wilsemund</POI> -->
+					2.777772003888943,27.84861012418249,0 	<!-- <POI>Siedlung:Ciragad</POI> -->
+					2.607901719256995,27.73779649223426,0 
+					2.600692357829535,27.73838133612219,0 
+					2.595756176586122,27.73819841833705,0 
+					2.592272621047351,27.73789870386236,0 
+					2.589878850280385,27.7369054583708,0 
+					2.588555374340944,27.73607387410259,0 
+					2.587820172203175,27.7353478395762,0 
+					2.587510537290525,27.73491348802012,0 
+					2.586854376276542,27.73443719319478,0 	<!-- <POI>Stadttor:Rageth Ost</POI> -->
+					2.586763789050981,27.73437826544732,0 
+					2.586599054567746,27.73425255051769,0 
+					2.586183518045755,27.7339740068004,0 
+					2.585961484420949,27.73382680760288,0 
+					2.58528185259733,27.73347193054677,0 
+					2.585254309498748,27.73315940308443,0 
+					2.584807566836445,27.73298261075846,0 	<!-- <POI>Siedlung:Rageth</POI> -->
+					2.584508227944391,27.73281442690837,0 
+					2.583477274551256,27.73240722215251,0 
+					2.582669634476817,27.73210180054668,0 
+					2.581910825903762,27.73208821848399,0 
+					2.581604423136563,27.73209296354238,0 	<!-- <POI>Stadttor:Rageth West</POI> -->
+					2.581403170881862,27.73204843771007,0 
+					2.581169478703034,27.73190613981981,0 
+					2.580965021401604,27.73174901921356,0 
+					2.580724384050879,27.73165774936152,0 
+					2.580425393998522,27.73159101039243,0 
+					2.578551669646687,27.72968865129552,0 
+					2.577362666579863,27.72299567718266,0 
+					2.58078217081841,27.71241541439893,0 
+					2.583286418871016,27.70755573060138,0 
+					2.582214374195264,27.70404443389246,0 
+					2.579245620486899,27.70014580750225,0 
+					2.54299942519385,27.6434961383211,0 
+					2.539069828319633,27.57680719662549,0 	<!-- <POI>Siedlung:Heldor</POI> -->
+					2.547266380436069,27.46607620140956,0 	<!-- <POI>Siedlung:Quaianea</POI> -->
+					2.56013382559585,27.33358369468664,0 	<!-- <POI>Siedlung:San Therbun</POI> -->
+					2.586758427106493,27.22600586230442,0 	<!-- <POI>Siedlung:Qyirod</POI> -->
+					2.669583254600396,27.13327407575767,0 
+					2.677120674746567,27.09649440754827,0 
+					2.678772705948065,27.06790756325752,0 	<!-- <POI>SOE:</POI> -->
+					2.67072433265638,27.06006831687183,0 
+					2.66829032781704,27.05846554312269,0 
+					2.662957464083331,27.05797507790189,0 
+					2.66152686669316,27.05759132191865,0 
+					2.66097748040254,27.05692883362969,0 
+					2.660822679047086,27.05627927224809,0 
+					2.660852755037804,27.05612180533604,0 
+					2.660874855134896,27.05595419364369,0 
+					2.660896225914062,27.05428159650031,0 
+					2.66097103523518,27.05397203710215,0 
+					2.661158217315256,27.05167132824975,0 
+					2.66120810854992,27.05125760743162,0 
+					2.661168130544194,27.05101470057488,0 
+					2.661178610015005,27.05074439067116,0 
+					2.661256171952278,27.05051562252381,0 	<!-- <POI>SOE:</POI> -->
+					2.661116954009484,27.05043610141319,0 
+					2.660991235924941,27.05038142281097,0 
+					2.660753028273717,27.05028844772286,0 
+					2.660474479406565,27.05017459175767,0 
+					2.660254135895168,27.05009403019891,0 
+					2.660061065237747,27.05000991496396,0 	<!-- <POI>Stadttor:Reichsstraße_2 Ost</POI> -->
+					2.659935206278812,27.04998903166673,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.659630933304795,27.04986615511087,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.659324675332213,27.04976044670644,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.659058777045744,27.04965262213356,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.65824921045356,27.0493798890626,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.658023595857895,27.04932701105583,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.657731585524261,27.0492445568219,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.657515545837061,27.04920861656524,0 	<!--<POI>AbzweigungRechts:</POI>-->
+					2.657278139272914,27.04917479055623,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.656447359381973,27.04917927119185,0   <!--<POI>Siedlung:Punin</POI>--> <!--<POI>SOE:Yuaquirstieg</POI>--> <!--<POI>SOE:Weinstraße</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>3.863620607339867</longitude>
+				<latitude>30.03349287147472</latitude>
+				<altitude>1080000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1024-12-31</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> <!-- Reichsstraße 2 (Debreks Pulether Pfalzstraße (Kaiser Debreks Pulether Pfalzstraße)) ab 1025 BF bis 1027 BF-->
+			<name>Reichsstraße 2</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Reichsstraße 2</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Baliho" title="Baliho">Baliho</a> über <a href="http://www.wiki-aventurica.de/wiki/Menzheim" title="Menzheim">Menzheim</a>, <a href="http://www.wiki-aventurica.de/wiki/Wehrheim" title="Wehrheim">Wehrheim</a>, <a href="http://www.wiki-aventurica.de/wiki/Gareth" title="Gareth">Gareth</a>, <a href="http://www.wiki-aventurica.de/wiki/Wieha&amp;action=edit&amp;redlink=1" class="new" title="Wieha (Seite nicht vorhanden)">Wieha</a>, <a href="http://www.wiki-aventurica.de/wiki/Eslamsgrund" title="Eslamsgrund">Eslamsgrund</a> und <a href="http://www.wiki-aventurica.de/wiki/Ragath" title="Ragath">Ragath</a> nach <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a>.<br>Südlich von <a href="http://www.wiki-aventurica.de/wiki/Gareth" title="Gareth">Gareth</a> wird sie als <b>Eslamsweg</b> bezeichnet, nördlich davon verwendet man den Namen <b>Debreks Pulether Pfalzstraße</b>, aber auch der Name <b>Kaiser Debreks Pulether Pfalzstraße</b> ist geläufig.<br><br>Inzwischen weisen nicht mehr alle Teile der Straße eine <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe" title="Reichsstraße">Reichsstraßenqualität</a> auf. In jüngster Zeit wurde die Straße bis nach <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a> ausgebaut.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					05.060106,33.646034,0 	<!-- <POI>SOE:Reichsstraße 2</POI> --><!-- <POI>Siedlung:Trallop</POI> -->
+					05.060565,33.645236,0 
+					05.060647,33.645045,0 	<!-- <POI>SOE:</POI> -->
+					05.060817,33.644705,0 
+					05.062104,33.641289,0 
+					05.063210,33.636836,0 
+					05.063390,33.631766,0 
+					05.060244,33.627283,0 
+					05.056338,33.616598,0 
+					05.048401,33.559976,0 
+					05.035966,33.522687,0 
+					05.041347,33.431387,0 
+					05.052863,33.417318,0 	<!-- <POI>Fluss:</POI> -->
+					05.074816,33.382940,0 	<!-- <POI>Siedlung:Braunsfurt</POI> --> <!-- <POI>Abzweig:Tobrische Straße</POI> -->
+					05.052211,33.370585,0 	<!-- <POI>Fluss:Braunwasser</POI> -->
+					05.006100,33.350569,0 
+					04.962964,33.288146,0 
+					04.953809,33.236201,0 
+					04.926322,33.174243,0 
+					04.926298,33.138689,0 
+					04.936322,33.090411,0 
+					04.933773,33.064434,0 	<!-- <POI>Siedlung:Anderath</POI> -->
+					4.92792054403748,33.05395641753702,0 <!-- <POI>Abzweig:Alter Weg</POI> -->
+					04.913901,33.030022,0 
+					04.904062,33.006053,0 
+					
+					4.873809302683618,32.96026528998058,0 
+					4.840261268333301,32.93129465766436,0 
+					4.840156111470364,32.93024480209478,0 
+					4.840463492465641,32.92930923908403,0 
+					4.840578256535489,32.92868595167317,0 
+					4.840670132683518,32.92793264547799,0 
+					4.840748298153914,32.92700998528147,0 
+					4.840698073282792,32.92624815432451,0 
+
+					4.858088464557731,32.89399273101501,0  <!-- Anfang Detailkarte Baliho -->	
+					4.85832461588908,32.8936590810863,0    <!-- <POI>Fluss:Ronrasser</POI> -->		
+					4.85871490562499,32.89330258873237,0 
+					4.858932148880115,32.89309906692685,0 
+					4.858922717991804,32.89299333074256,0 
+					4.85900457588317,32.89292725332714,0 
+					4.859010898209033,32.89271578328955,0 
+					4.859577713802795,32.89247699060762,0 <!-- <POI>Siedlung:Baliho</POI> -->
+					4.860124618268829,32.89257950980286,0  
+					4.861313365784092,32.89261375595746,0 
+					4.861679488799537,32.89257203166412,0 
+					4.862021641645054,32.89261593951041,0 
+					4.862835624751211,32.89259911209263,0 
+					4.863469732719585,32.89237412941296,0 
+					4.864212512756144,32.89194385923609,0 
+					4.865233392509916,32.8912176677017,0   <!-- Ende Detailkarte Baliho -->	
+					4.879959344879906,32.88637812061676,0 
+					04.923436,32.868222,0 	
+					04.950729,32.836574,0 
+					04.961531,32.793437,0 
+					04.989986,32.755953,0 
+					05.017214,32.717552,0 
+					5.05759525358342,32.68582111034602,0 					
+					5.077028191058755,32.66051089491103,0 
+					5.080817599737999,32.65778660629671,0  <!-- Anfang Detailkarte Altnorden -->	
+					5.081738093662862,32.65762735698847,0 
+					5.082310568477295,32.65714091518862,0  <!-- <POI>Siedlung:Altnorden</POI> -->
+					5.082562252868743,32.65671864542809,0  <!-- Ende Detailkarte Altnorden -->	
+					5.082688712702028,32.65614551063884,0 
+					5.084775394440348,32.61907951103308,0 
+					5.07838099373963,32.59296285705686,0 
+					05.052060,32.558318,0 
+					05.008808,32.502673,0 
+					04.971807,32.472189,0 
+					04.935625,32.423393,0 
+					04.897865,32.400346,0 
+					04.871355,32.365757,0 
+					04.818337,32.325015,0 
+					04.774945,32.286940,0 
+					04.755654,32.251580,0 	<!-- <POI>Siedlung:Menzheim</POI> -->
+					04.729612,32.205278,0 
+					04.720044,32.171974,0 
+					04.702506,32.125784,0 
+					04.658575,32.085682,0 
+					04.614702,32.042194,0 
+					04.574059,32.000064,0 
+					04.552622,31.958649,0 
+					04.523925,31.936186,0 	<!-- <POI>Kreuzung:Auen-Blauenburg</POI> -->
+					04.494296,31.913016,0 
+					04.429173,31.825923,0 
+					04.364994,31.747022,0 	<!-- <POI>Siedlung:Barken</POI> -->
+					04.311056,31.618141,0 	<!-- <POI>SOE:R2-Hallingen</POI> -->
+					04.270714,31.577237,0 
+					04.222321,31.469043,0 	<!-- <POI>Siedlung:Galbenburg</POI> -->
+					04.097748,31.249132,0 
+					04.080219,31.205155,0 	<!-- <POI>Siedlung:Walsend</POI> -->
+					04.050484,31.185432,0 
+					03.997872,31.092847,0 	<!-- <POI>Siedlung:Helmdahl</POI> -->
+					03.979298,31.063090,0 
+					03.977474,31.008523,0 	<!-- <POI>SOE:R2-Burg Auraleth</POI> -->
+					03.970179,30.960296,0 	<!-- <POI>Siedlung:Wehrheim</POI> -->
+					03.968174,30.928797,0 	<!-- <POI>Fluss:Dergel</POI> -->
+					03.967474,30.885752,0 	<!-- <POI>Siedlung:Perz</POI> -->
+					03.910928,30.774493,0 	<!-- <POI>Kreuzung:St. Praiodan-Dergel</POI> -->
+					03.890860,30.685934,0 	<!-- <POI>Siedlung:Kaiserhain</POI> -->
+					03.872258,30.532522,0 	<!-- <POI>Siedlung:Puleth</POI> -->
+					03.863495,30.437646,0 
+					03.812792,30.340256,0 
+					03.769715,30.258125,0 	<!-- <POI>Siedlung:Natzungen</POI> -->
+					03.791216,30.133112,0 
+					03.816429,30.043026,0 
+					03.816100,29.975525,0 
+					03.800347,29.913566,0 
+					03.777738,29.876249,0 	<!-- <POI>SOE:R2-Rohalsweiler</POI> -->
+					03.742339,29.780528,0 	<!-- <POI>Siedlung:Gareth</POI> -->
+					3.721863973372441,29.64572211701002,0 	<!-- <POI>Siedlung:Silkwiesen</POI> -->
+					3.666847629776944,29.52816223284093,0 	<!-- <POI>Siedlung:Grambusch</POI> -->
+					3.660037317823808,29.46148415024322,0 	<!-- <POI>Siedlung:Wieha</POI> -->
+					3.64777980430556,29.39574717018773,0 
+					3.622717887348175,29.3108926376613,0 
+					3.618602024342119,29.21102321010644,0 	<!-- <POI>SOE:R2-Ackbar</POI> -->
+					3.621628422787169,29.13649663944497,0 	<!-- <POI>SOE:R2-Wandleth</POI> -->
+					3.615173780951471,29.08660086215104,0 
+					3.607580180546515,29.06734451800109,0 
+					3.595160168465801,29.05548956406149,0  <!--Anfang Detailkarte Eslamsgrund--> 
+					3.59487844045606,29.0543405318709,0 
+					3.594811957475559,29.0538415195265,0 
+					3.594773942464919,29.05289134250111,0 
+					3.594634657698599,29.05210191870268,0  <!--<POI>Abzweigung:Richtung Tor</POI>--> <!-- <POI>Siedlung:Eslamsgrund</POI> -->
+					3.59447956124392,29.05160115567079,0 
+					3.594110922479685,29.05085869557501,0 
+					3.594076097797108,29.05047375075164,0 
+					3.594310276017723,29.04990381089588,0  <!--Ende Detailkarte Eslamsgrund--> <!--<POI>Abzweigung:Dornensee</POI>-->
+					3.58444950711309,29.03082742184619,0 
+					3.511746476693838,28.95894328824286,0  <!--<POI>Siedlung:unbekannt</POI>-->
+					3.455645937569545,28.90715412021342,0 
+					3.420404064455718,28.85551751138332,0 
+					3.374039144511754,28.81214703072154,0 
+					3.354783572630051,28.78743209354003,0 	<!-- <POI>Siedlung:Steynebruk</POI> -->
+					3.334095690571646,28.74931399219036,0 	<!-- <POI>SOE:</POI> -->
+					3.272071571756574,28.63501787956422,0 
+					3.236310505779205,28.5927111055556,0 
+					3.127974598274725,28.37590453550121,0 	<!-- <POI>Siedlung:Franfeld</POI> -->
+					3.091676479995167,28.32042870716995,0 
+					3.032313271683114,28.25642045464518,0 
+					3.01107797386051,28.19786318704903,0 
+					3.000943889811161,28.14354212298895,0 	<!-- <POI>Fluss:Yaquir</POI> -->
+					2.995977435829851,28.11236616780552,0 	<!-- <POI>Kreuzung:Yasamir-Falado</POI> -->
+					2.973259812335178,28.03569135505471,0 
+					2.933091628389786,27.9989845332033,0 
+					2.902617061075783,27.9629995373149,0 	<!-- <POI>Siedlung:Wilsemund</POI> -->
+					2.777772003888943,27.84861012418249,0 	<!-- <POI>Siedlung:Ciragad</POI> -->
+					2.607901719256995,27.73779649223426,0 
+					2.600692357829535,27.73838133612219,0 
+					2.595756176586122,27.73819841833705,0 
+					2.592272621047351,27.73789870386236,0 
+					2.589878850280385,27.7369054583708,0 
+					2.588555374340944,27.73607387410259,0 
+					2.587820172203175,27.7353478395762,0 
+					2.587510537290525,27.73491348802012,0 
+					2.586854376276542,27.73443719319478,0 	<!-- <POI>Stadttor:Rageth Ost</POI> -->
+					2.586763789050981,27.73437826544732,0 
+					2.586599054567746,27.73425255051769,0 
+					2.586183518045755,27.7339740068004,0 
+					2.585961484420949,27.73382680760288,0 
+					2.58528185259733,27.73347193054677,0 
+					2.585254309498748,27.73315940308443,0 
+					2.584807566836445,27.73298261075846,0 	<!-- <POI>Siedlung:Rageth</POI> -->
+					2.584508227944391,27.73281442690837,0 
+					2.583477274551256,27.73240722215251,0 
+					2.582669634476817,27.73210180054668,0 
+					2.581910825903762,27.73208821848399,0 
+					2.581604423136563,27.73209296354238,0 	<!-- <POI>Stadttor:Rageth West</POI> -->
+					2.581403170881862,27.73204843771007,0 
+					2.581169478703034,27.73190613981981,0 
+					2.580965021401604,27.73174901921356,0 
+					2.580724384050879,27.73165774936152,0 
+					2.580425393998522,27.73159101039243,0 
+					2.578551669646687,27.72968865129552,0 
+					2.577362666579863,27.72299567718266,0 
+					2.58078217081841,27.71241541439893,0 
+					2.583286418871016,27.70755573060138,0 
+					2.582214374195264,27.70404443389246,0 
+					2.579245620486899,27.70014580750225,0 
+					2.54299942519385,27.6434961383211,0 
+					2.539069828319633,27.57680719662549,0 	<!-- <POI>Siedlung:Heldor</POI> -->
+					2.547266380436069,27.46607620140956,0 	<!-- <POI>Siedlung:Quaianea</POI> -->
+					2.56013382559585,27.33358369468664,0 	<!-- <POI>Siedlung:San Therbun</POI> -->
+					2.586758427106493,27.22600586230442,0 	<!-- <POI>Siedlung:Qyirod</POI> -->
+					2.669583254600396,27.13327407575767,0 
+					2.677120674746567,27.09649440754827,0 
+					2.678772705948065,27.06790756325752,0 	<!-- <POI>SOE:</POI> -->
+					2.67072433265638,27.06006831687183,0 
+					2.66829032781704,27.05846554312269,0 
+					2.662957464083331,27.05797507790189,0 
+					2.66152686669316,27.05759132191865,0 
+					2.66097748040254,27.05692883362969,0 
+					2.660822679047086,27.05627927224809,0 
+					2.660852755037804,27.05612180533604,0 
+					2.660874855134896,27.05595419364369,0 
+					2.660896225914062,27.05428159650031,0 
+					2.66097103523518,27.05397203710215,0 
+					2.661158217315256,27.05167132824975,0 
+					2.66120810854992,27.05125760743162,0 
+					2.661168130544194,27.05101470057488,0 
+					2.661178610015005,27.05074439067116,0 
+					2.661256171952278,27.05051562252381,0 	<!-- <POI>SOE:</POI> -->
+					2.661116954009484,27.05043610141319,0 
+					2.660991235924941,27.05038142281097,0 
+					2.660753028273717,27.05028844772286,0 
+					2.660474479406565,27.05017459175767,0 
+					2.660254135895168,27.05009403019891,0 
+					2.660061065237747,27.05000991496396,0 	<!-- <POI>Stadttor:Reichsstraße_2 Ost</POI> -->
+					2.659935206278812,27.04998903166673,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.659630933304795,27.04986615511087,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.659324675332213,27.04976044670644,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.659058777045744,27.04965262213356,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.65824921045356,27.0493798890626,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.658023595857895,27.04932701105583,0 	<!--<POI>AbzweigungRechts:</POI><POI>AbzweigungLinks:</POI>-->
+					2.657731585524261,27.0492445568219,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.657515545837061,27.04920861656524,0 	<!--<POI>AbzweigungRechts:</POI>-->
+					2.657278139272914,27.04917479055623,0 	<!--<POI>AbzweigungLinks:</POI>-->
+					2.656447359381973,27.04917927119185,0   <!--<POI>Siedlung:Punin</POI>--> <!--<POI>SOE:Yuaquirstieg</POI>--> <!--<POI>SOE:Weinstraße</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>3.862631200197831</longitude>
+				<latitude>30.22727665697594</latitude>
+				<altitude>1096590</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1025</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+
+</Document>
+</kml>

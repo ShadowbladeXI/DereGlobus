@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Pass von Sorbur</name>
+	<open>1</open>
+		<Placemark> 	<!-- Pass von Sorbur-->
+			<name>Pass von Sorbur</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Von <a href="http://www.wiki-aventurica.de/wiki/Mirham">Mirham</a> aus führt der  <b>Pass von Sorbur</b> ins <a href="http://www.wiki-aventurica.de/wiki/Regengebirge" title="Regengebirge">Regengebirge</a>, um im dortigen Dschungel zu enden.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-1.098824965903879,19.27698100500432,0  <!-- <POI>Regengebirge</POI> -->
+					-1.050929686359691,19.23808577010768,0 
+					-1.006627116922697,19.23305411671377,0 
+					-0.9502130010712095,19.23417249447898,0 
+					-0.9087445864057553,19.25572632732521,0 
+					-0.8773120525329836,19.25539007014417,0 
+					-0.8289533633159807,19.2426945980276,0 
+					-0.7941932907076954,19.21399128088214,0 
+					-0.7534465504660814,19.20878058382068,0 
+					-0.7356692815126897,19.19607411044225,0 
+					-0.7252296233632172,19.17697247994625,0 
+					-0.7243528626116169,19.16567406890858,0		<!-- <POI>Siedlung:Mirham</POI> --> <!-- <POI>SOE:Palaststraße</POI> --> <!-- <POI>SOE:Karawanenroute von Mirham nach Selem</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-0.911578</longitude>
+				<latitude>19.221307</latitude>
+				<altitude>39670</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Privathäuser Al'Anfa</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>18.43051248368561</north>
+			<south>18.41795447710933</south>
+			<east>-0.8018981744279408</east>
+			<west>-0.8200000042336131</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<!--<Placemark>
+		<name>Anwesen</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil:</I> Silberberg<TR><TD><I>Besitzer/Vorsteher:</I> Ratonos H´Estin<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.805107</longitude>
+			<latitude>18.422677</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.8051069999999999,18.422677,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Anwesen al´Ghorios</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Hekmat al´Ghorios<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.818559</longitude>
+			<latitude>18.420036</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.818559,18.420036,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Anwesen Murenas</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Melino Murenas<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.818644</longitude>
+			<latitude>18.421141</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.818644,18.421141,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Anwesen des Arkhan Arabaal</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> N3-X<TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Arkhan Arabaal<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.817829</longitude>
+			<latitude>18.418711</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.817829,18.418711,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Anwesen Perval</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> L2-X<TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Irschan Perval<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.818790</longitude>
+			<latitude>18.420509</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.818790,18.420509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Domizil des Großen Theatralo</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> M1-X<TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Theatralo<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.819781</longitude>
+			<latitude>18.418898</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.819781,18.418898,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Haus der Unsterblichkeit</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> D7-X<TR><TD><I>Stadtteil:</I> Grafenstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.813669</longitude>
+			<latitude>18.427070</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.813669,18.427070,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Haus mit Turm</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> I10-X<TR><TD><I>Stadtteil:</I> Alter Fischmarkt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.810251</longitude>
+			<latitude>18.422970</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.810251,18.422970,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Palazzo du Metuant</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> H10-V<TR><TD><I>Stadtteil:</I> Alter Fischmarkt<TR><TD><I>Besitzer/Vorsteher:</I> Oderin du Metuant<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.810241</longitude>
+			<latitude>18.423532</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<end>1028</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.810241,18.423532,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Turm der Alara Olibano</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> B4<TR><TD><I>Stadtteil:</I> Silberne Essen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.816738</longitude>
+			<latitude>18.428774</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.816738,18.428774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa H´estofan</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Villenviertel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.819425</longitude>
+			<latitude>18.419517</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.819425,18.419517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Bonareth</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> E15-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.806225</longitude>
+			<latitude>18.426724</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.806225,18.426724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Desiderya</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Grafenstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.811788</longitude>
+			<latitude>18.428126</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.811788,18.428126,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Florios</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> C15-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.805447</longitude>
+			<latitude>18.428367</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.805447,18.428367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Hermetica</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Grafenstadt<TR><TD><I>Besitzer/Vorsteher:</I> Ragodan<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.817634</longitude>
+			<latitude>18.426179</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.817634,18.426179,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Karinor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> D17-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.803438</longitude>
+			<latitude>18.427209</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.803438,18.427209,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Kugres</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> G16-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.805426</longitude>
+			<latitude>18.424677</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.805426,18.424677,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Paligan</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> F14-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.806439</longitude>
+			<latitude>18.425428</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.806439,18.425428,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Tuzak</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> L2<TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Markud<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.818234</longitude>
+			<latitude>18.420443</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.818234,18.420443,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Ulfhart</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> F16-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.804727</longitude>
+			<latitude>18.425953</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.804727,18.425953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa von Horun dem Giftfürsten</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> I2-X<TR><TD><I>Stadtteil:</I> Villenviertel<TR><TD><I>Besitzer/Vorsteher:</I> Horun<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.818107</longitude>
+			<latitude>18.422896</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.818107,18.422896,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Wilmaan</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> H17-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.804406</longitude>
+			<latitude>18.423790</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.804406,18.423790,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Villa Zornbrecht</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> F17-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.803458</longitude>
+			<latitude>18.425683</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.803458,18.425683,0</coordinates>
+		</Point>
+	</Placemark>
+	<!--<Placemark>
+		<name>Wohnhaus Anpaha</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Besitzer/Vorsteher:</I> Anpaha<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.806707</longitude>
+			<latitude>18.413077</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.806707,18.413077,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Wohnhaus Paganuez</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Universität<TR><TD><I>Besitzer/Vorsteher:</I> Jesidro Paganuez<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.819081</longitude>
+			<latitude>18.427557</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.819081,18.427557,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Infomarker_Khezzara.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Infomarker_Khezzara</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>33.79384081750062</north>
+				<south>33.79132804927691</south>
+				<east>-0.07822331810895376</east>
+				<west>-0.08284636149193105</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					
+					<b>Handelsstätten:</b><br/>
+					
+					<b>Landschaft:</b><br/>
+					
+					<b>Öffentliche Bauwerke:</b><br/>
+					
+					<b>Privathäuser:</b><br/>
+					
+					<b>Sakrale Bauwerke:</b><br/>
+					
+					<b>Staatliche Bauwerke:</b><br/>
+					
+					<b>Straßen:</b><br/>
+					
+					<b>Werkstätten:</b><br/><br/>
+										
+					<B>Mögliche Quellen:</B><br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<br/>Die Welt des Schwarzen Auges, S. 39<br/>Das Orkland, S. 21<br/>Das Greifenopfer, S. 17<br/>Geographia Aventurica, S. 33<br/>Reich des Roten Mondes, S. 33<br/>Das Jahr des Greifen - Die Entdeckung, S. 189<br/>Aventurisches Archiv 1, S. 77<br/>Aventurisches Archiv 2, S. 91<br/>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<br/>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<br/><HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</table></p>]]>
+			</description>
+			<LookAt> 
+				<longitude>-0.070948</longitude>
+				<latitude>33.784141</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>-0.0836345707818853,33.79252388902318,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

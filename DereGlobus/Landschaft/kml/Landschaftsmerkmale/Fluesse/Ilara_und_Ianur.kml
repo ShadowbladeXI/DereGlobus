@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Ilara und Ianur</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Ilara</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Ilara</b> ist ein <a title="Fluss" href="/wiki/Fluss">Fluss</a> auf <a title="Altoum" href="/wiki/Altoum">Altoum</a>, der mit einer Länge von 200 <a title="Meile" href="/wiki/Meile">Meilen</a> das längste fließende Gewässer der <a title="Waldinseln" href="/wiki/Waldinseln">Waldinseln</a> ist. Der Fluss entspringt im westlichen <a title="Altimont" href="/wiki/Altimont">Altimont</a> und fächert sich bei <a title="Edas" href="/wiki/Edas">Edas</a> in ein etwa 25 Meilen breites <a title="Ilara-Sümpfe" href="/wiki/Ilara-S%C3%BCmpfe">sumpfiges Delta</a> auf, bevor er in die <a title="Straße von Sylla" href="/wiki/Stra%C3%9Fe_von_Sylla">Straße von Sylla</a> mündet. Der einzige Zufluss des sumpfigen Ilara ist der <a title="Ianur" href="/wiki/Ianur">Ianur</a>, der etwa 15 Meilen vor <a title="Edas" href="/wiki/Edas">Edas</a> einmündet. 
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				3.013319205768312,16.85703667157733,0 2.985451456816042,16.8429422817119,0 2.972046421532304,16.84230733187915,0 2.955550061132397,16.84266292817494,0 2.944217815147501,16.84827279883279,0 2.932191799517612,16.85059298483768,0 2.919472639259348,16.84995233467221,0 2.902267213761485,16.83911673536977,0 2.891607707576576,16.83781272036838,0 2.883015365149715,16.83979611239644,0 2.874768518096744,16.84342393498772,0 2.862038119590928,16.83915824151319,0 2.856190364890037,16.83850516155117,0 2.848628997418723,16.84246034235073,0 2.834092303881,16.8569380320071,0 2.826523809450963,16.86748066205986,0 2.813102795799516,16.87736917711156,0 2.802774336974452,16.87672117141259,0 2.794853518509368,16.87113428853793,0 2.781427734967659,16.86390719458252,0 2.76560774722989,16.87412078227273,0 2.759072896311916,16.87609974385798,0 2.74737662575947,16.87314675865996,0 2.738777642249046,16.87084931314308,0 2.730180666376518,16.87085444710679,0 2.718491652575872,16.87513732075239,0 2.698900478270279,16.89225098699468,0 2.691338299036268,16.89685855799763,0 2.681368672069531,16.89850595061934,0 2.667273317799079,16.89719327278022,0 2.657990116099909,16.88765594666169,0 2.657987044934906,16.86594637725484,0 2.65248647876448,16.85607861847274,0 2.642175007604051,16.85048715268748,0 2.627395986824634,16.85048720781442,0 2.606429288545218,16.85377454001294,0 2.596460302831292,16.85936496939537,0 2.57823847466204,16.86824202347713,0 2.556918150314915,16.87448454148521,0 2.545568860310963,16.87480829902225,0 2.529333786186412,16.87249175417744,0 2.510755470981489,16.86491603265496,0 2.496649940119688,16.86425157336103,0 2.488049822025318,16.86457614251445,0 2.481162576665337,16.87345556550838,0 2.479782119824359,16.87871874575495,0 2.47083235913703,16.8869373275691,0 2.457083643735227,16.87903141970233,0 2.432328749680444,16.87802351277928,0 2.42099403203601,16.86913117357457,0 2.412763379160139,16.85300404313222,0 2.397651200788908,16.84410602769149,0 2.384934995699675,16.84376275049665,0 2.372560013164453,16.8453926727087,0 2.355701913174024,16.85754241007532,0 2.331612128049092,16.87658718134148,0 2.321300337104664,16.87558477147011,0 2.304009311570461,16.88706484286528,0 2.293657095778223,16.89593630708971,0 2.277803922914707,16.90051757081661,0 2.261618559599965,16.90114697165814,0 2.240972448430267,16.89748887248532,0 2.224129561626689,16.88890173624726,0 2.215563852270817,16.87342141675444,0 2.203548002619646,16.86385688239485,0 2.189120044669717,16.85757726865658,0 2.168832898658157,16.85819318774937,0 2.15061828813057,16.85617935842173,0 2.136534850613723,16.85252838000818,0 2.099813024661197,16.83302807379683,0 2.064077228837458,16.8302990202513,0 2.028334990192482,16.82788915115626,0 2.017676139296396,16.82818454433026,0 1.984945451437747,16.84782107612572,0 1.963270618243864,16.85697289210149,0 1.944289417737022,16.87697864522095,0 1.933581521797809,16.89075842401874,0 1.931799486734356,16.9078569855992,0 1.927590107639428,16.93053983642571,0 1.919287548672015,16.94399875382401,0 1.899974976248726,16.95840655853348,0 1.891361858463332,16.9623241298168,0 1.872734991263605,16.97574828986408,0 1.863054117684968,16.98756087230173,0 1.847501071852959,17.00396290383653,0 1.830932472349074,17.01509760741096,0 1.82332036236293,17.02363219490051,0 1.809465279362839,17.04104059306074,0 1.79356861831379,17.04424979549485,0 1.774130634784101,17.0423776324163,0 1.757662495291226,17.04377464984717,0 1.747129100936276,17.0459619481303,0 1.738854128322784,17.04889247687528,0 1.736036541391055,17.0502464438231,0 1.735036733365085,17.0505962009569,0 1.73440558214174,17.05069014407021,0 1.733927174721721,17.05079157477481,0 1.733299305344311,17.05100884057872,0 1.732111347143921,17.050813210208,0 1.731004705695463,17.05013523576307,0 1.730284068989374,17.04944783481446,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Ianur</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Ianur</b> ist ein kleiner Nebenfluss des <a href="http://www.wiki-aventurica.de/wiki/Ilara" title="Ilara">Ilara</a> auf der <a href="http://www.wiki-aventurica.de/wiki/Waldinseln" title="Waldinseln">Waldinsel</a> <a href="http://www.wiki-aventurica.de/wiki/Altoum" title="Altoum">Altoum</a>. Der Fluss entspringt zehn Meilen südlich der Ruinen von <a href="http://www.wiki-aventurica.de/wiki/Altaia" title="Altaia" class="mw-redirect">Altaia</a> und mündet etwa 15 Meilen vor <a href="http://www.wiki-aventurica.de/wiki/Edas" title="Edas">Edas</a> in den <a href="http://www.wiki-aventurica.de/wiki/Ilara" title="Ilara">Ilara</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+2.24342892299169,16.54797017883696,0 2.230018282490662,16.55847801409637,0 2.225874037691591,16.56965848821016,0 2.220022608579384,16.57688607145724,0 2.204900887930685,16.58541022418946,0 2.197342258416573,16.58868447433148,0 2.191833723079599,16.59591030354195,0 2.192506399370728,16.60183307515485,0 2.178040769978074,16.62252508043204,0 2.177328210509044,16.63337816663378,0 2.183464501765065,16.65148250883087,0 2.177933304012147,16.66725916509586,0 2.172762807319091,16.67547141404034,0 2.145240836748648,16.69449015528821,0 2.136623398534898,16.70565709564899,0 2.12936753546646,16.72044823141722,0 2.129677983089768,16.731967508682,0 2.135833587738754,16.74218448332013,0 2.140620016444197,16.75075355834624,0 2.141937112879153,16.77747112269491,0 2.136744803240847,16.79226110897832,0 2.124324022087527,16.81065205409701,0 2.098822784602705,16.83295994225638,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

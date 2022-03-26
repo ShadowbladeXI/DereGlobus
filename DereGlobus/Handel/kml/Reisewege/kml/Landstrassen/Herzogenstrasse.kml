@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Herzogenstraße</name>
+	<open>1</open>
+		<Placemark> <!-- Herzogenstraße nach 1032 BF -->
+			<name>Herzogenstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Herzogenstraße</b> durchquert <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien">Tobrien</a> in Nord-Süd-Richtung und verläuft von <a href="http://www.wiki-aventurica.de/wiki/Beilunk" title="Beilunk">Beilunk</a> über <a href="http://www.wiki-aventurica.de/wiki/Warunk" title="Warunk">Warunk</a> nach <a href="http://www.wiki-aventurica.de/wiki/Yol-Ghurmak" title="Yol-Ghurmak">Yol-Ghurmak</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.676226078477186,32.23540458474152,0 <!--<POI>Siedlung:Yol-Ghurmak</POI>--> <!--<POI>Stadttor:Yol-Ghurmak</POI>-->
+						7.67366753010328,32.23281480860836,0 <!--Ende Detailkarte Yol-Ghurmak-->	
+						7.638980686579123,32.20179663119838,0 
+						7.631904165570167,32.17840982321768,0 
+						7.633183101869053,32.14190151706507,0 
+						7.63696222799169,32.12332367150965,0 
+						7.660621893696522,32.09429829392581,0 
+						7.710397117318719,32.07009967065784,0 
+						7.726436937237526,32.04969550323286,0 
+						7.747144844271949,31.99339854637213,0 
+						7.787893771860817,31.94856646483706,0 
+						7.806164047209856,31.88242408777811,0 
+						7.85026390428889,31.8073735356376,0 
+						7.869759888078454,31.7460843326848,0 
+						7.877654321410999,31.67522054925737,0 
+						7.897097019708963,31.6106140416368,0 
+						7.888930465550265,31.55032249511915,0 
+						7.863182460780718,31.47597753131354,0 
+						7.866050562092926,31.40719708277625,0 
+						7.848370942941038,31.32970176544437,0 
+						7.845340124222902,31.31470287412691,0 
+						7.846730491321415,31.25397831840538,0 
+						7.838145592265193,31.20706826478254,0 <!--<POI>Siedlung:Burg Dogulstein</POI>-->
+						7.827989434813758,31.11107928977721,0 
+						7.82931510572904,31.00556900945524,0 
+						7.809781662193172,30.95213703322835,0 
+						7.810241529304203,30.92562353463028,0 <!--<POI>Siedlung:Krytzdorf</POI>--> <!--<POI>Abzweig:Straße nach Eslamsbrück</POI>-->
+						7.831011765188187,30.82490342398283,0 
+						7.829379892555823,30.74058603239479,0 
+						7.839745388146781,30.69322926673017,0 
+						7.839126539458247,30.62309849116616,0 
+						7.818936533660321,30.5801472366481,0 
+						7.8013354873845,30.56150214765219,0 
+						7.801469157392083,30.55951751589689,0 <!--Anfang Detailkarte Warunk-->	
+						7.801646328098828,30.55888063749267,0 
+						7.801813264436881,30.558622189691,0 
+						7.801977361610131,30.55825434081425,0 
+						7.802143158294892,30.55808521453647,0 
+						7.802205014797652,30.55796396033817,0 
+						7.802517774717355,30.55761484137504,0 
+						7.802710603600196,30.55732912690241,0 
+
+						7.802739227099186,30.55721700325168,0 <!--<POI>Abzweig:Reichsstraße 1</POI>-->
+						7.802564860054345,30.55711867258181,0 
+						7.801962459404182,30.55694380216677,0 
+						7.801684745577607,30.55684179321642,0 <!--Ende Detailkarte Warunk-->	
+						7.801279584005794,30.55677460971068,0 
+						7.801277451188831,30.55444740209631,0 
+						7.811451431968259,30.54785785433075,0 
+						7.808542229541899,30.52037553829975,0 <!--<POI>Fluss:Radrom</POI>-->
+						7.786209804384394,30.50044581862645,0 <!--<POI>Abzweig:Reichsstraße 1</POI>-->
+						
+						7.794717577393846,30.48610398838062,0 
+						7.80533372047167,30.4116629860161,0 
+						7.81727818803428,30.38349690130729,0 
+						7.81592957672951,30.29957371134653,0 
+						7.808777873001325,30.26339420405735,0 
+						7.810619800230905,30.14907047281399,0 
+						7.842398358370586,30.07545752211136,0 
+						7.873009229281958,30.02907755995145,0 
+						7.874810851786,29.95182825817886,0 <!--<POI>Fluss:Radrom</POI>-->
+						7.899819484016335,29.88057624979889,0 
+						7.901110599311711,29.85108854204937,0 
+						7.892043454643907,29.8068243800953,0 <!--Anfang Detailkarte Beilunk-->	
+						7.89208886719003,29.80553320421588,0 <!--<POI>Siedlung:Beilunk</POI>--> <!--<POI>Stadttor:Beilunk</POI>-->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1036</when>
+				</gx:TimeStamp>
+				<longitude>7.76</longitude>
+				<latitude>31.018</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1032</begin>
+				<end></end>
+			</TimeSpan>
+			</Placemark>
+
+		<Placemark> <!-- ehemalige Reichslandstraße 1020 bis 1032 BF -->
+			<name>ehemalige Reichslandstraße von Beilunk nach Ysilia</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+			<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.676226078477186,32.23540458474152,0 <!--<POI>Siedlung:Yol-Ghurmak</POI>--> <!--<POI>Stadttor:Yol-Ghurmak</POI>-->
+						7.67366753010328,32.23281480860836,0 <!--Ende Detailkarte Yol-Ghurmak-->	
+						7.638980686579123,32.20179663119838,0 
+						7.631904165570167,32.17840982321768,0 
+						7.633183101869053,32.14190151706507,0 
+						7.63696222799169,32.12332367150965,0 
+						7.660621893696522,32.09429829392581,0 
+						7.710397117318719,32.07009967065784,0 
+						7.726436937237526,32.04969550323286,0 
+						7.747144844271949,31.99339854637213,0 
+						7.787893771860817,31.94856646483706,0 
+						7.806164047209856,31.88242408777811,0 
+						7.85026390428889,31.8073735356376,0 
+						7.869759888078454,31.7460843326848,0 
+						7.877654321410999,31.67522054925737,0 
+						7.897097019708963,31.6106140416368,0 
+						7.888930465550265,31.55032249511915,0 
+						7.863182460780718,31.47597753131354,0 
+						7.866050562092926,31.40719708277625,0 
+						7.848370942941038,31.32970176544437,0 
+						7.845340124222902,31.31470287412691,0 
+						7.846730491321415,31.25397831840538,0 
+						7.838145592265193,31.20706826478254,0 <!--<POI>Siedlung:Burg Dogulstein</POI>-->
+						7.827989434813758,31.11107928977721,0 
+						7.82931510572904,31.00556900945524,0 
+						7.809781662193172,30.95213703322835,0 
+						7.810241529304203,30.92562353463028,0 <!--<POI>Siedlung:Krytzdorf</POI>--> <!--<POI>Abzweig:Straße nach Eslamsbrück</POI>-->
+						7.831011765188187,30.82490342398283,0 
+						7.829379892555823,30.74058603239479,0 
+						7.839745388146781,30.69322926673017,0 
+						7.839126539458247,30.62309849116616,0 
+						7.818936533660321,30.5801472366481,0 
+
+						7.803405572871247,30.56093150604449,0 <!--Anfang Detailkarte Warunk-->	
+						7.803139600964528,30.56044256505855,0 
+						7.803095278694395,30.56021352031666,0 
+						7.803105148792193,30.55976391806814,0 
+						7.803041127689814,30.55945004296288,0 
+						7.803016529922131,30.55871625614745,0 
+						7.802977138155782,30.55840330004096,0 
+						7.802716088509822,30.55819121498934,0 <!--Ende Detailkarte Warunk-->	
+						7.801896985208796,30.55783480276789,0 
+
+						7.801279584005794,30.55677460971068,0 
+						7.801277451188831,30.55444740209631,0 
+						7.811451431968259,30.54785785433075,0 
+						7.808542229541899,30.52037553829975,0 <!--<POI>Fluss:Radrom</POI>-->
+						7.786209804384394,30.50044581862645,0 <!--<POI>Abzweig:Reichsstraße 1</POI>-->
+						
+						7.794717577393846,30.48610398838062,0 
+						7.80533372047167,30.4116629860161,0 
+						7.81727818803428,30.38349690130729,0 
+						7.81592957672951,30.29957371134653,0 
+						7.808777873001325,30.26339420405735,0 
+						7.810619800230905,30.14907047281399,0 
+						7.842398358370586,30.07545752211136,0 
+						7.873009229281958,30.02907755995145,0 
+						7.874810851786,29.95182825817886,0 <!--<POI>Fluss:Radrom</POI>-->
+						7.899819484016335,29.88057624979889,0 
+						7.901110599311711,29.85108854204937,0 
+						7.892043454643907,29.8068243800953,0 <!--Anfang Detailkarte Beilunk-->	
+						7.89208886719003,29.80553320421588,0 <!--<POI>Siedlung:Beilunk</POI>--> <!--<POI>Stadttor:Beilunk</POI>-->
+					</coordinates>
+			</LineString>
+			</MultiGeometry>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1021</when>
+				</gx:TimeStamp>
+				<longitude>7.76</longitude>
+				<latitude>31.018</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+			<end>1032</end>
+			<begin>1020</begin>
+			</TimeSpan>
+			</Placemark>	
+
+			<Placemark> <!-- Reichslandstraße vor 1020 BF -->
+			<name>Reichslandstraße von Beilunk nach Ysilia</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+			<MultiGeometry>
+			<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.686961940680424,32.23310069460268,0 <!--<POI>Siedlung:Ysilia</POI>--> <!--<POI>Stadttor:Ysilia</POI>-->
+						7.686265478087806,32.23262655622546,0 
+						7.685914534067681,32.23247089862261,0 
+						7.685132693977352,32.23192499605838,0 <!--Ende Detailkarte Ysilia-->	
+
+						7.638980686579123,32.20179663119838,0 
+						7.631904165570167,32.17840982321768,0 
+						7.633183101869053,32.14190151706507,0 
+						7.63696222799169,32.12332367150965,0 
+						7.660621893696522,32.09429829392581,0 
+						7.710397117318719,32.07009967065784,0 
+						7.726436937237526,32.04969550323286,0 
+						7.747144844271949,31.99339854637213,0 
+						7.787893771860817,31.94856646483706,0 
+						7.806164047209856,31.88242408777811,0 
+						7.85026390428889,31.8073735356376,0 
+						7.869759888078454,31.7460843326848,0 
+						7.877654321410999,31.67522054925737,0 
+						7.897097019708963,31.6106140416368,0 
+						7.888930465550265,31.55032249511915,0 
+						7.863182460780718,31.47597753131354,0 
+						7.866050562092926,31.40719708277625,0 
+						7.848370942941038,31.32970176544437,0 
+						7.845340124222902,31.31470287412691,0 
+						7.846730491321415,31.25397831840538,0 
+						7.838145592265193,31.20706826478254,0 <!--<POI>Siedlung:Burg Dogulstein</POI>-->
+						7.827989434813758,31.11107928977721,0 
+						7.82931510572904,31.00556900945524,0 
+						7.809781662193172,30.95213703322835,0 
+						7.810241529304203,30.92562353463028,0 <!--<POI>Siedlung:Krytzdorf</POI>--> <!--<POI>Abzweig:Straße nach Eslamsbrück</POI>-->
+						7.831011765188187,30.82490342398283,0 
+						7.829379892555823,30.74058603239479,0 
+						7.839745388146781,30.69322926673017,0 
+						7.839126539458247,30.62309849116616,0 
+						7.818936533660321,30.5801472366481,0 
+
+						7.803511515879633,30.56113659707064,0 <!--Anfang Detailkarte Warunk-->	
+						7.803504047642824,30.56099369220105,0 
+						7.803458846589084,30.56088108518819,0 
+						7.803302982453825,30.56070532193221,0 
+						7.803129639836666,30.5604129546068,0 
+						7.803068495906846,30.5602472859074,0 
+						7.803068705545273,30.55985322359983,0 
+						7.803002832288404,30.55922774746633,0 
+						7.802946114713068,30.55833649830898,0 
+						7.802719189797289,30.558178385043,0 
+						7.802482808421656,30.558146973587,0 <!--<POI>Fährstation:Radrom</POI>-->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>						
+						7.801969771996912,30.55811403784065,0 <!--<POI>Fährstation:Radrom</POI>-->
+						7.801698024878725,30.55809985253412,0 
+						7.801219935621462,30.55803983625043,0 <!--Ende Detailkarte Warunk-->	
+						7.801051922302844,30.55329463078146,0 
+
+						7.811451431968259,30.54785785433075,0 
+						7.808542229541899,30.52037553829975,0 <!--<POI>Fluss:Radrom</POI>-->
+						7.786209804384394,30.50044581862645,0 <!--<POI>Abzweig:Reichsstraße 1</POI>-->
+						
+						7.794717577393846,30.48610398838062,0 
+						7.80533372047167,30.4116629860161,0 
+						7.81727818803428,30.38349690130729,0 
+						7.81592957672951,30.29957371134653,0 
+						7.808777873001325,30.26339420405735,0 
+						7.810619800230905,30.14907047281399,0 
+						7.842398358370586,30.07545752211136,0 
+						7.873009229281958,30.02907755995145,0 
+						7.874810851786,29.95182825817886,0 <!--<POI>Fluss:Radrom</POI>-->
+						7.899819484016335,29.88057624979889,0 
+						7.901110599311711,29.85108854204937,0 
+						7.892043454643907,29.8068243800953,0 <!--Anfang Detailkarte Beilunk-->	
+						7.89208886719003,29.80553320421588,0 <!--<POI>Siedlung:Beilunk</POI>--> <!--<POI>Stadttor:Beilunk</POI>-->
+					</coordinates>
+			</LineString>
+			</MultiGeometry>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1019</when>
+				</gx:TimeStamp>
+				<longitude>7.76</longitude>
+				<latitude>31.018</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1020</end>
+			</TimeSpan>
+			</Placemark>	
+</Document>
+</kml>

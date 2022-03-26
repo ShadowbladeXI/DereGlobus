@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+             <Folder>
+        <name>Staatliches Bauwerk Zorgan</name>
+		<Region>
+      <LatLonAltBox>
+         <north>27.18345584486184</north>
+			<south>27.14599929213049</south>
+			<east>6.982196534288823</east>
+			<west>6.952597196188759</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Efferdtor</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.977363279209919</longitude>
+            <latitude>27.17430450040499</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.978920023736126,27.17381693854906,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Perainetor</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.979600877132287</longitude>
+            <latitude>27.16619112641556</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.978381583515477,27.1656686040464,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Elburisches Tor</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.980176240320101</longitude>
+            <latitude>27.16737745883699</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.974214420617746,27.16037078122809,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Pilgertor</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.971300230857739</longitude>
+            <latitude>27.15998336285795</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.965957243278269,27.15737319155713,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Königstor</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.971272094049836</longitude>
+            <latitude>27.16785194419952</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.963519042506807,27.17061350329604,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Spiegelpalast</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Im <a href="http://www.wiki-aventurica.de/wiki/Zorgan" title="Zorgan">Zorganer</a> <b>Spiegelpalast</b> residiert die <a href="http://www.wiki-aventurica.de/wiki/Mhaharani&amp;action=edit&amp;redlink=1" class="new" title="Mhaharani (Seite nicht vorhanden)">Mhaharani</a> <a href="http://www.wiki-aventurica.de/wiki/Eleonora_von_Revennis" title="Eleonora von Revennis">Eleonora von Revennis</a>. Der Grund des Ziersees vor dem Palast stellt eine <a href="http://www.wiki-aventurica.de/wiki/Dunkle_Pforte" title="Dunkle Pforte">Dunkle Pforte</a> da, vielleicht ein <a href="http://www.wiki-aventurica.de/wiki/Feentor" title="Feentor">Feentor</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>6.971272094049836</longitude>
+            <latitude>27.16785194419952</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.961562878165237,27.17157182738055,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Sternenpalast</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.971272094049836</longitude>
+            <latitude>27.16785194419952</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.964454458121794,27.17265633074466,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Zorriganer Tor</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.971272094049836</longitude>
+            <latitude>27.16785194419952</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.963632594047978,27.16640181680783,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Krak al'Shah</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.965479947582302</longitude>
+            <latitude>27.15573850010071</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.962962377379154,27.1546848036501,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Feste Donnersturm</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.965562095310761</longitude>
+            <latitude>27.15581159470585</latitude>
+            <altitude>0</altitude>
+            <range>400</range>
+            <tilt>0</tilt>
+            <heading>0</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>6.965946433389306,27.1557489847363,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>   
+    </Document>
+</kml>

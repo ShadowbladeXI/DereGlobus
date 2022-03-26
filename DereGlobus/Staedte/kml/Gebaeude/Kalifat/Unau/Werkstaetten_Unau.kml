@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+             <Folder>
+        <name>Werkstätten Unau</name>
+		<Region>
+      <LatLonAltBox>
+         <north>22.54930733346729</north>
+			<south>22.54389861405931</south>
+			<east>3.500683301590294</east>
+			<west>3.492824491738181</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Fischerstadt</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 99<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 260<TR><TD>Die Wüste Khom und die Echsensümpfe S. 100<TR><TD>Wie Sand in Rastullahs Hand S. 22<TR><TD>Die Welt des Schwarzen Auges S. 76<TR><TD>Der Löwe und der Rabe II S. 15<TR><TD>Die Welt des Schwarzen Auges S. 76<TR><TD>Raschtuls Atem S. 39<TR><TD>Geographia Aventurica S. 73<TR><TD>Wie Wasser im Sand S. 25<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 48<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 45<TR><TD>Der Tanz der Rose S. 1<TR><TD>Aventurischer Atlas S. 114<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>3.494687090947826</longitude>
+            <latitude>22.54508697941166</latitude>
+            <altitude>0</altitude>
+            <range>393.0861366742042</range>
+            <tilt>1.779645067181531</tilt>
+            <heading>0.04746613407960165</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>3.494329404440153,22.54475683429443,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

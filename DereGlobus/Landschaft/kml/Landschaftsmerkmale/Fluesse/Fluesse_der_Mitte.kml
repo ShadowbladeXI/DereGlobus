@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Flüsse der Mitte</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Finsterbach</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Finsterbach</b> oder <b>Fialgralwa</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> "Orkwasser") ist ein Fluss in <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a>, der im <a href="http://www.wiki-aventurica.de/wiki/B%C3%A4rnwald" title="Bärnwald">Bärnwald</a> entspringt und nach einem weiten Bogen von 245 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Olat" title="Olat">Olat</a> in den <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> mündet. Der Finsterbach soll aus einer goldenen Schale im <a href="http://www.wiki-aventurica.de/wiki/B%C3%A4rnwald" title="Bärnwald">Bärnwald</a> entspringen, die als <a href="http://www.wiki-aventurica.de/wiki/Fialgralwa-Schale&amp;action=edit&amp;redlink=1" class="new" title="Fialgralwa-Schale (Seite nicht vorhanden)">Fialgralwa-Schale</a> bekannt ist. Wer diese Schale findet, soll in der Lage sein, den Lauf des Flusses zu ändern.<br />
+
+Auf seinen letzten 50 Meilen bildet der Fluss die Südgrenze des <a href="http://www.wiki-aventurica.de/wiki/Nebelmoor" title="Nebelmoor">Nebelmoors</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+4.417765490560958,32.45741655523242,0 4.404839478732344,32.4574410223947,0 4.384185897713707,32.46417593951663,0 4.365750034843671,32.46453673457116,0 4.338148359144252,32.47636529690547,0 4.324320290906987,32.48734171932102,0 4.317520704920126,32.50489585736546,0 4.299025779444685,32.51537461925121,0 4.273695495992453,32.52159302809616,0 4.262809681972632,32.53471748764678,0 4.241934192540651,32.53910022014438,0 4.22742938747477,32.55321947706331,0 4.224415598876828,32.57209478202386,0 4.207273307065263,32.58792944203137,0 4.188282839840447,32.60387389884886,0 4.184204853179471,32.62125657459398,0 4.136403246877367,32.65295405945316,0 4.11771511373516,32.65774460137109,0 4.093298595030857,32.6527661551334,0 4.072491559870466,32.64527112187146,0 4.055382775689611,32.6559283289773,0 4.041308032336213,32.65721673646771,0 4.009915661681623,32.69304647906586,0 3.988530657526468,32.69842974340634,0 3.969176561697785,32.695424041644,0 3.938003357951616,32.71468583017655,0 3.933939911785149,32.73834358891224,0 3.932140697726809,32.75635864029088,0 3.916132335190561,32.78642422565922,0 3.906605387790407,32.80351647181428,0 3.912959183373836,32.82106568149204,0 3.916397829787948,32.83505164008551,0 3.92075262485416,32.84945761424259,0 3.920615311060445,32.85084465246762,0 3.92064704393789,32.85219155266261,0 3.920424788605532,32.85298502291845,0 3.920616729883044,32.85380456299018,0 3.920486202761573,32.8559657384873,0 3.913247619085132,32.88444699656792,0  3.905523094503356,32.91923246965808,0 3.913796977105526,32.94621426905163,0 3.911243960439832,32.98657471260015,0 3.899915949466337,33.01577658735376,0 3.900349117352417,33.06290469666625,0 3.888129918416337,33.08943549260551,0 3.890284712064889,33.1125510337902,0 3.90273234040748,33.13861655684274,0 3.907322531189512,33.15583976573495,0 3.908176460379371,33.1790365483611,0 3.916582702850446,33.20070015078802,0 3.945711718961631,33.23990518599056,0 3.965412633337735,33.26687275840838,0 3.995058777124341,33.29215676550166,0 4.004896092578932,33.30841067761417,0 4.016838135415062,33.32122405618961,0 4.020676581984555,33.33849702650832,0 4.011811373426304,33.35606662214815,0 3.999262309061251,33.36454578872358,0 3.996547762992164,33.42378228100808,0 4.010529004787687,33.44178827626306,0 4.014031883146281,33.46461231875393,0 4.006070306882021,33.48057403899136,0 3.984722893977639,33.49531526551942,0 3.959583291770461,33.50916277960577,0 3.948262806869372,33.51956953656829,0 3.94828516121025,33.55521629128806,0 3.933847192877777,33.59589179151563,0 3.935208930781255,33.64429229074534,0 3.958135176807498,33.66711763051222,0 3.95939982211801,33.68656151621187,0 3.979524675815362,33.71417608199,0 4.009001275057564,33.73880797709613,0 4.039573937114915,33.7476563134714,0 4.063051767445329,33.75115826526395,0 4.083577755073133,33.74486510641826,0 4.11297990967806,33.74180855967478,0 4.133406842962817,33.74724501245218,0 4.154561228355265,33.73935493618291,0 4.184532519868613,33.73492131641373,0 4.20953560615972,33.74073906202521,0 4.220952887134885,33.74337938785807,0 4.245800557507158,33.74410908587536,0 4.261739486843197,33.74957725733565,0 4.29271516493817,33.76856223156099,0 4.321266581876843,33.77834952950381,0 4.355051156238179,33.79910157073262,0 4.382509579419532,33.80230083868851,0 4.415913697688517,33.8153170699756,0 4.429546255793517,33.81549883123164,0 4.441829721893948,33.81238312659457,0 4.44475479279814,33.81233025860766,0 4.445831491709209,33.81252596862603,0 4.446453958332254,33.81266575461184,0 4.44712689599225,33.81300122926576,0 4.447648426056025,33.81316896519475,0 4.449128907223665,33.81340658071353,0 4.456801112058006,33.81592241301375,0  </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Donnerbach</name>
+<ExtendedData>
+<Data name="Link">
+ <value>Donnerbach (Fluss)</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Donnerbach</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> <i>Gôrondaril</i> für <i>wilder, donnernder Fluss</i>) ist ein kleiner, aber reißender Fluss in Nordaventurien, der in den <a href="http://www.wiki-aventurica.de/wiki/Salamandersteine" title="Salamandersteine">Salamandersteinen</a> entspringt und nach etwa 95 Meilen bei der nach ihm benannten Stadt <a href="http://www.wiki-aventurica.de/wiki/Donnerbach" title="Donnerbach">Donnerbach</a> in den <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> mündet. Eine Besonderheit des Flusses stellt der <a href="http://www.wiki-aventurica.de/wiki/Donnerfall" title="Donnerfall">Donnerfall</a> etwa eine Meile vor der Mündung dar, der den Weg zu den Kavernen erschwert, in denen der <a href="http://www.wiki-aventurica.de/wiki/Rondra" title="Rondra">Rondra</a>-Tempel der Stadt <a href="http://www.wiki-aventurica.de/wiki/Donnerbach" title="Donnerbach">Donnerbach</a> liegt.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+4.321296204213567,35.04638419030371,0 4.316005874264652,35.01042615824855,0 4.308635918188692,34.98668080301349,0 4.271676806315893,34.949996405371,0 4.253236436633296,34.91998200203828,0 4.252617322674997,34.88891343990617,0 4.263929967432731,34.81390950830146,0 4.272622738684109,34.75717019246882,0 4.261377353461315,34.72494061113101,0 4.259527288235478,34.67765659772127,0 4.27599640268431,34.63781761817536,0 4.28440640518753,34.61400022213206,0 4.281091006651742,34.5761922303795,0 4.292922933599426,34.55562280210266,0 4.314304229205712,34.54830503030605,0 4.333973800164195,34.54540451216523,0 4.353434176263922,34.55201562185923,0 4.372333385059064,34.57593289746308,0 4.391597976860197,34.59204935101029,0 4.411501975523768,34.59171257733501,0 4.431375219868947,34.5792811844134,0 4.442161311244826,34.57085262539246,0 4.475815569139423,34.58349003746979,0 4.495798537278613,34.60732062570009,0 4.516329921866895,34.61383834122267,0 4.539375576441467,34.613287564727,0 4.569633606920347,34.58809643918111,0 </coordinates>
+		</LineString>
+	</Placemark>
+
+	<Placemark>
+		<name>Sindel</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Sindel</b> ist ein <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a> in den <a title="Koschberge" href="http://www.wiki-aventurica.de/wiki/Koschberge">Koschbergen</a>. An ihrer Quelle befindet sich eine <a title="Kraftlinie" href="http://www.wiki-aventurica.de/wiki/Kraftlinie">Kraftlinie</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+1.013779816568601,29.83126094645948,0 1.037999403954453,29.82219582332897,0 1.067605952057746,29.82715419607525,0 1.101786551591097,29.82989427390053,0 1.129511497461668,29.81780126138686,0 1.144250869694079,29.79214412192547,0 1.167710498410917,29.78008219087491,0 1.194109378449326,29.77835236949869,0 1.212097299028461,29.76928500612146,0 1.241005905164114,29.76953798527343,0 1.264449187063632,29.75746084386454,0 1.310043537773056,29.72428625388793,0 1.363725969455187,29.70748656549678,0 1.391614524402765,29.70356404935657,0 1.420508614566973,29.68844064334865,0 1.446086037780601,29.67135242639897,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Rathil</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Rathil</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> "Strom der Feinde") ist ein Fluss in Nordaventurien, der in zwei Quellen in der <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roten Sichel</a> bei <a href="http://www.wiki-aventurica.de/wiki/Uhdenberg" title="Uhdenberg">Uhdenberg</a> entspringt und nach 190 Meilen bei der kleinen Ortschaft <a href="http://www.wiki-aventurica.de/wiki/Rathilmuend" title="Rathilmuend">Rathilmuend</a> in den <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> mündet. Zwischen <a href="http://www.wiki-aventurica.de/wiki/Sinopje" title="Sinopje">Sinopje</a> und der Mündung bildet der Fluss die Nordgrenze des <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a>, ab <a href="http://www.wiki-aventurica.de/wiki/Rathila" title="Rathila">Rathila</a> ist der Fluss außerdem schiffbar.
+
+</p><p>Gerade die beiden Quellflüsse weisen Stromschnellen und kleine Wasserfälle auf und führen eiskaltes Wasser. Der nördliche Quellfluss (der auch <b>Uhdenfluss</b> genannt wird) entspringt aus einem Gletscher an der <a href="http://www.wiki-aventurica.de/wiki/Adlerspitze" title="Adlerspitze">Adlerspitze</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+6.825782790558781,34.66354075424639,0 6.796465952872763,34.64701152159666,0 6.779315992875072,34.6287764857546,0 6.758817163470399,34.61951977850443,0 6.732036546207018,34.60930589966412,0 6.690707862959171,34.61040435328336,0 6.673801213988866,34.60157217373681,0 6.660189023406893,34.59828766056184,0 6.649330072237156,34.60350038489848,0 6.633430183468676,34.60329730581948,0 6.619779147225835,34.60727309340669,0 6.600046705676139,34.6044596104605,0 6.568357943945847,34.60902430256647,0 6.548511189209454,34.60328408274986,0 6.531682632317873,34.59487643324508,0 6.516740707623758,34.58358630203293,0 6.508217367530945,34.56389819953792,0 6.505951811144151,34.5376433389274,0 6.497618179489315,34.52279161267458,0 6.485679387206352,34.51186242238191,0 6.465796801342034,34.50883893073586,0 6.448551840201131,34.50291772265604,0 6.430931237139379,34.49394192497709,0 6.413866499703236,34.48978374665681,0 6.391333305129578,34.47632546307207,0 6.364624611897289,34.47472487759976,0 6.348844642547824,34.47198261636898,0 6.327448751901721,34.46511264671933,0 6.313191956517872,34.456179238848,0 6.300691921516028,34.44316470691628,0 6.264182670024676,34.40950290771716,0 6.259708409304254,34.38251371367633,0 6.256973031443456,34.36783931562607,0 6.245584539987719,34.35472757854321,0 6.219209022857177,34.34243657711766,0 6.215519389426176,34.33238246426671,0 6.205837120543287,34.32685733958274,0 6.186484224532909,34.31160280169133,0 6.172521004303446,34.31507798911105,0 6.143110044050888,34.30179119921586,0 6.121434156787073,34.29855145082311,0 6.106023987375819,34.29878899846138,0 6.070321957920122,34.28474833856595,0 6.046747973633371,34.27739061410178,0 5.980399140559031,34.27864424661089,0 5.950936078493689,34.25743515360158,0 5.930802876626782,34.25837573921646,0 5.904267787452662,34.2682118621846,0 5.8855649429083,34.26866493091993,0 5.858861791107444,34.2906405713116,0 5.83768980392481,34.28853181163361,0 5.812938240349399,34.28030512003224,0 5.807355619948941,34.2691755078958,0 5.806069858732805,34.26046692797124,0 5.796671753223269,34.25143285308982,0 5.78325182195994,34.24602626165447,0 5.765111053883027,34.25157987483202,0 5.746039294323769,34.24475368651129,0 5.733223532628395,34.24506410099203,0 5.713479541261077,34.25284739624763,0 5.69473691169168,34.25266501611809,0 5.679939235264897,34.25159220098309,0 5.664596111819343,34.24175412507041,0 5.64211351006366,34.23698743323349,0 5.638766442665919,34.22995500810366,0 5.634646087007493,34.22825162485241,0  5.615976804517347,34.20621927366204,0 5.596797405045404,34.19530944852913,0 5.566651408375794,34.19475814471034,0 5.557841504416324,34.18614639435701,0 5.527386260598604,34.18724458184492,0 5.510805309693955,34.19884518147994,0 5.481228110129282,34.19665687006632,0 5.465981169928275,34.20694106459173,0 5.448757721089772,34.20643496962529,0 5.435659964410915,34.19738658702727,0 5.40659582797868,34.19635779680533,0 5.377346141899297,34.17542440810191,0 5.342995076663273,34.18846035410388,0 5.303204666643482,34.18837413017909,0 5.277782814224041,34.20176242043399,0 5.249922540225647,34.20498671335088,0 5.217784573814921,34.19902284177121,0 </coordinates>
+		</LineString>
+			</Placemark>
+	<Placemark>
+		<name>Uhdenfluss</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Rathil</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> "Strom der Feinde") ist ein Fluss in Nordaventurien, der in zwei Quellen in der <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roten Sichel</a> bei <a href="http://www.wiki-aventurica.de/wiki/Uhdenberg" title="Uhdenberg">Uhdenberg</a> entspringt und nach 190 Meilen bei der kleinen Ortschaft <a href="http://www.wiki-aventurica.de/wiki/Rathilmuend" title="Rathilmuend">Rathilmuend</a> in den <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> mündet. Zwischen <a href="http://www.wiki-aventurica.de/wiki/Sinopje" title="Sinopje">Sinopje</a> und der Mündung bildet der Fluss die Nordgrenze des <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a>, ab <a href="http://www.wiki-aventurica.de/wiki/Rathila" title="Rathila">Rathila</a> ist der Fluss außerdem schiffbar.
+
+</p><p>Gerade die beiden Quellflüsse weisen Stromschnellen und kleine Wasserfälle auf und führen eiskaltes Wasser. Der nördliche Quellfluss (der auch <b>Uhdenfluss</b> genannt wird) entspringt aus einem Gletscher an der <a href="http://www.wiki-aventurica.de/wiki/Adlerspitze" title="Adlerspitze">Adlerspitze</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+6.739735726186737,34.81777041775467,0 6.712675754037115,34.79813580075469,0 6.687766970220237,34.78921563911653,0 6.668861400938817,34.77110876355253,0 6.646165122454903,34.7431364169016,0 6.64348629134103,34.7201209610497,0 6.636266543565228,34.6960091940487,0 6.619129911294818,34.67914284269788,0 6.612541831328816,34.67698837742635,0 6.61222900444328,34.67675821063678,0 6.611212345407642,34.67635203962757,0 6.610681386233654,34.67617264559008,0 6.609882895258535,34.67579354042353,0 6.609549506828351,34.67540766073193,0 6.606642637619631,34.66886699224985,0 6.595184012218143,34.66147810183245,0 6.579481626604792,34.64019590516392,0 6.570821118117197,34.61109697708851,0 </coordinates>
+		</LineString>
+	</Placemark>
+		
+</Document>
+</kml>

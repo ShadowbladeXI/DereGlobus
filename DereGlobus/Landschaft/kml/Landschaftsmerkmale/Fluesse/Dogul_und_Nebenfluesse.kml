@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+  <Folder>
+   <name>Dogul und Nebenflüsse</name>
+   <open>0</open>
+   <Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Dogul</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Dogul</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien">tobrischer</a> Fluss mit schiffbarem Unterlauf. Er entspringt aus zwei Quellflüssen südöstlich von <a href="http://www.wiki-aventurica.de/wiki/Windgau" title="Windgau">Windgau</a> und mündet bei <a href="http://www.wiki-aventurica.de/wiki/Ilsur" title="Ilsur">Ilsur</a> in die <a href="http://www.wiki-aventurica.de/wiki/Tobrische_See" title="Tobrische See">Tobrische See</a>.
+
+<!-- END EDIT -->
+</p>
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<MultiGeometry>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>8.812126483440338,32.18048018081388,0 8.817419060975428,32.17543477996901,0 8.822537796797336,32.17183238849558,0 8.827826225758944,32.16808605021333,0 8.830728445770538,32.16404932126649,0 8.833801319167234,32.15943586639141,0 8.837218605772224,32.15121664355889,0 8.842165993323318,32.14516228764689,0 8.848984980679751,32.14069572202837,0 8.859892097686625,32.13608685377974,0 8.868072139022997,32.1329176696869,0 8.882046165085129,32.12888395956292,0 8.892102139518443,32.12600088788491,0 8.905469350988879,32.12329449061529,0 8.917733350457803,32.11954699220455,0 8.940387102724369,32.11839514214275,0 8.950097721583825,32.1192603623084,0 8.968034913004367,32.11738269032253,0 8.979615205385745,32.11449470369253,0 9.006019562431082,32.11549324797633,0 9.030924244357973,32.11764241909745,0 9.044039742149268,32.1184979490311,0 9.058680881138919,32.11170499719173,0 9.065319479822851,32.10737030170014,0 9.077927550191507,32.09985760971752,0 9.090016231538172,32.09840074004767,0 9.100917187113161,32.09896363614845,0 9.108233466435999,32.09390332142378,0 9.126513177116635,32.09258237885619,0 9.132271794405595,32.0884897511758,0 9.138553477113794,32.08025809851404,0 9.146199796932525,32.07375460815733,0 9.153164231935563,32.06710689310143,0 9.164894576770063,32.06030481935878,0 9.180032243941065,32.0519722981733,0 9.21222029362556,32.03708810383778,0 9.228022177663808,32.02911857958559,0 9.245187314697688,32.02114115937417,0 9.272145454708308,32.01074590221488,0 9.296096095810517,32.00014993461766,0 9.314095320871303,31.98821315663787,0 9.324085809623639,31.97765297849973,0 9.330331978317547,31.96667069713042,0 9.333519409075901,31.9562740045962,0 9.333460346671654,31.94199067861272,0 9.334101849333505,31.9309248160282,0 9.331509248318053,31.92083518734297,0 9.328229512263832,31.90872752801943,0 9.33173871042257,31.89428789413263,0 9.335755436950739,31.88070617066518,0 9.336726362245361,31.86945135209367,0 9.336510614033786,31.85863244260555,0 9.330876001368276,31.85158090062782,0 9.327602339522333,31.84019199944965,0 9.321079559045245,31.82385697697257,0 9.324094402483043,31.81403908541105,0 9.325920809950627,31.80422449154392,0 9.330788762827964,31.79108119303038,0 9.335494980142878,31.77981107165739,0 9.339837067994489,31.76442398477428,0 9.349962311276642,31.75140779498882,0 9.361117738449444,31.74083706416499,0 9.373926550083251,31.73385205027084,0 9.382714069817229,31.72718621188923,0 9.387421863945082,31.71880349908056,0 9.39144361241857,31.70898037738822,0 9.394433498918613,31.69627452590323,0 9.395408525532341,31.68761378398764,0 9.398279126675471,31.67507137421772,0 9.402945461839323,31.65918706855065,0 9.406400679525589,31.63839843652407,0 9.417968852172031,31.61871366858043,0 9.427886977771458,31.60396030194848,0 9.439981207393842,31.58761883601271,0 9.451606021602146,31.57689838229546,0 9.469354158409463,31.57134390170579,0 9.494195080352538,31.56177099633932,0 9.507168074685161,31.55132762515246,0 9.516565708714204,31.53757933225044,0 9.527852568145864,31.52365867047017,0 9.539472042592536,31.51480480943907,0 9.556710506902306,31.51125895346544,0 9.575921666981074,31.50326426139579,0 9.594279988892394,31.49119795986011,0 9.605407909346296,31.48609176596547,0 9.605573512223407,31.48593647473712,0 9.665517804324345,31.50715594205395,0 9.673445755028489,31.50745577633738,0 9.678613884269771,31.50805325213943,0 9.681189219423803,31.5079934427799,0 9.683641975290673,31.50793358778235,0 9.699688772503523,31.50734586256752,0 </coordinates>
+		</LineString>
+		
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>8.984721213486415,32.35506983978506,0 8.986280722156437,32.34484625277121,0 8.994476525994791,32.33923648266172,0 9.006571343349378,32.33164655830741,0 9.018661959052299,32.32405664620852,0 9.031919502096715,32.31679521199912,0 9.045561852308822,32.30788436655294,0 9.055303238352197,32.30062392712176,0 9.063873220743854,32.29336369234623,0 9.067757879645708,32.28248091980085,0 9.081391399681644,32.27290503221298,0 9.095019935788631,32.26068772603754,0 9.103186833886046,32.24682433861224,0 9.104717585861442,32.23558750043019,0 9.104698033737122,32.22437879240922,0 9.103897960916127,32.2121814032467,0 9.103881722267762,32.20228987017402,0 9.103860703538164,32.18909938933557,0 9.103065185324841,32.17854629827131,0 9.103049389488263,32.16799008922381,0 9.106918209484389,32.15899142983398,0 9.116638261784093,32.14908584930394,0 9.122851846811418,32.13852376281408,0 9.125555968607259,32.12532651288958,0 9.127096690804084,32.11476745502797,0 9.125888998016428,32.10040032333952,0 9.126269069351075,32.09512325930884,0 </coordinates>
+		</LineString>
+		</MultiGeometry>
+	</Placemark>
+	
+	<Placemark>
+		<name>Alst</name>
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Alst</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> in <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien">Tobrien</a>, der bei <a href="http://www.wiki-aventurica.de/wiki/Milastein" title="Milastein">Milastein</a> in den <a href="http://www.wiki-aventurica.de/wiki/Dogul" title="Dogul">Dogul</a> mündet.
+
+<!-- END EDIT -->
+</p>
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>9.632480623534423,32.06833076909734,0 9.626706901433701,32.05792574205585,0 9.620795897129375,32.04947902298253,0 9.613515794464327,32.04299609570248,0 9.604863137095745,32.03808499646443,0 9.592247288445929,32.03841068808178,0 9.574696337337842,32.03771585611597,0 9.568701554526264,32.0390497994302,0 9.534193739114,32.0401288874946,0 9.524010944573131,32.03587143372268,0 9.512720214579339,32.02679100776487,0 9.501277095936128,32.01809931191977,0 9.484840219310108,32.00647505743199,0 9.474044541403641,32.00182394687788,0 9.444235695477694,31.99881542247319,0 9.421469677760733,31.99851077573558,0 9.407753642668409,31.99399359956522,0 9.391771449087203,31.98763171966543,0 9.374372147977715,31.98325734413205,0 9.363586661654884,31.97859811033424,0 9.352030346922611,31.97328798739387,0 9.343548297181354,31.96770566821191,0 9.339390198552559,31.9662834764188,0</coordinates>
+		</LineString>
+	</Placemark>
+
+    </Folder>
+</Document>
+</kml>

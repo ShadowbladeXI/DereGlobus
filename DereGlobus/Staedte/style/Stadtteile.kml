@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+	<StyleMap id="Stadtteil">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Stadtteil-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Stadtteil-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	<Style id="Stadtteil-n">
+		<BalloonStyle>
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>03000055</color>
+			<width>0.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>03000055</color>
+		</PolyStyle>
+		<IconStyle>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>a8ffffff</color>
+		</LabelStyle>
+	</Style>
+	
+	<Style id="Stadtteil-h">
+		<BalloonStyle>
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+<bgColor>ffd5fcfd</bgColor>
+</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>4c000055</color>
+			<width>0.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c000055</color>
+		</PolyStyle>
+		<IconStyle>
+			<scale>0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>a8ffffff</color>
+		</LabelStyle>
+	</Style>
+	
+</Document>
+</kml>
+
+

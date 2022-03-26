@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Siedlungen</name>
+	<open>1</open>
+	
+	<Folder><name>Weitere Ansiedlungen Almada</name>
+				<open>1</open>
+				<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+				<Placemark>
+        <name>Boron-Kapelle</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  2<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Donner und Sturm, S. 38<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <Camera> 
+              <longitude> .798606680868325</longitude>
+              <latitude> 26.4748616322725</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>0.6793865713582759,26.47382600964196,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Burg Aguilon</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+           <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Burg Aguilon</b>, früherer Stammsitz des <a href="http://www.wiki-aventurica.de/wiki/Haus_Aguilon" title="Haus Aguilon">Hauses Aguilon</a>, wurde durch das <a href="http://www.wiki-aventurica.de/wiki/13.-Ingerimm-Massaker" title="13.-Ingerimm-Massaker" class="mw-redirect">13.-Ingerimm-Massaker</a> von <a href="http://www.wiki-aventurica.de/wiki/Chronik:574" title="Chronik:574" class="mw-redirect">574 BF</a> bekannt.
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] ">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] &action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] &action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> 2.45478080323804</longitude>
+              <latitude> 27.6363420482666</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.455824352693863,27.66057321804037,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Burg Blutfels</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>Blutfels</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Feste Blutfels</b> ist eine alte, halb verfallene und halb verbrannte Feste im Herzen von <a href="http://www.wiki-aventurica.de/wiki/Zul%27Djerim" title="Zul&#39;Djerim" class="mw-redirect">Zul'Djerim</a>. Seit einiger Zeit lebt dort die <a href="http://www.wiki-aventurica.de/wiki/Borbaradianer" title="Borbaradianer">borbaradianische</a> <a href="http://www.wiki-aventurica.de/wiki/Beschw%C3%B6rung" title="Beschwörung">Dämonologin</a> <a href="http://www.wiki-aventurica.de/wiki/Mordaza_Maraneta" title="Mordaza Maraneta">Mordaza Maraneta</a>, eine Schülerin des <a href="http://www.wiki-aventurica.de/wiki/Rakolus_von_Schrotenstein" title="Rakolus von Schrotenstein">Rakolus von Schrotenstein</a>, und geht ihren Experimenten nach.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> 2.88294748672885</longitude>
+              <latitude> 26.8697554417739</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.913833300344506,26.86023377070563,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Burg Phexenstein</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Burg Phexenstein</b> in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_S%C3%BCdpforte" title="Grafschaft Südpforte">Grafschaft Südpforte</a> ist eine der westlichsten Burgen in <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">Almada</a>. Sie steht in den südöstlichen Ausläufern des <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwaldes</a>, der <a href="http://www.wiki-aventurica.de/wiki/Grenzmark" title="Grenzmark">Grenzmark</a> und wacht als Teil des <a href="http://www.wiki-aventurica.de/wiki/Almadaner_G%C3%BCrtel" title="Almadaner Gürtel">Almadaner Gürtels</a> unter den <a href="http://www.wiki-aventurica.de/wiki/Baron" title="Baron">Baronen</a> von <a href="http://www.wiki-aventurica.de/wiki/Baronie_Phexhilf" title="Baronie Phexhilf">Phexhilf</a> über die <a href="http://www.wiki-aventurica.de/wiki/Phexhilf" title="Phexhilf">gleichnamige Stadt</a> und die <a href="http://www.wiki-aventurica.de/wiki/Pforte_in_der_Grenzmark" title="Pforte in der Grenzmark">Pforte</a> nach <a href="http://www.wiki-aventurica.de/wiki/Imdal" title="Imdal">Imdal</a>. Den <a href="http://www.wiki-aventurica.de/wiki/Golgariten" title="Golgariten" class="mw-redirect">Golgariten</a> dient die Burg als Ordensniederlassung, denn der Baron ist auch <a href="http://www.wiki-aventurica.de/wiki/Komtur" title="Komtur">Komtur</a> des <a href="http://www.wiki-aventurica.de/wiki/Orden" title="Orden">Ordens</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude>-.689896968968952</longitude>
+              <latitude> 27.0042960141838</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>-0.3929140688430366,27.0157436068344,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Burg Scheffelstein</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><p><b>Burg Scheffelstein</b> ist der Stammsitz des Junkerngeschlechts <a href="http://www.wiki-aventurica.de/wiki/Haus_Scheffelstein" title
+="Haus Scheffelstein">derer von Scheffelstein</a>. Die Burg liegt an den Hängen des <a href="http://www.wiki-aventurica.de/wiki/
+Raschtulswall" title="Raschtulswall">Raschtulswalls</a>. Von ihren Zinnen blickt man auf das Dorf 
+<a href="http://www.wiki-aventurica.de/wiki/Kornhammer" title="Kornhammer">Kornhammer</a> in der gleichnamigen Vogtei in 
+<a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">Almada</a>.
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
+        <LookAt> 
+              <longitude> 3.70933912759221</longitude>
+              <latitude> 27.9913926870632</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>3.685818143220712,27.98468002812668,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Chabetz</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Chabetz</b> ist ein Weiler in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Ragath" title="Grafschaft Ragath">Ragather</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Valpokrug" title="Baronie Valpokrug">Baronie Valpokrug</a>. Nahe der Ortschaft erheben sich die Ruinen der <a href="http://www.wiki-aventurica.de/wiki/Ur-Tulamide" title="Ur-Tulamide">urtulamidischen</a> <a href="http://www.wiki-aventurica.de/wiki/Feste_Chabetz" title="Feste Chabetz">Feste Chabetz</a> aus der Gründungszeit des <a href="http://www.wiki-aventurica.de/wiki/Emirat_Al%27Mada" title="Emirat Al'Mada">Emirats Al'Mada</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:999_v._BF_bis_0_BF" title="Chronik:999 v. BF bis 0 BF">330 vor BF</a>. 
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] ">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine-X</styleUrl>
+        <LookAt> 
+              <longitude> 2.7392272013613</longitude>
+              <latitude> 27.9644949113968</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.740434600227111,27.98834126985923,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+			<name>Cumrat</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>Festung Cumrat</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<p>Die Festung <b>Cumrat</b> wird auch <i>Kaiserpfalz</i> oder <i>Trutzpfalz wider den Unglauben der Wüstensöhne</i> genannt. Sie wurde <a href="http://www.wiki-aventurica.de/wiki/Chronik:1022" title="Chronik:1022">1022 BF</a> nach siebenjähriger Bauzeit fertig gestellt und ist die modernste Wehranlage des <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a>. Die Festung steht in <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">Almada</a> an der Mündung der <a href="http://www.wiki-aventurica.de/wiki/Yrosa" title="Yrosa">Yrosa</a> in den <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquir</a>.
+</p>
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Cumrat-Plan;flyto">Stadtplan betrachten</a></div>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>2.183244978717784</longitude>
+				<latitude>26.76004250375008</latitude>
+				<altitude>0</altitude>
+				<range>40383.12750378708</range>
+				<tilt>0</tilt>
+				<heading>-0.2142240931089532</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung_Karte</styleUrl>
+			<Point>
+				<coordinates>2.219340,26.687921,0</coordinates>
+			</Point>
+		</Placemark>
+	<Placemark>
+        <name>Eslamsberge</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>Die Festung <b>Eslamsberge</b> in der <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" 
+class="mw-redirect">mittelreichischen</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Phecadien" title="Baronie Phecadien"
+>Baronie Phecadien</a> steht an der Mündung des <a href="http://www.wiki-aventurica.de/wiki/Grothe" title="Grothe">Grothe</a> 
+in den <a href="http://www.wiki-aventurica.de/wiki/Phecadi" title="Phecadi">Phecadi</a>. Sie überwacht auf Seiten des 
+<a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a> wie die 
+<a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">horasische</a> Zitadelle 
+<a href="http://www.wiki-aventurica.de/wiki/Phecanostein" title="Phecanostein">Phecanostein</a> auf der anderen Seite, den 
+Grenzübergang zwischen den beiden Ländern.
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] ">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] &action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] &action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude>-1.04061311007537</longitude>
+              <latitude> 26.6559905531189</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>-1.034711362497577,26.65684140681114,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Eslamstreu</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die moderne Feste <b>Eslamstreu</b> beherbergt ein ganzes Regiment an <a href="http://www.wiki-aventurica.de/wiki/Kavallerie" title="Kavallerie">Kavallerie</a>, die berühmten <a href="http://www.wiki-aventurica.de/wiki/Puniner_Rabenschn%C3%A4bler" title="Puniner Rabenschnäbler" class="mw-redirect">Puniner Rabenschnäbler</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> .819563334167338</longitude>
+              <latitude> 26.7487154512751</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>0.8312809694620649,26.7563922143729,0</coordinates>
+        </Point>
+    </Placemark>
+
+	    <Placemark>
+        <name>Feste Culming</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Feste Culming</b> ist Teil des <a href="http://www.wiki-aventurica.de/wiki/Almadaner_G%C3%BCrtel" title="Almadaner Gürtel">Almadaner Gürtels</a> und Herrschaftssitz des alten <a href="http://www.wiki-aventurica.de/wiki/Magnat" title="Magnat">Magnatengeschlechts</a> derer <a href="http://www.wiki-aventurica.de/wiki/Haus_Culming" title="Haus Culming">von Culming</a>.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#NAME-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> 2.88294748672885</longitude>
+              <latitude> 26.8697554417739</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>-0.216365509345986,26.96377657555662,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Burg Dâlblick</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Burg Dâlblick</b> ist eine Festung des <a href="http://www.wiki-aventurica.de/wiki/Almadaner_G%C3%BCrtel" title="Almadaner Gürtel">Almadaner Gürtels</a> in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_S%C3%BCdpforte" title="Grafschaft Südpforte">Grafschaft Südpforte</a>. Sie liegt im Südwesten der <a href="http://www.wiki-aventurica.de/wiki/Baronie_Brind%C3%A2l" title="Baronie Brindâl">Baronie Brindâl</a> gegenüber der Einmündung der <a href="http://www.wiki-aventurica.de/wiki/Oradella" title="Oradella">Oradella</a> in den <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquir</a>. Etwas östlich der Burg liegt die Stadt <a href="http://www.wiki-aventurica.de/wiki/D%C3%A2l_(Almada)" title="Dâl (Almada)">Dâl</a>.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> .136495310640355</longitude>
+              <latitude> 26.3968580828399</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>0.14534213148925,26.4142941885971,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Feste Hochdrachenstein</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Hochdrachenstein</b> ist die Stammburg des ehemaligen Landgrafengeschlechts derer <a href="http://www.wiki-aventurica.de/wiki/Haus_Jurios" title="Haus Jurios">von Jurios</a>. Gegenwärtig residiert hier der <a href="http://www.wiki-aventurica.de/wiki/Soberan" title="Soberan">Soberan</a>, <a href="http://www.wiki-aventurica.de/wiki/Baron" title="Baron">Baron</a> <a href="http://www.wiki-aventurica.de/wiki/Amos_Nazir_Eglamour_von_Jurios" title="Amos Nazir Eglamour von Jurios">Amos Nazir Eglamour von Jurios</a> und versucht Unterstützer unter den <a href="http://www.wiki-aventurica.de/wiki/Magnat" title="Magnat">Magnaten</a> für die <a href="http://www.wiki-aventurica.de/wiki/Reconquista" title="Reconquista">Reconquista</a> der <a href="http://www.wiki-aventurica.de/wiki/Landgrafschaft_Caldaia" title="Landgrafschaft Caldaia">Landgrafschaft Caldaia</a> zu finden. Die Feste liegt im Übergang der östlichen <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Ambossberge</a> ins raue Hochland <a href="http://www.wiki-aventurica.de/wiki/Caldaia" title="Caldaia">Caldaias</a> und wacht über den Pass zwischen <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstentum_Kosch" title="Fürstentum Kosch">Koscher</a> <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Ferdok" title="Grafschaft Ferdok">Grafschaft Ferdok</a> und dem <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Almada" title="Königreich Almada">Königreich Almada</a>. In Sichtweite der Burg befinden sich die <a href="http://www.wiki-aventurica.de/wiki/Feuerf%C3%A4lle_von_Algormosch" title="Feuerfälle von Algormosch">Feuerfälle von Algormosch</a>.
+
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung-X</styleUrl>
+        <LookAt> 
+              <longitude> 2.33501006628946</longitude>
+              <latitude> 28.191708687885</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.469471625746864,28.28626013272432,0</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+	        <name>Feste Neu-Süderwacht</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>Reichsgrenzfeste_Neu-Süderwacht</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Reichsgrenzfeste Neu-Süderwacht</b> ist eine der modernsten Wehranlagen <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a>. Sie bewacht auf <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Almada" title="Königreich Almada">almadanischer</a> Seite die Grenze zum <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+	<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+			<longitude>-0.1657743520737043</longitude>
+			<latitude>26.51976534868096</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-0.1929936590921866,26.5124874093799,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Gestüt Eslam II.</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das <b>Gestüt Eslam II.</b> liegt südöstlich der Stadt <a href="http://www.wiki-aventurica.de/wiki/Heldor" title="Heldor">Heldor</a> in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Ragath" title="Grafschaft Ragath">Ragather</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Dubios" title="Baronie Dubios">Baronie Dubios</a>. Die <a href="http://www.wiki-aventurica.de/wiki/Pferd" title="Pferd">Pferde</a> des <a href="http://www.wiki-aventurica.de/wiki/Gest%C3%BCt" title="Gestüt">Gestüts</a> am <a href="http://www.wiki-aventurica.de/wiki/Dubiosee" title="Dubiosee">Dubiosee</a> entstammen der Linie <i>Shabob al'Raschtul</i> und gehören zum Ragathischen Marstall.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Werkstaette</styleUrl>
+        <LookAt> 
+              <longitude> 2.625448642112</longitude>
+              <latitude> 27.5233713904677</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.598807463864445,27.53055890208497,0</coordinates>
+        </Point>
+    </Placemark>
+	   
+	    <Placemark>
+        <name>Gestüt Fahadime</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das <b>Gestüt Fahadime</b> liegt bei der Festungsstadt <a href="http://www.wiki-aventurica.de/wiki/Al%27Muktur" title="Al'Muktur">Al'Muktur</a> in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Yaquirtal" title="Grafschaft Yaquirtal">Yaquirtaler</a> <a href="http://www.wiki-aventurica.de/wiki/Stadtmark_Punin" title="Stadtmark Punin">Stadtmark Punin</a>. Die hiesigen <a href="http://www.wiki-aventurica.de/wiki/Pferd" title="Pferd">Pferde</a> entstammen den Linien von <i>Cherun al'Damacht</i> und <i>Nazir al'Orhima</i>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Werkstaette</styleUrl>
+        <LookAt> 
+              <longitude> 2.13400511075799</longitude>
+              <latitude> 26.996174987406</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.204311953207077,27.00126821015574,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Gestüt Grillenbusch</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das <b>Gestüt Grillenbusch</b> liegt nahe der Stadt <a href="http://www.wiki-aventurica.de/wiki/Sherbeth" title="Sherbeth">Sherbeth</a> in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Yaquirtal" title="Grafschaft Yaquirtal">Yaquirtaler</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Khabosa" title="Baronie Khabosa">Baronie Khabosa</a>. Das <a href="http://www.wiki-aventurica.de/wiki/Gest%C3%BCt" title="Gestüt">Gestüt</a> nahe dem <a href="http://www.wiki-aventurica.de/wiki/Grillenbusch" title="Grillenbusch">Grillenbusch</a> wurde einst vom <a href="http://www.wiki-aventurica.de/wiki/Gest%C3%BCt_Fahadime" title="Gestüt Fahadime">Gestüt Fahadime</a> bei <a href="http://www.wiki-aventurica.de/wiki/Al%27Muktur" title="Al'Muktur">Al'Muktur</a> abgespalten und führt hier die Linien <i>Chalik El-Kalif</i> und <i>Al'Rik al'Djinn</i> weiter.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Werkstaette</styleUrl>
+        <LookAt> 
+              <longitude> 1.38845613041386</longitude>
+              <latitude> 26.824029223141</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 1.38845613041386, 26.824029223141,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Gut der di Madjani</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Der Kreis der Sechs, S. 273<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
+        <Camera> 
+              <longitude> 2.42184490450798</longitude>
+              <latitude> 27.0015545425393</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 2.42184490450798, 27.0015545425393,0</coordinates>
+        </Point>
+    </Placemark>
+			<Placemark>
+        <name>Gutshof des Barons von Nemento</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  20<TR><TD>Sitz des Barons von Nemeto<TR><TD><i>Herrschaft:</i> Vernon Aramir Cerastes von Nemento (Baron von Nemento)<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (36), S. 15<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
+        <Camera> 
+              <longitude> 1.92441302793032</longitude>
+              <latitude> 27.0230727630724</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+            <coordinates>1.920509859520152,27.01316657712599,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Keshal Rondra</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Keshal Rondra</b> ist die älteste <a href="http://www.wiki-aventurica.de/wiki/Burg" title="Burg" class="mw-redirect">Burg</a> der <a href="http://www.wiki-aventurica.de/wiki/Amazone" title="Amazone">Amazonen</a>. Die Höhlenburg liegt im <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> im Quellgebiet des <a href="http://www.wiki-aventurica.de/wiki/Bosquir" title="Bosquir">Bosquirs</a> an der Stelle, an der die ersten Amazonen zuerst Unterschlupf fanden. Hier wurde ihre erste <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigin_der_Amazonen" title="Königin der Amazonen" class="mw-redirect">Königin</a> <a href="http://www.wiki-aventurica.de/wiki/Ayla_al%27Yeshinna" title="Ayla al'Yeshinna">Ayla al'Yeshinna</a> gekrönt.
+
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] ">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> 3.35303258678518</longitude>
+              <latitude> 27.1199047554715</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>3.338698450395925,27.10306505029069,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Kloster der Heiligen Noiona</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD><i>Einwohner:</i>  50<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Königreich Almada, S. 23<TR><TD>Herz des Reiches, S. 203<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk</styleUrl>
+        <LookAt> 
+              <longitude> 3.04762698037915</longitude>
+              <latitude> 27.7062762649993</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.964965054088276,27.71653482603949,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Kloster Rabennest</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>Boronkloster am Fuße des Rashtulswalls.<TR><TD><i>Einwohner:</i>  50<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Rohals Versprechen, S. 58<TR><TD>Raschtuls Atem, S. 60<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk</styleUrl>
+        <LookAt> 
+              <longitude> 3.56262466961285</longitude>
+              <latitude> 27.3162585178363</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>3.568341938006103,27.31525755965892,0</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Kultistenlager</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  6<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Donner und Sturm, S. 39<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
+        <Camera> 
+              <longitude> .837530924822034</longitude>
+              <latitude> 26.5017594079389</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>0.6067747644857002,26.4603553815863,0</coordinates>
+        </Point>
+    </Placemark>
+		    <Placemark>
+        <name>Landgasthof Zum Königsaar</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Landgasthof <i>Zum Königsaar</i></b> liegt an der Nordflanke des <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswalls</a>. In dem sicheren Gasthaus an der Quelle des <a href="http://www.wiki-aventurica.de/wiki/Orbun" title="Orbun">Orbun</a> können Reisende auf dem <a href="http://www.wiki-aventurica.de/wiki/Raschtulsweg" title="Raschtulsweg">Raschtulsweg</a> sich erfrischen und übernachten.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Gaststaette</styleUrl>
+        <LookAt> 
+              <longitude> 2.74222392895688</longitude>
+              <latitude> 26.6523869516708</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.739705009106992,26.66050455657827,0</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Mamorbrüche von Selaque</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>Marmorbrüche von Kaiserlich Selaque</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Marmorbrüche von Kaiserlich Selaque</b> liegen in den <a href="http://www.wiki-aventurica.de/wiki/Bosquirtal" title="Bosquirtal">bosquirischen</a> Ausläufern des <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswalls</a> in der Baronie <a href="http://www.wiki-aventurica.de/wiki/Kaiserlich_Selaque" title="Kaiserlich Selaque" class="mw-redirect">Kaiserlich Selaque</a>. In den <a href="http://www.wiki-aventurica.de/wiki/Binge" title="Binge">Brüchen</a> nahe der Stadt <a href="http://www.wiki-aventurica.de/wiki/Selaque" title="Selaque">Selaque</a> wird grün-brauner <a href="http://www.wiki-aventurica.de/wiki/Marmor" title="Marmor">Marmor</a> gebrochen.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette-X</styleUrl>
+        <Camera> 
+              <longitude> 3.35003841417336</longitude>
+              <latitude> 27.7412433733656</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>3.356524445943876,27.74199791466991,0</coordinates>
+        </Point>
+    </Placemark>
+		    <Placemark>
+        <name>Monumentalpalast des Pyrdracorkultes</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD><i>Einwohner:</i>  0<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Erben des Zorns, S. 61<TR><TD>Drachenschatten, S. 13<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk</styleUrl>
+        <LookAt> 
+              <longitude> 2.61646867926028</longitude>
+              <latitude> 26.2946465353075</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.486947685577112,26.27990941416843,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Silberminen von Kaiserlich Molay</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Silberminen von Kaiserlich Molay</b> liegen im <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">almadanischen</a> <a href="http://www.wiki-aventurica.de/wiki/Kupfertann" title="Kupfertann">Kupfertann</a>, in den Ausläufern des <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Ambossgebirges</a> in der Baronie <a href="http://www.wiki-aventurica.de/wiki/Kaiserlich_Molay" title="Kaiserlich Molay" class="mw-redirect">Kaiserlich Molay</a>. Das hier geschürfte <a href="http://www.wiki-aventurica.de/wiki/Silber" title="Silber">Silber</a> ist derart wertvoll und ertragsreich, dass die Baronie direktes Lehen des <a href="http://www.wiki-aventurica.de/wiki/Kaiser" title="Kaiser">Kaisers</a> ist. Entsprechend begehrt ist das Amt des <a href="http://www.wiki-aventurica.de/wiki/Reichsvogt" title="Reichsvogt">Reichsvogts</a> der Baronie, gegenwärtig <a href="http://www.wiki-aventurica.de/wiki/Frankwart_vom_Gro%C3%9Fen_Fluss" title="Frankwart vom Großen Fluss">Frankwart vom Großen Fluss</a>, der als Stellvertreter des Throns die <a href="http://www.wiki-aventurica.de/wiki/Binge" title="Binge">Minentätigkeit</a> übersieht. Die Arbeit unter Tage wird aufgrund der Härte von Sträflingen und Zwangsarbeitern durchgeführt, die aus dem ganzen <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Almada" title="Königreich Almada" class="mw-redirect">Königreich Almada</a> hierher gesandt werden. 
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette-X</styleUrl>
+        <Camera> 
+              <longitude> 2.19687954187659</longitude>
+              <latitude> 28.1710525971555</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>2.104072474341843,28.18283948691316,0</coordinates>
+        </Point>
+    </Placemark>
+<Placemark>		
+		<name>Tolshidur</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+In <b>Tolshidur</b> zwischen den Gebirgen <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Amboss</a> und <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwald</a> an der Quelle des <a href="http://www.wiki-aventurica.de/wiki/Ambocebra" title="Ambocebra" class="mw-redirect">Ambocebra</a> befindet sich die königlich-gräfliche Fasanerie Almadas. Die heute zerstörte Festung Tolshidur wurde um <a href="http://www.wiki-aventurica.de/wiki/10000_bis_2001_v._BF" title="10000 bis 2001 v. BF"><span title="7000 v. BF">7000 v. BF</span></a> von den <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwergen</a> während der <a href="http://www.wiki-aventurica.de/wiki/Drachenkriege" title="Drachenkriege">Drachenkriege</a> errichtet.
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] ">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
+        <LookAt> 
+              <longitude> 1.99028482539044</longitude>
+              <latitude> 27.7708309265986</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>1.414764712449734,27.70835576513749,0</coordinates>
+			         </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Verlassenes Dorf</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD><i>Einwohner:</i>  0<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Die Wandelbare<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <LookAt> 
+              <longitude> 2.81408407164065</longitude>
+              <latitude> 26.665835839504</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.82204596007239,26.62992850803458,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Yaquirquell</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+An der Quelle des <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquirs</a> lag das bosparanische Kastell <b>Yaquirquell</b> (<a href="http://www.wiki-aventurica.de/wiki/Bosparano" title="Bosparano">bosp.</a> <i><b>Yaquirofons</b></i>). <a href="http://www.wiki-aventurica.de/wiki/Chronik:999_v._BF_bis_0_BF" title="Chronik:999 v. BF bis 0 BF">883 v. BF</a> unter Kaiser <a href="http://www.wiki-aventurica.de/wiki/Seneb-Horas" title="Seneb-Horas">Seneb-Horas</a> als äußerster Vorposten des <a href="http://www.wiki-aventurica.de/wiki/Bosparanisches_Reich" title="Bosparanisches Reich">Bosparanischen Reichs</a> errichtet, stehen heute nur noch überwucherte Ruinen. Das imposante Kastell noch wurde im Jahr seiner Erbauung von <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwergen</a> unter <a href="http://www.wiki-aventurica.de/wiki/Tordosch_Grimm&amp;action=edit&amp;redlink=1" class="new" title="Tordosch Grimm (Seite nicht vorhanden)">Tordosch Grimm</a> niedergemacht.
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link] ">$[name] </a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
+        <LookAt> 
+              <longitude> 2.88294748672885</longitude>
+              <latitude> 26.8697554417739</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>3.18632068117918,28.24816346569295,0</coordinates>
+        </Point>
+    </Placemark>
+		    <Placemark>
+        <name>Zollfeste Valquirbrück</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Zollfeste Valquirbrück</b> wacht auf <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Yaquirtal" title="Grafschaft Yaquirtal">Yaquirtaler</a> Seite über den Übergang des <a href="http://www.wiki-aventurica.de/wiki/Valquir" title="Valquir">Valquir</a> in die <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Waldwacht" title="Grafschaft Waldwacht">Grafschaft Waldwacht</a>. Am Waldwachter Valquirufer liegt <a href="http://www.wiki-aventurica.de/wiki/Retingen" title="Retingen">Retingen</a> und am östlichen <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquirufer</a> das <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Ragath" title="Grafschaft Ragath">Ragather</a> <a href="http://www.wiki-aventurica.de/wiki/Quirod" title="Quirod">Quirod</a>. Die Zollfeste ist beständiger Zankapfel zwischen <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> und <a href="http://www.wiki-aventurica.de/wiki/Taladur" title="Taladur">Taladur</a> und die Kämpfe um die Befestigung werden nur noch der Ehre, nicht des Nutzens wegen geführt
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Festung</styleUrl>
+        <LookAt> 
+              <longitude> 2.30806634525868</longitude>
+              <latitude> 27.3162585178363</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>2.565263568812073,27.20487143475766,0</coordinates>
+        </Point>
+    </Placemark>
+	    <Placemark>
+        <name>Las Ramiras</name>
+<ExtendedData>
+<Data name="Link">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Las Ramiras</b> war eine Holzfällersiedlung am <a href="www.wiki-aventurica.de/index.php/Bosquir" title="Bosquir">Bosquir</a>. Seit dem Frühling <a href="www.wiki-aventurica.de/index.php/Chronik:1033" title="Chronik:1033">1033 BF</a> ist der Ort verlassen.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="http://www.gnu.org/licenses/fdl.txt" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]>
+</description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette-X</styleUrl>
+        <Camera> 
+              <longitude> 3.05660949821463</longitude>
+              <latitude> 27.0876274246718</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 3.05660949821463, 27.0876274246718,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Gräfliche Alaunmine</name>
+<ExtendedData>
+<Data name="Link">
+<value>Alaunmine</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Alaunmine</b> liegt im <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">almadanischen</a> <a href="http://www.wiki-aventurica.de/wiki/Kupfertann" title="Kupfertann">Kupfertann</a>. Die <a href="http://www.wiki-aventurica.de/wiki/Binge" title="Binge">Grube</a> in den <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Waldwacht" title="Grafschaft Waldwacht">Waldwachter</a> Ausläufern des <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwaldes</a> beherbergt das reichste Vorkommen von <a href="http://www.wiki-aventurica.de/wiki/Alaun" title="Alaun">Alaun</a> im ganzen <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreich</a>, und entsprechend wichtig und bewacht ist der Schürfort des seltenen Minerals. Hauptanteilseigner ist der reiche <a href="http://www.wiki-aventurica.de/wiki/Patrizier" title="Patrizier">Patrizier</a> <a href="http://www.wiki-aventurica.de/wiki/Salatori_Ernathesa" title="Salatori Ernathesa">Salatori Ernathesa</a> aus <a href="http://www.wiki-aventurica.de/wiki/Taladur" title="Taladur">Taladur</a>.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette-X</styleUrl>
+        <Camera> 
+              <longitude> 1.50522886227499</longitude>
+              <latitude> 27.6363420482666</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.50522886227499, 27.6363420482666,0</coordinates>
+        </Point>
+    </Placemark>
+	   <Placemark>
+        <name>Korgraxon</name>
+<ExtendedData>
+<Data name="Link">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  2<TR><TD>verlassene Zwergenbinge<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Katakomben und Kavernen, S. 151<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <Camera> 
+              <longitude> 3.15242302179299</longitude>
+              <latitude> 26.8347883334076</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 3.15242302179299, 26.8347883334076,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Fähre über den Creval</name>
+<ExtendedData>
+<Data name="Link">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Der Mondenkaiser, S. 74<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <Camera> 
+              <longitude> 2.42184490450798</longitude>
+              <latitude> 27.7251047079657</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 2.42184490450798, 27.7251047079657,0</coordinates>
+        </Point>
+    </Placemark>
+			</Folder>
+	</Document>
+</kml>

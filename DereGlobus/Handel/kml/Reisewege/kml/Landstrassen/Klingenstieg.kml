@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Klingenstieg</name>
+	<open>1</open>
+		<Placemark>
+			<name>Klingenstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Klingenstieg</b> verläuft durch das <a href="http://www.wiki-aventurica.de/wiki/Osttobrisches_H%C3%BCgelland" title="Osttobrisches Hügelland">Osttobrische Hügelland</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Mendena" title="Mendena">Mendena</a> mit <a href="http://www.wiki-aventurica.de/wiki/Shamaham" title="Shamaham">Shamaham</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						9.203499510573723,30.0720501529758,0 <!--<POI>Siedlung:Shamaham</POI>--> <!--<POI>SOE:Löwenpass</POI>--> <!--<POI>SOE:Weg nach Grünau</POI>-->
+						9.204044423676564,30.0720653953936,0 
+						9.204225639792195,30.07218735367717,0 
+						9.204496426660704,30.07242267019349,0 
+						9.20462444330321,30.07246027572761,0 
+						9.204743061569221,30.07244706131884,0 
+						9.204899576200276,30.07242266594372,0 
+						9.204999405057237,30.07243791063789,0 
+						9.228597090633938,30.07438952461077,0 
+						9.301969242704477,30.06932811661251,0 
+						9.33499639573232,30.07141586411241,0 
+						9.363360547229799,30.08196786288992,0 
+						9.394285718236361,30.09965735388406,0 <!--<POI>Siedlung:Kendram</POI>--> <!--<POI>Abzweig:Straße nach Amarasch</POI>-->
+						9.417770902775498,30.11734790489903,0 
+						9.444710747479469,30.12524261481661,0 
+						9.485123306788449,30.13178669046185,0 
+						9.507191998752489,30.14114142618804,0 
+						9.531133042402464,30.16410476003303,0 
+						9.562119318692659,30.21816007930967,0 
+						9.580279186921032,30.25799598487551,0 
+						9.617188500068387,30.30701015143325,0 
+						9.643592002695289,30.36603743564882,0 
+						9.686183709573919,30.42752156529532,0 
+						9.730131842192279,30.46990834358422,0 
+						9.740846967880231,30.48986066447901,0 
+						9.78864118729865,30.52879575973601,0 
+						9.810679996798289,30.55326183612866,0 
+						9.853556051733159,30.58273297052114,0 <!--<POI>Siedlung:Burgheym</POI>--> <!--<POI>Abzweig:Weg nach Dinglingen</POI>--> <!--<POI>Abzweig:Weg nach Muschelstrand</POI>-->
+						9.878584215856556,30.60371604671778,0 
+						9.893031469386159,30.62906202474798,0 
+						9.897169387192902,30.65075257937549,0 
+						9.917362305781577,30.67556114840789,0 
+						9.976700449935681,30.7311717004065,0 
+						9.99330783321248,30.76649698831559,0 
+						10.00465882929071,30.81298172219998,0 
+						10.03242514599265,30.87532627725687,0 
+						10.05869200778058,30.91630981679577,0 
+						10.08289266011021,30.97869981423717,0 
+						10.12052535688816,31.01856677435613,0 <!--<POI>Abzweig:Straße nach Sardosk</POI>-->
+						10.1229885526283,31.04493121846808,0 <!--<POI>Fluss:Tobimora</POI>--> <!--Anfang Detailkarte Mendena-->
+						10.12239432265893,31.04597993982005,0 <!--<POI>Siedlung:Mendena</POI>--> <!--<POI>Station:Fährstation</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.66</longitude>
+				<latitude>30.557</latitude>
+				<altitude>180000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			</Placemark>
+</Document>
+</kml>

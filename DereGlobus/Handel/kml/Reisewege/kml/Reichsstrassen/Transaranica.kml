@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		<Placemark> 	<!-- Transaranica -->
+			<name>Transaranica</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Transaranica</b> ist eine gut ausgebaute Straße, die im <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">aranischen</a> Inland von <a href="http://www.wiki-aventurica.de/wiki/Zorgan" title="Zorgan">Zorgan</a> über <a href="http://www.wiki-aventurica.de/wiki/Barbr%C3%BCck" title="Barbrück">Barbrück</a>, <a href="http://www.wiki-aventurica.de/wiki/Al%27Berosmim" title="Al'Berosmim" class="mw-redirect">Al'Berosmim</a> und <a href="http://www.wiki-aventurica.de/wiki/Nasir_Malkid" title="Nasir Malkid">Nasir Malkid</a> nach <a href="http://www.wiki-aventurica.de/wiki/Anchopal" title="Anchopal">Anchopal</a> verläuft. Der Teil von <a href="http://www.wiki-aventurica.de/wiki/Zorgan" title="Zorgan">Zorgan</a> bis <a href="http://www.wiki-aventurica.de/wiki/Nasir_Malkid" title="Nasir Malkid">Nasir Malkid</a> zählt zu den <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe" title="Reichsstraße">Reichsstraßen</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					6.971781831460257,27.16514522973663,0   <!-- <POI>Siedlung:Zorgan</POI> --> <!-- <POI>SOE:Elburnia</POI> --> <!-- <POI>SOE:Küstenstraße</POI> -->
+					6.967841533375463,27.16531406490216,0 
+					6.967870366703868,27.16350779718522,0 
+					6.96414373995156,27.16331448003143,0 
+					6.964447984050475,27.16037208153816,0  
+					6.96501361182793,27.15755976243707,0    <!-- <POI>Station:Pilgertor</POI> -->
+					6.965143688563753,27.1543243624238,0 
+					6.966492139837175,27.15414367432043,0 
+					6.966666050709998,27.15206673383058,0 
+					6.968053518672899,27.15036139744701,0 
+					6.968647898877974,27.14880048777444,0 
+					6.968749166111992,27.14754259809634,0 
+					6.968618607832184,27.14550442613803,0   <!-- Ende Detailkarte Zorgan</POI> -->
+					6.950590211209054,27.13440744921438,0 
+					6.951648756598177,27.0356875866212,0 	<!-- <POI>Siedlung:unbenannt</POI> -->
+					6.927226463390137,26.99271009811862,0 
+					6.923376220299664,26.96977898543959,0 
+					6.889313958438175,26.93132473030796,0 	<!-- <POI>Siedlung:unbenannt</POI> --> <!-- <POI>Abzweig:</POI> -->
+					6.867321562229907,26.90353480952782,0 
+					6.843646430041241,26.82216807121283,0 
+					6.827649598836663,26.78205756617917,0 
+					6.798177558280269,26.74880055445718,0 	<!-- <POI>Siedlung:Barbrück</POI> --> <!-- <POI>Abzweig:Reichslandstraße von Perricum nach Zorgan</POI> --> <!-- <POI>Abzweig:Weg von Babrück nach Chalukand/POI> -->
+					6.747625036829509,26.69746398995871,0 
+					6.713844359228309,26.6017216390172,0 	<!-- <POI>Siedlung:</POI> -->
+					6.662628483134494,26.53274634694864,0 
+					6.635837063390024,26.49946550106756,0 
+					6.598802304800035,26.47187898275931,0 	<!-- <POI>Siedlung:Al'Berosmim</POI> --> <!-- <POI>AbzweigRechts:</POI> -->
+					6.539379047790128,26.4203312109564,0 
+					6.519068125481658,26.38074665774365,0 	<!-- <POI>Siedlung:</POI> -->
+					6.520301134276783,26.30646435232696,0 
+					6.503167099960205,26.27661650743287,0 
+					6.494492287493707,26.21161696214402,0 
+					6.482512884577806,26.17604964800232,0 	<!-- <POI>Siedlung:</POI> -->
+					6.451119730471473,26.13135624109336,0 
+					6.420819985084845,26.06308105532847,0 	<!-- <POI>Siedlung Nasir Malkid</POI> --> <!-- <POI>Abzweig:Kronstraße von Fasar nach Nasir Malkid</POI> --> <!-- <POI>Abzweig:Straße von Nasir Malkid nach Terekand</POI> -->
+					6.375803816091226,25.95453292465219,0 
+					6.357278315090113,25.87394273447268,0 
+					6.349011551788153,25.8431456506762,0 
+					6.343314623301419,25.80599285330023,0 
+					6.303628665871425,25.71609503314648,0 
+					6.265388822395837,25.67523937428441,0 
+					6.213307865182003,25.57341735476133,0 
+					6.192907594791139,25.55612027780955,0 
+					6.143340318500236,25.52508121760128,0 
+					6.122001974580278,25.52178627590255,0 
+					6.12143558393935,25.52130695544667,0 					
+					6.121492885793851,25.52055144497032,0 	<!-- Anfang Detailkarte Anchopal</POI> --> 	
+					6.121491220233121,25.51899128841767,0 
+					6.121277413066071,25.51753190340996,0 
+					6.120923688731288,25.51632016430545,0 
+					6.120737320369784,25.51478757756406,0 				
+					6.120715680592714,25.51324369980361,0 
+					6.120830745804692,25.51194564772408,0  	<!-- <POI>Siedlung:Anchopal</POI> --> <!-- <POI>AbzweigLinks:Richtung Birchaluk</POI> --> <!-- <POI>AbzweigRechts:</POI> --> <!-- <POI>SOE:Transaranica</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>6.679247777669112</longitude>
+				<latitude>26.36255544925676</latitude>
+				<altitude>336550</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

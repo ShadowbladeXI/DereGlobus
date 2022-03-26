@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kronstraße von Perricum nach Zorgan</name>
+	<open>1</open>
+		<Placemark> 	<!-- Kronstraße von Perricum nach Zorgan-->
+			<name>Kronstraße von Perricum nach Zorgan</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Kronstraße von Perricum nach Zorgan</b> führt die meiste Zeit an den Ufern von <a href="http://www.wiki-aventurica.de/wiki/Darpat">Darpat</a> und <a href="http://www.wiki-aventurica.de/wiki/Barun-Ulah" title="Barun-Ulah">Barun-Ulah</a> entlang. Auf <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich">mittelreichischem</a> Gebiet wird sie noch immmer als <a href="http://www.wiki-aventurica.de/wiki/Reichslandstraße" title="Reichslandstraße">Reichslandstraße</a> bezeichnet und teilt sich bis <a href="http://www.wiki-aventurica.de/wiki/Gaulsfurt" title="Gaulsfurt">Gaulsfurt</a> die Route mit der <a href="http://www.wiki-aventurica.de/wiki/Reichsstraße_3" title="Reichsstraße 3">Reichsstraße 3</a>. Zwischen <a href="http://www.wiki-aventurica.de/wiki/Barbrück" title="Barbrück">Barbrück</a> und <a href="http://www.wiki-aventurica.de/wiki/Zorgan" title="Zorgan">Zorgan</a> ist sie mit der <a href="http://www.wiki-aventurica.de/wiki/Transaranica" title="Transaranica">Transaranica</a> identisch.
+							</p>
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					5.997594686363852,28.8312482772839,0    <!-- <POI>Siedlung:Gaulsfurt</POI> --> <!-- <POI>Abzweig:Reichsstraße 3</POI> -->
+					5.979548832575428,28.79122576462099,0 
+					5.957033266600311,28.76192990718386,0 
+					5.943489202112804,28.73032910704337,0 	<!-- <POI>Siedlung:Haselhain</POI> -->
+					5.92141610215881,28.69945280486438,0 
+					5.892177747634422,28.67042342037196,0 
+					5.869427516357735,28.63385194468159,0 
+					5.855997665633634,28.59540081703903,0 
+					5.848637113832254,28.53204698179529,0 	<!-- <POI>Siedlung:Darrenfurt</POI> -->
+					5.849840128619281,28.51231377762176,0 
+					5.857149189096518,28.48403914712852,0 
+					5.850276420817071,28.43308846089817,0 
+					5.83765223817494,28.3967419077239,0 	<!-- <POI>Siedlung:Aranische Zollfeste</POI> -->
+					5.830659340416268,28.38528401224972,0 	<!-- <POI>SOE:</POI> -->
+					5.822506470325171,28.36684351168724,0 
+					5.806882708489429,28.30964904190981,0 
+					5.797855189702721,28.25539311834372,0 	<!-- <POI>Siedlung:</POI> -->
+					5.784505956851358,28.17931808408121,0 
+					5.766621132361848,28.12414019634679,0 
+					5.764170319138364,28.09980652909611,0 
+					5.765349986028836,28.09350742482634,0 
+					5.766869474605699,28.08989948429896,0 
+					5.767210416289244,28.08747886679779,0 
+					5.767065430635321,28.08638503983815,0 
+					5.766746629216437,28.08477734394869,0 
+					5.766397342048988,28.08401722282756,0 
+					5.766250987951027,28.0836149607902,0 	
+					5.765971456308354,28.08319685878143,0 
+					5.765572303119074,28.08279378532222,0 
+					5.765089510345693,28.0824371127266,0 
+					5.764356818763268,28.08205249360202,0 	
+					5.764642201562101,28.08162754342821,0 
+					5.764794455030813,28.08145729677986,0	<!-- <POI>SOE:</POI> --><!-- <POI>Siedlung:Baburin</POI> -->
+					5.765003432226681,28.08114448095715,0 	
+					5.765373288350608,28.08071033804772,0 	
+					5.765827846494993,28.08017387491795,0 	
+					5.766346629787638,28.07933806738291,0 	
+					5.766685625653336,28.07853391677706,0 	
+					5.766752436010522,28.07828006198881,0 
+					5.76661129562944,28.07770061598789,0 
+					5.765905924354651,28.07593844010161,0 
+					5.765552929978181,28.07529535570681,0 
+					5.765892117240399,28.07476822357111,0 
+					5.766245851693048,28.07379768023953,0 
+					5.766382632288199,28.07244300170132,0 
+					5.766361439658107,28.07114575812882,0 
+					5.766204308874883,28.06917369319202,0 
+					5.769299052395651,28.05670573625189,0 
+					5.835144944418165,27.99917725115743,0 
+					5.84139800535481,27.98466764843333,0 
+					5.843235775655968,27.96196053730797,0 
+					5.857156457565244,27.93799986776978,0 
+					5.860346344519146,27.91801724302331,0 
+					5.879334935367226,27.8920258467399,0 	<!-- <POI>Siedlung:Untersternheim</POI> -->
+					5.912319190737363,27.8555029974499,0 
+					5.933160046142618,27.8200907925429,0 
+					5.941174272388952,27.79592190996867,0 
+					5.943869678494065,27.73891421488684,0 	<!-- <POI>Siedlung:Revennis</POI> --> <!-- <POI>SOE:Straße von Palmyrabad nach Revennis</POI>-->
+					5.948024913384773,27.68183129336378,0 
+					5.95981461071891,27.65886774722883,0 
+					5.957481848837767,27.59848236131602,0 	<!-- <POI>Siedlung:</POI> -->
+					5.948009988859917,27.56323387257365,0 
+					5.952098539192909,27.50811387046391,0 
+					5.985073804540679,27.45790098233467,0 	<!-- <POI>Fluss:Tasilim</POI> -->
+					5.995011133893233,27.43444523374773,0 	<!-- <POI>Siedlung:Teralkira</POI> -->
+					5.99659261611963,27.36059129326011,0 
+					6.00686516868739,27.32702235767789,0 
+					6.018278041440328,27.29934498623836,0 
+					6.025782390648371,27.27372690842309,0 
+					6.0204988065929,27.22898392471609,0 	<!-- <POI>Siedlung:</POI> -->
+					6.020376953900504,27.19507873988307,0 
+					6.013963550834345,27.18597480560482,0 
+					6.014046727565987,27.16422720227967,0 
+					6.020522282187208,27.15612293709478,0 
+					6.025473579986809,27.12460025065914,0 
+					6.037649048180942,27.09930499097271,0 
+					6.085908676180476,27.06541156122906,0 	<!-- <POI>Siedlung:Iziqnedim</POI> -->
+					6.094290677781,27.01978343305521,0 
+					6.108788489705875,26.98774895888294,0 
+					6.121786435115602,26.97281490211849,0 	<!-- <POI>Siedlung:</POI> -->
+					6.278026319374201,26.89502072930852,0 
+					6.326797292366724,26.90263787925552,0 	<!-- <POI>Siedlung:Yerkesh</POI> -->
+					6.378797086554098,26.91339503851766,0 
+					6.412031770857185,26.90205297486934,0 
+					6.443156977495526,26.86608654796402,0 
+					6.460137888245077,26.84524457760334,0 	<!-- <POI>Siedlung:</POI> -->
+					6.489165198296487,26.82339460697731,0 
+					6.529963836937769,26.8036569390578,0 
+					6.559244769458026,26.79291010112497,0 
+					6.584217909102989,26.79459537291056,0 
+					6.605837926333864,26.79928093611565,0 
+					6.628422824048091,26.79795286279386,0 	<!-- <POI>Siedlung:Waraqis</POI> -->
+					6.648589797648907,26.7911001537562,0 
+					6.671597991700356,26.77735701421712,0 
+					6.712411092741295,26.75886496400526,0 
+					6.763266890317028,26.75790196809469,0 
+					6.779088770986328,26.75272253358034,0 	<!-- <POI>Fluss:Barun-Ulah</POI> -->
+					6.798177558280269,26.74880055445718,0 	<!-- <POI>Siedlung:Barbrück</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>6.190346</longitude>
+				<latitude>27.908770</latitude>
+				<altitude>525120</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

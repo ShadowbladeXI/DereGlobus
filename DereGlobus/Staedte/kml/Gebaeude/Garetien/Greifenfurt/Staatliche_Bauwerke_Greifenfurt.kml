@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Staatliche_Bauwerke_GREIFENFURT.kml</name>
+	<open>1</open>	
+	<Folder>
+		<name>Staatliche_Bauwerke_GREIFENFURT</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>31.32786345312803</north>
+				<south>31.32352124878749</south>
+				<east>2.27255908729997</east>
+				<west>2.265440826161168</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<LookAt>
+			<longitude>2.26917068038756</longitude>
+			<latitude>31.32560073564712</latitude>
+			<altitude>0</altitude>
+			<range>716.2538035245117</range>
+			<tilt>0</tilt>
+			<heading>-1.111206291836316e-013</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		
+		<Placemark>
+			<name>Andergaster Tor / Nôrrnpforte</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 12<TR><TD><I>Stadtteil: Neustadt<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.269543553855622,31.32771731176018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bastion am Fluss</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.266089433483716,31.3254739487428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flusstürme und Flusssperren</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: Sicherungsturm der Stadtmauer zur Breite hin. Kann nur über den Wehrgang betreten werden. Von hier aus kann eine Flußsperre errichtet werden.<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>			
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.266935248015449,31.32424337922562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flusstürme und Flusssperren</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: Sicherungsturm der Stadtmauer zur Breite hin. Kann nur über den Wehrgang betreten werden. Von hier aus kann eine Flußsperre errichtet werden.<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>			
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.267331121088432,31.3259956335407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flusstürme und Flusssperren</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: Sicherungsturm der Stadtmauer zur Breite hin. Kann nur über den Wehrgang betreten werden. Von hier aus kann eine Flußsperre errichtet werden.<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>			
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.266919032452137,31.32522681006686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garnison der Stadtwache / Kasernen der Stadtmiliz</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 15 / SdR 8<TR><TD><I>Stadtteil: Neustadt<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.270577220020404,31.32752041759914,0</coordinates>
+			</Point>
+		</Placemark>
+					<Placemark>
+						<name>Arsenal der Stadtwache</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.270899447440511,31.32722076624032,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Schuldturm der Stadtwache</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.270700374764467,31.32766295026,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Stallungen der Stadtwache</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.270534240281537,31.32738717356175,0</coordinates>
+						</Point>
+					</Placemark>			
+		<Placemark>
+			<name>Greifen(berger) Tor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 34<TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk-X</styleUrl>
+			<Point>
+				<coordinates>2.268019903980614,31.32761058204631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hafenmeisterei</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk-X</styleUrl>
+			<Point>
+				<coordinates>2.268201974517161,31.32495225927135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Magistrat (Alt)</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 2<TR><TD><I>Stadtteil: Praiosberg<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.270177060066692,31.32583744002736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Magistrat (Neu)</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: SdR 7<TR><TD><I>Stadtteil: Praiosberg<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.271033035620949,31.32587548888998,0</coordinates>				
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Markgräfliche Festung / Garnison</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: SdR 3 / DJdG 32<TR><TD><I>Stadtteil: Hafen<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.266996781129174,31.32605964469096,0</coordinates>
+			</Point>
+		</Placemark>
+					<Placemark>
+						<name>Brückenhaus der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267466150238913,31.32551410462556,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Äußeres Torhaus der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267249290467932,31.32550615492988,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Palas der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267024289735447,31.32545087700174,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Arsenalturm der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266813223775857,31.32541330447663,0</coordinates>
+						</Point>
+					</Placemark>
+					<!--<Placemark>
+						<name>Quartier der Panzerreiter</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267198369911361,31.32577528786576,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Quartier der Angbarer Sappeure</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267093525644193,31.32558503111712,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Haus des Heilers</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267081214500148,31.32573282555611,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Haus des Burgschmieds</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267068200992077,31.32582971171447,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Reiterquartiere</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266931362434712,31.32580183509562,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Reiterquartiere</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266800521811176,31.32579405041821,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Scheunen</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266957349443857,31.3255933311687,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Scheunen</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266823549020376,31.32558646868833,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<Placemark>
+						<name>Frauenturm der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267229732051026,31.32597987491662,0</coordinates>
+						</Point>
+					</Placemark>
+					<!--<Placemark>
+						<name>Torhaus zum inneren Hof</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266997281701877,31.32593733541908,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<Placemark>
+						<name>Gesindeturm der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266754869827063,31.32595962873544,0</coordinates>
+						</Point>
+					</Placemark>
+					<!--<Placemark>
+						<name>Kasernen</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266947902128327,31.32597969123655,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Kasernen</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.267036990023328,31.32597881226677,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<!--<Placemark>
+						<name>Innerer Hof</name>
+						<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266993678371942,31.32604319408408,0</coordinates>
+						</Point>
+					</Placemark>-->
+					<Placemark>
+						<name>Bergfried der Garnison</name>
+						<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+						<LookAt>
+							<longitude>2.26917068038756</longitude>
+							<latitude>31.32560073564712</latitude>
+							<altitude>0</altitude>
+							<range>716.2538035245117</range>
+							<tilt>0</tilt>
+							<heading>-1.111206291836316e-013</heading>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+						<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+						<Point>
+							<coordinates>2.266977678254811,31.32619241240946,0</coordinates>
+						</Point>
+					</Placemark>		
+		<Placemark>
+			<name>Neue Residenz</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.269841193795836,31.3260359008435,0</coordinates>
+			</Point>
+		</Placemark>			
+		<Placemark>
+			<name>Osttor / Schanze an der Ostmauer</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 18<TR><TD><I>Stadtteil: Tuchweberviertel und Perainehof<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.272310188484195,31.32639090308243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rondra-Burg</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 25, SdR 11<TR><TD><I>Stadtteil: Pflanzerviertel<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.269926955015802,31.32400278563648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stadtturm Rondras Wehr</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.271658480184329,31.32474470873724,0</coordinates>
+			</Point>
+		</Placemark>		
+		<Placemark>
+			<name>Stallungen des Rondra-Ordens</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: <TR><TD><I>Stadtteil: <TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.271504428183673,31.32481963818513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Südtor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: DJdG 26<TR><TD><I>Stadtteil: Pflanzerviertel<TR><TD><I>Bemerkung: <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. x<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. x<TR><TD>Das Orkland, S. x<TR><TD>Das Jahr des Greifen, S. x<TR><TD>Die Welt des Schwarzen Auges, S. x<TR><TD>Geographia Aventurica, S. x<TR><TD>Reich des Roten Mondes, S. x<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>2.26994414789722,31.32385375327512,0</coordinates>
+			</Point>
+		</Placemark>						
+	</Folder>
+</Document>
+</kml>

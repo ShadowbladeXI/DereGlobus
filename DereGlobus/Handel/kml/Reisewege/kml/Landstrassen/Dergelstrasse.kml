@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Dergelstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Dergelstraße-->
+			<name>Dergelstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Dergelstraße</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Rommilys" title="Rommilys">Rommilys</a> über <a href="http://www.wiki-aventurica.de/wiki/Zwerch" title="Zwerch">Zwerch</a> und <a href="http://www.wiki-aventurica.de/wiki/Rankaraliretena" title="Rankaraliretena">Rankaraliretena</a> nach <a href="http://www.wiki-aventurica.de/wiki/Perz" title="Perz">Perz</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					03.967474,30.885752,0 	<!-- <POI>Siedlung:Perz</POI> -->
+					3.984836649604397,30.87842101672339,0 
+					4.029738849714906,30.87605646610684,0 <!-- <POI>Siedlung:Holderhof</POI> -->
+					4.087082487916693,30.87169179686904,0 
+					4.137812955259854,30.85470352520135,0 
+					4.165049754967494,30.83234135039648,0 
+					4.187279772817345,30.82927827059851,0 <!-- <POI>Siedlung:Dergelheim</POI> -->
+					4.220807417801627,30.76124065612458,0 
+					4.229309941910364,30.69165127772719,0 <!-- <POI>Fluss:Dergel</POI> -->
+					4.232822233096836,30.68072045651849,0 <!-- <POI>Siedlung:Gassel</POI> -->
+					4.240470393021374,30.66271293546998,0 
+					4.254978144865795,30.64785698692689,0 
+					4.317094657881377,30.6034456912318,0 <!-- <POI>Siedlung:Horeth</POI> --> <!-- <POI>Abzweig:Straße von Puleth nach Horeth</POI> -->
+					4.387544336400158,30.54996748708824,0 
+					4.407230683039405,30.52854364188559,0 
+					4.443433267766115,30.47399751340193,0 
+					4.467161089353445,30.4515729953083,0 <!-- <POI>Siedlung:Bracker</POI> -->
+					4.494363781431443,30.42763541016125,0 
+					4.529304665746905,30.3724100289941,0 
+					4.55326062405285,30.32321158974953,0 <!-- <POI>Siedlung:Dorp</POI> -->
+					4.568879767082114,30.29833491957292,0 
+					4.591989718569421,30.2735551227427,0 <!-- <POI>Abzweig:</POI> -->
+					4.604412823368696,30.26157946750851,0 <!-- <POI>Siedlung:Rankaraliretena</POI> -->
+					4.631514800671114,30.24421444000697,0 
+					4.683206423252775,30.2234527944407,0 
+					4.719718035419023,30.20914215695231,0 
+					4.75040217161917,30.18257278354895,0 
+					4.789200591801048,30.151207080778,0 
+					4.834705770503474,30.13629199133405,0 
+					4.862148754833369,30.1215142674082,0 
+					4.912305511484616,30.09065932163685,0 
+					4.937955211100046,30.0757633964061,0 
+					4.980727602767248,30.05698366367037,0 <!-- <POI>Siedlung:Zwerch</POI> --> <!-- <POI>Abzweig:</POI> -->
+					5.008429190439603,30.03237454477728,0 
+					5.042367762560803,29.99673872183461,0 <!-- <POI>Abzweig:</POI> -->
+					5.102707431995914,29.96028752982815,0 
+					5.142983513452153,29.9223894384967,0 
+					5.168048944065404,29.91028655918101,0 <!-- <POI>Abzweig:</POI> -->
+					5.21442751350762,29.89354922554959,0 
+					5.240897080850919,29.8890938932377,0
+					5.255053452190028,29.8895300486532,0  <!--Anfang Detailkarte Rommilys--> 
+					5.256456818303665,29.88994507141504,0 <!-- <POI>Siedlung:Rommilys</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>4.573547</longitude>
+				<latitude>30.421026</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

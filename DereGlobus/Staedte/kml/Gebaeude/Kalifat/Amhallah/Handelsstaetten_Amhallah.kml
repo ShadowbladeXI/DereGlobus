@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+            <Folder>
+        <name>Handelsstätten Amhallah</name>
+	<Region>
+		<LatLonAltBox>
+			<north>26.38088943619859</north>
+			<south>26.37212976563695</south>
+			<east>0.4528332612749736</east>
+			<west>0.438634977829398</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <Placemark>
+          <name>Basar</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 21<TR><TD>Das Königreich Almada S. 55<TR><TD>Erben des Zorns S. 43<TR><TD>Raschtuls Atem S. 55<TR><TD>Im Bann des Diamanten S. 113<TR><TD>Schatten über Bosparan S. 74<TR><TD>Aventurischer Atlas S. 114<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+            <longitude>0.4447777919031148</longitude>
+            <latitude>26.37730876633063</latitude>
+            <altitude>0</altitude>
+            <range>410.4962641452634</range>
+            <tilt>0</tilt>
+            <heading>-0.0004244967397714235</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>0.4442849350327793,26.37757586753635,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Basar</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 21<TR><TD>Das Königreich Almada S. 55<TR><TD>Erben des Zorns S. 43<TR><TD>Raschtuls Atem S. 55<TR><TD>Im Bann des Diamanten S. 113<TR><TD>Schatten über Bosparan S. 74<TR><TD>Aventurischer Atlas S. 114<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>0.4464044122111832</longitude>
+            <latitude>26.37727969522851</latitude>
+            <altitude>0</altitude>
+            <range>410.4962641442092</range>
+            <tilt>0</tilt>
+            <heading>0.0002981760954548603</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>0.4467187836898523,26.37729241271489,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Basar</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 21<TR><TD>Das Königreich Almada S. 55<TR><TD>Erben des Zorns S. 43<TR><TD>Raschtuls Atem S. 55<TR><TD>Im Bann des Diamanten S. 113<TR><TD>Schatten über Bosparan S. 74<TR><TD>Aventurischer Atlas S. 114<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>0.4456261058666101</longitude>
+            <latitude>26.37671076673066</latitude>
+            <altitude>0</altitude>
+            <range>483.1986584585852</range>
+            <tilt>0</tilt>
+            <heading>-4.759762997984327e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>0.4455377718876785,26.37676851573704,0</coordinates>
+          </Point>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+      </Folder>
+      
+  </Document>
+</kml>

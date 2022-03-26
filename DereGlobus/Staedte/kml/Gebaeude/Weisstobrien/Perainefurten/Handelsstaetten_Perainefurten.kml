@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+       <Folder>
+        <open>0</open>
+        <name>Handelsstätten Perainefurten</name>
+        <visibility>1</visibility>
+        <Region>
+          <LatLonAltBox>
+            <north>33.03381746558505</north>
+            <south>33.02788944450911</south>
+            <east>8.09265441476885</east>
+            <west>8.082897651098781</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>256</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>0</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <Placemark>
+          <name>Alter Markt</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.087521766211598</longitude>
+            <latitude>33.03124274427657</latitude>
+            <altitude>0</altitude>
+            <range>287.9935390226331</range>
+            <tilt>0</tilt>
+            <heading>-0.0001385229363823465</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.0873298450443,33.03179924848977,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Neuer Markt mit Händler- und Handwerkergasse</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.085235359511628</longitude>
+            <latitude>33.03068552755111</latitude>
+            <altitude>0</altitude>
+            <range>1279.686709183811</range>
+            <tilt>0</tilt>
+            <heading>0.002404083493866541</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.088200688039136,33.03254164282152,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+      </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Rittersteig</name>
+	<open>1</open>
+		<Placemark> 	<!-- Rittersteig-->
+			<name>Rittersteig</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Rittersteig</b> führt von dem am <a href="/index.php?title=Grevensteig&amp;action=edit&amp;redlink=1" class="new" title="Grevensteig (Seite nicht vorhanden)">Grevensteig</a> liegenden <a href="/index.php?title=Rh%C3%B4ndur&amp;action=edit&amp;redlink=1" class="new" title="Rhôndur (Seite nicht vorhanden)">Rhôndur</a> hinauf in die <a href="http://www.wiki-aventurica.de/wiki/Koschberge" title="Koschberge">Koschberge</a> nach <a href="/index.php?title=Drabenburg&amp;action=edit&amp;redlink=1" class="new" title="Drabenburg (Seite nicht vorhanden)">Drabenburg</a> und <a href="/index.php?title=F%C3%BCrstenhort&amp;action=edit&amp;redlink=1" class="new" title="Fürstenhort (Seite nicht vorhanden)">Fürstenhort</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+				1.300318638184321,29.31282584315709,0  <!--<POI>Siedlung:Rhôndur</POI>--> <!--<POI>SOE:Grevensteig</POI>-->
+				1.29918422483962,29.31277579715694,0 
+				1.297396713927752,29.31253748488925,0 
+				1.296886431092605,29.31237535631218,0 
+				1.296940342511934,29.31262281134095,0 
+				1.296879095020156,29.31283590585266,0 
+				1.296657637353671,29.31279987036235,0 
+				1.296648552520325,29.31268493641363,0 
+				1.29643241324233,29.31264629091324,0 
+				1.295909134265101,29.312698795539,0 <!-- Ende Detailkarte Rhôndur</POI> --> 	
+				1.25645344775402,29.32525058521133,0 
+
+					1.212763589026555,29.35855108090897,0 
+					1.181992656425022,29.36893404892351,0 
+					1.155604429578461,29.391192905658,0 
+					1.100936464099918,29.41068863246552,0 
+					1.032325346603744,29.4612516795709,0 
+					1.008550868582478,29.47044449926076,0 
+
+				0.971504177805691,29.51054249984287,0 
+				0.930489853049481,29.54902071301808,0 
+				0.9295254412084142,29.55027954169857,0 
+				0.929094973846718,29.55097992848447,0 
+				0.9286022879089306,29.55136566780092,0 
+				0.9268591926678638,29.552168886897,0 
+				0.9263516536911376,29.55256836170384,0 
+				0.9261852284425354,29.55275764064457,0 <!--<POI>Siedlung:Fürstenhort</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>1.067453</longitude>
+				<latitude>29.446460</latitude>
+				<altitude>100000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

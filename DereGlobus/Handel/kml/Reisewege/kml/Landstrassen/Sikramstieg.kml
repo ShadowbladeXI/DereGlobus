@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sikramstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Sikramstieg-->
+			<name>Sikramstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Sikramstieg</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Belhanka" title="Belhanka">Belhanka</a> über <a href="http://www.wiki-aventurica.de/wiki/Silas" title="Silas">Silas</a> und <a href="http://www.wiki-aventurica.de/wiki/Radoleth" title="Radoleth">Radoleth</a> mit dem <a href="http://www.wiki-aventurica.de/wiki/Goldfelser_Stieg" title="Goldfelser Stieg">Goldfelser Stieg</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.103750148126648,24.35861923224936,0  <!-- <POI>Siedlung:Belhanka</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> -->
+						-1.103644529119857,24.36004430260658,0 
+						-1.103066465483918,24.36240517954292,0 
+						-1.103092838060071,24.36319145085084,0 
+						-1.103289020851643,24.36388916715572,0 
+						-1.104615138986037,24.36658879125663,0 
+						-1.105256127372076,24.3674590919212,0 
+						-1.105565354814678,24.36817443605569,0 
+						-1.105775543692631,24.36893444729495,0 
+						-1.105900245241348,24.36998208770689,0 
+						-1.105883121570307,24.37123464971565,0  <!-- Ende Detailkarte Belhanka --> 
+						-1.101591754663769,24.40461865882993,0 
+						-1.088111456540281,24.44601548745814,0 
+						-1.0599851288861,24.47671042932949,0    <!-- <POI>Siedlung:Belkram</POI> --> 
+						-1.047841204922234,24.51026192882972,0 <!-- <POI>Siedlung:Tolkram</POI> --> 
+						-1.048534830895033,24.52985350875147,0 
+						-1.048245621046763,24.52992125504065,0 <!-- Anfang Detailkarte Toricum --> 
+						-1.047534855652862,24.52974658469398,0 
+						-1.045752376707277,24.52978271270613,0 
+						-1.044611614826979,24.52976520846503,0 
+						-1.043324184164451,24.52981008159456,0 
+						-1.042795520987027,24.52989037945521,0 
+						-1.042394151252558,24.53003744527842,0 
+						-1.041082876425807,24.53100581654491,0 
+						-1.040789750357789,24.53111957233882,0 
+						-1.040824057696389,24.5312576198016,0 
+						-1.040496137423763,24.53148037040074,0 
+						-1.042395919087517,24.5328033205333,0  <!-- <POI>Fluss:Sikram</POI> -->
+						-1.042660307653467,24.53292349709046,0 
+						-1.042822068589843,24.53361608398018,0 
+						-1.042748664185548,24.53370532084764,0 
+						-1.043771560112519,24.53431874737573,0 
+						-1.044007049201468,24.53488491495058,0 <!-- <POI>Siedlung:Toricum</POI> --> <!-- <POI>Abzweig:Straße nach Efferdas</POI> --> 
+						-1.043890464157369,24.53492673098989,0 
+						-1.043509063709495,24.53554075119526,0 
+						-1.042778022253474,24.53603794765736,0 
+						-1.042208196780298,24.53585262965633,0 
+						-1.041854780257281,24.53556343635341,0
+						-1.041748703582597,24.53530310932133,0 
+						-1.04186507192334,24.53454072396222,0 
+						-1.041748376043941,24.5342128820614,0 
+						-1.041592896961042,24.53415827854834,0 
+						-1.040748455301025,24.5341777703998,0 
+						-1.039769890941471,24.53487228144573,0 
+						-1.038755698811643,24.53519796741346,0 
+						-1.037904275427677,24.53555494126685,0 
+						-1.037319176541716,24.53589833604851,0 <!-- Ende Detailkarte Toricum --> 
+						-1.033623076301197,24.5401702594955,0 
+						-0.9084561605996466,24.63224546052703,0 
+						-0.8931070204809022,24.66030304434269,0 
+						-0.8893393439740194,24.68600421898983,0 
+						-0.8723029906996072,24.70410628461463,0  <!-- <POI>Siedlung:unbenannt</POI> --> <!-- <POI>Abzweig:Straße nach Letran</POI> --> <!-- <POI>Fluss:unbenannt</POI> -->
+						-0.820391844268159,24.70734668277946,0 
+						-0.797671468168013,24.7165035011855,0 
+						-0.7644157170874233,24.73960434665085,0  
+						-0.7295190070079405,24.74130002743335,0  <!-- <POI>Fluss:Sikram</POI> -->
+						-0.7233744290560207,24.74840157719612,0  <!-- <POI>Siedlung:unbenannt</POI> --> <!-- <POI>Abzweig:Straße nach Torvilio</POI> --> 
+						-0.7206531221337365,24.76740072827748,0  <!-- <POI>Fluss:König-Therengar-Kanal</POI> -->
+						-0.706867957983075,24.78793176113766,0 
+						-0.7066533286224208,24.84652619197381,0 
+						-0.7031600886192901,24.86359911213982,0  <!-- <POI>Siedlung:Silas</POI> --> <!-- <POI>Abzweig:Seneb-Horas-Straße</POI> -->
+						-0.7021141278971654,24.96399397357346,0 
+
+						-0.688789316969286,25.00437318182878,0 <!-- <POI>Siedlung:Marvinko</POI> --> <!-- <POI>Abzweig:Straße nach Marudret</POI> --> <!-- <POI>Fluss:Mardilo</POI> -->
+						-0.6540880051494757,25.03609576996852,0 
+						-0.6358896650801693,25.05169368013136,0 
+						-0.6364468833062298,25.06402049686086,0 <!-- Anfang Detailkarte Urbasi --> 
+						-0.6364521797102751,25.06437935192489,0 
+						-0.6366182623382655,25.06513784520371,0 
+						-0.6369367403595605,25.0658236316275,0 
+						-0.6372704072755475,25.06649148476042,0 
+						-0.6373302872316911,25.06680916565507,0 
+						-0.6373623274617102,25.06740485607178,0 
+						-0.6372503714712019,25.06776713015602,0 
+						-0.6370698345729708,25.06808728542985,0 
+						-0.6368385557804335,25.06837020626023,0 
+						-0.6365862456337379,25.06867220298934,0 
+						-0.6364214641754096,25.06907425557353,0 
+						-0.6364394309969801,25.0696207226183,0 
+						-0.6365386387710559,25.06997910351001,0 
+						-0.6366967430806003,25.07030943020162,0 
+						-0.6371642539693423,25.07098724550723,0 <!-- <POI>Abzweig:Straße nach ?</POI> --> <!--<POI>Station:Östliches Stadttor Urbasi</POI>-->
+						-0.6386492214964457,25.07158173476876,0 
+						-0.6391193038529064,25.07164496838796,0 
+						-0.6392726647110092,25.07184241795911,0 
+						-0.6410279777195238,25.07247986405716,0 <!--<POI>Fluss:Sikram</POI>-->
+						-0.6415335255891708,25.07300693790415,0 <!-- <POI>Siedlung:Urbasi</POI> -->
+						-0.6412885675940727,25.07371532177653,0 
+						-0.6414104665002118,25.07392871741781,0 
+						-0.6415045847771739,25.07439429057347,0 
+						-0.6415013133090175,25.07468024070829,0 
+						-0.6415716694016593,25.07492269850408,0 
+						-0.6421685329566995,25.0755704411642,0 
+						-0.6418448268287469,25.0761764026613,0 <!--<POI>Station:Nördliches Stadttor Urbasi</POI>-->
+						-0.641547819675875,25.0766408966487,0 
+						-0.6411498113401959,25.07702903714638,0 
+						-0.6405934988139905,25.07750705603046,0 
+						-0.6400208602889423,25.07784786968552,0 
+						-0.6382478262760938,25.0784010574944,0 
+						-0.6377162746626586,25.07860827492105,0 
+						-0.6373447112907782,25.07883889104219,0 
+						-0.6371456223003047,25.07918463552232,0 
+						-0.636977900209299,25.07987232199556,0 <!-- Ende Detailkarte Urbasi --> 
+						-0.63521204180226,25.08993726034698,0 
+						-0.6179703716199625,25.12709889389334,0 
+
+						-0.5964831148030203,25.14187679434825,0 
+						-0.5218826893093009,25.17242969326576,0 
+						-0.4913598035275912,25.175935011491,0 
+						-0.439726999903346,25.19842772853839,0   <!-- <POI>Siedlung:Sibur</POI> --> <!-- <POI>Abzweig:Sikramstieg</POI> -->						
+						-0.4370020326888324,25.20632320211692,0  <!-- <POI>Abzweig:Straße nach Sibur</POI> -->
+						-0.4184953547018278,25.2284993424779,0 						
+						-0.4097444610075918,25.25379937079203,0 						
+						-0.4070819053257802,25.29284708078145,0 
+						-0.387183805124578,25.33235347119047,0 						
+						-0.3519171556811129,25.36856440241499,0  <!-- <POI>Siedlung:Radoleth</POI> --> <!-- <POI>SOE:Goldfelser Stieg</POI> -->
+						</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>-0.614646</longitude>
+				<latitude>24.853568</latitude>
+				<altitude>215430</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

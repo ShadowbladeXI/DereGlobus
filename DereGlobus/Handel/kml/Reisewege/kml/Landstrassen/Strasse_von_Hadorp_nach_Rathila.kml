@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Hadorp nach Rathila</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Hadorp nach Rathila-->
+			<name>Straße von Hadorp nach Rathila</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					5.78853244194756,34.57218683505241,0 <!--<POI>Siedlung:Hardorp</POI>--> <!--<POI>SOE:Roter Pass</POI>-->
+					5.773808149371932,34.537641995665,0 
+					5.737569248718277,34.49915109898182,0 
+					5.687987031857633,34.40528918791704,0 
+					5.672286531287085,34.33919866537231,0 
+					5.630013531475733,34.27209518441799,0 
+					5.629386384754338,34.24892699272179,0 
+					5.63375831899565,34.24225138382485,0 <!--<POI>SOE:Uhdenberger Weg</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>5.727706</longitude>
+				<latitude>34.398505</latitude>
+				<altitude>100000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

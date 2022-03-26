@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Öffentliche Bauwerke Al'Anfa</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>18.43051248368561</north>
+			<south>18.41795447710933</south>
+			<east>-0.8018981744279408</east>
+			<west>-0.8200000042336131</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Alte Richtwiese</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> I10-V<TR><TD><I>Stadtteil:</I> Alter Fischmarkt<HR><TR><TD><B> Quelle:</B><BR><TR><TD>In den Dschungeln Meridianas, S. 43</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.811007</longitude>
+			<latitude>18.422586</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.811007,18.422586,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bal-Honak-Arena</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Bal-Honak-Arena</b> in <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al'Anfa">Al'Anfa</a> wurde nach dem früheren Patriarchen <a href="http://www.wiki-aventurica.de/wiki/Balphemor_Honak" title="Balphemor Honak">Balphemor Honak</a> benannt. Sie ist eine der größten und prächtigsten <a href="http://www.wiki-aventurica.de/wiki/Arena" title="Arena">Arenen</a> <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a>. Unter dem Bauwerk gibt es zahlreiche Gänge und Kammern für die Kämpfer, darunter auch eine Schmiede, eine riesige Waffenkammer und die <a href="http://www.wiki-aventurica.de/wiki/Gladiatorentaverne_Korszahn" title="Gladiatorentaverne Korszahn">Gladiatorentaverne Korszahn</a>.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+			<longitude>-0.812263</longitude>
+			<latitude>18.424877</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.812263,18.424877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Eingang zum Labyrinth</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Das im Auftrag des Patriarchen <a href="http://www.wiki-aventurica.de/wiki/Bal_Honak" title="Bal Honak" class="mw-redirect">Bal Honak</a> erbaute <b>Labyrinth des Bal Honak</b> ist eines der <a href="http://www.wiki-aventurica.de/wiki/Zw%C3%B6lf_Menschenwunder" title="Zwölf Menschenwunder">Zwölf Menschenwunder</a> und erstreckt sich unterhalb weiter Teile des <a href="http://www.wiki-aventurica.de/wiki/Alanfa" title="Alanfa" class="mw-redirect">alanfanischen</a> <a href="http://www.wiki-aventurica.de/wiki/Silberberg" title="Silberberg">Silberbergs</a>.<br/>Von Hunderten, die darin ausgesetzt wurden, soll die <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfe</a> <a href="http://www.wiki-aventurica.de/wiki/Sirinda_Eulensang" title="Sirinda Eulensang">Sirinda Eulensang</a> die einzige sein, der jemals die Flucht aus den Gängen gelang.
+		</p><p>Ein Teil des Labyrinths wird von der <a href="http://www.wiki-aventurica.de/wiki/Hand_Borons" title="Hand Borons">Hand Borons</a> genutzt. Außerdem soll sich irgendwo hier die legendäre <a href="http://www.wiki-aventurica.de/wiki/Artefaktsammlung_Bal_Honaks&amp;action=edit&amp;redlink=1" class="new" title="Artefaktsammlung Bal Honaks (Seite nicht vorhanden)">Artefaktsammlung Bal Honaks</a> befinden.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+
+		<LookAt>
+			<longitude>-0.805917</longitude>
+			<latitude>18.423033</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Labyrinth des Bal Honak</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.805917,18.423033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Koloss von Al&apos;Anfa</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Der <b>Koloss von Al'Anfa</b> ist eine 50 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> hohe, bronzene Statue, die über der Einfahrt zum Hafen von <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al'Anfa">Al'Anfa</a> steht. Sie wird zu den <a href="http://www.wiki-aventurica.de/wiki/Zw%C3%B6lf_Menschenwunder" title="Zwölf Menschenwunder">Zwölf Menschenwundern</a> gezählt. Erbaut nach Plänen des Geometers <a href="http://www.wiki-aventurica.de/wiki/Odo_Halim" title="Odo Halim">Odo Halim</a> wurde der Koloss nach nahezu 40 Jahren Bauzeit am 30. <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1026" title="Chronik:1026">1026 BF</a> fertiggestellt und eingeweiht. Der Kopf der Statue ist ein gekröntes Rabenhaupt.<br/>Ein Koloss wie dieser wurde ursprünglich <a href="http://www.wiki-aventurica.de/wiki/Chronik:640" title="Chronik:640" class="mw-redirect">640 BF</a> zum ersten Mal erbaut, wurde dann aber während des großen Erdbebens von <a href="http://www.wiki-aventurica.de/wiki/Havena" title="Havena">Havena</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:702" title="Chronik:702" class="mw-redirect">702 BF</a> zerstört.
+		</p><p>Der <a href="http://www.wiki-aventurica.de/wiki/Troll" title="Troll">Troll</a> <a href="http://www.wiki-aventurica.de/wiki/Rumbatz&amp;action=edit&amp;redlink=1" class="new" title="Rumbatz (Seite nicht vorhanden)">Rumbatz</a> stand im Austausch für zehn Fässer Kandiszucker Modell für das Monument.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+
+		<LookAt>
+			<longitude>-0.813041</longitude>
+			<latitude>18.418434</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.813041,18.418434,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ordenshaus der Boronsraben</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> I16-X<TR><TD><I>Stadtteil:</I> Silberberg<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.dehttp://www.wiki-aventurica.de/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.804994</longitude>
+			<latitude>18.422463</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.804994,18.422463,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ordenshaus zum Schwarzen Löwen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> G7-X<TR><TD><I>Stadtteil:</I> Altstadt<TR><TD><I>Bemerkung:</I> drittgrößte Gladiatorenschule Aventuriens<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.dehttp://www.wiki-aventurica.de/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.813198</longitude>
+			<latitude>18.424762</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.813198,18.424762,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Palmenpark</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> F3-X<TR><TD><I>Stadtteil:</I> Grafenstadt<HR><TR><TD><B> Quelle:</B><BR><TR><TD>In den Dschungeln Meridianas, S. 46</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.817419</longitude>
+			<latitude>18.425242</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.817419,18.425242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pferdeschwemme</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> D4-V<TR><TD><I>Stadtteil:</I> Universität<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.dehttp://www.wiki-aventurica.de/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.816094</longitude>
+			<latitude>18.427426</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.816094,18.427426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rabenfelsen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Der <b>Rabenfelsen</b> gehört zur <a href="http://www.wiki-aventurica.de/wiki/Stadt_des_Schweigens" title="Stadt des Schweigens">Stadt des Schweigens</a> und ist der allgemein zugängliche <a href="http://www.wiki-aventurica.de/wiki/Boron" title="Boron">Boron</a>-<a href="http://www.wiki-aventurica.de/wiki/Tempel" title="Tempel">Tempel</a> <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al'Anfa">Al'Anfas</a>. Er wurde in jene Klippe gehauen, auf der nach Überlieferungen <a href="http://www.wiki-aventurica.de/wiki/Golgari" title="Golgari">Golgari</a> im Jahre <a href="http://www.wiki-aventurica.de/wiki/Chronik:686" title="Chronik:686" class="mw-redirect">686 BF</a> erschien und seine Warnung aussprach. Der Tempel hat die äußere Gestalt eines Raben und eine Länge von etwa 40 Schritt, der Kopf erreicht eine Höhe von 30 Schritt. Die damalige Bauzeit betrug 9 Jahre. Vom Haupt des Raben wird am <a href="http://www.wiki-aventurica.de/wiki/Tag_des_Gro%C3%9Fen_Schlafs" title="Tag des Großen Schlafs">Tag des Großen Schlafs</a> der <a href="http://www.wiki-aventurica.de/wiki/Flug_der_Zehn" title="Flug der Zehn">Flug der Zehn</a> vollzogen.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+
+		<LookAt>
+			<longitude>-0.805673</longitude>
+			<latitude>18.421177</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.805673,18.421177,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schwarzer Turm</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> E4-X<TR><TD><I>Stadtteil:</I> Grafenstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.dehttp://www.wiki-aventurica.de/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.816837</longitude>
+			<latitude>18.426548</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.816837,18.426548,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schrägaufzug</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> F13-X<TR><TD><I>Stadtteil:</I> Grafenstadt<TR><TD><I>Besitzer/Vorsteher:</I> Inarès Delazar<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.dehttp://www.wiki-aventurica.de/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.807543</longitude>
+			<latitude>18.425718</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.807543,18.425718,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Silberberger Rohal</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> C7-V<TR><TD><I>Stadtteil:</I> Grafenstadt<TR><TD><I>Besitzer/Vorsteher:</I> Baburina Brunhorst<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 70<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 9<TR><TD>Al'Anfa - Stolze Herrscherin, S. 22<TR><TD>Die Welt des Schwarzen Auges, S. 86<TR><TD>In den Dschungeln Meridianas, S. 38<TR><TD>Geographia Aventurica, S. 82<TR><TD>Efferds Wogen, S. 34<TR><TD>Efferds Wogen, S. 75<TR><TD>Efferds Wogen, S. 83<TR><TD>Bardensang und Gaukelspiel, S. 45<TR><TD>Wahl der Waffen, S. 11<TR><TD>Toras von Havena, S. 1<TR><TD>Die Nacht der Schlange, S. 1<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Aventurien, S. 34<TR><TD>Katakomben und Kavernen, S. 168<TR><TD>In den Dschungeln Meridianas, S. 97<TR><TD>Flucht aus Ghurenia, S. 206<TR><TD>Vater der Fluten, S. 12<TR><TD>Aventurischer Bote (128), S. 29<TR><TD>Aventurisches Archiv 1, S. 35<TR><TD>Im Bann des Diamanten, S. 104<TR><TD>Im Bann des Diamanten, S. 137<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.dehttp://www.wiki-aventurica.de/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.813701</longitude>
+			<latitude>18.428234</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.813701,18.428234,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tar-Honak-Platz</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> I4-X<TR><TD><I>Stadtteil:</I> Altstadt<HR><TR><TD><B> Quelle:</B><BR><TR><TD>In den Dschungeln Meridianas, S. 43</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.816648</longitude>
+			<latitude>18.422949</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.816648,18.422949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Universität von Al'Anfa</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+		</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+
+		<LookAt>
+			<longitude>-0.818497</longitude>
+			<latitude>18.427135</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Region>
+			<LatLonAltBox>
+				<north>18.43051248368561</north>
+				<south>18.41795447710933</south>
+				<east>-0.8018981744279408</east>
+				<west>-0.8200000042336131</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>2048</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.818497,18.427135,0</coordinates>
+		</Point>
+	</Placemark>	
+	<Folder>
+		<name>Fakultäten der Universität</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>18.43051248368561</north>
+				<south>18.41795447710933</south>
+				<east>-0.8018981744279408</east>
+				<west>-0.8200000042336131</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>2048</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Philosophische Fakultät und Bibliothek</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818497</longitude>
+				<latitude>18.427135</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818497,18.427135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juristische Fakultät</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818341</longitude>
+				<latitude>18.427319</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818341,18.427319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alchimistische Fakultät</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818233</longitude>
+				<latitude>18.427122</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818233,18.427122,0</coordinates>
+			</Point>
+		</Placemark>	
+		<Placemark>
+			<name>Medizinische Fakultät (Chamib al Etba)</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818202</longitude>
+				<latitude>18.426957</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818202,18.426957,0</coordinates>
+			</Point>
+		</Placemark>	
+		<Placemark>
+			<name>Naturkundliche Fakultät</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818479</longitude>
+				<latitude>18.426757</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818479,18.426757,0</coordinates>
+			</Point>
+		</Placemark>	
+		<Placemark>
+			<name>Fakultät der Al'Gebra</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818769</longitude>
+				<latitude>18.426838</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818769,18.426838,0</coordinates>
+			</Point>
+		</Placemark>	
+		<Placemark>
+			<name>Seefahrts-Fakultät</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Seefahrts-Fakultät</b> ist ein Teil der <a href="http://www.wiki-aventurica.de/wiki/Universit%C3%A4t_von_Al%27Anfa" title="Universität von Al'Anfa">Großalanfanischen Universalschule der Stadt des Raben</a> und genießt ähnliche Forschungsfreiheit wie die übrigen Fakultäten. Allerdings wird weiterhin an der Überlegenheit der <a href="http://www.wiki-aventurica.de/wiki/Galeere" title="Galeere">Galeere</a> gegenüber anderen <a href="http://www.wiki-aventurica.de/wiki/Schiffstyp" title="Schiffstyp">Schiffstypen</a> festgehalten.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818337</longitude>
+				<latitude>18.426835</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818337,18.426835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kriegs-Fakultät</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Groß-alanfanische Universalschule der Stadt des Raben, Halle der Erleuchtung, gestiftet von seiner Halbgöttlichen Weisheit Nandus</b> war noch vor der <a href="http://www.wiki-aventurica.de/wiki/Herzog-Eolan-Universit%C3%A4t" title="Herzog-Eolan-Universität">Herzog-Eolan-Universität</a> zu <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> die erste allumfassende Akademie des <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Kontinents</a>. Sie beherbergt 400 Studiosi und 60 <i>Professores</i> unter der Führung des Rektors, seiner <a href="http://www.wiki-aventurica.de/wiki/Spektabilit%C3%A4t" title="Spektabilität">Spektabilität</a> <a href="http://www.wiki-aventurica.de/wiki/Cessario_Paligan" title="Cessario Paligan">Cessario Paligan</a>, auf neun Fakultäten, darunter auch Magier- und Kriegerakademie, verteilt.
+			</p><p>Die Universität von Al'Anfa ist für ihre liberale Haltung bekannt, was viele Freigeister hierher zieht.
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818794</longitude>
+				<latitude>18.427405</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Universität von Al'Anfa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818794,18.427405,0</coordinates>
+			</Point>
+		</Placemark>	
+		<Placemark>
+			<name>Magische Fakultät (Halle der Erleuchtung)</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			<p>An der Akademie, die ein Teil der <a href="http://www.wiki-aventurica.de/wiki/Universit%C3%A4t_von_Al%27Anfa" title="Universität von Al'Anfa">Universaluniversität</a> <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al'Anfa">Al'Anfas</a> ist, werden in zwei Zweigen Leibmagier für die <a href="http://www.wiki-aventurica.de/wiki/Grande" title="Grande">Granden</a> der Stadt und Seekriegsmagier für die <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Armada" title="Schwarze Armada">Schwarze Armada</a> ausgebildet.</p>
+			<hr>
+			<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>-0.818000</longitude>
+				<latitude>18.427098</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Halle der Erleuchtung</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818000,18.427098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sklavenhaus</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Universität<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Seelenschatten, S. 48</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>-0.818484</longitude>
+				<latitude>18.427534</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.818484,18.427534,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Folder>
+</kml>

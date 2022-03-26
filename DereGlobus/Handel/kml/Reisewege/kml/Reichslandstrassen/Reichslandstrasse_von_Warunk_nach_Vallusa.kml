@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Reichslandstraße von Warunk nach Vallusa</name>
+	<open>1</open>
+		<Placemark>   <!-- bis 1026 BF -->
+			<name>Reichslandstraße von Warunk nach Vallusa</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.810241529304203,30.92562353463028,0 <!--<POI>Siedlung:Krytzdorf</POI>--> <!--<POI>Abzweig:Straße nach Eslamsbrück</POI>-->
+						7.857656767579575,30.94581787686983,0 
+						7.946626634611318,31.01304549883587,0 
+						8.0183411387217,31.03819628334214,0 
+						8.067785911602627,31.07706620363589,0 
+						8.122445238302198,31.10358159828353,0 
+						8.216650234185902,31.16103314145132,0 
+						8.306601100293179,31.22839729091287,0 
+						8.34866274332731,31.27147197705511,0 
+						8.38234839743248,31.31603437181379,0 
+						8.387890736953425,31.33930733516379,0 <!--<POI>Siedlung:Eslamsbrück</POI>-->
+						8.403466975670087,31.36533519258817,0 
+						8.433107595879397,31.37946258266611,0 
+						8.470507167167195,31.378554303913,0 
+						8.545147371580683,31.34938706512532,0 
+						8.604208612442573,31.34940046276442,0 
+						8.639121627334445,31.35950672975307,0 
+						8.694574851450662,31.38482910166225,0 
+						8.720135802263027,31.4132771450701,0 
+						8.732376488203943,31.48095725097469,0 
+						8.757139162366524,31.50686349639324,0 
+						8.787493584585775,31.51800054286468,0 
+						8.825580317200654,31.5184539464359,0 
+						8.856240483875837,31.52566591773441,0 <!--<POI>Siedlung:Flussbuckel</POI>--> <!--<POI>Abzweig:Misamunder Straße</POI>-->
+
+
+						8.856240483875837,31.52566591773441,0 <!--<POI>Siedlung:Flussbuckel</POI>--> <!--<POI>SOE:Tobimora-Straße</POI>-->
+						8.87562406405616,31.57600987942257,0 
+						8.89446976166508,31.63514801343628,0 
+						8.926348710533771,31.67892086426854,0 
+						8.958156527392999,31.69887036612006,0 
+						9.02371937492277,31.76110537646326,0 
+						9.059367190563849,31.78298982976225,0 <!--<POI>Siedlung:Marktfelden</POI>--> 
+						9.085166032574195,31.79833716596772,0 
+						9.124670857344498,31.83682748876832,0 
+						9.157497309630973,31.90649679154695,0 
+						9.161610554731677,31.93731795131112,0 <!--<POI>Siedlung:unbenannt</POI>--> 
+						9.16376861515564,31.96845765341378,0 
+						9.174843461234186,32.01027744711426,0 <!--<POI>Fluss:Dogul</POI>-->
+						9.199708192788684,32.05647634307582,0 <!--<POI>Kreuzung:Gauweg</POI>-->
+						9.251907886326411,32.13604564210491,0 
+						9.283455655085167,32.16430448771752,0 
+						9.311083099417294,32.20462292366477,0 <!--<POI>Siedlung:Alstfurt</POI>--> 
+						9.343198509801214,32.24423446574221,0 
+						9.424847292252267,32.31234056756706,0 
+						9.452575250485818,32.35907610525145,0 
+						9.502180870955092,32.41066239536448,0 
+						9.541374843027672,32.50244639209361,0 
+						9.544731970602545,32.54487397197654,0 <!--<POI>Siedlung:Wolfen, Wolfenstein</POI>--> <!--<POI>Abzweig:Weg nach Firunsbrunn</POI>-->
+						9.547834934412883,32.60519080166485,0 
+						9.560176262290902,32.64935025185952,0 
+						9.568543286801338,32.723219478871,0 
+						9.614824189250022,32.8018700973965,0 
+						9.651690333495663,32.84167975655161,0 
+						9.666542145523369,32.88578299161599,0 
+						9.684151360103105,32.9214234779856,0 <!--<POI>Abzweig:Straße nach Fischbach</POI>-->
+						9.700677512063688,32.9549309630942,0 <!--Anfang Detailkarte Vallusa-->
+						9.700993949445127,32.95657581110909,0 <!--<POI>Siedlung:Vallusa</POI>--> <!--<POI>Stadttor:Vallusa</POI>-->
+						</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1021</when>
+				</gx:TimeStamp>
+				<longitude>9</longitude>
+				<latitude>32</latitude>
+				<altitude>400000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1026-12-31</end>
+			</TimeSpan>
+			</Placemark>
+</Document>
+</kml>

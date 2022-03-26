@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Andergast nach Teshkal</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Andergast nach Teshkal-->
+			<name>Weg von Andergast nach Teshkal</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-1.142798323331409,32.09173160821042,0 <!--<POI>Siedlung:Andergast</POI>--> 
+					-1.12248054604813,32.08490225088941,0 
+					-1.109651597214616,32.06700292964938,0 
+					-1.074196897603843,32.03814305220659,0 
+					-1.035550202591493,32.02762735636855,0 <!--<POI>Siedlung:unbenannt</POI>--> 
+					-0.9997725589425088,32.03068770606678,0 
+					-0.9289635186923961,32.05920873966954,0 
+					-0.8506634644247124,32.05429614259611,0 
+					-0.8050047326992904,32.05838382040282,0 
+					-0.6874079195657301,32.10875893820177,0 
+					-0.6486144157448404,32.10936821205056,0 
+					-0.6146848520354076,32.12539610060269,0 
+					-0.5535020060728069,32.12995728193728,0 
+					-0.5284000671804756,32.12181026469847,0 
+					-0.4768154892408261,32.12107871034436,0 
+					-0.4307649446693063,32.14503316271622,0 
+					-0.3977110511768611,32.15027519084917,0 
+					-0.3708255348877454,32.16780427075805,0 
+					-0.3439233984962953,32.1740825684556,0 
+					-0.2927415816894008,32.20274211093491,0 
+					-0.2471799618946358,32.20090675453875,0 
+					-0.2216615134600086,32.20822562122393,0 
+					-0.1828349712798605,32.2102421238822,0 
+					-0.1468565186222948,32.22852397711721,0 
+					-0.1006998015761329,32.22866671745605,0 
+					-0.06283298725362041,32.20493318607585,0 
+					-0.02191508877939952,32.20889855283221,0 
+					0.01284675242323674,32.27474693607304,0 
+					0.02013719005390824,32.29856313184251,0 
+					0.04731731192392452,32.34803604946484,0 
+					0.0739220515184158,32.36953407994704,0 
+					0.1000354639460954,32.383838361959,0 
+					0.1204172620043553,32.4149340891307,0 
+					0.1589669336073785,32.44596472479324,0 
+					0.1671313017924736,32.46312630720701,0 
+					0.1689002431095399,32.48898976208773,0 
+					0.1846295343582494,32.50091696827398,0 
+					0.1922368166789656,32.51610588943473,0 <!--<POI>Siedlung:Teshkal</POI>-->  <!--<POI>SOE:Thaschweg</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-0.490163</longitude>
+				<latitude>32.247993</latitude>
+				<altitude>160000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

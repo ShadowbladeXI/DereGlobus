@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Phecadistieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Phecadistieg bis Rondra 1032 BF -->
+			<name>Phecadistieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Phecadistieg</b> ist eine 150 <a href="http://www.wiki-aventurica.de/wiki/Meile" title="Meile">Meilen</a> lange <a href="http://www.wiki-aventurica.de/wiki/Stra%C3%9Fe" title="Straße">Straße</a>, die im <a href="http://www.wiki-aventurica.de/wiki/Efferd" title="Efferd">Efferd</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1032" title="Chronik:1032">1032 BF</a> fertig gestellt wurde. Der Handelsweg führt von <a href="http://www.wiki-aventurica.de/wiki/Elenvina" title="Elenvina">Elenvina</a> durch <a href="http://www.wiki-aventurica.de/wiki/Imdal" title="Imdal">Imdal</a> und <a href="http://www.wiki-aventurica.de/wiki/Venga" title="Venga">Venga</a> direkt nach <a href="http://www.wiki-aventurica.de/wiki/Grangor" title="Grangor">Grangor</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-1.280660664343295,27.51866603608856,0  <!--<POI>Siedlung:Elenvina</POI>-->
+					-1.280237240782771,27.51734043064613,0  <!--Ende Detailkarte Elenvina--> <!--<POI>Flussquerung:Der Große Fluss</POI>-->	
+					-1.278861415023571,27.51184271405838,0 	
+					-1.268511604728375,27.50639097217192,0 
+					-1.250299559949591,27.50188574984081,0 
+					-1.228720180886228,27.49629564371688,0 
+					-1.207224976688373,27.49195284495675,0 
+					-1.192162178772827,27.49229902005666,0 
+					-1.162899083237469,27.47705210064128,0 	<!--<POI>Siedlung:Treim</POI>-->
+					-1.149676130953788,27.46468590121749,0 
+					-1.141665211052093,27.44998233710951,0 
+					-1.128511058637675,27.43012276381674,0 
+					-1.117186568462373,27.4187214447259,0 	<!--<POI>Abzweig:Eisenstarße</POI>-->
+					-1.095796105741969,27.40732199042218,0 
+					-1.054312425747004,27.36065304929835,0 
+					-1.052097531493419,27.33568329796938,0 
+					-1.057280595303712,27.32117310634702,0 
+					-1.05787727923053,27.3001610905327,0 
+					-1.062846489073309,27.2925035495852,0 
+					-1.061960572310889,27.26832252257005,0 
+					-1.057533164708293,27.25913835815355,0 
+					-1.061989195863018,27.24334603864812,0 
+					-1.064941781398533,27.22410344189394,0 
+					-1.065686831147559,27.20034255261052,0 
+					-1.06097125293308,27.18148241566461,0 
+					-1.047637467280167,27.16818246037775,0 
+					-1.029274642633742,27.16260280448248,0 
+					-1.012009548459268,27.16317420782608,0 
+					-0.9950659332155709,27.16885713956603,0 
+					-0.9782999672416182,27.17224928513079,0 
+					-0.9694998755665829,27.17496249050157,0 
+					-0.9625426217501698,27.17359546393857,0 
+					-0.9521661890309285,27.16641141235155,0 
+					-0.9413994385213587,27.16323542992066,0 
+					-0.9274763244843831,27.15821842109324,0 
+					-0.908255652988732,27.14775995692095,0 	<!--<POI>Flussquerung:Phecadi</POI>-->
+					-0.9032969523240408,27.14347630095944,0 
+					-0.9030685150372342,27.13978127550558,0 
+					-0.9057317788124097,27.1362308490094,0 
+					-0.9125490075921772,27.12734720926801,0 
+					-0.9387439883302728,27.10041550137169,0 
+					-0.9416371774848142,27.09542846382803,0 
+					-0.9414979602448581,27.08802471580693,0 
+					-0.9359142088345651,27.08060290441026,0 
+					-0.9317521085522618,27.07026177197071,0 
+					-0.9298957689235277,27.06094789441746,0 
+					-0.9307545082480273,27.04893586167788,0 
+					-0.9330128970893237,27.03884969322109,0 
+					-0.940910328564093,27.02677509541784,0 
+					-0.9457218725297878,27.01656103048255,0 
+					-0.9460485909489769,27.00628205397683,0 <!--<POI>Abzweig:Pforte in der Grenzmark</POI>-->
+					-0.960062599612318,26.99475411782,0 	<!--<POI>Siedlung:Imdal</POI>-->
+					-0.9698108307510045,26.98630090153749,0 
+					-0.9703259850572077,26.96888902984813,0 
+					-0.9722416627359953,26.94827479895473,0 
+					-0.9761755080188572,26.93440127381669,0 
+					-0.9701760921943659,26.9201632159427,0 
+					-0.9651526381332398,26.90616183018553,0 
+					-0.9641500589242169,26.88996607367509,0 
+					-0.9564030693732062,26.87837777088512,0 
+					-0.9485207586514965,26.85938304600566,0 
+					-0.9473269255326444,26.83501246460691,0 
+					-0.9494114218530581,26.80669453804947,0 <!--<POI>Siedlung:Felswacht</POI>-->
+					-0.9600191968728655,26.7834418444616,0 
+					-0.9662107176083656,26.76489064524676,0 
+					-0.9743265872634388,26.75166302995415,0 
+					-0.9806554183385474,26.74051951582572,0 
+					-1.005134504256032,26.71850214661829,0 
+					-1.013404555670765,26.70783140285597,0 
+					-1.014355695526591,26.68726387766098,0 
+					-1.01804771081917,26.67482459690444,0 
+					-1.029267339315342,26.66029803992782,0 <!--<POI>Siedlung:Eslamsberge</POI>-->
+					-1.033496541028487,26.64615310255656,0 
+					-1.033446571595396,26.61992841715459,0 
+					-1.03474150908872,26.58964940602253,0 
+					-1.035192746682631,26.56742241361161,0 	<!--<POI>Siedlung:Venga</POI>-->
+					-1.035256258035168,26.55316726014032,0 	<!--<POI>Flussquerung:unbenannt</POI>-->
+					-1.036184647322045,26.53744507204531,0 
+					-1.040642909390184,26.52211720916342,0 
+					-1.052423633354144,26.50670715083478,0 
+					-1.067311626177209,26.49512869632086,0 
+					-1.086683835094411,26.48389046086299,0 
+					-1.105231053404054,26.47468417099592,0 
+					-1.126638427275069,26.46974977068141,0 
+					-1.149523050714794,26.46402923836722,0 
+					-1.161035090971071,26.45973859825145,0 
+					-1.173020512053816,26.45285702316857,0 
+					-1.184018021874136,26.44545393758171,0 
+					-1.19159542541716,26.4393645716359,0 
+					-1.199155209077701,26.43298992259132,0 
+					-1.207769071074368,26.42313823209878,0 
+					-1.245182944729458,26.38516870842506,0 
+					-1.245140383149658,26.38481709855487,0 
+					-1.244887118862346,26.3846228814054,0 <!-- Anfang Detailkarte Grangor -->
+					-1.244412484642379,26.38438695568749,0 
+					-1.243711345693829,26.38420322325867,0 
+					-1.242790720007404,26.38380726425407,0 
+					-1.242294283720745,26.383453519919,0 
+					-1.241523769682073,26.38246510317567,0  <!-- <POI>Siedlung:Grangor</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>-1.177555</longitude>
+				<latitude>26.923759</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1032-03-01</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> 	<!-- Phecadistieg ab Efferd 1032 BF -->
+			<name>Phecadistieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Phecadistieg</b> ist eine 150 <a href="http://www.wiki-aventurica.de/wiki/Meile" title="Meile">Meilen</a> lange <a href="http://www.wiki-aventurica.de/wiki/Stra%C3%9Fe" title="Straße">Straße</a>, die im <a href="http://www.wiki-aventurica.de/wiki/Efferd" title="Efferd">Efferd</a> <a href="http://www.wiki-aventurica.de/wiki/Chronik:1032" title="Chronik:1032">1032 BF</a> fertig gestellt wurde. Der Handelsweg führt von <a href="http://www.wiki-aventurica.de/wiki/Elenvina" title="Elenvina">Elenvina</a> durch <a href="http://www.wiki-aventurica.de/wiki/Imdal" title="Imdal">Imdal</a> und <a href="http://www.wiki-aventurica.de/wiki/Venga" title="Venga">Venga</a> direkt nach <a href="http://www.wiki-aventurica.de/wiki/Grangor" title="Grangor">Grangor</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-1.280660664343295,27.51866603608856,0  <!--<POI>Siedlung:Elenvina</POI>-->
+					-1.280237240782771,27.51734043064613,0  <!--Ende Detailkarte Elenvina--> <!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					-1.278861415023571,27.51184271405838,0 	
+					-1.268511604728375,27.50639097217192,0 
+					-1.250299559949591,27.50188574984081,0 
+					-1.228720180886228,27.49629564371688,0 
+					-1.207224976688373,27.49195284495675,0 
+					-1.192162178772827,27.49229902005666,0 
+					-1.162899083237469,27.47705210064128,0 	<!--<POI>Siedlung:Treim</POI>-->
+					-1.149676130953788,27.46468590121749,0 
+					-1.141665211052093,27.44998233710951,0 
+					-1.128511058637675,27.43012276381674,0 
+					-1.117186568462373,27.4187214447259,0 	<!--<POI>Abzweig:Eisenstarße oder Pass von Amradosch?</POI>-->
+					-1.095796105741969,27.40732199042218,0 
+					-1.054312425747004,27.36065304929835,0 
+					-1.052097531493419,27.33568329796938,0 
+					-1.057280595303712,27.32117310634702,0 
+					-1.05787727923053,27.3001610905327,0 
+					-1.062846489073309,27.2925035495852,0 
+					-1.061960572310889,27.26832252257005,0 
+					-1.057533164708293,27.25913835815355,0 
+					-1.061989195863018,27.24334603864812,0 
+					-1.064941781398533,27.22410344189394,0 
+					-1.065686831147559,27.20034255261052,0 
+					-1.06097125293308,27.18148241566461,0 
+					-1.047637467280167,27.16818246037775,0 
+					-1.029274642633742,27.16260280448248,0 
+					-1.012009548459268,27.16317420782608,0 
+					-0.9950659332155709,27.16885713956603,0 
+					-0.9782999672416182,27.17224928513079,0 
+					-0.9694998755665829,27.17496249050157,0 
+					-0.9625426217501698,27.17359546393857,0 
+					-0.9521661890309285,27.16641141235155,0 
+					-0.9413994385213587,27.16323542992066,0 
+					-0.9274763244843831,27.15821842109324,0 
+					-0.908255652988732,27.14775995692095,0 	<!--<POI>Flussquerung:Phecadi</POI>-->
+					-0.9032969523240408,27.14347630095944,0 
+					-0.9030685150372342,27.13978127550558,0 
+					-0.9057317788124097,27.1362308490094,0 
+					-0.9125490075921772,27.12734720926801,0 
+					-0.9387439883302728,27.10041550137169,0 
+					-0.9416371774848142,27.09542846382803,0 
+					-0.9414979602448581,27.08802471580693,0 
+					-0.9359142088345651,27.08060290441026,0 
+					-0.9317521085522618,27.07026177197071,0 
+					-0.9298957689235277,27.06094789441746,0 
+					-0.9307545082480273,27.04893586167788,0 
+					-0.9330128970893237,27.03884969322109,0 
+					-0.940910328564093,27.02677509541784,0 
+					-0.9457218725297878,27.01656103048255,0 
+					-0.9460485909489769,27.00628205397683,0 <!--<POI>Abzweig:Pforte in der Grenzmark</POI>-->
+					-0.960062599612318,26.99475411782,0 	<!--<POI>Siedlung:Imdal</POI>-->
+					-0.9698108307510045,26.98630090153749,0 
+					-0.9703259850572077,26.96888902984813,0 
+					-0.9722416627359953,26.94827479895473,0 
+					-0.9761755080188572,26.93440127381669,0 
+					-0.9701760921943659,26.9201632159427,0 
+					-0.9651526381332398,26.90616183018553,0 
+					-0.9641500589242169,26.88996607367509,0 
+					-0.9564030693732062,26.87837777088512,0 
+					-0.9485207586514965,26.85938304600566,0 
+					-0.9473269255326444,26.83501246460691,0 
+					-0.9494114218530581,26.80669453804947,0 <!--<POI>Siedlung:Felswacht</POI>-->
+					-0.9600191968728655,26.7834418444616,0 
+					-0.9662107176083656,26.76489064524676,0 
+					-0.9743265872634388,26.75166302995415,0 
+					-0.9806554183385474,26.74051951582572,0 
+					-1.005134504256032,26.71850214661829,0 
+					-1.013404555670765,26.70783140285597,0 
+					-1.014355695526591,26.68726387766098,0 
+					-1.01804771081917,26.67482459690444,0 
+					-1.029267339315342,26.66029803992782,0 <!--<POI>Siedlung:Eslamsberge</POI>-->
+					-1.033496541028487,26.64615310255656,0 
+					-1.033446571595396,26.61992841715459,0 
+					-1.03474150908872,26.58964940602253,0 
+					-1.035192746682631,26.56742241361161,0 	<!--<POI>Siedlung:Venga</POI>-->
+					-1.035256258035168,26.55316726014032,0 	<!--<POI>Flussquerung:unbenannt</POI>-->
+					-1.036184647322045,26.53744507204531,0 
+					-1.040642909390184,26.52211720916342,0 
+					-1.052423633354144,26.50670715083478,0 
+					-1.067311626177209,26.49512869632086,0 
+					-1.086683835094411,26.48389046086299,0 
+					-1.105231053404054,26.47468417099592,0 
+					-1.126638427275069,26.46974977068141,0 
+					-1.149523050714794,26.46402923836722,0 
+					-1.161035090971071,26.45973859825145,0 
+					-1.173020512053816,26.45285702316857,0 
+					-1.184018021874136,26.44545393758171,0 
+					-1.19159542541716,26.4393645716359,0 
+					-1.199155209077701,26.43298992259132,0 
+					-1.207769071074368,26.42313823209878,0 
+					-1.245182944729458,26.38516870842506,0 
+					-1.245140383149658,26.38481709855487,0 
+					-1.244887118862346,26.3846228814054,0 <!-- Anfang Detailkarte Grangor -->
+					-1.244412484642379,26.38438695568749,0 
+					-1.243711345693829,26.38420322325867,0 
+					-1.242790720007404,26.38380726425407,0 
+					-1.242294283720745,26.383453519919,0 
+					-1.241523769682073,26.38246510317567,0  <!-- <POI>Siedlung:Grangor</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>-1.177555</longitude>
+				<latitude>26.923759</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1032-03-02</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

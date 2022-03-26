@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+
+<Document>
+<name>Staedte-Styles</name>
+
+
+
+
+
+
+<!-- HIER OBEN NUR DIE STYLEMAPS DEFINIEREN -->
+
+
+
+
+<StyleMap id="Rasse">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Rasse-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Rasse-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	
+
+<StyleMap id="Volk">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Volk-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Volk-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	
+
+<StyleMap id="Kultur">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kultur-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kultur-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+	
+<StyleMap id="Stamm">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Stamm-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Stamm-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Frei">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Frei-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Frei-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	
+	
+	<!-- Rakshazar -->
+	
+	
+
+<StyleMap id="Volk_Rakshazar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Volk_Rakshazar-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Volk_Rakshazar-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	
+	
+
+	
+<Style id="Niemandsland">
+		<BalloonStyle>
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+			<bgColor>ffd5fcfd</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66000000</color>
+		</PolyStyle>
+	</Style>
+
+
+
+<!-- AB HIER DIE STYLES DEFINIEREN -->
+
+
+
+
+
+
+
+
+
+
+
+<Style id="Rasse-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0000ff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+<Style id="Rasse-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+	
+
+<Style id="Volk-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0055ff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="Volk-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	
+
+
+
+<Style id="Kultur-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00aaff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="Kultur-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+
+
+
+
+
+
+<Style id="Stamm-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>33ffffaa</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffaa</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="Stamm-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>66ffffaa</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffaa</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+
+
+
+<Style id="Frei-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+<Style id="Frei-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	<!-- Rakshazar -->
+	
+<Style id="Volk_Rakshazar-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00aa00</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="Volk_Rakshazar-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00aa00</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <bgColor>FFC0C0C0</bgColor>
+        <text><![CDATA[
+      <font face="Mason" color="#810101" size="+3"><a title="Im Rakshazar-Wiki öffnen" href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a></font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	
+	
+	
+	
+
+</Document>
+</kml>

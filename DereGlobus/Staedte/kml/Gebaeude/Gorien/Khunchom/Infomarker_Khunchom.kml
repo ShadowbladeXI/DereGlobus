@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Infomarker_KHUNCHOM.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Infomarker_KHUNCHOM</name>	
+		<Region>
+			<LatLonAltBox>
+				<north>25.03200472494067</north>
+				<south>25.00106194412263</south>
+				<east>7.487776632583011</east>
+				<west>7.458439153676841</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					<br/>
+					<b>Landschaft:</b><br/>
+					<br/>
+					<b>Öffentliche Bauwerke:</b><br/>
+					<br/>
+					<b>Privathäuser:</b><br/>
+					<br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					<br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					<br/>
+					<b>Straßen:</b><br/>
+					<br/>
+					<b>Werkstätten:</b><br/>
+					Adamanten-Presse<br/>
+					<br/>
+<br/><B>Mögliche Quellen:</B><br/>Geographia Aventurica, S. 77<br/>Das Land der ersten Sonne, S. 72<br/>Das Land des Schwarzen Auges, S. 84<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<br/>Die Wüste Khom und die Echsensümpfe, S. 84<br/>Die Welt des Schwarzen Auges, S. 81<br/>Meister der Dämonen, S. 44<br/>Basargeschichten, S. 38<br/>Bienenschwarm und Diskusflug, S. 11<br/>Der Unersättliche, S. 8<br/>Efferds Wogen, S. 75<br/>Strandgut, S. 7<br/>Die Gesichtslose, S. 33<br/>Khunchomer Pfeffer, S. 1<br/>Staub und Sterne - Neuauflage, S. 11<br/>Drachenschatten, S. 63<br/>Drachenschatten, S. 143<br/><HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]>
+			</description>
+			<LookAt>
+				<longitude>7.476504949601887</longitude>
+				<latitude>25.01997882081717</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009037083433889332</heading>
+				<tilt>0</tilt>
+				<range>6954.211884008932</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>7.466747387446942,25.01480733941355,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

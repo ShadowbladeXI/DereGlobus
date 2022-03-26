@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+            <Folder>
+        <name>Staatliche Gebäude Brig-Lo</name>
+	<Region>
+		<LatLonAltBox>
+			<north>26.40646433074556</north>
+			<south>26.40348287582102</south>
+			<east>0.6733757048787331</east>
+			<west>0.6691195933676425</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <Placemark>
+          <name>Haus des Administrados</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Besitzer/Vorsteher:</I> Mahalla Ibrasha<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Grabmahl von Brig-Lo, S. 15<TR><TD>Das Königreich Almada, S. 34<TR><TD>Das Königreich Almada, S. 36<TR><TD>Das Königreich Almada, S. 51<TR><TD>Erben des Zorns, S. 30<TR><TD>Raschtuls Atem, S. 58<TR><TD>Aus der Asche, S. 82<TR><TD>Invasion der Verdammten, S. 220<TR><TD>Herz des Reiches, S. 146<TR><TD>Herz des Reiches, S. 147<TR><TD>Wetterleuchten, S. 52<TR><TD>Donner und Sturm, S. 37<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>0.6713030680571498</longitude>
+            <latitude>26.40425156916124</latitude>
+            <altitude>0</altitude>
+            <range>154.3226291802191</range>
+            <tilt>0</tilt>
+            <heading>2.464780395702032e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>0.6708325035989504,26.40436564668558,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Grenzstein</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Grabmahl von Brig-Lo, S. 15<TR><TD>Das Königreich Almada, S. 34<TR><TD>Das Königreich Almada, S. 36<TR><TD>Das Königreich Almada, S. 51<TR><TD>Erben des Zorns, S. 30<TR><TD>Raschtuls Atem, S. 58<TR><TD>Aus der Asche, S. 82<TR><TD>Invasion der Verdammten, S. 220<TR><TD>Herz des Reiches, S. 146<TR><TD>Herz des Reiches, S. 147<TR><TD>Wetterleuchten, S. 52<TR><TD>Donner und Sturm, S. 37<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>0.6717405105388474</longitude>
+            <latitude>26.40372095896187</latitude>
+            <altitude>0</altitude>
+            <range>125.9997301767372</range>
+            <tilt>0</tilt>
+            <heading>0.0008358530200336058</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>0.6716676574681912,26.403818562955,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Kavalleriefort</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>Kavalleriefort Brig-Lo</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das <b>Kavalleriefort Brig-Lo</b> liegt etwas westlich der berühmten Ortschaft <a href="http://www.wiki-aventurica.de/wiki/Brig-Lo" title="Brig-Lo">Brig-Lo</a> mit dem <a href="http://www.wiki-aventurica.de/wiki/H%C3%BCgel_der_Vier" title="Hügel der Vier">Hügel der Vier</a> aus der <a href="http://www.wiki-aventurica.de/wiki/Zweite_D%C3%A4monenschlacht" title="Zweite Dämonenschlacht">Zweiten Dämonenschlacht</a>. Obwohl es bei Brig-Lo errichtet ist, und hauptsächlich das dortige Umland und das <a href="http://www.wiki-aventurica.de/wiki/Gest%C3%BCt_Diamant" title="Gestüt Diamant">Gestüt Diamant</a> bewacht, steht es formell in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_S%C3%BCdpforte" title="Grafschaft Südpforte">Südpforter</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Brind%C3%A2l" title="Baronie Brindâl">Baronie Brindâl</a>. Die Feste mit der hier stationierten Reiterei gehört zum <a href="http://www.wiki-aventurica.de/wiki/Almadaner_G%C3%BCrtel" title="Almadaner Gürtel">Almadaner Gürtel</a> und wird auch gelegentlich von <a href="http://www.wiki-aventurica.de/wiki/Graf" title="Graf">Gräfin</a> <a href="http://www.wiki-aventurica.de/wiki/Shahane_al%27Kasim" title="Shahane al'Kasim">Shahane al'Kasim</a> aufgesucht.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>0.669672663641534</longitude>
+            <latitude>26.4045260986022</latitude>
+            <altitude>0</altitude>
+            <range>227.4179276324229</range>
+            <tilt>0</tilt>
+            <heading>0.000879516706577558</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+          <Point>
+            <coordinates>0.669520934022525,26.40436402921013,0</coordinates>
+          </Point>
+        </Placemark>
+</Folder>
+</Document>
+</kml>

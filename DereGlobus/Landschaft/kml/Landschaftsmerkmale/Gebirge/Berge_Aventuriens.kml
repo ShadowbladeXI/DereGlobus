@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<Folder>
+	<name>Berge Aventuriens</name>
+		<open>0</open>
+<!-- Hier werden nur die Berge aufgeführt, die nicht in einem Gebirge liegen. -->
+
+	<Placemark>
+		<name>Chap Tabungapa</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<b>Chap Tabungapa</b> (<a title="Mohisch" href="http://www.wiki-aventurica.de/index.php?title=Mohisch">moh.</a> <i>Berg, der immer alles Leben tötet</i>) ist ein <a title="Vulkan" href="http://www.wiki-aventurica.de/index.php?title=Vulkan">Vulkan</a> auf der <a class="mw-redirect" title="Waldinsel" href="http://www.wiki-aventurica.de/index.php?title=Waldinsel">Waldinsel</a> <a title="Sorak" href="http://www.wiki-aventurica.de/index.php?title=Sorak">Sorak</a>. Er wird auch <i>Ingerimms Schlund</i> genannt und brach zuletzt <a title="Chronik:1014" href="http://www.wiki-aventurica.de/index.php?title=Chronik:1014">1014 BF</a> aus.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>11.4702938940244</longitude>
+			<latitude>15.89177470264294</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vulkan</styleUrl>
+		<Point>
+			<coordinates>11.4722280975303,15.8873694009078,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Geisterklippen</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Geisterklippen</b> sind ein unheimlicher Ort im <a title="Boronsgrund" href="http://www.wiki-aventurica.de/index.php?title=Boronsgrund">Boronsgrund</a>. Sie gelten als geheimer Treffpunkt von unheiligen Mächten und kein Ortsunkundiger kann durch die scharfen Klippen und tückischen Buchten manövrieren.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.253218489698783</longitude>
+			<latitude>16.34009147186993</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+		<Point>
+			<coordinates>8.253218489698783,16.34009147186992,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Gjalskahage</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das Kap <b>Gjalskahage</b> stellt den nordwestlichen Eingang zum <a title="Gjalskafjord" href="http://www.wiki-aventurica.de/wiki/Gjalskafjord">Gjalskafjord</a> da. Aufgrund der gefährlichen Riffe wurde auf der gleichnamigen 80 Schritt hohen Klippe von <a title="Asgeir Gersson (Seite nicht vorhanden)" class="new" href="/index.php?title=Asgeir_Gersson&amp;action=edit&amp;redlink=1">Asgeir Gersson</a> ein Leuchtturm erbaut, der allerdings heute nicht mehr gewartet wird und zusehends verfällt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-2.810009915976743</longitude>
+			<latitude>39.01061789830928</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+		<Point>
+			<coordinates>-2.810009915976753,39.01061789830928,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Kuri</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Kuri</b> (<a title="Nujuka" href="http://www.wiki-aventurica.de/wiki/Nujuka">niv.</a> für <i>der Fremde</i>) ist ein <a title="Berg" href="http://www.wiki-aventurica.de/wiki/Berg">Berg</a> in der nördlichen <a title="Brydia" href="http://www.wiki-aventurica.de/wiki/Brydia">Brydia</a>. Hinter seinen etwa eine Meile hohen Kraterwänden liegt ein See, der ein <a title="Feentor" href="http://www.wiki-aventurica.de/wiki/Feentor">Feentor</a> enthält.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.895177935712724</longitude>
+			<latitude>39.24471887589155</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<Point>
+			<coordinates>8.91780283035938,39.2438770847862,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Nebelstein</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>Nebelstein (Tobrien)</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Nebelstein</b> ist eine Anhöhe südlich des <a href="http://www.wiki-aventurica.de/wiki/Yslisee" title="Yslisee">Yslisees</a>. Hier erhebt sich die <a href="/index.php?title=Viereichener_Trollfeste&amp;action=edit&amp;redlink=1" class="new" title="Viereichener Trollfeste (Seite nicht vorhanden)">Viereichener Trollfeste</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.498784447957588</longitude>
+			<latitude>31.4533501965531</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<Point>
+			<coordinates>7.74667700615386,31.7815030596833,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Tenjos</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Das oder die <b>Tenjos</b> ist oder sind eine <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Felsformation</a> in <a href="http://www.wiki-aventurica.de/wiki/Nordaventurien" title="Nordaventurien">Nordaventurien</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>4.639680228085914</longitude>
+			<latitude>37.25761367265616</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<Point>
+			<coordinates>4.62295844222963,37.2539968723444,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Tesralschlaufe</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Tesralschlaufe</b> ist eine Felsformation im <a href="http://www.wiki-aventurica.de/wiki/Tal_der_Tobimora" title="Tal der Tobimora">Tal der Tobimora</a> bei <a href="http://www.wiki-aventurica.de/wiki/Flussbuckel" title="Flussbuckel">Flussbuckel</a>. Hier liegt der <a href="http://www.wiki-aventurica.de/wiki/Sacer_Ordo_Draconis" title="Sacer Ordo Draconis">Draconiterhort</a> <a href="http://www.wiki-aventurica.de/wiki/Drachenblick" title="Drachenblick">Drachenblick</a> verborgen. Die <a href="http://www.wiki-aventurica.de/wiki/Kraftlinie" title="Kraftlinie">Kraftlinie</a> <a href="http://www.wiki-aventurica.de/wiki/Wandelband" title="Wandelband">Wandelband</a> hat ihren Verlauf durch die Felsnadeln.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>8.838106977486136</longitude>
+			<latitude>31.43438208664161</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<Point>
+			<coordinates>8.838106977486135,31.43438208664162,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Visra</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Visra</b> (auch <i>Visraberg</i> und <i>Visarberg</i>) ist ein <a title="Vulkan" href="http://www.wiki-aventurica.de/index.php?title=Vulkan">Vulkan</a> nördlich <a title="Al'Anfa" href="http://www.wiki-aventurica.de/index.php?title=Al%27Anfa">Al'Anfas</a>. An seinen Hängen erheben sich die <a title="Schwarze Pyramiden (Seite nicht vorhanden)" class="new" href="/index.php?title=Schwarze_Pyramiden&amp;action=edit&amp;redlink=1">Schwarzen Pyramiden</a>, die den <a title="Grande" href="http://www.wiki-aventurica.de/index.php?title=Grande">Granden</a> als Gräber dienen.
+</p>
+<p>
+Das "feurige" <b>Vs'Ra</b> war eine Stätte der <a class="mw-redirect" title="Ssrkhrsechim" href="http://www.wiki-aventurica.de/index.php?title=Ssrkhrsechim">Ssrkhrsechim</a>. In der Zeit von <a title="Chronik:999 v. BF bis 0 BF" href="http://www.wiki-aventurica.de/index.php?title=Chronik:999_v._BF_bis_0_BF">680-250 v. BF</a> diente der Vulkan als kultisches Zentrum der <a title="Visar" href="http://www.wiki-aventurica.de/index.php?title=Visar">Visar</a>-Verehrung der <a title="Wudu" href="http://www.wiki-aventurica.de/index.php?title=Wudu">Wudu</a>. <a class="mw-redirect" title="Chronik:660" href="http://www.wiki-aventurica.de/index.php?title=Chronik:660">660 BF</a> fand hier die <a title="Schlacht am Visra" href="http://www.wiki-aventurica.de/index.php?title=Schlacht_am_Visra">Schlacht am Visra</a> statt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-0.8456165531693094</longitude>
+			<latitude>18.51099173302829</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#vulkan</styleUrl>
+		<Point>
+			<coordinates>-0.8456165531692994,18.51099173302829,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>Zwanfirszahn</name>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Zwanfirszahn</b>, auch <b>Aarkenhorst</b> genannt, ist ein mehr als 2000 <a title="Schritt" href="http://www.wiki-aventurica.de/wiki/Schritt">Schritt</a> hoher <a title="Berg" href="http://www.wiki-aventurica.de/wiki/Berg">Kalksteinberg</a>, der sich südöstlich von <a title="Ifirnshavn" href="http://www.wiki-aventurica.de/wiki/Ifirnshavn">Ifirnshavn</a> befindet. Die <a title="Gjalskerländer" href="http://www.wiki-aventurica.de/wiki/Gjalskerl%C3%A4nder">Gjalskerländer</a> glauben, dass sich dort ein Orakel befindet. Auf der Spitze des Berges befindet eine gewaltige, weiße Feste.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-3.077327524655591</longitude>
+			<latitude>38.04884922152308</latitude>
+			<altitude>150000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+		<Point>
+			<coordinates>-3.077327524655591,38.04884922152309,0</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+</Document>
+</kml>

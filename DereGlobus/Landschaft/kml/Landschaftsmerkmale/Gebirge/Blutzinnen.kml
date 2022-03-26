@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+<Folder>
+	<name>Blutzinnen</name>
+
+		<Placemark>
+			<name>Blutzinnen</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Blutzinnen</b>, von den <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> <i>Graveshzarak</i> (<i>Graveshs Klauen</i>) gennant, sind ein <a href="http://www.wiki-aventurica.de/wiki/Gebirge" title="Gebirge">Gebirge</a> in <a href="http://www.wiki-aventurica.de/wiki/Nordaventurien" title="Nordaventurien">Nordaventurien</a>, das das <a href="http://www.wiki-aventurica.de/wiki/Svellttal" title="Svellttal" class="mw-redirect">Svellttal</a> vom <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a> trennt. Höchster <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> ist der <a href="http://www.wiki-aventurica.de/wiki/Hilvalskopf" title="Hilvalskopf">Hilvalskopf</a> mit etwa 2000 Schritt, der mitunter dem Nordteil des Gebirges den Namen gibt. In dieser Region, die von <a href="http://www.wiki-aventurica.de/wiki/Oger" title="Oger">Ogern</a> bewohnt wird, entspringt der <a href="http://www.wiki-aventurica.de/wiki/Hilval" title="Hilval">Hilval</a>. Auch der <a href="http://www.wiki-aventurica.de/wiki/Orkval" title="Orkval">Orkval</a> entspringt in den Blutzinnen und fließt ins <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svelltland</a>.
+</p>
+<p>
+Die einzige wichtige Siedlung der Blutzinnen ist die orkische Stadt <a href="http://www.wiki-aventurica.de/wiki/Orrakhar" title="Orrakhar">Orrakhar</a> am <a href="http://www.wiki-aventurica.de/wiki/Dairuch-See" title="Dairuch-See" class="mw-redirect">Dairuch-See</a>. Hier und in vielen Höhlen und Lehmhütten am Osthang des Gebirges liegt das eigentliche Siedlungsgebiet der <a href="http://www.wiki-aventurica.de/wiki/Zholochai" title="Zholochai">Zholochai</a>.
+</p>
+<p>
+Vom südlich angrenzenden <a href="http://www.wiki-aventurica.de/wiki/Thasch" title="Thasch">Thasch</a> sind die Blutzinnen durch den auf 800 Schritt Höhe verlaufenden Pass der <a href="http://www.wiki-aventurica.de/wiki/Thaschpforte" title="Thaschpforte">Thaschpforte</a> getrennt.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>0.5775931191760964</longitude>
+			<latitude>34.27602879037811</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>0.5775931191763961,34.27602879037811,0</coordinates>
+			</Point>
+		</Placemark>
+
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
+		<Placemark>
+		<name>Hilvalskopf</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Grimmen</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im südlichen <a href="http://www.wiki-aventurica.de/wiki/Rorwhed" title="Rorwhed">Rorwhed</a>. An seinem Fuß liegt die Siedlung <a href="http://www.wiki-aventurica.de/wiki/Grimmsvell" title="Grimmsvell">Grimmsvell</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>0.06202026165014419</longitude>
+				<latitude>34.76353316126656</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+			<Point>
+				<coordinates>0.05163877974445397,34.75982668840447,0</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Folder>
+</Document>
+</kml>

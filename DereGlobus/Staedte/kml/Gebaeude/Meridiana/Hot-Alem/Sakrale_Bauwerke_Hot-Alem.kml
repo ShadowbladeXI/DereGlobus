@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Sakrale Bauwerke Hôt-Alem</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>16.40593866511323</north>
+			<south>16.40042647767344</south>
+			<east>-0.1490680961838435</east>
+			<west>-0.1572203420604919</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Boron-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Boron-Kirche (Puniner Ritus)<TR><TD><I>Lage auf dem Stadtplan: 3<TR><TD><I>Stadtteil: Sonnenstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.155499</longitude>
+			<latitude>16.401585</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.155499,16.401585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Braian-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Braian-Kirche<TR><TD><I>Lage auf dem Stadtplan: 1<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<TimeStamp><when>-341</when></TimeStamp>
+			<longitude>-0.153298</longitude>
+			<latitude>16.402757</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-341</begin>
+			<end>-106</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.153298,16.402757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Efferd-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Efferd-Kirche<TR><TD><I>Lage auf dem Stadtplan: 2<TR><TD><I>Stadtteil: Hafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.152086</longitude>
+			<latitude>16.401755</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.152086,16.401755,0</coordinates>
+		</Point>
+	</Placemark>
+	<!--<Placemark>
+		<name>Katakomben</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil: Alt-Alem<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.156995</longitude>
+			<latitude>16.405287</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.156995,16.405287,0</coordinates>
+		</Point>
+	</Placemark>-->
+		<Placemark>
+		<name>Ordensburg (Golgariten)</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Boron-Kirche (Puniner Ritus)<TR><TD><I>Lage auf dem Stadtplan: 28<TR><TD><I>Stadtteil: Sonnenstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.155196</longitude>
+			<latitude>16.401591</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.155196,16.401591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Praios-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Praios-Kirche<TR><TD><I>Lage auf dem Stadtplan: 1<TR><TD><I>Stadtteil: Sonnenstadt<TR><TD><I>Besitzer/Vorsteher:</I> Solareon di Morundi<TR><TD><I>Bemerkung:</I> Dem Bosparanischen Tempel nachempfunden<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.153284</longitude>
+			<latitude>16.402768</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.153284,16.402768,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rondra-Tempel</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Rondra-Kirche<TR><TD><I>Lage auf dem Stadtplan: 4<TR><TD><I>Stadtteil: Sonnenstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.152697</longitude>
+			<latitude>16.402978</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.152697,16.402978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tempel der Sioraca</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Sioraca-Kirche<TR><TD><I>Lage auf dem Stadtplan: 7<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<TimeStamp><when>-341</when></TimeStamp>
+			<longitude>-0.151349</longitude>
+			<latitude>16.402272</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-341</begin>
+			<end>-106</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.151349,16.402272,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tempel des Raslavtan</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Kult:</I> Raslavtan-Kirche<TR><TD><I>Lage auf dem Stadtplan: 6<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<TimeStamp><when>-341</when></TimeStamp>
+			<longitude>-0.151561</longitude>
+			<latitude>16.405455</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-341</begin>
+			<end>-106</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.151561,16.405455,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

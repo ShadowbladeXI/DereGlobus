@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Küstenstraße von Festum nach Neersand</name>
+	<open>1</open>
+		<Placemark> 	<!-- Küstenstraße von Festum nach Neersand-->
+			<name>Küstenstraße von Festum nach Neersand</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Küstenstraße von Festum nach Neersand</b> verbindet die wichtigsten Küstenstädte des <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornlands</a> miteinander und läuft dabei durch die <a href="http://www.wiki-aventurica.de/wiki/Garbelner_D%C3%BCnenk%C3%BCste" title="Garbelner Dünenküste">Garbelner Dünenküste</a> und die <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fe_Mosse" title="Große Mosse">Große Mosse</a>.
+							</p>
+							<p>
+							Die gesamte Strecke von <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> nach <a href="http://www.wiki-aventurica.de/wiki/Neersand" title="Neersand">Neersand</a> wird auch als <i>Große Küstenstraße</i> bezeichnet.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						10.09954530704811,33.91242789026368,0	<!-- <POI>Siedlung:Festum</POI> --> <!--<POI>SOE:Bornstraße</POI>--> <!--<POI>SOE:Kaiserstraße</POI>-->
+						10.10051799360351,33.91547186233748,0 
+						10.10041427806749,33.9160224261748,0 	
+						10.10051446034425,33.9166793215092,0 
+						10.10079278516706,33.91752723850858,0 	<!-- <POI>Station:Stadttor Festum</POI> -->
+						10.10133799429196,33.91877821075899,0 
+						10.09680373831032,33.95528019231998,0 	<!-- Detailkarte Festum -->
+						10.098978,33.971332,0 
+						10.113056,33.988010,0 
+						10.141239,34.004302,0 
+						10.161288,34.016491,0 <!-- <POI>Siedlung:Soprieten<POI> -->
+						10.214161,34.056290,0 
+						10.236354,34.087289,0 
+						10.268522,34.107386,0 
+						10.285653,34.112084,0 
+						10.301143,34.109443,0 <!-- <POI>Siedlung:Garbeln</POI> -->
+						10.335369,34.102596,0 
+						10.363631,34.098363,0 
+						10.397841,34.088484,0 <!-- <POI>Siedlung:Garbeldüne</POI> -->
+						10.412526,34.094295,0 
+						10.433474,34.108893,0 
+						10.451083,34.118276,0 
+						10.470642,34.124781,0 
+						10.504928,34.124219,0 
+						10.516676,34.132013,0 
+						10.533542,34.133382,0 <!-- <POI>Siedlung:Rucken</POI> -->
+						10.562725,34.134713,0 
+						10.602885,34.134839,0 
+						10.650799,34.141923,0 <!-- <POI>Siedlung:Sonngruden</POI> -->
+						10.689376,34.144467,0 
+						10.719555,34.159265,0 
+						10.747382,34.162775,0 
+						10.765494,34.169686,0 
+						10.77804072306944,34.16900254774124,0 <!-- <POI>Siedlung:Hinterbruch</POI> --> <!--<POI>Abzweig:Kronstraße von Hinterbruch nach Riwilauken</POI>-->
+						10.824801,34.171808,0 
+						10.851464,34.175710,0 
+						10.874256,34.175081,0 
+						10.899453,34.174945,0 
+						10.947296,34.185055,0 
+						11.001724,34.209144,0 <!-- <POI>Siedlung:Puspereiken</POI> -->
+						11.035238,34.228568,0 
+						11.057919,34.232897,0 
+						11.097003,34.259160,0 
+						11.127707,34.272072,0 
+						11.158329,34.277954,0 
+						11.17877267182111,34.27926625133341,0  <!-- Anfang Detailkarte Neersand -->
+						11.18000628348144,34.27931083335956,0 
+						11.18171019264874,34.27925949740381,0  <!--<POI>Siedlung:Neersand</POI>--> <!--<POI>SOE:Walsachstraße</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>10.663389</longitude>
+				<latitude>34.181867</latitude>
+				<altitude>170000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

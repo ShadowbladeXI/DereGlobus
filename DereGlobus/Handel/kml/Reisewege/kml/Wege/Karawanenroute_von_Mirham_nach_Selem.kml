@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Mirham nach Selem</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Mirham nach Selem-->
+			<name>Karawanenroute von Mirham nach Selem</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Diese <b>Karawanenroute</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Mirham">Mirham</a> und <a href="http://www.wiki-aventurica.de/wiki/Selem">Selem</a> miteinander und schlängelt sich an der Ostküste <a href="http://www.wiki-aventurica.de/wiki/Meridiana">Meridianas</a> hinab.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.7243528626116169,19.16567406890858,0	 <!-- <POI>Siedlung:Mirham</POI> --> <!-- <POI>SOE:Palaststraße</POI> --> <!-- <POI>SOE:Pass von Sorbur</POI> -->
+					-0.6722025587771974,19.16257381100819,0  <!-- <POI>Flussquerung:Chamir</POI> -->
+					-0.6548640286633045,19.14594154790538,0 
+					-0.6341035335977718,19.06149307469683,0 
+					-0.6082047141569325,19.04494931343887,0 
+					-0.519955690281565,19.01227738659576,0 
+					-0.4754988016124584,19.00976222367453,0 
+					-0.4343378169666556,19.02271572205805,0 
+					-0.3333699548134872,19.02876759145587,0
+					-0.3060622435754501,19.05781244816049,0
+					-0.2684406022887709,19.06990259433641,0 
+					-0.1947592155091626,19.09549594757868,0  <!-- <POI>Siedlung:Lafmih</POI> -->
+					-0.1358870793682965,19.15476275746861,0 
+					-0.05939217898381477,19.18523022424535,0
+					-0.02996994427496791,19.224613470545,0 
+					-0.03455930826094855,19.25837714806582,0 
+					-0.0249990115453258,19.28937644301062,0 
+					-0.03725450107558648,19.40502973813865,0 
+					-0.03736131040362856,19.44499977407497,0 
+					-0.01186601432170642,19.48014359661935,0 
+					0.04183492257980204,19.52229619033757,0 
+					0.04977691374831617,19.55069306620112,0 
+					0.07523529486394454,19.57200952269314,0  <!-- <POI>Siedlung:Thendar</POI> -->
+					0.1045605072028533,19.61336398458677,0 
+					0.1867247789188609,19.67876946238569,0 
+					0.1962989257957615,19.71135041631856,0 
+					0.1735059999144228,19.74138144494011,0 
+					0.1685007829884788,19.80762965404889,0 
+					0.1702379574854707,19.84453507946462,0 
+					0.1580577430831509,19.88099941800601,0 
+					0.1618796067031902,19.89746130974354,0 
+					0.18290463970416,19.92195390757186,0 
+					0.1730730629874744,20.00154834140879,0 
+					0.1729190418907578,20.03683382073251,0 
+					0.1884476489705045,20.06483863473461,0 
+					0.1887735053595163,20.08181012963215,0 
+					0.1803109091741662,20.09309724439899,0 
+					0.2018384370338988,20.11246537013651,0 
+					0.2188528320748895,20.13766051201484,0 
+					0.2272779432029215,20.17684416685659,0 
+					0.2559156252755113,20.20185018160911,0 
+					0.2659102473262509,20.2305045927679,0    
+					0.2870804354848344,20.26461433242102,0  <!-- <POI>Abzweig:Rabensteig</POI> --> <!-- <POI>Flussquerung:Fouhad</POI> -->
+					0.2925146179947125,20.27608643585363,0  <!-- <POI>Siedlung:Vey</POI> -->  <!-- <POI>Abzweig:Weg nach Tarim</POI> -->
+					0.3122218594311121,20.29988850105259,0 
+					0.3151826748399,20.33982426728186,0 
+					0.3218862271499701,20.35259078715495,0 
+					0.3538613034606675,20.37902437495393,0 
+					0.3555587585224185,20.43436234378111,0 
+					0.3649411260473401,20.4520427740183,0 
+					0.3654236537889632,20.48112578760641,0 
+					0.3970063805758906,20.5082309644267,0 
+					0.3995142596260992,20.52834478279074,0 
+					0.4207157993324207,20.56797561052781,0 
+					0.4290375304044169,20.57969535895528,0   <!-- <POI>Siedlung:Shiror</POI> -->  <!-- <POI>Abzweig:Weg nach Miyamat</POI> -->
+					0.442370557273204,20.59891905335112,0 
+					0.4460310029409387,20.67105410549299,0 
+					0.4354004486902197,20.71232236915198,0 
+					0.4366123273950273,20.73064769973151,0 
+					0.4427410446556368,20.74382849700236,0 
+					0.4322640191513338,20.76946468857661,0 
+					0.4533166695761715,20.80331860516727,0 
+					0.4601869236644429,20.84036183724441,0 
+					0.451687392691964,20.86007398859539,0 
+					0.4568766490512011,20.8781324480074,0 
+					0.5166301511685489,20.93095198872051,0 
+					0.5218053992975102,20.94030114459276,0 
+					0.5640196213989834,20.97825714183779,0 
+					0.5723684750298386,20.99817547721056,0 
+					0.5912082680812358,21.01372468487683,0 
+					0.6078775903356815,21.01645562831718,0 
+					0.6246412203800644,21.04234770216159,0 
+					0.6317996052686148,21.07686131593698,0 
+					0.644927902508512,21.09670161255141,0 
+					0.6653846634675187,21.10980821047275,0 
+					0.7048889902866606,21.12228573944986,0 
+					0.7227123056934026,21.13732844300702,0 
+					0.7439822338749869,21.14387462519691,0 
+					0.7726327550529555,21.1653472987571,0 
+					0.8074325356392365,21.16423227442006,0   	<!-- Anfang Detailkarte Kannemünde -->
+					0.8110577864902502,21.16626405651773,0 
+					0.8119796642031374,21.16785318853614,0 
+					0.8124819576430187,21.16825856826613,0      <!-- <POI>Siedlung:Kannemünde</POI> -->  <!-- <POI>Abzweig:Knüppeldamm von Drôl nach Port Corrad</POI> -->
+					0.8141033766773353,21.16897315490389,0 
+					0.8148542415988547,21.16909812479627,0 
+					0.8155759897834125,21.16899329922907,0 
+					0.8179133154391138,21.16891908955429,0      <!-- Ende Detailkarte Kannemünde -->
+					0.823910705551727,21.17463829479092,0 
+					0.8274040839825969,21.18083721249034,0 
+					0.866162898387477,21.18011258077409,0 
+					0.9410088632624736,21.15237875904672,0 
+					0.9650374559355401,21.12543339381512,0 
+					1.001112631415937,21.10627228818702,0 
+					1.061779164215864,21.10307450613807,0    <!-- <POI>Siedlung:unbenannt</POI> -->
+					1.108606854442822,21.08711952288127,0 
+					1.178653814205459,21.09570292203149,0 
+					1.26936153435913,21.08606372046417,0 
+					1.324416989316437,21.06747506265891,0 
+					1.355599703923045,21.06401343253187,0 
+					1.394921799111542,21.03761441569472,0 
+					1.447877675705001,21.0343147227595,0 
+					1.480222156451279,21.00798078856196,0    <!-- <POI>Siedlung:Echas</POI> -->
+					1.702697482489524,20.99979070415224,0 
+					1.703599728520251,20.99973780472445,0    <!-- Anfang Detailkarte Selem -->
+					1.703946842527988,20.99941642671155,0 
+					1.704678830268309,20.99939773095603,0 
+					1.706140253057094,20.99903701182626,0 
+					1.706199568694515,20.99919834244866,0  	<!-- <POI>Siedlung:Selem</POI> --> <!-- <POI>SOE:Strasse von Selem nach Machsiz</POI> --> 
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>0.490906</longitude>
+				<latitude>20.095300</latitude>
+				<altitude>376570</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Alter Weg</name>
+	<open>1</open>
+		<Placemark> 	<!--Alter Weg-->
+			<name>Alter Weg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Alte Weg</b> liegt in <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Nordhag_%28Weiden%29" title="Nordhag (Weiden)">Nordhag</a> mit <a href="http://www.wiki-aventurica.de/wiki/Anderath" title="Anderath">Anderath</a>. Er verläuft nördlich des <a href="http://www.wiki-aventurica.de/wiki/Blautann" title="Blautann">Blautann</a> und quert die Flüsse <a href="http://www.wiki-aventurica.de/wiki/Finsterbach" title="Finsterbach">Finsterbach</a> mithilfe einer Furt und <a href="http://www.wiki-aventurica.de/wiki/Pandlaril" title="Pandlaril">Pandlaril</a> über eine Brücke.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.465888440804024,32.81585230390425,0 <!--<POI>Siedlung:Nordhag (Weiden)</POI>--> <!--<POI>SOE:Alte Straße</POI>--> <!--<POI>SOE:Markenweg</POI>--> <!--<POI>SOE:Nôrrnstieg</POI>--> <!--<POI>SOE:Straße von Nordhag nach Reichsweg</POI>-->
+					3.505752285527692,32.81430875537707,0 
+					3.530877131305772,32.82397343370842,0 
+					3.571495714460413,32.82046105163919,0 
+					3.646916935143418,32.81037100075017,0 
+					3.691603516650914,32.8127866412928,0 
+					3.725523587437869,32.82991579123519,0 
+					3.766266866920793,32.82782232662099,0 
+					3.787881740369747,32.83888612899806,0 
+					3.805965205699533,32.84308459337378,0 
+					3.839683794766819,32.83583767002395,0 
+					3.860697741436077,32.83938655097789,0 
+					3.888805705859102,32.84069089177679,0 
+					3.908581073557034,32.84982863368997,0 
+					3.918274933845538,32.85069360244675,0 <!--Anfang Detailkarte Rhodenstein-->
+					3.920008793659642,32.85107881647372,0 <!--<POI>Flussquerung:Finsterbach</POI>-->
+					3.920396914192534,32.85110772382233,0 <!--<POI>Siedlung:Rhodenstein</POI>-->
+					3.920931771465506,32.85114424897466,0 
+					3.921166327226779,32.85114609875969,0 
+					3.921376323746353,32.85135451045617,0 
+					3.921899017868458,32.85138124347379,0 
+					3.923065363710745,32.85162302951042,0 
+					3.92389516817103,32.8517709988987,0 
+					3.92457160148681,32.85180539141281,0 
+					3.925205239100629,32.85188467250882,0 <!--Ende Detailkarte Rhodenstein-->
+					3.968568663826984,32.86349685746551,0 
+					3.996928372562885,32.87659392843113,0 
+					4.027721050094575,32.88975374521828,0 
+					4.051392331451307,32.8945142073006,0 
+					4.097248026048462,32.92072357172886,0 
+					4.153265278037745,32.92843095716479,0 
+					4.202126559738659,32.95814847196768,0 
+					4.245916502063773,32.96968215927158,0 
+					4.331195675767305,32.97335007499437,0 
+					4.383708993975906,32.99271263886394,0 
+					4.440486681165218,32.99049515009482,0 
+					4.479677275055625,33.00094956552572,0 
+					4.551673243032621,32.99721882841076,0 
+					4.629412129998338,33.00379302203655,0 
+					4.689601805367403,33.02648393619923,0 
+					4.732320704582755,33.03196063726502,0 
+					4.78656376490342,33.02317180983014,0 
+					4.852076959557719,33.02469877020803,0 
+					4.900607103067505,33.056195723358,0 <!--<POI>Siedlung:Leinhaus</POI>--> <!--<POI>Flussquerung:Pandlaril</POI>-->
+					4.92792054403748,33.05395641753702,0 <!--<POI>SOE:Reichsstraße 2</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>4.222325</longitude>
+				<latitude>32.890599</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

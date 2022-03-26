@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kronstraße von Fasar nach Palmyrabad</name>
+	<open>1</open>
+		<Placemark> 	<!-- Kronstraße von Fasar nach Palmyrabad-->
+			<name>Kronstraße von Fasar nach Palmyrabad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Kronstraße von Fasar nach Palmyrabad</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> mit dem westlichen <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">Aranien</a>.
+							</p>							
+							<p>
+								Über die <a href="http://www.wiki-aventurica.de/wiki/Kronstra%C3%9Fe_%28Aranien%29" title="Kronstraße (Aranien)">Kronstraße</a> verläuft auch die <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenroute</a> von Fasar nach <a href="http://www.wiki-aventurica.de/wiki/Baburin" title="Baburin">Baburin</a>.
+
+							</p>
+							</p>
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					4.842861595975652,26.43893649400833,0 	<!-- <POI>Siedlung:Floeszern</POI> --> <!-- <POI>SOE:Kronstrasse von Fasar nach Nasir Malkid</POI> -->
+						04.842393,26.472236,0 	   <!-- <POI>Abzweig:Straße von Floeszern nach Zedrakin</POI> -->
+						04.843971,26.484782,0 
+						04.851134,26.494562,0 
+						04.869811,26.510205,0 
+						04.886862,26.524819,0 
+						04.894807,26.529059,0 
+						04.905603,26.531872,0 
+						04.921687,26.540182,0 
+						04.942858,26.554678,0 
+						04.980963,26.575948,0 
+						04.998650,26.587497,0 
+						05.010128,26.602886,0 
+						05.024969,26.627573,0 	<!-- <POI>Siedlung:Awallakand</POI> -->
+						05.042485,26.656273,0 
+						05.050420,26.686680,0 
+						05.059218,26.696824,0 
+						05.080713,26.721519,0 
+						05.083449,26.734544,0 
+						05.096952,26.748458,0 
+						05.120081,26.761814,0 
+						05.120780,26.804261,0 
+						05.169950,26.846286,0 
+						05.197155,26.879938,0 
+						05.224638,26.921565,0 
+						05.244222,26.956448,0 
+						05.255327,26.978717,0 	<!-- <POI>Siedlung:Dorgulawend</POI> --> <!-- <POI>Abzweig:Straße von Dorgulawend nach Fennekesh</POI> -->
+						05.255250,27.024222,0 
+						05.252220,27.058394,0 
+						05.248287,27.064733,0 
+						05.247958,27.128881,0 
+						05.253962,27.138287,0 
+						05.266039,27.154960,0 	<!-- <POI>Siedlung:Yaspilil</POI> --> <!-- <POI>Abzweig:Weg von Yaspilil nach Simiador</POI> -->
+						05.294855,27.190028,0 
+						05.311338,27.210720,0 
+						05.330183,27.228155,0 
+						05.354442,27.255889,0 
+						05.382582,27.285657,0 
+						05.399728,27.300370,0 
+						05.423622,27.316701,0 
+						05.447439,27.346589,0 
+						05.454618,27.361595,0 
+						05.466002,27.407715,0 
+						05.478276,27.427378,0 
+						5.494337285555046,27.44874071509816,0 <!-- <POI>Siedlung:Palmyrabad</POI> --> <!-- <POI>SOE:Straße von Palmyrabad nach Revennis</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>5.083759</longitude>
+				<latitude>26.919471</latitude>
+				<altitude>259250</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

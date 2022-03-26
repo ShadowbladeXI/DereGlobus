@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kontinente</name>
+	<open>0</open>
+
+		<LookAt>
+			<longitude>-9.366038644079074</longitude>
+			<latitude>27.47554839898598</latitude>
+			<altitude>0</altitude>
+			<range>12661645.10241579</range>
+			<tilt>0</tilt>
+			<heading>2.043506382840309e-013</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+
+
+
+
+
+
+  <NetworkLink>
+    <name>Aventurien</name>
+	<description><![CDATA[
+						<p>Die dargestellten Karten Aventuriens stehen unter <a href="http://www.dasschwarzeauge.de/index.php?id=1021">Lizenzvereinbarung</a> für das Aventurien-Kartenpaket.</p>
+				 ]]>
+	</description>
+    <open>0</open>
+    <Region>
+	<LatLonAltBox>
+		<north>44.68523182173993</north>
+		<south>13.83211470255367</south>
+		<east>13.82951187257615</east>
+		<west>-8.928795211729799</west>
+					<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+	</LatLonAltBox>
+      <Lod>
+        <minLodPixels>128</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+    </Region>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+    <Link>
+       <href>http://www.dereglobus.orkenspalter.de/public/Medien/Kontinente/kml/Aventurien/Av.kml</href>
+      <viewRefreshMode>onRegion</viewRefreshMode>
+    </Link>
+  </NetworkLink>
+
+
+<NetworkLink>
+	<name>Myranor</name>
+	<open>0</open>
+	<Region>
+		<LatLonAltBox>
+		<north>44.54462142362367</north>
+		<south>-44.56820602423594</south>
+		<east>-29.5778076138339</east>
+		<west>-149.3835230639303</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>-1</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Link>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Kontinente/kml/Myranor/My.kml</href>
+		<viewRefreshMode>onRegion</viewRefreshMode>
+	</Link>
+</NetworkLink>
+
+
+<NetworkLink>
+	<name>Rakshazar (InOff)</name>
+	<open>0</open>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+	</Style>
+<description><![CDATA[<p><a href="http://www.derische-sphaeren.de/index.php?bereich=riesland">Rakshazar - Das Riesland</a></p>
+  <p>Willkommen im Land der <strong>Barbaren</strong>, <strong>Ungeheuer</strong> und <strong>Bestien</strong>. Einem Kontinent, fest im finstern Griff des g�ldenen Unheils. Beherrscht von <strong>Riesen</strong>, <strong>Trollen</strong> und <strong>Broktharen</strong>. Sei Teil dieser klassischen Welt aus <strong>Sword &amp; Sorcery</strong>. Rakshazar erwartet dich.<br />
+    <br />
+  Ein Projekt der <a href="http://www.derische-sphaeren.de">Derischen Sphären</a></p>]]></description>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/kml/Rakshazar.kml</href>
+	</Link>
+		<LookAt>
+			<longitude>34.31709288403344</longitude>
+			<latitude>29.20214473278184</latitude>
+			<altitude>0</altitude>
+			<range>7032195.468281343</range>
+			<tilt>0</tilt>
+			<heading>-2.883153087943378</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+</NetworkLink>
+
+
+
+
+<NetworkLink>
+	<name>Uthuria</name>
+	<open>0</open>
+	<visibility>0</visibility>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/kml/Uthuria.kml</href>
+	</Link>
+</NetworkLink>
+
+
+
+
+<NetworkLink>
+	<name>Inseln</name>
+	<open>0</open>
+	<visibility>0</visibility>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/kml/Inseln.kml</href>
+	</Link>
+</NetworkLink>
+
+
+
+<NetworkLink>
+	<name>Globus</name>
+	<open>0</open>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Kontinente/kml/Globus.kml</href>
+	</Link>
+</NetworkLink>
+
+
+
+
+</Document>
+</kml>

@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+    <name>Gasthäuser_Vallusa.kml</name>
+	<open>1</open>
+	<Folder>
+        <name>Gasthäuser_Vallusa</name>   
+		<Region>
+			<LatLonAltBox>
+				<north>32.96102482508957</north>
+				<south>32.95491620430128</south>
+				<east>9.706042561241496</east>
+				<west>9.696376278892609</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+        <Placemark>
+			<name>Bordell Zur Kaiserin</name>
+				<ExtendedData>
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+				</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das Bordell <b>Zur Kaiserin</b> liegt am <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusaner</a> <a href="http://www.wiki-aventurica.de/wiki/S%C3%BCdhafen_von_Vallusa" title="Südhafen von Vallusa">Südhafen</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.702422</longitude>
+				<latitude>32.956970</latitude>
+				<altitude>0</altitude>
+				<range>915.430271649676</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Point>
+				<coordinates>9.702422,32.956970,0</coordinates>
+			</Point>
+        </Placemark>
+		<!-- <Placemark>
+			<name>Gasthaus Brückstube</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css"> -->
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --><!--</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a> -->
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<!-- Die <b>Brückstube</b> ist ein Gasthaus in <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a>. -->
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<!-- <hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<LookAt> 
+				<longitude> 9.698002</longitude>
+				<latitude> 32.973544</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<Point>
+				<coordinates> 9.698002, 32.973544,0</coordinates>
+			</Point>
+		</Placemark> -->
+		<!-- <Placemark>
+			<name>Gasthaus Zum Füllhorn</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css"> -->
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --><!--</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a> -->
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<!-- <hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<LookAt> 
+				<longitude> 9.698002</longitude>
+				<latitude> 32.978344</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<Point>
+				<coordinates> 9.698002, 32.978344,0</coordinates>
+			</Point>
+		</Placemark> -->
+		<Placemark>
+			<name>Gasthof Zum Reiter</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Nahe der <a href="http://www.wiki-aventurica.de/wiki/Station_der_Beilunker_Reiter_in_Vallusa" title="Station der Beilunker Reiter in Vallusa">Station der Beilunker Reiter</a> in <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> liegt der Gasthof <b>Zum Reiter</b>. Unter den Gästen befinden sich stets einige <a href="http://www.wiki-aventurica.de/wiki/Beilunker_Reiter" title="Beilunker Reiter">Botenreiter</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.698732</longitude>
+				<latitude>32.958320</latitude>
+				<altitude>0</altitude>
+				<range>915.430271649676</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Point>
+				<coordinates>9.698732,32.958320,0</coordinates>
+			</Point>
+        </Placemark>        
+		<Placemark>
+			<name>Hotel Haus Drachenstein</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das <b>Haus Drachenstein</b> gilt als bestes Hotel <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusas</a>. Während der <a href="http://www.wiki-aventurica.de/wiki/Borbaradkrise" title="Borbaradkrise" class="mw-redirect">Borbaradkrise</a> waren im Haus <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien" class="mw-redirect">tobrische</a> Flüchtlinge untergebracht. Der <a href="http://www.wiki-aventurica.de/wiki/Sacer_Ordo_Draconis" title="Sacer Ordo Draconis">Sacer Ordo Draconis</a> nutzt einen Teil des Hotels als <a href="http://www.wiki-aventurica.de/wiki/Orden" title="Orden">Ordensniederlassung</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.699552</longitude>
+				<latitude>32.957872</latitude>
+				<altitude>0</altitude>
+				<range>915.430271649676</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Point>
+				<coordinates>9.699552,32.957872,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Hotel Märkischer Hof</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das Hotel <b>Märkischer Hof</b> ist neben dem <a href="http://www.wiki-aventurica.de/wiki/Hotel_Tobrischer_Hof" title="Hotel Tobrischer Hof">Tobrischen Hof</a> die größte Einrichtung dieser Art in <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.699851</longitude>
+				<latitude>32.958552</latitude>
+				<altitude>0</altitude>
+				<range>915.4302716534425</range>
+				<tilt>0</tilt>
+				<heading>-3.896179484792808e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Point>
+				<coordinates>9.699851,32.958552,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Hotel Tobrischer Hof</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <b>Tobrische Hof</b> ist neben dem <a href="http://www.wiki-aventurica.de/wiki/Hotel_M%C3%A4rkischer_Hof" title="Hotel Märkischer Hof">Märkischen Hof</a> das größte Hotel <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusas</a>. Während der <a href="http://www.wiki-aventurica.de/wiki/Borbaradkrise" title="Borbaradkrise" class="mw-redirect">Borbaradkrise</a> kamen hier die Widerstandskämpfer des <a href="http://www.wiki-aventurica.de/wiki/Tobrisches_Heimatheer&amp;action=edit&amp;redlink=1" class="new" title="Tobrisches Heimatheer (Seite nicht vorhanden)">Tobrischen Heimatheeres</a> unter.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.700869</longitude>
+				<latitude>32.957433</latitude>
+				<altitude>1000</altitude>
+				<range>915.4302716534425</range>
+				<tilt>0</tilt>
+				<heading>-3.896179484792808e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<Point>
+				<coordinates>9.700869,32.957433,0</coordinates>
+			</Point>
+        </Placemark>
+		<!-- <Placemark>
+			<name>Pension Viergespann</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css"> -->
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --><!--</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a> -->
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<!-- In der Pension <b>Viergespann</b> sind die <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festumer</a> Kaufleute meist unter ihresgleichen. -->
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<!-- <hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<LookAt> 
+				<longitude> 9.698002</longitude>
+				<latitude> 32.974344</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<Point>
+				<coordinates> 9.698002, 32.974344,0</coordinates>
+			</Point>
+		</Placemark> -->
+        <Placemark>
+			<name>Schenke Schlange und Federkiel</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusaner</a> Schenke <b>Schlange &amp; Federkiel</b> ist ein Treffpunkt für Gelehrte.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>		
+			<LookAt>
+				<longitude>9.699627</longitude>
+				<latitude>32.958396</latitude>
+				<altitude>0</altitude>
+				<range>915.4302716534425</range>
+				<tilt>0</tilt>
+				<heading>-3.896179484792808e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<Point>
+				<coordinates>9.699627,32.958396,0</coordinates>
+			</Point>
+        </Placemark>        
+		<!-- <Placemark>
+			<name>Taverne Grützhahn</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<description>
+				<![CDATA[<style type="text/css"> -->
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --><!-- </style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a> -->
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<!-- <hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<LookAt> 
+				<longitude> 9.698002</longitude>
+				<latitude> 32.972744</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<Point>
+				<coordinates> 9.698002, 32.972744,0</coordinates>
+			</Point>
+		</Placemark> -->
+    </Folder>
+</Document>
+</kml>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Infomarker_FESTUM.kml</name>
+	<open>1</open>
+
+
+	
+	<Folder>
+		<name>Infomarker_FESTUM</name>
+		
+		<Region>
+			<LatLonAltBox>
+				<north>33.91891203555193</north>
+				<south>33.90556758047773</south>
+				<east>10.11178566535966</east>
+				<west>10.0897051132453</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Gasthaus Lachende Maske<br/> 
+					Gasthaus Pegasus<br/>
+					Gasthaus Zur Seeschlange<br/>
+					Herberge Frau Slickowskis Gute Stube<br/>
+					Herberge Verschollen bei Rondriette<br/>
+					Herberge Wellenreiter<br/>
+					Herberge Zum fliegenden Bornländer<br/>
+					Kaschemme Fette Muräne<br/>
+					Kneipe Glücklicher Wind<br/>
+					Kneipe Maraske<br/>
+					Kneipe Strumkogge<br/>
+					Kneipe Zum gewichsten Stiefel<br/>
+					Speiselokal Futterliebe<br/>
+					Taverne Der letzte Held<br/><br/>
+					<b>Handelsstätten:</b><br/>
+					Fleischhändler (Pauperin)<br/>
+					Kontor (Dhachmani)<br/>
+					Kontor (Müggelbrieter)<br/>
+					Kontor (Rodensen)<br/>
+					Krämer (Denderan)<br/>
+					Krämer (Peschinske)<br/>
+					Stoffhändler (Alrech Jergoran)<br/><br/>
+					<b>Landschaft:</b><br/>
+					Goldinsel<br/><br/>
+					<b>Öffentliche Bauwerke:</b><br/>
+					Ardo-Galerie<br/>
+					Bornfähre<br/>
+					Kaufmannsschule<br/><br/>
+					<b>Privathäuser:</b><br/>
+					Alrechs Anwesen<br/>
+					Anwesen (Jerogan)<br/>
+					Haus zum Hirschen<br/>
+					Residenz (Alazer)<br/>
+					Residenz (Tsirkevists)<br/>
+					Stadthaus (Ilumkis)<br/>
+					Stadthaus (Neerbuch)<br/>
+					Stadthaus (Niemitz)<br/>
+					Stadthaus (Schimjontken)<br/>
+					Turm (Cassimasab's Eltern)<br/>
+					Turm (Hildjain von Khunchom)<br/>
+					Wohnhaus (Jensenska)<br/>
+					Wohnhaus (ter Siveling)<br/>
+					Wohnhaus (von der Misa)<br/>
+					Wohnhaus (Widman)<br/>
+					Wohnturm (Cassimasab)<br/>
+					Wohnturm (Umradjida)<br/>
+					Haus in der Schustergasse<br/><br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					<br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					<br/>
+					<b>Straßen:</b><br/>
+					Bienenstraße<br/>
+					Gasse der Wollweber<br/>
+					Laternenstieg<br/>
+					Mondscheinweg<br/>
+					Obere Möwengasse<br/>
+					Olporter Gasse<br/>
+					Ottagasse<br/>
+					Premer Gasse<br/>
+					Schmiedegasse<br/>
+					Schlangentodweg<br/>
+					Schlingenstraße<br/>
+					Schustergasse<br/>
+					Sturmgasse<br/>
+					Zeughausgasse<br/><br/>
+					<b>Werkstätten:</b><br/>
+					Astrologe<br/>
+					Bäcker (Frumziber)<br/>
+					Bogner (Barram)<br/>
+					Elfenbeinschnitzerei<br/>
+					Gerber (Balder Ebesen)<br/>
+					Gerberei<br/>
+					Hallrath-Schmiede<br/>
+					Honigimkerei<br/>
+					Kesselflicker (Gispert Ruppelten)<br/>
+					Kesselflickerin (Thesja Orportjeff)<br/>
+					Lebküchnerwerkstatt<br/>
+					Näherin (Geertja)<br/>
+					Pelzschneiderhaus<br/>
+					Redaktionshaus (Aventurischer Bote)<br/>
+					Rollkutscherei<br/>
+					Schiffsbauer (Kalatau Monalduin)<br/>
+					Schreibstube<br/>
+					Schreiner (Alrech)<br/>
+					Trockendock<br/>
+					Waffenschmied (Kubax, Sohn des Korscho)<br/>
+					Weberhaus<br/>
+					Werft (Stoerrebrandt)<br/>
+					Werft (ter Goom)<br/>
+					Zimmerei<br/>
+					Zunfthaus (Zuckerbäcker)<br/><br/>
+<br/><B>Mögliche Quellen:</B><br/>Drei Millionen Dukaten, S. 9<br/>Das Land des Schwarzen Auges, S. 79<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 88<br/>Das Bornland, S. 18<br/>Das Land an Born und Walsach, S. 128<br/>Die Welt des Schwarzen Auges, S. 32<br/>Geographia Aventurica, S. 26<br/>Das Wirtshaus zum Lachenden Henker, S. 1<br/>Bienenschwarm und Diskusflug, S. 34<br/>Unter Aves Schwingen, S. 184<br/>Efferds Wogen, S. 75<br/>Efferds Wogen, S. 84<br/>Land des Schwarzen Bären, S. 92<br/>Drachenerbe - Auf dem Weltenwall, S. 27<br/>Menschenjagd, S. 19<br/>Jenseits des Lichts, S. 7<br/>Auf der Suche nach einem Kaiser, S. 26<br/>Das Schiff der verlorenen Seelen, S. 8<br/>Aventurisches Archiv 2, S. 45<br/>Aventurischer Bote 39<HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]>
+			</description>
+			<LookAt>
+				<longitude>10.10160367366017</longitude>
+				<latitude>33.91372791604897</latitude>
+				<altitude>0</altitude>
+				<range>4369.565685486804</range>
+				<tilt>0</tilt>
+				<heading>-0.003757110224056893</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>10.08629928475459,33.91215254627885,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

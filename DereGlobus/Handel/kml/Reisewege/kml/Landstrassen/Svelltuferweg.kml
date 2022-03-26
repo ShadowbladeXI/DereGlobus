@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Svelltuferweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Svelltuferweg-->
+			<name>Svelltuferweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Svelltuferweg</b> ist eine <a href="http://www.wiki-aventurica.de/wiki/Stra%C3%9Fe" title="Straße">Straße</a> im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svelltland</a> von <a href="http://www.wiki-aventurica.de/wiki/Yrramis" title="Yrramis">Yrramis</a> nach <a href="http://www.wiki-aventurica.de/wiki/Lowangen" title="Lowangen">Lowangen</a>. Sie begleitet den Lauf des <a href="http://www.wiki-aventurica.de/wiki/Lowanger_Svellt" title="Lowanger Svellt">Lowanger Svellt</a> auf der rechten Seite bis nach Lowangen. Im Norden schließt die <a href="http://www.wiki-aventurica.de/wiki/Svelltstra%C3%9Fe" title="Svelltstraße">Svelltstraße</a> an. In Yrramis beginnen etliche Wege ins <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreich</a> und einer über <a href="http://www.wiki-aventurica.de/wiki/Teschkal" title="Teschkal" class="mw-redirect">Teschkal</a> nach <a href="http://www.wiki-aventurica.de/wiki/Andergast" title="Andergast">Andergast</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.151838051856254,33.30488046541038,0 <!--<POI>Siedlung:Yrramis</POI>--> <!--<POI>SOE:Saljetweg</POI>--> <!--<POI>SOE:Thaschweg</POI>--> <!--<POI>SOE:Nôrrnstieg</POI>--> <!--<POI>SOE:Schattenpass</POI>--> <!--<POI>SOE:Schattenbachpass</POI>-->
+					2.165276183453182,33.32273961340366,0 
+					2.203944596373044,33.36000246162381,0 
+					2.209813856086946,33.42347660953165,0 
+					2.186496834653791,33.47528862516386,0 
+					2.185951871372529,33.50625347138376,0 
+					2.203415465269711,33.54364021742619,0 
+					2.202817618004038,33.59782981995032,0 
+					2.223664959383231,33.6243943190475,0 
+					2.252301844542386,33.64801059083165,0 
+					2.262600575956477,33.67192791585182,0 <!-- Anfang Detailkarte Lowangen -->
+					2.262852499594787,33.67192822409336,0 
+					2.263510251154666,33.67182242108428,0 
+					2.264488418174508,33.67162105737883,0 
+					2.264926037148967,33.67166727540241,0 
+					2.26572413999192,33.67188144675843,0 
+					2.266822382178293,33.672420923851,0 
+					2.267485545570753,33.67300812365276,0 
+					2.269317598381111,33.67404620287763,0 
+					2.269632380003859,33.67433006327512,0 <!--<POI>Abzweig:Weg von Lowangen nach Gashok</POI>-->
+					2.269914397167601,33.67461343335607,0 <!--<POI>Station:Südtor</POI>--> <!--<POI>Siedlung:Lowangen</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.271890</longitude>
+				<latitude>33.508853</latitude>
+				<altitude>120000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

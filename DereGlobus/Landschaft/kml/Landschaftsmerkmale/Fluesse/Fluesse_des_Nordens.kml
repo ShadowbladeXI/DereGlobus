@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Flüsses des Nordens</name>
+	<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Brinask</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Brinask</b> ist ein Fluss. Er entspringt im <a href="http://www.wiki-aventurica.de/wiki/Rorwhed" title="Rorwhed">Rorwhed</a>-Gebirge im <a href="http://www.wiki-aventurica.de/wiki/Svellttal" title="Svellttal" class="mw-redirect">Svellttal</a>, bildet die Begrenzung der <a href="http://www.wiki-aventurica.de/wiki/Brinasker_Marschen" title="Brinasker Marschen">Brinasker Marschen</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+1.633373911417635,35.98651244343467,0 1.618534891422543,36.00239506634616,0 1.608942152240966,36.02482451493381,0 1.592423051403007,36.04531186323476,0 1.567868929404144,36.05388263823796,0 1.552124874868022,36.05719447292656,0 1.542358714616521,36.06605260406082,0 1.537769036309591,36.10546920457406,0 1.532029046606684,36.12123992380008,0 1.519568073365607,36.12936073067232,0 1.485982672424369,36.1284144626622,0 1.459338167777626,36.15116032847632,0 1.397372978320468,36.16021684379165,0 1.383678395197385,36.17316235871317,0 1.379057430891324,36.19157007486827,0 1.361884061022991,36.20719031874747,0 1.32623347163402,36.22196517672479,0 1.315964473667952,36.23947992058146,0 1.312721375806631,36.26176136106395,0 1.308499279059612,36.28457002987162,0 1.287841347343912,36.30625596730072,0 1.281597924469196,36.32628391395598,0 1.260679663483155,36.33214331654401,0 1.236571018121691,36.33031380052968,0 1.222077427859416,36.3250638725115,0 1.195547023299632,36.34007227923446,0 1.179091764307803,36.34708875754677,0 1.156895748837343,36.34681818742022,0 1.120747996087153,36.33150010004962,0 1.092237943016969,36.3296042826683,0 1.070820912116439,36.33684115155744,0 1.046088529076847,36.33781908166112,0 1.030623377230389,36.35293733001793,0 1.024104326233906,36.37844071307023,0 1.017090610647173,36.41228464236685,0 0.9925774221970607,36.50093352814945,0 0.9928823672867804,36.5339482454996,0 1.006966905578,36.6734377480793,0 1.002798196397468,36.6889915131457,0 0.9883724232151847,36.70965033593189,0 0.9711607096052499,36.72268027629126,0 0.9527301746601968,36.7249422896924,0 0.9315228791376518,36.74315675891073,0 0.9128111083250645,36.74471469377081,0 0.8627226787810693,36.77701166753266,0 0.6935761854621658,36.94548146466227,0 0.6647822707736717,36.96998783013166,0 0.6527623297720631,36.9767819143215,0 0.636375232269446,36.99270323793043,0 0.611659255532111,36.99592454274782,0 0.5907625450129617,37.01776451532609,0 0.5644954342721253,37.01731475499074,0 0.5387501905289649,37.02952566080037,0 0.5027849772535098,37.0385828936863,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nuran Rorwhed</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nuran Rorwhed</b> ist ein Fluss. Er entspringt im <a href="http://www.wiki-aventurica.de/wiki/Rorwhed" title="Rorwhed">Rorwhed</a>-Gebirge im <a href="http://www.wiki-aventurica.de/wiki/Svellttal" title="Svellttal" class="mw-redirect">Svellttal</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Brinasker_Marschen" title="Brinasker Marschen">Brinasker Marschen</a>, in der Nähe von <a href="http://www.wiki-aventurica.de/wiki/Enqui" title="Enqui">Enqui</a> in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a>. Unterwegs speist er die Seen  <a href="http://www.wiki-aventurica.de/wiki/Dornwasser" title="Dornwasser">Dornwasser</a> und <a href="http://www.wiki-aventurica.de/wiki/Muunasee" title="Muunasee">Muunasee</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+1.369700428605631,35.35263992901057,0 1.364447632106685,35.42946587871691,0 1.341029972285026,35.47054962894753,0 1.29296421370527,35.51896399781675,0 1.275182090638587,35.55363143623476,0 1.265251692606331,35.57387175880366,0 1.283549332582294,35.60742764191237,0 1.28400915995911,35.63682772776537,0 1.286121627595087,35.65387581731472,0 1.2758942436112,35.66427970953611,0 1.275426917335283,35.68891465157515,0 1.278556282659575,35.69647755923986,0 1.28563094970287,35.75131886204928,0 1.28931813133131,35.76716370133177,0 1.297022322153729,35.78398174937148,0 1.297004475988604,35.81167335694735,0 1.290156365252904,35.83415794795179,0 1.28995777808935,35.85606211702696,0 1.287061043831368,35.8807675769643,0 1.286147731914233,35.89727852639543,0 1.259694778394132,35.93315883019636,0 1.228177857220183,35.95853879411992,0 1.14068715203147,36.08784487083755,0 1.044721757109743,36.20708192331218,0 1.021079845734598,36.21356434883317,0 0.9849435576385135,36.21244274886699,0 0.9625252081783553,36.2201301909009,0 0.8621224100852198,36.30152276127851,0 0.7866049375532636,36.44880751836795,0 0.6408704804715604,36.60271702502637,0 0.6407711699860053,36.61277629135645,0 0.6199841772567294,36.63880485872069,0 0.6171122312146671,36.66358410525294,0 0.6019665390329698,36.68010992681518,0 0.5923426742315119,36.69345732771522,0 0.5776550677266856,36.70626417628799,0 0.5526998259969917,36.70902738115259,0 0.5284078563847272,36.72427453924185,0 0.5145189722865551,36.73288027811671,0 0.4959358593575347,36.73357587693972,0 0.4693512918571785,36.73468030556004,0 0.4431539514427585,36.75571796280689,0 0.4277084553313393,36.77464037586994,0 0.3966905310180224,36.77827803650591,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nuran Kaeeli</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nuran Kaeeli</b> (<a href="www.wiki-aventurica.de/index.php/Nujuka" title="Nujuka">niv.</a>: <i><a href="http://www.wiki-aventurica.de/wiki/Schneehuhn&amp;action=edit&amp;redlink=1" class="new" title="Schneehuhn (Seite nicht vorhanden)">Schneehuhn</a>-Fluss</i>) ist ein <a href="www.wiki-aventurica.de/index.php/Fluss" title="Fluss">Fluss</a> in den <a href="www.wiki-aventurica.de/index.php/Brinasker_Marschen" title="Brinasker Marschen">Brinasker Marschen</a>. Er mündet nach Durchfließen des <a href="www.wiki-aventurica.de/index.php/Atamsee" title="Atamsee">Atamsees</a> in den <a href="www.wiki-aventurica.de/index.php/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+1.944809321795786,36.53486266726875,0 1.924387275152841,36.51416974894763,0 1.921714427683567,36.50012630788662,0 1.907949468332479,36.48379820458692,0 1.894233094020064,36.48168781436468,0 1.856115216644014,36.43963831357042,0 1.821378147774793,36.43553644609104,0 1.80239054813077,36.42662614032169,0 1.788182580077939,36.40978108093706,0 1.765788295750328,36.40639683470412,0 1.716781690953018,36.41052912850012,0 1.697474913882426,36.41791092724535,0 1.673202352907559,36.43782386202829,0 1.657648384323636,36.44430911940003,0 1.637597732658722,36.43861279585926,0 1.614503479233667,36.41791836096406,0 1.591398246886859,36.43291280011736,0 1.562139255312203,36.43261055177901,0 1.548588593820852,36.43928754014769,0 1.545936226445899,36.45374401111427,0 1.55914177626445,36.47434568241627,0 1.556366278686663,36.48962670140806,0 1.53753984543729,36.49798997289513,0 1.508453428816741,36.48725468934347,0 1.489529735974189,36.49213830321531,0 1.471077951665567,36.48324671276393,0 1.452127139195671,36.46717892137608,0 1.42858428580658,36.47495991186765,0 1.40874300829706,36.47178291691947,0 1.380704555089078,36.49548011387458,0 1.386230880859838,36.51781664062854,0 1.387853000843393,36.53138971312124,0 1.372604218707723,36.5391486481016,0 1.355640634661783,36.54087228219241,0 1.347041055002649,36.55640744151203,0 1.350984684131005,36.57189114643892,0 1.324296198011858,36.66929102247627,0 1.327220614245792,36.68475853451903,0 1.343414160071763,36.70227811794447,0 1.374704330879628,36.74807510592969,0 1.398843673789656,36.86271542410705,0 1.321027239747419,36.95685306551975,0 1.322836527746221,36.96918377862907,0 1.33933686252917,36.97788096952016,0 1.354763373705905,36.99024582007993,0 1.351830129315366,37.00632053832904,0 1.361954996174364,37.01566583470824,0 1.365308786599839,37.0352771015829,0 1.351171529569226,37.05385580726976,0 1.33731830981739,37.07302933095225,0 1.3141294736457,37.07415663778454,0 1.301850567198584,37.079258261213,0 1.291245186264456,37.07321799451538,0 1.273098253121026,37.07901205192168,0 1.16480867491856,37.07444703173874,0 1.132450655776838,37.07676907884768,0 1.108576278325204,37.06816481209816,0 0.7903963511837531,37.07070259685899,0 0.7718327967027538,37.07138956761027,0 0.7634100078213169,37.06466624504614,0 0.7415045080518534,37.06964831391355,0 0.7238953137187831,37.06748134609521,0 0.7117751245136761,37.07385809092961,0 0.6852676550772729,37.07754800942747,0 0.6737837076659758,37.09071608396872,0 0.6674654250998136,37.11361957769713,0 0.6535530767270981,37.13113837567461,0 0.6366508866362186,37.14415831070188,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Joraani</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Joraani</b> ist der westlichste Fluss in den <a href="http://www.wiki-aventurica.de/wiki/Brinasker_Marschen" title="Brinasker Marschen">Brinasker Marschen</a>. Er entspringt im <a href="http://www.wiki-aventurica.de/wiki/Firunswall" title="Firunswall">Firunswall</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-0.8598655427248847,35.95336699423476,0 -0.8666132491418255,35.97724502138347,0 -0.8702269169633237,35.99499332048907,0 -0.8650800296047045,36.00986488389644,0 -0.8694908313150296,36.02371075232417,0 -0.8438273683423747,36.05385083616956,0 -0.8424423599334441,36.06707117001272,0 -0.7944427590521275,36.11717855724469,0 -0.7908283105742697,36.14752382988263,0 -0.7889458534931748,36.17317208525879,0 -0.7633454223286829,36.2087539158009,0 -0.7673367743358772,36.23736329836354,0 -0.7566885667867751,36.26170542063843,0 -0.7562826224687047,36.27646677035772,0 -0.7338608341358999,36.29647099978914,0 -0.7554871203744773,36.33240489401833,0 -0.753572398446748,36.35887433915813,0 -0.7438061754724101,36.38245552033897,0 -0.6998101626340725,36.41090084363225,0 -0.6960507190098852,36.43280634389846,0 -0.6496134711497947,36.47013184722115,0 -0.6389663737474371,36.49358487236617,0 -0.63527268534181,36.54840628666223,0 -0.6418853431447391,36.58581285570125,0 -0.6428450862726798,36.61130025843799,0 -0.6336081486400169,36.64260982451426,0 -0.6419527747038956,36.66467635026263,0 -0.6601476951914442,36.6869651680224,0 -0.6886046757276398,36.72014134152765,0 -0.6941646127434964,36.74461555539884,0 -0.6776559175852148,36.78062529852099,0 -0.6787075119965946,36.82280737777976,0 -0.6713988540417737,36.87400183105168,0 -0.6256761124071586,37.03489642843857,0 -0.4997956371062307,37.16047436233494,0 -0.4433225426390919,37.23593456508082,0 -0.4123527125972204,37.25054698858714,0 -0.3657196952302444,37.25825509647235,0 -0.3397180785773224,37.27608506790921,0 -0.3253715656417355,37.30758717643829,0 -0.308875650294913,37.31741291953689,0 -0.2946587165803494,37.33276059481865,0 -0.2820349174789272,37.354204930983,0 -0.2622890709738157,37.37301927719655,0 </coordinates>
+		</LineString>
+	</Placemark>
+	  	<Placemark>
+		<name>Ceamon</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Ceamon</b> ist ein Fluss in den <a href="www.wiki-aventurica.de/index.php/Westliches_Nivesenland" title="Westliches Nivesenland">westlichen Nivesenlanden</a>, der in den <a href="www.wiki-aventurica.de/index.php/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a> mündet.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				4.20360874153134,39.49741436113795,0 4.184467830185243,39.49213169271183,0 4.169304227971649,39.48207440311888,0 4.149644864870825,39.47069412934724,0 4.1277270653053,39.46104209741662,0 4.096867180178401,39.44134265825844,0 4.034342345532571,39.4388932966292,0 4.00882320580692,39.45878770678232,0 3.968829361096755,39.45379931099786,0 3.950167808302652,39.45935806908238,0 3.924739534544011,39.46357119906184,0 3.898851184495404,39.45558799837361,0 3.882149425176245,39.43110795617318,0 3.851787394728727,39.41828842681247,0 3.847189073242765,39.39701495635238,0 3.836086620125883,39.37995740764396,0 3.805305328828388,39.36102993368521,0 3.790748642403419,39.35353064333449,0 3.78312798180072,39.32997610988778,0 3.763606591865949,39.31504539325989,0 3.754885560982917,39.29105317254486,0 3.730328402983842,39.27608570581136,0 3.714763060717303,39.26205042890901,0 3.703811883249069,39.23891102566517,0 3.706430440165449,39.20890834724607,0 3.701043566755748,39.1905917146258,0 3.68389020012724,39.17087761788427,0 3.679654896396594,39.15082115923894,0 3.687311628252876,39.12214091952011,0 3.685306664183308,39.10324050309995,0 3.679455139660202,39.07838776792912,0 3.689283305185698,39.05452942781405,0 3.693944400600275,39.04020629431401,0 3.705285711690958,39.02897923283413,0 3.706657348574372,39.00854133302305,0 3.691210964434482,38.9901529209042,0 3.693640011938919,38.97494385774849,0 3.702781733238274,38.95978436375827,0 3.6964854195855,38.93900833204408,0 3.698105615259384,38.9217936603145,0 3.690270072449498,38.90204352976119,0 3.672936269698526,38.88358254045347,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nuran Trasic</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nuran Trasic</b> ist ein Fluss im Norden <a href="www.wiki-aventurica.de/index.php/Aventurien" title="Aventurien">Aventuriens</a>, der in den <a href="www.wiki-aventurica.de/index.php/Golf_von_Riva" title="Golf von Riva">Golf von Riva</a> mündet.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				4.567080060549853,37.622636916982,0 4.557706200552694,37.6302068572801,0 4.538925753101331,37.642844722706,0 4.527339527446599,37.65746953131018,0 4.523881418695666,37.67998477185276,0 4.528788405493978,37.70562425343098,0 4.501012274351406,37.73651269975293,0 4.474530377967998,37.73699615382962,0 4.457992097939963,37.74801524230398,0 4.440120566425034,37.76880649485512,0 4.422382567030427,37.77596631076712,0 4.40965888920964,37.79581117054902,0 4.39800022806878,37.80815383328355,0 4.379394425803129,37.81645189167454,0 4.360326462389567,37.80725683643654,0 4.338329219257837,37.79194339121759,0 4.336762459107559,37.77809573173643,0 4.332080618518384,37.76926444459223,0 4.32226988964495,37.76523309320667,0 4.30790061385629,37.76577013836712,0 4.297193758307031,37.75810638288315,0 4.288155539623975,37.74407023978455,0 4.276299103463892,37.73640856759233,0 4.263051758149157,37.73420524617108,0 4.243841414438903,37.74157466262341,0 4.2179769225053,37.74012379035902,0 4.201938074493647,37.74633461892454,0 4.187096055822888,37.75912365115924,0 4.171072753604747,37.76805465057234,0 4.157282261177945,37.76811603564799,0 4.149562817574508,37.77360061547383,0 4.135775570117919,37.77434100253396,0 4.116086720451806,37.79600106219841,0 4.100975518696764,37.8165086396074,0 4.090379878843238,37.82427668384943,0 4.063940151930046,37.82938024806184,0 4.045549540030162,37.83490547290989,0 4.019333368427553,37.83113853216586,0 3.993711984207951,37.85225755942937,0 3.973010558709575,37.85595167959251,0 3.94221757466553,37.8539898999432,0 3.926127394897792,37.85879953401001,0 3.91324980917604,37.87677326441535,0 3.891388665973317,37.87886634613515,0 3.871009863985289,37.89571874716507,0 3.849135246082489,37.89667042680623,0 3.827251688845157,37.89534719003063,0 3.811976695437633,37.88855717846907,0 3.803044651971694,37.88561789651314,0 3.787176281547249,37.86882916664283,0 3.767878684184751,37.86635508108877,0 3.751763698242479,37.87818987126531,0 3.744280693389059,37.88660696880665,0 3.72526068752421,37.89458355033097,0 3.703949544636398,37.90582274141515,0 3.697330294025429,37.91809904122118,0 3.691868587201164,37.94127660261941,0 3.676604256936029,37.95196041656651,0 3.659032577043933,37.95877987497592,0 3.659032832600828,37.95991553297657,0 3.639155108285914,37.97876877978852,0 3.620137305591291,37.98262830753027,0 3.600256558274149,37.980352428843,0 3.579506944090551,37.98443210003106,0 3.555865747242863,37.99304919645395,0 3.530782221367323,37.99575585783656,0 3.506282559999905,37.99050775071756,0 3.477136198836766,37.99706220420891,0 3.435230997955945,38.01472994169308,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nuran Fien</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				8.376805399816476,41.53873286899709,0 8.346930088548518,41.52024015870398,0 8.32115304218706,41.47804135432934,0 8.251445810951312,41.44343491761888,0 8.245876616563377,41.41800401908311,0 8.241053234698022,41.3935738499807,0 8.217254347516484,41.35951131187972,0 8.199653739191916,41.33804916643422,0 8.216024749680793,41.30216709826184,0 8.210453613455186,41.27620756316983,0 8.183710384219541,41.24938144932923,0 8.147298131500643,41.2320763198145,0 8.143051672613337,41.20501982385187,0 8.176461935539285,41.15724444755839,0 8.192740275771154,41.12034834907668,0 8.206809104541987,41.0927467301947,0 8.179890791602887,41.06134366453387,0 8.171067789299107,41.0252593932327,0 8.176491860028692,41.00100948253755,0 8.167866562647726,40.95619720403913,0 8.144541029266744,40.92721348951317,0 8.10118108208594,40.9034574392908,0 8.071821739106838,40.89975516224076,0 8.049311067222433,40.90967927985786,0 8.037252107278668,40.93722193009678,0 8.02380777142613,40.95198486303094,0 7.999538065296504,40.94246904893572,0 7.964495953186574,40.92198501312102,0 7.964082104035826,40.88917004091025,0 7.946988686253085,40.86330354260747,0 7.925377769973903,40.85216641492949,0 7.905412394695002,40.83329312217202,0 7.873323354624596,40.82861109469184,0 7.841924424405214,40.81058193322266,0 7.799943754879699,40.79695150768777,0 7.765482110376811,40.79794528615799,0 7.745971912706335,40.81386800309653,0 7.733940252397962,40.83059796775206,0 7.722201993589684,40.83963564294079,0 7.71484412561944,40.85520580045456,0 7.694735392781496,40.85935416703553,0 7.674867088749076,40.8824393549701,0 7.659507523291669,40.88696160414784,0 7.641501638918042,40.8787524317132,0 7.588810558219155,40.85304830899533,0 7.56388366667596,40.85576760754902,0 7.547569833958621,40.86900682120712,0 7.537076791133908,40.87645626483174,0 7.507439392596447,40.88031424997352,0 7.488484150675026,40.89566654117655,0 7.466989668975002,40.91518273370812,0 7.444109905890635,40.91936493440741,0 7.41647225588456,40.9082950924129,0 7.387657912651012,40.90134632484308,0 7.364866463907005,40.90807371650892,0 7.355995708010845,40.93853708541562,0 7.354248534728194,40.96113677888962,0 7.341688135537483,40.9855557499203,0 7.339706679351274,41.00304402261777,0 7.350554653608413,41.01815454314839,0 7.346507577931789,41.03518996054186,0 7.329054530915435,41.04128453177533,0 7.287873792807467,41.03412592962611,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nuran Leskari</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nuran Leskari</b> ist ein Fluss in <a href="www.wiki-aventurica.de/index.php/Hoher_Norden" title="Hoher Norden">Nordaventurien</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				3.880854158391136,40.68295028314751,0 3.827929450575576,40.66005776594965,0 3.809934161461439,40.65349543263221,0 3.78369380626896,40.62511519094669,0 3.76901471263658,40.60889828476557,0 3.752433248204952,40.5749352255271,0 3.736832186100745,40.54903506280641,0 3.712599420611205,40.53596676867171,0 3.692803157826612,40.50841395341082,0 3.650672183893118,40.48793851750441,0 3.616960097424371,40.47315565935746,0 3.580422416448892,40.43413550618433,0 3.559936692831813,40.30724645305196,0 3.552822921694216,40.28062032549978,0 3.558034626673996,40.25149892830262,0 3.545343415560212,40.23316264154787,0 3.530039845820447,40.20751085436204,0 3.526192500970842,40.19133234684445,0 3.481773943980007,40.15342488043117,0 3.44835151175457,40.15414724014161,0 3.416290601464049,40.15435175951331,0 3.392268167021688,40.13804743631766,0 3.374401265165117,40.10554340688695,0 3.371285990085935,40.08831457971329,0 3.352532284438323,40.06988205801398,0 3.343514705878417,40.0406154428391,0 3.285570584767172,40.00978385556597,0 3.255459090531512,40.01986493678713,0 3.228294401732517,40.01799432161736,0 3.203099329008019,40.01978602678639,0 3.16252230225176,40.00889042529429,0 3.139175357286912,39.98725600718052,0 3.12886876734767,39.96004831293949,0 3.102738584864146,39.94253451335321,0 3.088428261802088,39.91266062121022,0 3.07944429992246,39.88805695783088,0 3.084344866366364,39.84903233164125,0 3.079652741251397,39.81403644495279,0 3.074019071986485,39.7915315931188,0 3.07294689898812,39.77795045200064,0 3.063868364652007,39.75799412585658,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nuran Rudoc</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nuran Rudoc</b> ist ein Fluss in <a href="www.wiki-aventurica.de/index.php/Hoher_Norden" title="Hoher Norden">Nordaventurien</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>		
+ <MultiGeometry>
+ <LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				8.781762472257185,40.97259893972565,0 8.836501999776301,40.98420977956381,0 8.871910645506326,40.9964935146484,0 8.920264894588408,40.99574827173912,0 8.977054296137304,40.97699666188748,0 9.01763937116735,41.00459327954377,0 9.066386722856738,41.01001641331367,0 9.109040719521397,41.02713235278741,0 9.129037492221562,41.05057212466782,0 9.142263355150146,41.06731223741276,0 9.173797584128305,41.082981132637,0 9.202903885489688,41.08389692226938,0 9.230515221286471,41.10259380285301,0 9.259487066235471,41.1370121207984,0 9.295036257053083,41.15312937523984,0 
+			</coordinates>
+		</LineString>
+
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				9.21878916160736,41.52180327499039,0 9.236340219911918,41.50428331728891,0 9.258433064807694,41.49930084625445,0 9.277885140285511,41.48306041412671,0 9.276962239475138,41.47037395372006,0 9.268980648841897,41.46070172669976,0 9.283091218482472,41.43785967933934,0 9.274818348489138,41.42411028222023,0 9.248095855612942,41.40656758295955,0 9.214294930847176,41.38294278601133,0 9.195234990414953,41.36189543918776,0 9.189708157785299,41.32665839417278,0 9.191658255701707,41.30293175279688,0 9.16012867525205,41.26051375647489,0 9.134944461283528,41.22924796933118,0 9.131737987281532,41.2093812956455,0 9.158313014319647,41.19196287641699,0 9.196445015151522,41.19270394298561,0 9.226054865820716,41.19241498405507,0 9.254325532198111,41.1817153055414,0 9.295036257053083,41.15312937523984,0 
+			</coordinates>
+		</LineString>
+
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				9.295036257053083,41.15312937523984,0  9.411796394459381,41.15145956904178,0 9.42870121723611,41.1434759676786,0 9.451209622597386,41.12979868390629,0 9.464510998194609,41.10605637637786,0 9.48304421987034,41.07981191093909,0 9.508512958077994,41.07371591775881,0 9.529669630866373,41.0823470029668,0 9.547284324609271,41.11567388691579,0 9.564216554776976,41.14766365820409,0 9.604042510857383,41.15501784866068,0 9.631356429376199,41.14881823845504,0 9.660447354417425,41.13434742969605,0 9.678768197251404,41.10579240592756,0 9.697085277080635,41.10042431830038,0 9.72108342749209,41.11344717765079,0 9.729353247575119,41.12626711259089,0 9.750897834857067,41.1384896832752,0 9.774389132801904,41.18375912788658,0 9.811322930023007,41.21481344176468,0 9.844390809289452,41.22739292560615,0 9.89168635202962,41.2211148245202,0 9.925638276980322,41.22908550123582,0 9.952532826905088,41.22464130066892,0 10.0089148723174,41.23199078221511,0 
+			</coordinates>
+		</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Thaschpforte</name>
+	<open>1</open>
+		<Placemark> 	<!-- Thaschpforte-->
+			<name>Thaschpforte</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Thaschpforte</b> ist ein Pass, der auf 800 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> Höhe das <a href="http://www.wiki-aventurica.de/wiki/Thasch" title="Thasch">Thaschgebirge</a> von den <a href="http://www.wiki-aventurica.de/wiki/Blutzinnen" title="Blutzinnen">Blutzinnen</a> trennt. Sie ist eine der wenigen Zugänge zum zentralen <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a> und führt von <a href="http://www.wiki-aventurica.de/wiki/Arsingen" title="Arsingen">Arsingen</a> nach <a href="http://www.wiki-aventurica.de/wiki/Khezzara" title="Khezzara">Khezzara</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					1.417610593434784,33.78018703517532,0 <!--<POI>Siedlung:Arsingen</POI>--> <!--<POI>SOE:Weg von Arsingen nach Lowangen</POI>--> <!--<POI>SOE:Weg von Arsingen nach Svellmia</POI>-->
+					1.426566893021855,33.74645569915537,0 
+					1.422660247751695,33.69534790000306,0 
+					1.411371458030286,33.67645029728494,0 
+					1.379875954381091,33.65221547288225,0 
+					1.352167884305742,33.61196351437129,0 
+					1.311048800592942,33.59373689273143,0 
+					1.255142591283689,33.59545098442352,0 
+					1.218420122758828,33.5873588171202,0 
+					1.191614989004051,33.58918046166058,0 
+					1.174679710890669,33.59852379397356,0 
+					1.131373467057835,33.5883641457503,0 
+					1.05066371244293,33.59066458881781,0 
+					1.02189734632568,33.5660419224095,0 
+					1.016244011015435,33.54280179152968,0 
+					0.9814473830208215,33.52036098770243,0 
+					0.9395974201051027,33.52028143101877,0 
+					0.9218007832935138,33.50552165389713,0 
+					0.9049084808848673,33.50486059156047,0 
+					0.8661908426339138,33.48432601524565,0 
+					0.839464866624895,33.47990056116957,0 
+					0.8074669455372274,33.46247778725098,0 
+					0.7813518690852495,33.43485385635638,0 
+					0.7853661055098948,33.40218228463469,0 
+					0.7965158077390599,33.37606204264109,0 
+					0.7867030785827867,33.34799160718637,0 
+					0.7629460550174216,33.33877725591776,0 
+					0.7423747451259954,33.30880167181603,0 
+					0.6880853360516159,33.28096313144552,0 
+					0.6227469423533472,33.29019688111282,0 
+					0.5611507423038775,33.24423477226889,0 
+					0.5292194308765175,33.2099946596475,0 
+					0.4972056467901953,33.19904764102088,0 <!--<POI>Abzweig:Weg von Teshkal nach Thaschkamm</POI>-->
+					0.405097992719694,33.2539610973141,0 
+					0.4044254038430206,33.3182368169042,0 
+					0.3912835747744259,33.34769423682001,0
+					0.3626909899667985,33.37346900563516,0
+					0.3253221997762301,33.38254869844754,0 
+					0.2987779556638226,33.43833806522276,0 
+					0.2754559825747416,33.46999086067427,0 
+					0.2634051002892179,33.52677190057612,0 
+					0.2445727359594785,33.54617266184128,0 
+					0.1869320422331522,33.55764525173404,0 
+					0.09715492391037639,33.60340631911464,0 
+					0.07876652465028444,33.63428674173333,0 
+					0.03274910799608399,33.65083903685731,0 
+					0.01131788570363224,33.67929045237599,0 
+					-0.06160163827307108,33.69532413469958,0 
+					-0.07362785076261869,33.71338906997198,0 
+					-0.07741735003227834,33.76831970355519,0 
+					-0.07818089414755258,33.79187465127937,0 <!--Anfang Detailkarte Khezzara--> 
+					-0.07829087395500367,33.79187280721989,0 
+					-0.07851596935414373,33.79197801492739,0 
+					-0.07872503396171959,33.79218732438356,0 
+					-0.07890651478982491,33.79224242587388,0 <!--<POI>Siedlung:Khezzara</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>0.605241</longitude>
+				<latitude>33.584956</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

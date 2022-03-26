@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Chorhop nach Nasha</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Chorhop nach Nasha-->
+			<name>Weg von Chorhop nach Nasha</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-0.9371598253985991,20.61800951962057,0   <!-- <POI>Siedlung:Chorhop</POI> -->  <!-- <POI>SOE:Magistrale Askania</POI> -->   <!-- <POI>SOE:Rabensteig</POI> -->
+						-0.9373333384772042,20.61746727065478,0 
+						-0.9368238403716889,20.61633461698723,0   <!-- <POI>Flussquerung:Südask</POI> -->
+						-0.9371471866484127,20.61615220922677,0 
+						-0.9373287929613705,20.61596979954871,0 
+						-0.9377852191769232,20.61509997076939,0 
+						-0.9384717704673817,20.61459004918685,0 
+						-0.9389857964690251,20.61404600933397,0 
+						-0.9389636488736675,20.61178457629261,0   <!-- Ende Detailkarte Chorhop -->
+						-0.9498734698828149,20.56462993970232,0 
+						-0.9096862296922303,20.5035608442184,0    <!-- <POI>Siedlung:Nova Corapia</POI> -->
+						-0.8995845724456941,20.47610363457122,0 
+						-0.8719240380654247,20.45122584099768,0 
+						-0.8171443471627093,20.42215936544076,0 
+						-0.79900302058587,20.39690737005361,0 
+						-0.8065218200814595,20.37673996937307,0 
+						-0.8179840969683416,20.3256900631856,0 
+						-0.7958731705538136,20.29802044581563,0 
+						-0.7943029902353072,20.23514812656843,0 
+						-0.7907353951793317,20.21680452053709,0 
+						-0.7969415538538127,20.19999781822504,0 
+						-0.7927314247260786,20.1761510857478,0 
+						-0.777338303657602,20.14844934411115,0 
+						-0.777663166624879,20.13536836401414,0   <!-- Anfang Detailkarte Nasha -->
+						-0.7787235513563606,20.13450823121273,0 
+						-0.7792482510284915,20.13436967271348,0  <!-- <POI>Siedlung:Nasha</POI> --> 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-0.858456</longitude>
+				<latitude>20.389478</latitude>
+				<altitude>122690</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

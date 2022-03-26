@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Alte Straße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Alte Straße-->
+			<name>Alte Straße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Alte Straße</b> liegt in <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a> mit <a href="http://www.wiki-aventurica.de/wiki/Nordhag_%28Weiden%29" title="Nordhag (Weiden)">Nordhag</a>. Sie verläuft mitten durch den <a href="http://www.wiki-aventurica.de/wiki/Ifirnstann" title="Ifirnstann">Ifirnstann</a>, in dem Reisende die Gefahr durch Räuberüberfälle fürchten müssen. Insgesamt ist die Alte Straße in einem guten Zustand, ist teilweise gepflastert und stellt eine der wichtigsten Handelsrouten im westlichen <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> dar.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.465888440804024,32.81585230390425,0 <!--<POI>Siedlung:Nordhag (Weiden)</POI>--> <!--<POI>SOE:Alter Weg</POI>--> <!--<POI>SOE:Saljethstieg</POI>--> <!--<POI>SOE:Nôrrnstieg</POI>--> <!--<POI>SOE:Straße von Nordhag nach Reichsweg</POI>-->
+					3.490402868180598,32.83554726447191,0 
+					3.526956065543532,32.84788557394777,0 
+					3.562744353717098,32.8499909406894,0 
+					3.669642403937841,32.89623659060902,0 
+					3.703760670214735,32.91808431323112,0 
+					3.727676868403922,32.95325457662307,0 
+					3.754394501885892,32.97705780505378,0 
+					3.799325736460792,33.00100734683544,0 
+					3.851026341131865,33.01362998717016,0 
+					3.869756785321776,33.02982273623577,0 
+					3.880573079517879,33.06371334634414,0 <!-- <POI>Flussquerung:Finsterbach</POI> -->
+					3.904778775193669,33.09461966200576,0 <!--<POI>Abzweig:Weg nach Burg Distelstein</POI>-->
+					3.924966525247104,33.15481345860525,0 
+					3.936800221664598,33.20120755245954,0 
+					3.961126579376491,33.22624341537322,0 
+					3.972106633720995,33.24746583430853,0 
+					4.025481205052555,33.27422583471854,0 
+					4.054301967208938,33.30501562836342,0 
+					4.068360052585058,33.33432734863097,0 
+					4.093101206433949,33.36400578386664,0 
+					4.096364772341927,33.37677718787706,0 
+					4.153048971128241,33.44324569417553,0 
+					4.213302867280078,33.47338074445152,0 
+					4.277680259414201,33.48553321257607,0 
+					4.349232140354873,33.51720110820618,0 
+					4.369193361554133,33.52094961011974,0 <!--Anfang Detailkarte Balsaith-->	
+					4.369633123355268,33.52083251217498,0 
+					4.370040572057226,33.52078781338877,0 
+					4.370338541984918,33.52065126167287,0 
+					4.370682925287792,33.52034315436775,0 
+					4.37148386776925,33.52031093669616,0 
+					4.373058280530973,33.52052630629899,0 <!--<POI>Siedlung:Balsaith</POI>-->
+					4.374300954775139,33.51986130932247,0 
+					4.374865063510902,33.51946959893443,0 
+					4.375598533355863,33.51954739252285,0 
+					4.376032008122284,33.51981754497649,0 
+					4.376972225654974,33.52087379748033,0 
+					4.377301997317272,33.52099654188733,0 
+					4.377860191525387,33.52108076634342,0 <!--Ende Detailkarte Balsaith-->	
+					4.433952958525116,33.50411387458829,0 
+					4.588302933841453,33.48917419824438,0 
+					4.682016082805244,33.51236338859528,0 
+					4.81575839347467,33.55454210895099,0 
+					4.86225207172633,33.56018347825025,0 
+					4.927014235199243,33.60423400844611,0 
+					5.015614189641506,33.6336833616106,0 
+					5.049051960774627,33.64749797622712,0 
+					5.049856633916465,33.6474204768794,0 <!--Anfang Detailkarte Trallop-->	
+					5.050699191100887,33.64728407996092,0 
+					5.051162001428889,33.6471840208112,0 
+					5.051647273811786,33.64705097847935,0 
+					5.052161379800646,33.64686377239237,0 
+					5.052598676604434,33.64663512653115,0 
+					5.05306276303398,33.64635250929459,0 
+					5.053386970022375,33.64620690047951,0 <!--<POI>Siedlung:Trallop</POI>--> <!--<POI>SOE:Seeweg</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>4.739956</longitude>
+				<latitude>33.374451</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

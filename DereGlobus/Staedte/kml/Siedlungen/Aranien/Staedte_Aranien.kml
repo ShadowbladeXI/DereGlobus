@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Siedlungen</name>
+	<open>1</open>
+	
+	<Folder><name>Aranien</name>
+				<open>1</open>
+				<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>1800</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+				<Placemark>
+        <name>Barbrück</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Barbrück</b> ist die zweitgrößte Stadt des <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Zorgan" title="Sultanat Zorgan">Sultanats Zorgan</a> und aufgrund seiner Lage an der Kreuzung zweier Reichsstraßen und der großen Brücke über den <a href="http://www.wiki-aventurica.de/wiki/Barun-Ulah" title="Barun-Ulah">Barun-Ulah</a> für den Handel besonders wichtig. Es besteht aus dem älteren – Elemente garethischer Stadtbefestigungen aufweisenden – nördlich des <a href="http://www.wiki-aventurica.de/wiki/Barun-Ulah" title="Barun-Ulah">Barun-Ulah</a> gelegenen Stadtteil <i>Barjani</i> und dem nach <a href="http://www.wiki-aventurica.de/wiki/1028_BF" title="1028 BF">1028 BF</a> nach modernsten horasischen Prinzipien errichteten Stadtteil <i>Zhanadschi</i>.
+</p><p>Die Stadt ist faktisch in den Händen der <a href="http://www.wiki-aventurica.de/wiki/Mada_Basari" title="Mada Basari" class="mw-redirect">Mada Basari</a>: Sämtliche Betriebe in der Stadt und einige Gestüte, Schmieden und Manufakturen außerhalb der Stadt gehören ihr.
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 6.797807</longitude>
+              <latitude> 26.743887</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 6.797807, 26.743887,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Llanka</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: LINK DES WAPPENS -->
+<a href="http://www.wiki-aventurica.de/wiki/Llanka"><img src="http://www.wiki-aventurica.de/images/7/7a/Llanka_Wappen_%28oronisch%29.svg" width="100" height="122" align="right">
+<img src="http://www.wiki-aventurica.de/images/3/39/Llanka_Wappen.svg" width="100" height="122" align="right">
+</a>
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Llanka</b> ist eine Stadt an der Ostküste <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a> an der Mündung des <a href="http://www.wiki-aventurica.de/wiki/Tern" title="Tern">Tern</a> in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Perricum" title="Golf von Perricum">Golf von Perricum</a>. Sie war ehemals der Sitz des <a href="http://www.wiki-aventurica.de/wiki/Meister_der_Brandung" title="Meister der Brandung">Meisters der Brandung</a> und Austauschort zwischen <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">Araniern</a> und den ansässigen <a href="http://www.wiki-aventurica.de/wiki/Thorwaler" title="Thorwaler">Thorwalern</a>.
+</p><p>Heute leben nur noch wenige <a href="http://www.wiki-aventurica.de/wiki/Thorwaler" title="Thorwaler">Thorwaler</a> in der Stadt. Die Herrschaft liegt nominell in der Hand einer von der <a href="http://www.wiki-aventurica.de/wiki/Mhaharani_Shahi" title="Mhaharani Shahi" class="mw-redirect">Mhaharani Shahi</a> eingesetzten <a href="http://www.wiki-aventurica.de/index.php?title=Wesirin_von_Llanka&amp;action=edit&amp;redlink=1" class="new" title="Wesirin von Llanka (Seite nicht vorhanden)">Wesirin</a>, praktisch wird die Stadt jedoch von verschiedenen Banden kontrolliert.
+</p>
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 8.639495</longitude>
+              <latitude> 27.815763</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 8.639495, 27.815763,0</coordinates>
+        </Point>
+    </Placemark>
+	 <Placemark>
+        <name>Mendlicum</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Mendlicum</b> ist <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">Araniens</a> nördlichster Hafen und neben <a href="http://www.wiki-aventurica.de/wiki/Zorgan" title="Zorgan">Zorgan</a> der bedeutendste Flottenstützpunkt des Landes. Daneben ist der Ort Sitz des <a href="http://www.wiki-aventurica.de/wiki/Emir" title="Emir">Emirs</a> vom <a href="http://www.wiki-aventurica.de/wiki/Emirat_Aimaristan" title="Emirat Aimaristan">Aimaristan</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 6.606566</longitude>
+              <latitude> 28.235050</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 6.606566, 28.235050,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Nasir Malkid</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Nasir Malkid</b> ist die Hauptstadt des <a href="http://www.wiki-aventurica.de/wiki/Mhaharanyat_Aranien" title="Mhaharanyat Aranien">aranischen</a> <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Gorien" title="Sultanat Gorien">Sultanats Gorien</a>. Sie beherbergt den Hauptsitz des <a href="http://www.wiki-aventurica.de/wiki/Peraine" title="Peraine">perainegefälligen</a> <a href="http://www.wiki-aventurica.de/wiki/Therb%C3%BBniten" title="Therbûniten" class="mw-redirect">Therbûniten</a>-Ordens. Nach dem Krieg mit dem <a href="http://www.wiki-aventurica.de/wiki/Moghulat_Oron" title="Moghulat Oron">Moghulat Oron</a> und der Brandschatzung des Klosters der <a href="http://www.wiki-aventurica.de/wiki/Therb%C3%BBniten" title="Therbûniten" class="mw-redirect">Therbûniten</a> sowie der Festung <a href="http://www.wiki-aventurica.de/wiki/Krak_Muakkir" title="Krak Muakkir">Krak Muakkir</a> kümmert sich <a href="http://www.wiki-aventurica.de/wiki/Sultan" title="Sultan">Sultana</a> <a href="http://www.wiki-aventurica.de/wiki/Shila_Al%27Agrah" title="Shila Al'Agrah">Shila Al'Agrah</a> um den Wiederaufbau.
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]> </description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 6.420052</longitude>
+              <latitude> 26.059528</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 6.420052, 26.059528,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Palmyrabad</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+ <b>Palmyrabad</b> ist die größte Stadt des <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Palmyramis" title="Sultanat Palmyramis">Sultanats Palmyramis</a>. Sie besitzt weder Stadtmauer noch eine Einteilung in Stadtteile. Das Stadtbild wird von Lustgärten und Obsthainen sowie fischreichen Weihern geprägt.
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 5.493323</longitude>
+              <latitude> 27.445773</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 5.493323, 27.445773,0</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>Yaisirabad</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Yaisirabad</b> wurde aufgrund des Erscheinens des <a href="http://www.wiki-aventurica.de/wiki/Malmer" title="Malmer">Malmers</a> vor <a href="http://www.wiki-aventurica.de/wiki/Llanka" title="Llanka">Llanka</a> zum Kriegs- und Handelshafen ausgebaut.
+Zuvor handelte es sich nur um einen einfachen Fischerort.
+Nachdem viele Handwerker aus <a href="http://www.wiki-aventurica.de/wiki/Llanka" title="Llanka">Llanka</a> hierher übersiedelten besitzt der Ort sogar eine Werft.
+
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 8.255903</longitude>
+              <latitude> 27.895422</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 8.255903, 27.895422,0</coordinates>
+        </Point>
+    </Placemark>
+				<Placemark>
+        <name>Yerkesh</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Yerkesh</b> ist eine <a href="/wiki/Aranien" title="Aranien">aranische</a> Siedlung am <a href="/wiki/Barun-Ulah" title="Barun-Ulah">Barun-Ulah</a> und Sitz der <a href="/wiki/Emirat_Ulahshan" title="Emirat Ulahshan">Emire von Ulahshan</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <LookAt> 
+              <longitude> 6.330739</longitude>
+              <latitude> 26.903599</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> 6.330739, 26.903599,0</coordinates>
+        </Point>
+    </Placemark>
+			</Folder>
+	</Document>
+</kml>

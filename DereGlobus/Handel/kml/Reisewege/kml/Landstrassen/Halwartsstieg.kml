@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Halwartsstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Halwartsstieg -->
+			<name>Halwartsstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Halwartsstieg</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Gratenfels" title="Gratenfels">Gratenfels</a> mit der <a href="http://www.wiki-aventurica.de/wiki/Eisenstra%C3%9Fe" title="Eisenstraße">Eisenstraße</a> und den Siedlungen entlang des <a href="http://www.wiki-aventurica.de/wiki/Der_Gro%C3%9Fe_Fluss" title="Der Große Fluss">Großen Fluss</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					0.3958220030679427,29.85073288952878,0 <!--<POI>Siedlung:Gratenfels</POI>--> <!--<POI>SOE:Reichsstraße 3</POI>-->
+					0.3958588009620345,29.85012420236181,0 
+					0.3958369378830873,29.84981607269474,0 
+					0.3957836480983423,29.84954034363582,0 <!-- Ende Detailkarte Gratenfels --> 
+					0.3912527822889844,29.83341037907712,0  
+					0.3711011462915148,29.79429323955365,0 
+					0.3677840423998902,29.73939299234767,0 
+					0.3512231318727199,29.70015225416121,0 
+					0.3528945766688096,29.61084220748162,0 
+					0.3250391237367811,29.52915675945583,0 <!--<POI>Siedlung:Nembutal</POI>-->
+					0.3089352499192888,29.46415839389384,0 
+					0.3188395517592579,29.38873228284927,0 
+					0.3168206194899126,29.3483820977367,0 
+					0.2899625600687861,29.31521948302375,0 <!--<POI>Siedlung:Rieden</POI>-->
+					0.2735375784222272,29.28149653048368,0 
+					0.2690575107051019,29.21642589772497,0
+					0.2415346938941609,29.1665773482183,0 <!--<POI>Siedlung:Orgils Heim</POI>-->
+					0.2394948570284017,29.113047911181,0 
+					0.2674554961537856,29.05790931437036,0 
+					0.2753082654546057,29.02355662339724,0
+					0.2789998194012733,28.96941196811347,0 <!--<POI>Siedlung:Nummath</POI>-->
+					0.2871179370113985,28.89165559302118,0 
+					0.284492452399201,28.84159384933809,0 
+					0.2326933828890465,28.75910452410234,0 
+					0.2172684736845465,28.71118094256027,0 <!--<POI>Kreuzung:Wege von Wolfenhag nach Kaldenberg</POI>-->
+					0.2206070126333803,28.6924994912951,0 
+					0.2461523475039651,28.63940209041493,0 
+					0.2486483043226118,28.57890360317452,0 
+					0.2673348768934458,28.53694031928286,0 
+					0.2682288217385542,28.4975855101934,0 
+					0.2931946946102348,28.45355623122429,0 <!--<POI>Siedlung:Solfurt</POI>-->
+					0.3118193833300653,28.44373577354243,0 <!-- <POI>Fluss:Galebra</POI> -->
+					0.3253332018573962,28.41960570662312,0 
+					0.3274232940576094,28.3631060898431,0 <!-- <POI>Fluss:Der Große Fluss</POI> -->
+					0.3273667320841045,28.34098874771664,0 <!--<POI>SOE:Eisenstraße</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>0.308606</longitude>
+				<latitude>29.068030</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

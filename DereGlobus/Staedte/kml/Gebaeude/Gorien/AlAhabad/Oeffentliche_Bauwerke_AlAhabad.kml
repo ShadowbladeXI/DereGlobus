@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+             <Folder>
+        <name>Öffentliche Bauwerke Al'Ahabad</name>
+	<Region>
+      <LatLonAltBox>
+         <north>24.94240491187294</north>
+			<south>24.93742580187806</south>
+			<east>6.541741335862592</east>
+			<west>6.538226668038076</west>
+			<rotation>-47.70130691803328</rotation>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <Placemark>
+          <name>Karawanserei</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Der Tiefe Süden S. 27<TR><TD>Nedime, die Tochter des Kalifen S. 1<TR><TD>Das Land der ersten Sonne S. 110<TR><TD>Meister der Dämonen S. 132<TR><TD>Basargeschichten S. 26<TR><TD>Nedime, die Tochter des Kalifen S. 10<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Die Sieben Gezeichneten S. 358<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.539753329896076</longitude>
+            <latitude>24.93928731212638</latitude>
+            <altitude>1000</altitude>
+            <range>263.7852597166283</range>
+            <tilt>0</tilt>
+            <heading>-9.727064849427919e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point id="KMLe_57">
+            <coordinates>6.539126215867091,24.93944494046402,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+		  </Placemark>
+        <Placemark>
+          <name>Hammam (Badehaus)</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Der Tiefe Süden S. 27<TR><TD>Nedime, die Tochter des Kalifen S. 1<TR><TD>Das Land der ersten Sonne S. 110<TR><TD>Meister der Dämonen S. 132<TR><TD>Basargeschichten S. 26<TR><TD>Nedime, die Tochter des Kalifen S. 10<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Die Sieben Gezeichneten S. 358<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.540008295480343</longitude>
+            <latitude>24.93952784466773</latitude>
+            <altitude>0</altitude>
+            <range>263.7852597187221</range>
+            <tilt>0</tilt>
+            <heading>1.023764805943883e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point id="KMLe_59">
+            <coordinates>6.540055940810023,24.93979289734362,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+		  </Placemark>
+        <Placemark>
+          <name>Rechtsschule</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Der Tiefe Süden S. 27<TR><TD>Nedime, die Tochter des Kalifen S. 1<TR><TD>Das Land der ersten Sonne S. 110<TR><TD>Meister der Dämonen S. 132<TR><TD>Basargeschichten S. 26<TR><TD>Nedime, die Tochter des Kalifen S. 10<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Die Sieben Gezeichneten S. 358<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.540008295480343</longitude>
+            <latitude>24.93952784466773</latitude>
+            <altitude>0</altitude>
+            <range>263.7852597187221</range>
+            <tilt>0</tilt>
+            <heading>1.023764805943883e-005</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point id="KMLe_61">
+            <coordinates>6.540838866587812,24.93924877735608,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+		  </Placemark>
+        <Placemark>
+          <name>Bibliothek</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Der Tiefe Süden S. 27<TR><TD>Nedime, die Tochter des Kalifen S. 1<TR><TD>Das Land der ersten Sonne S. 110<TR><TD>Meister der Dämonen S. 132<TR><TD>Basargeschichten S. 26<TR><TD>Nedime, die Tochter des Kalifen S. 10<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Die Sieben Gezeichneten S. 358<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.541203329870046</longitude>
+            <latitude>24.93992256715124</latitude>
+            <altitude>1000</altitude>
+            <range>295.8198583390357</range>
+            <tilt>0</tilt>
+            <heading>0.0005141569391633316</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point id="KMLe_63">
+            <coordinates>6.541305858506268,24.93973531743728,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+		  </Placemark>
+        <Style>
+          <BalloonStyle>
+            <bgColor>FFFFFFFF</bgColor>
+            <textColor>FF000000</textColor>
+          </BalloonStyle>
+        </Style>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+      </Folder>
+      
+    </Document>
+</kml>

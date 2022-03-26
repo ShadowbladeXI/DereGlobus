@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<Folder>
+	<name>Werkstätten Zorgan</name>
+	<Region>
+	<LatLonAltBox>
+		<north>27.18345584486184</north>
+		<south>27.14599929213049</south>
+		<east>6.982196534288823</east>
+		<west>6.952597196188759</west>
+	</LatLonAltBox>
+	<Lod>
+		<minLodPixels>256</minLodPixels>
+		<maxLodPixels>-1</maxLodPixels>
+		<minFadeExtent>0</minFadeExtent>
+		<maxFadeExtent>0</maxFadeExtent>
+	</Lod>
+	</Region>
+	<Placemark>
+		<name>Haupthaus der Blauen Pfeile</name>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 25<TR><TD><I>Stadtteil: Schamiran<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 102<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 287<TR><TD>Blutrosen und Marasken, S. 52<TR><TD>Die Welt des Schwarzen Auges, S. 71<TR><TD>Geographia Aventurica, S. 67<TR><TD>Basargeschichten, S. 96<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Legende von Assarbad, S. 138<TR><TD>Handelsherr und Kiepenkerl, S. 48<TR><TD>Die Phileasson-Saga - Neuauflage, S. 156<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>6.96780402277032</longitude>
+			<latitude>27.16363483647121</latitude>
+			<altitude>0</altitude>
+			<range>400</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<Point>
+			<coordinates>6.965018197709725,27.16216256936521,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</Document>
+</kml>

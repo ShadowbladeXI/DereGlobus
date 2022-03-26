@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>König-Khadan-Straße</name>
+	<open>1</open>
+		<Placemark> 	<!-- König-Khadan-Straße-->
+			<name>König-Khadan-Straße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die von <a href="http://www.wiki-aventurica.de/wiki/Khadan_Firdayon" title="Khadan Firdayon">Khadan Firdayon</a> erbaute <b>König-Khadan-Straße</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Grangor" title="Grangor">Grangor</a> und <a href="http://www.wiki-aventurica.de/wiki/Vinsalt" title="Vinsalt">Vinsalt</a> miteinander. Dort geht sie in den <a href="http://www.wiki-aventurica.de/wiki/Goldfelser_Stieg" title="Goldfelser Stieg">Goldfelser Stieg</a> über.
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.101772195757476,26.01602134418711,0  <!-- <POI>Siedlung:unbenannt</POI> --> <!-- <POI>Abzweig:Silem-Horas-Straße</POI> --> 
+						-1.090571793765672,25.98768923879787,0 
+						-1.046611913892714,25.96148037584761,0 
+						-1.0005733361535,25.89552922829914,0    <!-- <POI>Siedlung:unbenannt</POI> --> 
+						-0.9704431278079972,25.87130883510109,0 
+						-0.9287699470661381,25.85773824754602,0  <!-- <POI>Wirtshaus Zum Stachel</POI> --> 
+						-0.8754002758387314,25.81912006427051,0 
+						-0.8514062884014118,25.78940313304111,0  <!-- <POI>Siedlung:Shumir</POI> --> <!-- <POI>Abzweig:Straße nach Perainidal</POI> --> 
+						-0.7229357171693518,25.75557023417347,0 
+						-0.6977675556486795,25.7299298231741,0 
+						-0.657704374969379,25.71491539987207,0 
+						-0.6293750877953874,25.6863799995544,0   <!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.5823237527305403,25.6255692240142,0   <!-- <POI>Siedlung:Festung des Sternenrings 2</POI> -->
+						-0.5712714848296507,25.60244045827124,0 
+						-0.569709179059098,25.60192077062444,0   <!-- Anfang Detailkarte Vinsalt-Region -->
+						-0.5682431011252742,25.60096103071222,0 
+						-0.5669832538344732,25.599967468545,0 
+						-0.5645272359437614,25.59876050495875,0  <!-- Anfang Detailkarte Vinsalt -->
+						-0.5626639353435781,25.59762782129416,0  <!-- <POI>Station:Nordtor</POI> -->
+						-0.5623371710352865,25.59746900719312,0 
+						-0.5618044931129451,25.59742288119449,0 
+						-0.561439586721012,25.59728798449741,0 
+						-0.5606269245727769,25.59650232052425,0
+						-0.5584962527354331,25.59610848739033,0 
+						-0.5579806301228363,25.59581752319194,0 
+						-0.5572836218266764,25.59580830776848,0 
+						-0.5572370962433804,25.59493640605705,0 
+						-0.5553909108780863,25.59489594093051,0 
+						-0.5554062438697027,25.59423539723107,0 
+						-0.555399669573865,25.59383080054902,0 
+						-0.5553552008210749,25.59382772230082,0 
+						-0.5553710099326148,25.59306126699987,0 
+						-0.5553879635101267,25.59262630691083,0  <!-- <POI>Siedlung:Vinsalt</POI> --> <!-- <POI>SOE:Yaquirstraße</POI> --> 
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-0.969098</longitude>
+				<latitude>26.004286</latitude>
+				<altitude>170810</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

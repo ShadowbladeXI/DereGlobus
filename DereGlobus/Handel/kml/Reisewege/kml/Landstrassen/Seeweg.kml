@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Seeweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Seeweg-->
+			<name>Seeweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Seeweg</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a> mit <a href="http://www.wiki-aventurica.de/wiki/Olat" title="Olat">Olat</a> und führt am Südufer des <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensees</a> entlang.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					4.446860267497847,33.81164759383567,0 <!--<POI>Siedlung:Olat</POI>--> <!--<POI>SOE:Weg von Gashok nach Olat</POI>--> <!--<POI>SOE:Olats Wall</POI>-->
+					4.447065081309778,33.81171208179103,0 
+					4.447500579928205,33.8118356822121,0 
+					4.448081225596512,33.81197371020795,0 
+					4.448707321525733,33.81205550497822,0 
+					4.449660831774571,33.81183758166792,0 
+					4.450362792960969,33.81172196012137,0 
+					4.451018571144205,33.81169448698478,0 <!--Ende Detailkarte Olat-->	
+					4.466412230483869,33.79087331621129,0 
+					4.490374228409579,33.77313628360207,0 
+					4.516934362269605,33.76558217659373,0 
+					4.543150073019417,33.73909696571268,0 
+					4.579265971370989,33.72976352364987,0 
+					4.629117248828097,33.70608513130171,0 
+					4.696677630749642,33.70738369300764,0 
+					4.733868478902465,33.7191270386209,0 
+					4.764842535980439,33.71976361866361,0 <!--<POI>Siedlung:Cron-Feste Dragentodt</POI>-->
+					4.797947540744518,33.71215479051059,0 
+					4.830679360784655,33.69847225326129,0 
+					4.867666614867597,33.69798765397385,0 
+					4.927288558119562,33.67461789162464,0 
+					4.956937685447082,33.67342642572524,0 
+					5.0490868862977,33.65049263647054,0  <!--Anfang Detailkarte Trallop-->	
+					5.049799703088073,33.65030001563054,0 
+					5.050693766684251,33.64992924343176,0
+					5.050930665211606,33.64978947521039,0 
+					5.051422471453297,33.64943921612372,0 
+					5.051868654134799,33.64870041989467,0 
+					5.052231260155489,33.64791342095715,0 
+					5.052292694095783,33.64768059408862,0 
+					5.052456819032964,33.64731600135531,0 
+					5.052669408680989,33.64689821312927,0 
+					5.052844702600689,33.64668236046333,0 
+					5.053386970022375,33.64620690047951,0 <!--<POI>Abzweig:Alte Straße</POI>-->
+					5.053896341229529,33.64590076953639,0 
+					5.054156943085523,33.64578190209677,0 
+					5.05483097882035,33.64553669731454,0 
+					5.055462746474381,33.64536670396329,0 
+					5.056718688779318,33.64524968782185,0 
+					5.057305393970148,33.64526212364596,0 
+					5.058828728158201,33.64521183068514,0 
+					5.059719521673671,33.6450916586943,0 
+					5.060507865199191,33.64503490765644,0 
+					05.060647,33.645045,0  <!--<POI>Siedlung:Trallop</POI>--> <!--<POI>SOE:Reichsstraße 2</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>4.753228</longitude>
+				<latitude>33.730106</latitude>
+				<altitude>80000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Oblarasim nach Eestiva</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Oblarasim nach Eestiva-->
+			<name>Karawanenroute von Oblarasim nach Eestiva</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Karawanenroute von Oblarasim nach Eestiva</b> verläuft quer durch <a href="http://www.wiki-aventurica.de/wiki/Nordaventurien" title="Nordaventurien">Nordaventurien</a> und verbindet das <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Paavi" title="Herzogtum Paavi">Herzogtum Paavi</a> mit den westlichen <a href="http://www.wiki-aventurica.de/wiki/Nivesenlande" title="Nivesenlande">Nivesenlanden</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.489746158675048,38.65623687113188,0   <!--<POI>SOE:Karawanenroute von Kirma nach Farlorn</POI>-->
+						7.519978553990637,38.66664558019082,0 
+						7.544633546532138,38.68501141149315,0 
+						7.581245010449633,38.70015231455021,0 
+						7.62085673481669,38.74783709928297,0 
+						7.660445611625642,38.77138710323425,0 
+						7.7293871630176,38.77264780694905,0 
+						7.773272223816132,38.7836951421386,0   <!--<POI>Siedlung:Varnuati</POI>--> <!-- <POI>Flussquerung:Tylsen</POI> -->
+						7.928318505533127,38.79600772107535,0 
+						7.995894478105283,38.81689687286384,0 
+						8.060988715466484,38.81770824847663,0 
+						8.08464734773464,38.81203203606632,0 
+						8.15557501783054,38.81775511969969,0 
+						8.194207688318386,38.81728654008705,0 
+						8.35291443987548,38.84831175062177,0 
+						8.531604237393074,38.84608359728721,0 
+						8.664854184566904,38.88214947772249,0 
+						8.831405412090938,38.89548632243002,0 
+						8.898466996564638,38.91397521313765,0 
+						9.052102501135288,38.92643414334388,0   <!--<POI>Siedlung:Pekkaani</POI>-->
+						9.181733542086828,38.9368933355442,0 
+						9.281977109594486,38.96992889833788,0 
+						9.379350964539563,38.98227731120232,0 
+						9.487272218321266,38.97761848494854,0 
+						9.528890591447659,38.98912091233388,0 
+						9.574256364882334,38.99510944637752,0 
+						9.632025972406877,39.02104244335401,0 
+						9.677400603994364,39.05768936455629,0 
+						9.750022563379829,39.0778990999009,0 
+						9.881349738672107,39.08929912938338,0 
+						9.93603073341262,39.10028438007664,0 
+						10.10969397645814,39.10451609597227,0 
+						10.18356446938324,39.1239542985451,0 
+						10.23622943640465,39.12475874047517,0 
+						10.32277220139872,39.10663307532608,0 
+						10.40978157449475,39.10155387892714,0 
+						10.48076564054404,39.12461077443743,0 
+						10.525887983803,39.1224870880317,0 
+						10.61437729135487,39.09967667381416,0 
+						10.6801781715182,39.07115248284234,0 
+						10.74437671754854,39.06987075553256,0  <!-- Anfang Detailkarte Eestiva -->
+						10.74521590825502,39.0698800095355,0   <!--<POI>Siedlung:Eestiva</POI>--> <!-- <POI>Flussquerung:Letta</POI> -->
+						10.74704989643541,39.06987758079128,0  <!--<POI>SOE:Lettastieg</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>8.304880</longitude>
+				<latitude>38.390871</latitude>
+				<altitude>468580</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

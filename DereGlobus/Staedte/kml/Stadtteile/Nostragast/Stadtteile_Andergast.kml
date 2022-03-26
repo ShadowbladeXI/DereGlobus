@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Stadtteile_Andergast.kml</name>
+	<open>1</open>
+	<Placemark>
+		<name>Burg und Gehöfte</name>
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				Burg und Stadtschloss
+				</table>]]>
+			</description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+		<MultiGeometry>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-1.144533987787678,32.09131712332857,1 -1.144266564380909,32.09096893594743,1 -1.144151370210377,32.09103436205758,1 -1.144172955222165,32.09105938664983,1 -1.144082069527924,32.09111617235971,1 -1.144060484544164,32.09108922278977,1 -1.143966190468306,32.09115082080262,1 -1.143985503376329,32.09117199549835,1 -1.143902569793078,32.09123263110404,1 -1.143804791542602,32.09136945053523,1 -1.143763891977357,32.09145318588676,1 -1.143638517975048,32.09167247032212,1 -1.143945085322915,32.09168809542083,1 -1.14415253702758,32.09167930922693,1 -1.144219079198223,32.09160022079695,1 -1.144320500928607,32.0914430202325,1 -1.144478394660486,32.09134440407758,1 -1.144533987787678,32.09131712332857,0
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<Point>
+			<coordinates>-1.144056,32.091449,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Hafen</name>
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				Hafenviertel
+				</table>]]>
+			</description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+		<MultiGeometry>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-1.144533987787678,32.09131712332857,1 -1.145034422902655,32.09107732031734,1 -1.14544226339985,32.09103831690312,1 -1.145503697842812,32.09095583891052,1 -1.145623316648893,32.09092054018497,1 -1.145621515043538,32.0908517664413,1 -1.145330078714948,32.09086445818989,1 -1.145326907653514,32.09083903479442,1 -1.145275242739527,32.09079601838995,1 -1.14523654634393,32.0908455977309,1 -1.14523656514536,32.09087914268605,1 -1.14516513285215,32.09089227055699,1 -1.145081643320861,32.09089300012093,1 -1.145085922487942,32.090786541889,1 -1.145046339998266,32.09079601913685,1 -1.145043771357136,32.09089081221462,1 -1.144985242675185,32.0908864364047,1 -1.144984381557258,32.09082153661215,1 -1.14494737577394,32.0908302861354,1 -1.144943067719687,32.09089008308291,1 -1.14488970359236,32.09088935382905,1 -1.144889715800734,32.0908288279452,1 -1.144857013065874,32.09082882797775,1 -1.144856136402322,32.0908871659034,1 -1.144818265213488,32.09088716593458,1 -1.14481914440132,32.09083539028026,1 -1.144776113513357,32.09083611945103,1 -1.144776093436157,32.09088060219721,1 -1.144676923166571,32.0908809885991,1 -1.144307982313763,32.09094862131401,1 -1.144266564380909,32.09096893594743,1 -1.144533987787678,32.09131712332857,1 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<Point>
+			<coordinates>-1.144962,32.090981,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Holzwerkerviertel</name>
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				Viertel der Holzfäller, Schreiner, Tischler und Drechsler
+				</table>]]>
+			</description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+		<MultiGeometry>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-1.144780508185543,32.09177361404265,1 -1.145105954157735,32.09175185608491,1 -1.145120685353668,32.09166636249395,1 -1.14544618151702,32.09166006321182,1 -1.145553697807931,32.0915006515755,1 -1.145630380477835,32.09150065080036,1 -1.145651936375062,32.09124872681888,1 -1.145623316648893,32.09092054018497,1 -1.145503697842812,32.09095583891052,1 -1.14544226339985,32.09103831690312,1 -1.145034422902655,32.09107732031734,1 -1.144533987787678,32.09131712332857,1 -1.14472044182185,32.09155613105529,1 -1.144780508185543,32.09177361404265,1 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<Point>
+			<coordinates>-1.145161,32.091410,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Ledererviertel</name>
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				Viertel der Schlachter, Gerber und Färber
+				</table>]]>
+			</description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+		<MultiGeometry>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-1.144400885173957,32.09219683403843,1 -1.144342456666285,32.09216064812114,1 -1.144350645388036,32.09196841147656,1 -1.144205943962025,32.09193497754546,1 -1.14415253702758,32.09167930922693,1 -1.143945085322915,32.09168809542083,1 -1.143638517975048,32.09167247032212,1 -1.143595732126643,32.09173512329623,1 -1.143580488747055,32.09187872788881,1 -1.143505733684245,32.09220320332995,1 -1.143502364647315,32.0922651965907,1 -1.143729496998373,32.09260441203433,1 -1.144400885173957,32.09219683403843,1 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<Point>
+			<coordinates>-1.143929,32.092060,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Schmiedeviertel</name>
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				Viertel der Köhler, Grob- und Feinschmiede
+				</table>]]>
+			</description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+		<MultiGeometry>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-1.145076856023732,32.09275569659021,1 -1.144947183060795,32.09263099764875,1 -1.144529408378057,32.09238101931734,1 -1.144460395152442,32.09228952643076,1 -1.144400885173957,32.09219683403843,1 -1.143729496998373,32.09260441203433,1 -1.144035392924272,32.09287679043558,1 -1.144127336549725,32.0929477574556,1 -1.144543327611503,32.09296232188822,1 -1.144797236953434,32.09289407049249,1 -1.145076856023732,32.09275569659021,1 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<Point>
+			<coordinates>-1.144396,32.092641,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Tuchmacherviertel</name>
+		<!--<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data> 
+		</ExtendedData>-->
+		<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				Viertel der Weber und Tuchmacher
+				</table>]]>
+			</description>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+		<MultiGeometry>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-1.144400885173957,32.09219683403843,1 -1.144460395152442,32.09228952643076,1 -1.144529408378057,32.09238101931734,1 -1.144947183060795,32.09263099764875,1 -1.145076856023732,32.09275569659021,1 -1.145395276372511,32.09256841391272,1 -1.145462233688093,32.09245341138091,1 -1.145582516670147,32.09218827696723,1 -1.145621087682351,32.09208164482237,1 -1.145613495364037,32.09185689984907,1 -1.145630380477835,32.09150065080036,1 -1.145553697807931,32.0915006515755,1 -1.14544618151702,32.09166006321182,1 -1.145120685353668,32.09166636249395,1 -1.145105954157735,32.09175185608491,1 -1.144780508185543,32.09177361404265,1 -1.144675331094837,32.09189940874652,1 -1.144546555557343,32.09199803684828,1 -1.144400885173957,32.09219683403843,1 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<Point>
+			<coordinates>-1.145090,32.092131,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

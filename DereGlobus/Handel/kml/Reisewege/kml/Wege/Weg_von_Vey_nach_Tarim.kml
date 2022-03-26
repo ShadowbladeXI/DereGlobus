@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Vey nach Tarim</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Vey nach Tarim-->
+			<name>Weg von Vey nach Tarim</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						0.2925146179947125,20.27608643585363,0  <!-- <POI>Siedlung:Vey</POI> -->  <!-- <POI>SOE:Karawanenroute von Mirham nach Selem</POI> -->
+						0.3276581323709649,20.27589494787244,0 
+						0.3684400968016144,20.25127660345302,0 
+						0.398429266930791,20.24127994866525,0 
+						0.4838594130433171,20.18673231627598,0 
+						0.5208012834013198,20.15030251630528,0  <!-- <POI>Siedlung:Anath</POI> --> 
+						0.5561062658951288,20.15254129382103,0 
+						0.5772046759476335,20.15906978996011,0 
+						0.6261761268720711,20.1368717103922,0 
+						0.7269110928647526,20.06044073922405,0 
+						0.7702650419328694,20.05507861939992,0 
+						0.8140093518031888,20.05943422080993,0 
+						0.8457689396187584,20.02715581559252,0  <!-- <POI>Siedlung:Chandiz</POI> --> 
+						0.865553875024776,20.01915774100553,0   <!-- <POI>Flussquerung:unbenannt</POI> -->
+						0.9120337886856489,19.96247746400789,0 
+						0.9485384645588768,19.94789349565845,0 
+						1.025540109136736,19.94929128952656,0 
+						1.052590489200813,19.93778820166247,0 
+						1.076563659297212,19.87743119429058,0 
+						1.101179532214893,19.86539934237269,0 
+						1.139185779841119,19.85935099405045,0 
+						1.168161255569695,19.83658491527041,0 
+						1.178746650323432,19.80254290471139,0 
+						1.18168651662643,19.74077085659716,0    <!-- <POI>Siedlung:Ghúnash</POI> --> 
+						1.199885097611604,19.73158277604812,0 
+						1.263365696937053,19.72718548181829,0 
+						1.307539867059646,19.74597014220896,0 
+						1.399607592313874,19.74975406407014,0 
+						1.425047748928574,19.75997626220189,0 
+						1.447293882018828,19.77987094613069,0 
+						1.477814461869331,19.83064054895948,0 
+						1.511986593212413,19.85436965074119,0 
+						1.515395568089777,19.87912603084214,0 
+						1.493766369744873,19.90558301984257,0 
+						1.485710461986478,19.93199884122532,0  <!-- <POI>Siedlung:Tarim</POI> --> 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>0.861060</longitude>
+				<latitude>20.073707</latitude>
+				<altitude>179800</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

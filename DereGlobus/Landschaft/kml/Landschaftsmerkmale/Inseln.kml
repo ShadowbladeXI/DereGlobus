@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Inseln</name>
+	
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Inseln Aventuriens</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln/Inseln_Aventuriens.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Inseln Myranors</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln/Inseln_Myranors.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Inseln Rakshazars</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln/Inseln_Rakshazars.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>0</visibility>
+		<name>Inseln der Weltmeere</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln/Inseln_der_Weltmeere.kml</href>
+		</Link>
+	</NetworkLink>
+	
+</Document>
+</kml>

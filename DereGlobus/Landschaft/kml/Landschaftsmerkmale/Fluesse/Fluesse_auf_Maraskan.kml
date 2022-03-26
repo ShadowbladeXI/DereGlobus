@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+  <Folder>
+   <name>Flüsse auf Maraskan</name>
+   <open>0</open>
+   <Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+				<Placemark>
+		<name>Bor</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Bor</b> ist ein <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a> auf <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a>, der in der östlichen <a title="Maraskankette" href="http://www.wiki-aventurica.de/wiki/Maraskankette">Maraskankette</a> entspringt und bei <a title="Boran" href="http://www.wiki-aventurica.de/wiki/Boran">Boran</a> ins <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeer</a> mündet.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				10.37602265116825,24.92376243076995,0 10.39313029107323,24.91320128826052,0 10.40441155937291,24.89502774744084,0 10.41084657675289,24.8768588444396,0 10.4201900052969,24.86044341540665,0 10.4211564571038,24.8586845506006,0 10.43470522627819,24.84753460836146,0 10.45569911294057,24.84633246119175,0 10.47088000003605,24.84367122638068,0 10.48637444005719,24.83338752255702,0 10.50425361216895,24.81717919352163,0 10.52655916053047,24.80906349184538,0 10.52714904275736,24.80915014443938,0 10.52803384360437,24.80970139098862,0 10.5283950717797,24.81029985368316,0 10.52851648039284,24.81092979672058,0 10.52882876873752,24.81111879523633,0 10.52922782189904,24.81109519396486,0 10.53024284386086,24.81044167950258,0 10.53055518458818,24.8097802520028,0 10.53071069727945,24.80820008867067,0 10.53101432348678,24.80797962260757,0 10.53169963496311,24.80787728084333,0 10.53240228845784,24.80812927649273,0 10.53354463127596,24.80794032445072,0 10.53399571551976,24.8079875777294,0 10.53486319642167,24.80773561420114,0 10.53997488623775,24.80762529878179,0 10.54637740575353,24.80648725825322,0
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Hira</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Hira</b> ist der längste der vier großen Flüsse <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskans</a>. Er entspringt der <a href="http://www.wiki-aventurica.de/wiki/Maraskankette" title="Maraskankette">Maraskankette</a> und mündet bei <a href="http://www.wiki-aventurica.de/wiki/Jergan" title="Jergan">Jergan</a> in den <a href="http://www.wiki-aventurica.de/wiki/Maraskansund" title="Maraskansund">Maraskansund</a>. Er ist vom Wasserfall bei <a href="http://www.wiki-aventurica.de/wiki/Jergan" title="Jergan">Jergan</a> bis zu halber Strecke per Floß befahrbar. Der Unterlauf gehört zur <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstkomturei_Maraskan" title="Fürstkomturei Maraskan" class="mw-redirect">Fürstkomturei Maraskan</a>, der Oberlauf zum <a href="http://www.wiki-aventurica.de/wiki/Reich_der_Gro%C3%9Fen_Schlange" title="Reich der Großen Schlange">Reich der Großen Schlange</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				10.09794292784077,25.72107419262139,0 10.07327490024897,25.75097188145874,0 10.05550029407275,25.77574071715864,0 10.05166593225774,25.79844315355643,0 10.04224549423674,25.82184443031742,0 10.02840843296612,25.83145742540281,0 9.991321164346662,25.83065939221092,0 9.971212345493223,25.84286335198564,0 9.952633049885222,25.86448958770184,0 9.945271931847923,25.88786988834497,0 9.945699516352146,25.91745346824932,0 9.962309386416541,25.95187716339028,0 9.9723444876083,25.96749391638435,0 9.98034237589261,25.98754635278006,0 9.986858172670118,26.00195092971935,0 9.985189164384742,26.03221639000826,0 9.989045084136237,26.0567485372986,0 10.00206494758607,26.0843220388509,0 10.01355120772459,26.10246269430779,0 10.01565023469877,26.13893730184708,0 10.02377586096593,26.16526793069768,0 10.02816924365846,26.22247829238413,0 10.0224973419857,26.26471800259242,0 10.02856254876508,26.29422689270989,0 10.04952183651483,26.33299420515112,0 10.05966413866705,26.35301574505213,0 10.04798801468124,26.37080764708871,0 10.03639828456043,26.39490553859109,0 10.03048922734058,26.42335208002102,0 10.04216255569892,26.45157951893851,0 10.06210750909582,26.46771813069939,0 10.09390488969475,26.48700172136723,0 10.14934083726977,26.51779047547962,0 10.17476876129225,26.52312506942461,0 10.23678063717801,26.56886387991044,0 10.24234324340259,26.60528268850084,0 10.25115049931222,26.62592349525308,0 10.2748847235717,26.65453193289291,0 10.26951195012678,26.70935295683117,0 10.28539521791557,26.73115450361433,0 10.30126259848829,26.75169898969613,0 10.31495475959439,26.76849949062561,0 10.33352841635786,26.78208243193333,0 10.37841518980602,26.80724744934225,0 10.43608408448908,26.83474663853271,0 10.47530908370597,26.85496305897149,0 10.48551302860902,26.87057449072468,0 10.48398940440012,26.88661667559951,0 10.52530226455583,26.94134925463499,0 10.53816704260878,26.94932459888014,0 10.55803878134096,26.95466906296675,0 10.57431971095951,26.95692278384495,0 10.58529119152927,26.97562014492053,0 10.5920182810489,26.9937568312864,0 10.60420075327879,27.00236619357361,0 10.63059908649657,27.01514463482913,0 10.64685330061031,27.01550385456285,0 10.66389550319015,27.01962383692585,0 10.67959562540903,27.02691149484372,0 10.71185249274105,27.04776397642888,0 10.73222292614197,27.04175168776785,0 10.7450432210124,27.04593795264436,0 10.75307209969697,27.05713101483374,0 10.75128889024142,27.07227092043829,0 10.74253274830306,27.09193834333912,0 10.75062421384981,27.10565385474384,0 10.76282205148305,27.11300346276315,0 10.77229412218238,27.12480927724474,0 10.77603527224252,27.13356461768364,0 10.77626725884111,27.14364063836646,0 10.76598175294386,27.15830637573847,0 10.75566570683269,27.17171324149979,0 10.75604176360783,27.18809386106177,0 10.76136303156662,27.20376535534092,0 10.775885019192,27.21865726344984,0 10.79738606824335,27.22839082289777,0 10.81399539054724,27.24014396636418,0 10.8194344632614,27.26144260197681,0 10.8287877599527,27.2746301095569,0 10.83222098052002,27.28510252918606,0 10.83258501852382,27.30805275779315,0 10.83840775554603,27.33349642838494,0 10.8321687711156,27.35525438994711,0 10.82999647763285,27.3588130970166,0 10.82775671143434,27.35916436993563,0 10.82693331203604,27.35980827097366,0 10.82587460288311,27.36130948941248,0
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Mendrina</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Mendrina</b> ist einer der vier großen Flüsse <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskans</a>. Er entspringt der <a href="http://www.wiki-aventurica.de/wiki/Maraskankette" title="Maraskankette">Maraskankette</a> und mündet an der Ostseite der Insel in das <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Sein Unterlauf ist charyptid verseucht. Der Unterlauf gehört zur <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstkomturei_Maraskan" title="Fürstkomturei Maraskan" class="mw-redirect">Fürstkomturei Maraskan</a>, der Oberlauf zum <a href="http://www.wiki-aventurica.de/wiki/Reich_der_Gro%C3%9Fen_Schlange" title="Reich der Großen Schlange">Reich der Großen Schlange</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				10.22700727552124,25.48628079654741,0 10.24499386181329,25.49865338609747,0 10.26940773115097,25.50676933788369,0 10.29553430561667,25.50096282850296,0 10.31609066845376,25.49012744053409,0 10.3379254177366,25.46652488890951,0 10.35804868720198,25.44639393496237,0 10.36618036652556,25.43129739376274,0 10.37945071638858,25.40922333446049,0 10.37901436968138,25.39025709726614,0 10.3854379474967,25.38211644767476,0 10.40171973168952,25.3797650269933,0 10.40343305156072,25.37743833829241,0 10.41414466503805,25.36928413712869,0 10.43000239101813,25.36072748800599,0 10.45363783708319,25.35962683344422,0 10.47547309478339,25.36616922708121,0 10.50413137530812,25.36264365507168,0 10.52341262784994,25.37536671737562,0 10.55684039360166,25.39694777546212,0 10.56457281717863,25.4081415951927,0 10.56976513414712,25.42900503358452,0 10.56811725508839,25.45259041383485,0 10.57843629861911,25.46764636470551,0 10.59689311563098,25.48113887030777,0 10.61404307125957,25.48574034692201,0 10.62731399937208,25.48261549724166,0 10.65469821261318,25.47171980382496,0 10.67012343440675,25.47090646584438,0 10.68775491842942,25.48478444452276,0 10.69340458416256,25.50256537186844,0 10.70376101192879,25.51646870057185,0 10.70734320633771,25.54858637835018,0 10.71300526144896,25.56522345656929,0 10.73437289174008,25.58417850168641,0 10.75632568711736,25.60459944749335,0 10.78428531040143,25.62229568700221,0 10.8040337323324,25.62493573640706,0 10.82170149729,25.63880156989597,0 10.8380616353769,25.64725731392376,0 10.86599997961635,25.65102895126845,0 10.88325345656469,25.66180633480214,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Nuab</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Nuab</b> ist ein Zufluss des <a href="http://www.wiki-aventurica.de/wiki/Hira" title="Hira">Hira</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				10.20008301709877,26.11638471448235,0 10.18989509248707,26.13542896343157,0 10.19119614907872,26.17006255672749,0 10.16286464981915,26.19500103342013,0 10.16310139835475,26.20885083938118,0 10.15351613108878,26.22282819578412,0 10.1555488382807,26.25994036725609,0 10.13900226551749,26.2777806787132,0 10.1443579824098,26.30414131907594,0 10.16111569761315,26.34041417607267,0 10.16431404698883,26.36365216862681,0 10.1541142574492,26.38392519845208,0 10.13472296360203,26.40117622052309,0 10.10624371028253,26.42232503220832,0 10.08694472395018,26.44713112691243,0 10.08716143286593,26.46097925823754,0 10.0924785853228,26.48609568607074,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Obogyn</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Obogyn</b> ist der kürzeste der vier großen Flüsse <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskans</a>. Er entspringt der <a href="http://www.wiki-aventurica.de/wiki/Maraskankette" title="Maraskankette">Maraskankette</a> und mündet an der Westseite der Insel in das <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeer</a>. Sein Unterlauf ist charyptid verseucht. Der Unterlauf gehört zur <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstkomturei_Maraskan" title="Fürstkomturei Maraskan" class="mw-redirect">Fürstkomturei Maraskan</a>, der Oberlauf zum <a href="http://www.wiki-aventurica.de/wiki/Reich_der_Gro%C3%9Fen_Schlange" title="Reich der Großen Schlange">Reich der Großen Schlange</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				9.92264910829287,25.30898530814517,0 9.920593307960301,25.31072094606731,0 9.895879930378976,25.32099717905707,0 9.875493809214923,25.33014752688969,0 9.863670835215403,25.33099692773499,0 9.848629180141016,25.3272480604965,0 9.836685380754041,25.3191853717608,0 9.834265450714925,25.31529178575834,0 9.822777556759338,25.31150048453921,0 9.811757876323163,25.31304979969206,0 9.803810118883249,25.30850451582953,0 9.79143554708719,25.29723494809734,0 9.782942569460998,25.2812869349439,0 9.770263219060585,25.27643423231918,0 9.747758913720272,25.27382408495549,0 9.722522003491953,25.27337704095855,0 9.705858083104502,25.26534885943338,0 9.696326912691669,25.26009752123446,0 9.68391099579029,25.24524450301307,0 9.673525835428281,25.23500380358853,0 9.659439053500364,25.21785563539814,0 9.644683588754631,25.20481201027767,0 9.621344113901973,25.19898789899171,0 9.607125996863971,25.1969916203435,0 9.585943947026728,25.20611605560418,0 9.575298718074535,25.20586348374591,0 9.558703380748572,25.20210192551581,0 9.544398594710593,25.19154245806355,0 9.534903825630408,25.18806682506251,0 9.516031443859507,25.19145174566938,0 9.506215404905319,25.1943941934934,0 9.492031244468805,25.19416664751589,0 9.480546318590001,25.18856550757064,0 9.469135487505657,25.18973637812736,0 9.458052963634149,25.18484221667132,0 9.446569198387456,25.1792369837817,0 9.428828859579726,25.17796203432509,0 9.418234568844897,25.18197328996494,0 9.411601309427732,25.18809005122395,0 9.410542953854913,25.19986455458554,0 9.408339147538015,25.2152126123049,0 9.405692011778164,25.22592915418523,0 9.399489632470212,25.23596203848631,0 9.389708956595049,25.24317258265865,0 9.37754987829214,25.24933284115302,0 9.363021982691336,25.25551178510267,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Roab</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Roab</b> ist ein Fluss auf <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskan</a>, der bei <a href="http://www.wiki-aventurica.de/wiki/Tuzak" title="Tuzak">Tuzak</a> in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Tuzak" title="Golf von Tuzak">Golf von Tuzak</a> mündet. Er entspringt in zwei Quellflüssen in der <a href="http://www.wiki-aventurica.de/wiki/Maraskankette" title="Maraskankette">Maraskankette</a> 60 Meilen östlich von <a href="http://www.wiki-aventurica.de/wiki/Alrurdan" title="Alrurdan">Alrurdan</a> (vgl. auch <a href="http://www.wiki-aventurica.de/wiki/Alrurdan#Widerspr.C3.BCchliches" title="Alrurdan">Alrurdan#Widersprüchliches</a>). Der etwa 160 Meilen lange Strom nimmt auf seinem Weg nach Süden nach knapp über 100 Meilen erst den <a href="http://www.wiki-aventurica.de/wiki/Talued" title="Talued">Talued</a>, dann den <a href="http://www.wiki-aventurica.de/wiki/Safo" title="Safo">Safo</a> in sich auf. Er knickt auf Höhe <a href="http://www.wiki-aventurica.de/wiki/Tuzak" title="Tuzak">Tuzak</a> nach Westen ab, wo er schließlich in mehreren Kaskaden ins Meer stürzt.
+
+</p><p>Der Roab ist zwischen Tuzak und dem Talued mit flachen Booten befahrbar. Am Oberlauf sollen die <a href="http://www.wiki-aventurica.de/wiki/Misanthropische_Ruinen" title="Misanthropische Ruinen">Misanthropischen Ruinen</a> liegen.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				9.824523027879618,24.78789352584692,0 9.802269368430727,24.78181351165968,0 9.78287250786855,24.7731595964285,0 9.773897681980944,24.76539416266324,0 9.761110877953316,24.76535811482833,0 9.743160747316457,24.75240629290409,0 9.729968789877788,24.73430844347467,0 9.713920625079453,24.72179078648935,0 9.694536008912992,24.71614003332998,0 9.672768654061613,24.7147782060042,0 9.650545325306341,24.7091117344614,0 9.635927115693008,24.69615947844405,0 9.628419150563863,24.68108121651874,0 9.621379401134149,24.66729306258381,0 9.609612739382733,24.65219392877458,0 9.603581397589814,24.6242085668602,0 9.60603718466227,24.60313534853484,0 9.622719631377134,24.57350648897448,0 9.633216608480771,24.55116017388409,0 9.625697636384608,24.53864009059183,0 9.612470812779563,24.52494306751051,0 9.603595626331877,24.49993449585389,0 9.59988119294187,24.48485467889558,0 9.589072841145125,24.47147079424463,0 9.573533762025203,24.46022095871885,0 9.572116431055235,24.46021518048601,0 9.550930889003094,24.44550122179593,0 9.538306990738246,24.42050153089242,0 9.54128022422414,24.39342177698128,0 9.537200317368841,24.36072608159137,0 9.552889973754059,24.3380045724255,0 9.558661726070206,24.31610035963518,0 9.559146363261244,24.31352249660429,0 9.557336309980425,24.29803524444412,0 9.60905896788052,24.23458145661082,0 9.606319747332792,24.21563836725292,0 9.612996604489194,24.20016818303444,0 9.616864735716099,24.18037810476945,0 9.6079822997607,24.16441283505466,0 9.588526467401877,24.15561288070317,0 9.571658493625579,24.1344631956083,0 9.550654836090827,24.09437800300507,0 9.555480675578266,24.07117861999275,0 9.565437397441199,24.05746100411197,0 9.575388075941081,24.04460279690687,0 9.572201599304728,24.02223174538569,0 9.55962290334252,23.99595135889635,0 9.560315886252536,23.95165787216778,0 9.554756679479715,23.93442818461468,0 9.554408494919271,23.91033168873486,0 9.565786352881302,23.89316247771731,0 9.5885280726643,23.86138898224519,0 9.607507987466779,23.82404375869428,0 9.59729701269656,23.79344347514641,0 9.596830770365298,23.79258095949334,0 9.591806451690911,23.76029403532914,0 9.591906938909776,23.73835905225734,0 9.58540057559086,23.72328099479134,0 9.571409844716536,23.70258367033146,0 9.573444334449579,23.67034442159238,0 9.562266831467415,23.65224014860118,0 9.55484076521339,23.63544030727857,0 9.553553925937234,23.61135454784779,0 9.541875141564271,23.60098400031829,0 9.520829138114305,23.58755940663697,0 9.508722238201344,23.56986861266045,0 9.492341558035449,23.56204841519326,0 9.474076907140232,23.55550618211991,0 9.457750665835556,23.53735004678954,0 9.427286079796581,23.52987109219903,0 9.39253819122932,23.53139663587447,0 9.370970617431482,23.53258806040889,0 9.346507730403438,23.52801386499607,0 9.346111567927654,23.5280496240765,0 9.345614728891821,23.52796332066591,0 9.345213830113666,23.52774600734039,0 9.344934546762961,23.52751379802009,0 9.344645534040186,23.52742449903181,0 9.3442463273753,23.52746620848019,0 9.343652080342579,23.52760320261329,0 9.343116288623728,23.52763003060444,0 9.339333100882268,23.52760976878697,0 9.332098177803252,23.52734661938617,0
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Safo</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Safo</b> ist ein Fluss auf <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskan</a>, der unterhalb des <a href="http://www.wiki-aventurica.de/wiki/Talued" title="Talued">Talued</a> in den <a href="http://www.wiki-aventurica.de/wiki/Roab" title="Roab">Roab</a> mündet. Er entspringt zwischen der <a href="http://www.wiki-aventurica.de/wiki/Maraskankette" title="Maraskankette">Maraskankette</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Amdeggyn-Massiv" title="Amdeggyn-Massiv" class="mw-redirect">Amdeggyn-Massiv</a>. An ihm entlang führt die Straße von <a href="http://www.wiki-aventurica.de/wiki/Tuzak" title="Tuzak">Tuzak</a> nach <a href="http://www.wiki-aventurica.de/wiki/Boran" title="Boran">Boran</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				9.90997771938642,24.08869320787385,0 9.899873267013405,24.08445900714444,0 9.891660151909008,24.08430152872467,0 9.881500874939547,24.0766119569924,0 9.864739173519507,24.06722234481291,0 9.838577803854804,24.07068093500511,0 9.82097194624709,24.05884488433207,0 9.808005593608701,24.03906483742787,0 9.80838523923148,24.01566374335054,0 9.808343885682975,24.01531109487089,0 9.793973789566671,23.98764533889971,0 9.792440813571846,23.96121589157016,0 9.793221401724701,23.94954173329671,0 9.782928389701372,23.92829856240837,0 9.767955848969033,23.91371020990972,0 9.767528863504786,23.91339522485593,0 9.745381406578812,23.89914886521006,0 9.731300347844677,23.88714443756744,0 9.714708770527199,23.86699637365356,0 9.70417783182269,23.8603473602377,0 9.679785477806417,23.84727016098589,0 9.66064061971511,23.84359877847201,0 9.636021096720288,23.83813427424476,0 9.614567609092381,23.82468523786508,0 9.608145946811451,23.81977281214792,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Teab</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Teab</b> ist ein <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a> auf <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a>, der in der südlichen Ausläufern des <a title="Amdeggynmassiv" href="http://www.wiki-aventurica.de/wiki/Amdeggynmassiv">Amdeggynmassiv‎s</a> entspringt und bei <a title="Mahanobab" href="http://www.wiki-aventurica.de/wiki/Mahanobab">Mahanobab</a> ins <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeer</a> mündet.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+                <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+				<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				9.158826961634034,22.62256973207021,0 9.142776289122024,22.61940288652083,0 9.128288267639366,22.61943146873688,0 9.117732090965484,22.6135150093079,0 9.104279320690228,22.60541799650459,0 9.09617369905116,22.59324936056556,0 9.095481040734697,22.59353744574879,0 9.087741283474681,22.58467743845215,0 9.078903971229551,22.57681108781995,0 9.058917724361473,22.57734722324197,0 9.047222817277705,22.57643505480482,0 9.029656725378278,22.57049401299027,0 9.015232201188024,22.55800921608142,0 9.004618651306677,22.54541578476044,0 8.990358803835006,22.53203247857028,0 8.969420655278995,22.52818832218334,0 8.949360824431448,22.52135816201962,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	  </Folder>
+    </Document>
+</kml>

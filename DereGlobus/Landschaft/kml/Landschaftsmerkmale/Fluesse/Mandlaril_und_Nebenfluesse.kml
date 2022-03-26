@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Mandaril und Nebenfluss</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Mandlaril</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Mandlaril</b> (<a href="http://www.wiki-aventurica.de/wiki/Isdira" title="Isdira">isd.</a> <i>Zauberwaldstrom</i>) entspringt in den <a href="http://www.wiki-aventurica.de/wiki/Salamandersteine" title="Salamandersteine">Salamandersteinen</a> und mündet nach wenigen Meilen in den <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a>. An seinem Ufer siedelten bereits <a href="http://www.wiki-aventurica.de/wiki/Chronik:Vorzeit_bis_1000_v._BF" title="Chronik:Vorzeit bis 1000 v. BF">8200 v. BF</a> <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfen</a>, heute lebt noch die <a href="http://www.wiki-aventurica.de/wiki/Waldelf" title="Waldelf">waldelfische</a> <a href="http://www.wiki-aventurica.de/wiki/Schwarzmoos-Sippe" title="Schwarzmoos-Sippe">Schwarzmoos-Sippe</a> am Mandlaril. Außerdem stellt er die Ostgrenze des <a href="http://www.wiki-aventurica.de/wiki/Dominium_Donnerbach" title="Dominium Donnerbach">Dominiums Donnerbach</a> dar.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+5.294621312666845,35.22496510018472,0 5.305619447390004,35.20373957103016,0 5.302733075953602,35.18100759252226,0 5.312879133326685,35.16325138589583,0 5.339562941187371,35.14388817978101,0 5.373145927654049,35.12795012528292,0 5.384751359912068,35.11886490431188,0 5.382981982346244,35.10141553076333,0 5.401056190263274,35.07382096733612,0 5.398298632447542,35.05838370225809,0 5.392734833923023,35.03287658931312,0 5.364686467125292,35.00302846886214,0 5.36639595166174,34.97904997233557,0 5.384539083207153,34.94659539004564,0 5.397356681896484,34.9027885508679,0 5.397664502006824,34.86470575036241,0 5.381488807124038,34.83408610954666,0 5.372200156764984,34.81861017896266,0 5.350518745495876,34.80397594084613,0 5.339673237751752,34.77882839143123,0 5.33256712071281,34.75537038433126,0 5.317730220588517,34.72816534500209,0 5.280063591823366,34.68973457002482,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Rüsterbach</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+5.57863093852122,35.02113476461877,0 5.55140546102443,35.00007423098343,0 5.521688235408721,34.97772523552228,0 5.527004464872429,34.94271146478467,0 5.505149096885451,34.91543658132001,0 5.503256689541002,34.89702821552494,0 5.463414979444066,34.86806588059052,0 5.423609128770219,34.8742139741981,0 5.397676663252316,34.86476667834319,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

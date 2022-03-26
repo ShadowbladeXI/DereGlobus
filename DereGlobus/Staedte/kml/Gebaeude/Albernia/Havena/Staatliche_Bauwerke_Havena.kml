@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Staatliche_Bauwerke_Havena.kml</name>
+	<Folder>
+		<name>Staatliche Bauwerke</name>
+		<Region>
+		<LatLonAltBox>
+			<north>29.06572891215429</north>
+			<south>29.05595236559286</south>
+			<east>-3.157933754779839</east>
+			<west>-3.172997625522446</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+		</Region>
+		<Placemark>
+			<name>Fürstenpalast</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: C12-X<TR><TD><I>Stadtteil: Oberfluren<TR><TD><I>Besitzer/Vorsteher:</I> Cuanu Ui Bennain<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>1035-12-31T23:59:59.999999757Z</begin>
+					<end>1035-12-31T23:59:59.999999187Z</end>
+				</gx:TimeSpan>
+				<longitude>-3.164719663073089</longitude>
+				<latitude>29.06376465927971</latitude>
+				<altitude>0</altitude>
+				<heading>-3.803335764854111</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.163962749893376,29.06401395823259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garether Tor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: F18-O<TR><TD><I>Stadtteil: Oberfluren<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-3.159136171952076</longitude>
+				<latitude>29.06247123703645</latitude>
+				<altitude>0</altitude>
+				<heading>-3.195664271545114</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.159178947966537,29.06203983799994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garnison</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: D14-X<TR><TD><I>Stadtteil: Oberfluren<TR><TD><I>Besitzer/Vorsteher:</I> Bard Chennard<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1035-12-31T23:59:59.999999999Z</when>
+</gx:TimeStamp>
+				<longitude>-3.163419838132727</longitude>
+				<latitude>29.06311485549086</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2462015234249219</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.162165633528394,29.06366081011331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Garnison der Seekrieger</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: H5-X<TR><TD><I>Stadtteil: Fischerort<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>-3.169518</longitude>
+				<latitude>29.060502</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004697971792804625</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.169518,29.060502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gesandtenhaus Thorwals</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: G8-O<TR><TD><I>Stadtteil: Nalleshof<TR><TD><I>Besitzer/Vorsteher:</I> Iskir Olvirsson<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-3.167949942661007</longitude>
+				<latitude>29.06148206187724</latitude>
+				<altitude>0</altitude>
+				<heading>-3.199943797639726</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.166856940687348,29.06111523283742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hafenmeisterei</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: K10-V<TR><TD><I>Stadtteil: Südhafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>-3.165585658367534</longitude>
+				<latitude>29.058632249703</latitude>
+				<altitude>0</altitude>
+				<heading>-3.199485592839461</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.165507114728281,29.05853174737906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hungerturm</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: D5-X<TR><TD><I>Stadtteil: Marschen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>1036-01-01T00:00:00.000001033Z</begin>
+					<end>1035-12-31T23:59:59.999999624Z</end>
+				</gx:TimeSpan>
+				<longitude>-3.169397473680896</longitude>
+				<latitude>29.06394124229304</latitude>
+				<altitude>0</altitude>
+				<heading>-3.201335207530306</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.169404982645926,29.06372865923497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nordtor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: A7-X<TR><TD><I>Stadtteil: Marschen<TR><TD><I>Bemerkung:</I> geöffnet von Sonnenauf- bis Sonnenuntergang<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>1035-12-31T23:59:59.999999757Z</begin>
+					<end>1035-12-31T23:59:59.999999187Z</end>
+				</gx:TimeSpan>
+				<longitude>-3.168667207095653</longitude>
+				<latitude>29.06507504296394</latitude>
+				<altitude>0</altitude>
+				<heading>-3.8052609458395</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.167749529747322,29.06542567190843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nostrianer Tor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: B15-X<TR><TD><I>Stadtteil: Oberfluren<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>1035-12-31T23:59:59.999999757Z</begin>
+					<end>1035-12-31T23:59:59.999999187Z</end>
+				</gx:TimeSpan>
+				<longitude>-3.16034580654144</longitude>
+				<latitude>29.06534201828734</latitude>
+				<altitude>0</altitude>
+				<heading>-3.801213470896796</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.161308923984808,29.06520920136618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reichsmünze</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: D13-X<TR><TD><I>Stadtteil: Oberfluren<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1035-12-31T23:59:59.999999999Z</when>
+</gx:TimeStamp>
+				<longitude>-3.163419838132727</longitude>
+				<latitude>29.06311485549086</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2462015234249219</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.163207656794738,29.06327154243281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stadthaus</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: D12-X<TR><TD><I>Stadtteil: Oberfluren<TR><TD><I>Besitzer/Vorsteher:</I> Ardach Herlogan<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1035-12-31T23:59:59.999999999Z</when>
+</gx:TimeStamp>
+				<longitude>-3.163419838132727</longitude>
+				<latitude>29.06311485549086</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2462015234249219</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.163810349458494,29.06337639159381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Südtor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: N19-X<TR><TD><I>Stadtteil: Feldmark<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-3.158887851418341</longitude>
+				<latitude>29.05668215282532</latitude>
+				<altitude>0</altitude>
+				<heading>-3.196229398741724</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.158711058064074,29.05663059898388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wassertor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: JK18/19<TR><TD><I>Lage auf älteren Stadtplänen: Z50-229<TR><TD><I>Stadtteil: Unterfluren<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+				<longitude>-3.16646032119371</longitude>
+				<latitude>29.05671041620869</latitude>
+				<altitude>0</altitude>
+				<heading>-3.199908465883443</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.165966479751241,29.05708013741118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wassertor</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: A/8-X<TR><TD><I>Stadtteil: Marschen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>1035-12-31T23:59:59.999999757Z</begin>
+					<end>1035-12-31T23:59:59.999999187Z</end>
+				</gx:TimeSpan>
+				<longitude>-3.168667207095653</longitude>
+				<latitude>29.06507504296394</latitude>
+				<altitude>0</altitude>
+				<heading>-3.8052609458395</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.166810122990909,29.06549676525311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wohnsitz (Ardach Herlogan)</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: B12-X<TR><TD><I>Stadtteil: Oberfluren<TR><TD><I>Besitzer/Vorsteher:</I> Ardach Herlogan<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>1035-12-31T23:59:59.999999757Z</begin>
+					<end>1035-12-31T23:59:59.999999187Z</end>
+				</gx:TimeSpan>
+				<longitude>-3.163236364757235</longitude>
+				<latitude>29.06433524915416</latitude>
+				<altitude>0</altitude>
+				<heading>-3.802617288320891</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.163658188790918,29.0645654235362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zollbrücke/Zollhaus</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: K10/11-O<TR><TD><I>Stadtteil: Südhafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 119<TR><TD>Das Fürstentum Albernia, S. 32<TR><TD>Havena, S. 1<TR><TD>Die Welt des Schwarzen Auges, S. 999<TR><TD>Geographia Aventurica, S. 51<TR><TD>Havena - Grundrißpläne, S. 1<TR><TD>Stromschnellen, S. 50<TR><TD>In den Nebeln Havenas, S. 7<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD>Pilgerpfade, S. 51<TR><TD>Handelsherr und Kiepenkerl, S. 15<TR><TD>Wege des Meisters, S. 141<TR><TD>Kleinodien, S. 39<TR><TD>Liebliche Prinzessin Yasmina, S. 25<TR><TD>Aventurischer Bote (07), S. 1<TR><TD>Aventurischer Bote (10), S. 1<TR><TD>Im Rücken des Königs, S. 1<TR><TD>Wege der Helden, S. 98<TR><TD>Götter, Kulte, Mythen, S. 41<TR><TD>Aventurien, S. 12<TR><TD>Das Ferdoker Pergament, S. 15<TR><TD>Vater der Fluten, S. 14<TR><TD>Hort in der Tiefe, S. 43<TR><TD>Aventurischer Bote (142), S. 11<TR><TD>Aventurisches Archiv 1, S. 11<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1036</when></gx:TimeStamp>
+				<longitude>-3.165410956331836</longitude>
+				<latitude>29.05887950687427</latitude>
+				<altitude>0</altitude>
+				<heading>-3.199402717834561</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.165204042953974,29.05871927592937,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

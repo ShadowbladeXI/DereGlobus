@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Felsteyn nach Vilnvad</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Felsteyn nach Vilnvad-->
+			<name>Weg von Felsteyn nach Vilnvad</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.023499326557777,33.77960624075282,0  <!--<POI>Siedlung:Felsteyn</POI>--> <!-- <POI>SOE:Hjaldorpass</POI> -->
+						-4.032590098348471,33.76363369054764,0 
+						-4.030277485068715,33.70206668613479,0 
+						-4.055527410447761,33.67637793293162,0 
+						-4.070565684374138,33.63247215913592,0 
+						-4.068665885031636,33.60742063305835,0 
+						-4.046395864674218,33.59448482279242,0 
+						-4.021417054771501,33.57221102534411,0 
+						-4.006700369519675,33.54254118042861,0 
+						-3.985266726812065,33.52133712414663,0 
+						-3.963564873257463,33.50718326394944,0 	<!-- <POI>Siedlung:Vilnvad</POI> --> <!-- <POI>SOE:Bodirstieg</POI> -->
+						</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-4.018912</longitude>
+				<latitude>33.657095</latitude>
+				<altitude>80000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

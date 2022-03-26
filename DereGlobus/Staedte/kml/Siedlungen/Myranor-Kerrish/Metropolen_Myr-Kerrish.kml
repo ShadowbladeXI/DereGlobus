@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Metropolen</name>
+	<open>1</open>
+	
+	<Folder><name>Myr-Kerrish</name>
+				<open>1</open>
+				<Region>
+					<LatLonAltBox>
+				<north>14.841196</north>
+         <south>-30.491179</south>
+         <east>-59.281524</east>
+         <west>-77.731313</west>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>800</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+		<Placemark>
+			<name>Sidor Valantis</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">
+<img src="http://www.wiki-aventurica.de/images/c/c1/Valantia_Sidor_Valantis.png" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die Metropole <b>Sidor Valantis</b> (gegründet 272 IZ) liegt in der <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fer_Orismani&amp;action=edit&amp;redlink=1" class="new" title="Großer Orismani (Seite nicht vorhanden)">Orismanimündung</a> im <a href="http://www.wiki-aventurica.de/wiki/Valantisches_Meer" title="Valantisches Meer">Valantischen Meer</a>. Sie ist die Hauptstadt <a href="http://www.wiki-aventurica.de/wiki/Valantia" title="Valantia" class="mw-redirect">Valantias</a> und eine der wichtigsten Handelsstädte <a href="http://www.wiki-aventurica.de/wiki/Myranor" title="Myranor">Myranors</a>. Berühmt ist es für seine <a href="http://www.wiki-aventurica.de/wiki/Glas" title="Glas">Glaswaren</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>-54.30385697688561</longitude>
+				<latitude>14.96797122177723</latitude>
+				<altitude>0</altitude>
+				<range>3950872.452730575</range>
+				<tilt>4.104069343162473</tilt>
+				<heading>-3.020758146426569</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Metropole</styleUrl>
+			<Point>
+				<coordinates>-59.73462619577269,13.55628568027179,0</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<name>Xarxaras</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Xarxaras</b> ist nach <a href="http://www.wiki-aventurica.de/wiki/Xar_Tomyras" title="Xar Tomyras">Xar Tomyras</a> die neue Hauptstadt von <a href="http://www.wiki-aventurica.de/wiki/Xarxaron" title="Xarxaron" class="mw-redirect">Xarxaron</a>. Sie liegt auf einer Hochebene und wird von einer runden schlangenförmigen Mauer mit sieben Toren geschützt, was der Stadt das Aussehen eines <a href="http://www.wiki-aventurica.de/wiki/Pentagramm" title="Pentagramm">Pentagramms</a> verleiht.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>-61.62081584859416</longitude>
+				<latitude>10.27463133452164</latitude>
+				<altitude>0</altitude>
+				<range>3606207.597110165</range>
+				<tilt>4.10406934316105</tilt>
+				<heading>-3.908699887346585</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Metropole</styleUrl>
+			<Point>
+				<coordinates>-69.96518102651746,3.886139782528569,0</coordinates>
+			</Point>
+		</Placemark>
+
+			</Folder>
+	</Document>
+</kml>

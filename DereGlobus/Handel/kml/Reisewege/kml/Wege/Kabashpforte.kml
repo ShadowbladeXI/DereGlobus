@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kabashpforte</name>
+	<open>1</open>
+		<Placemark> 	<!-- Kabashpforte-->
+			<name>Kabashpforte</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Kabashpforte</b> ist ein Karawanenweg, der von <a title="Thegûn" href="http://www.wiki-aventurica.de/wiki/Theg%C3%BBn">Thegûn</a> zur Oase <a title="Achan" href="http://www.wiki-aventurica.de/wiki/Achan">Achan</a> führt. Er durchquert dabei das Gebirge, das die Wüste <a title="Khôm" href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m">Khôm</a> vom <a title="Liebliches Feld" href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld">Lieblichen Feld</a> trennt, an der Stelle, wo <a title="Goldfelsen" href="http://www.wiki-aventurica.de/wiki/Goldfelsen">Goldfelsen</a> und <a title="Hohe Eternen" href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen">Hohe Eternen</a> aufeinander treffen und eine 15 Meilen breite Schlucht bilden. <a title="Shafir" href="http://www.wiki-aventurica.de/wiki/Shafir">Shafir der Prächtige</a> wacht als <i>Landherr von Khômblick</i> über die Kabashpforte und vertreibt des Öfteren kleinere <a title="Novadi" href="http://www.wiki-aventurica.de/wiki/Novadi">Novadi</a>-Heerhaufen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.6058276734735446,25.03643651422678,0 		<!-- <POI>SOE:Karawane von Achan nach Thegun</POI> --> <!-- <POI>Siedlung:Achan</POI> -->
+					0.5883857428447814,25.01051441283691,0 		<!-- <POI>AbzweigLinks:Karawanenroute nach Keft</POI> -->
+					0.4821225983131816,24.9629519032907,0 
+					0.4400249791182986,24.84737380902322,0 
+					0.4395275539611143,24.82672211521011,0 
+					0.3927967669181531,24.76682213694789,0 
+					0.3731265592185706,24.694059543207,0 
+					0.3766529463091461,24.64524735686779,0 		<!-- Beginn Gebirge -->
+					0.3368130571842221,24.62997133236068,0 
+					0.3075926365954906,24.62675179494313,0 
+					0.2810397657412822,24.5832992239295,0 
+					0.249164295265325,24.56557725169163,0 
+					0.2403144938660629,24.54947515954159,0 
+					0.2678083700630585,24.48836584276201,0 
+					0.2633986602186211,24.46583505568199,0 
+					0.206355282761741,24.40944993347104,0 
+					0.1701785474809947,24.35148280631212,0 		<!-- Ende Gebirge -->
+					0.104790702691604,24.30472017852201,0 		<!-- <POI>Siedlung:Tashbar</POI> -->
+					0.07576192974954488,24.28634784845106,0 
+					0.04690503576942895,24.27501307167313,0 
+					0.02220852238678184,24.25293736917112,0 
+					-0.04019995823965838,24.23290990152673,0 
+					-0.067985239648235,24.20728431138996,0 
+					-0.105619896503627,24.18514435662966,0 		<!-- <POI>Siedlung:Kabash</POI> -->
+					-0.1961615092242697,24.18361091587494,0 
+					-0.2090733309667592,24.17281937259841,0 
+					-0.2186644284952621,24.15434159410418,0 
+					-0.2320369916329779,24.11668279275944,0 
+					-0.2933826653853,24.08648954281514,0 	
+					-0.3088284418248199,24.08339003030051,0  <!-- <POI>Siedlung:Thegun</POI> --> <!-- <POI>Abzweig:Seneb-Horas-Straße</POI> --> <!-- <POI>Abzweig:Straße nach Gebein</POI> -->
+						</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>0.1477391248392368</longitude>
+				<latitude>24.54793472304159</latitude>
+				<altitude>157000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

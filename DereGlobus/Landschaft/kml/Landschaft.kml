@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Landschaft</name>
+	<open>1</open>
+	<visibility>0</visibility>
+
+	<NetworkLink>
+	<visibility>0</visibility>
+		<name>Vegetationszonen</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftstypen/Landschaftstypen.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+	<visibility>0</visibility>
+		<name>Landmarken</name>
+
+		<NetworkLink>
+			<name>Flüsse</name>
+			<visibility>1</visibility>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+				</ListStyle>
+			</Style>
+				<Link>
+					<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Fluesse.kml</href>
+				</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Gewässer</name>
+			<visibility>0</visibility>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+				</ListStyle>
+			</Style>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gewaesser.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Seen</name>
+			<visibility>1</visibility>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+				</ListStyle>
+			</Style>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Seen.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Sümpfe</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Suempfe.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Inseln</name>
+			<visibility>1</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Inseln.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Ebenen</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Ebenen.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Gebirge</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Gebirge.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Wälder</name>
+			<visibility>0</visibility>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Waelder.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Wüsten</name>
+			<visibility>1</visibility>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+				</ListStyle>
+			</Style>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Wuesten.kml</href>
+			</Link>
+		</NetworkLink>
+
+	</NetworkLink>
+
+	<NetworkLink>
+	<visibility>0</visibility>
+		<name>Regionen</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsregionen/Landschaftsregionen.kml</href>
+		</Link>
+	</NetworkLink>
+
+</Document>
+</kml>

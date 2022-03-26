@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Sinoda nach Tuzak</name>
+	<open>1</open>
+		<Placemark>
+			<name>Straße von Sinoda nach Tuzak</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Straße von Sinoda nach Tuzak</b> verläuft nahe der beiden Städte an der Küste <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskans</a> entlang und im mittleren Teil durch die südlichen Ausläufer des <a href="http://www.wiki-aventurica.de/wiki/Amdeggynmassiv" title="Amdeggynmassiv">Amdeggynmassivs</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						9.337948100692152,23.52744450945657,0 <!--<POI>Siedlung:Tuzak</POI>--> <!--<POI>Brücke:Tuzak</POI>-->
+						9.337952569993142,23.5270945371579,0 
+						9.337800460674941,23.52677712280085,0 
+						9.337578022951441,23.52643652731291,0 
+						9.337506547914391,23.5262094253803,0 
+						9.337513373275389,23.52551399371935,0 
+						9.337339202463454,23.52506855317296,0 <!--Ende Detailkarte Tuzak-->
+						9.357007264003627,23.4991894262495,0 <!--<POI>Siedlung:Senan</POI>-->
+						9.33472716012739,23.44450995929451,0 
+						9.35824705336676,23.31860722736711,0 
+						9.357832912714088,23.29424716965475,0 
+						9.343035666628328,23.25033373549195,0 
+						9.354757471008526,23.19441088944271,0 
+						9.339846420240129,23.13981699787208,0 
+						9.341718407868818,23.1020295830118,0 
+						9.360371501821515,23.07332477193905,0 
+						9.391998794531913,23.04191522646543,0 
+						9.398480336687303,23.00853661284594,0 
+						9.388521340591488,22.98500112536317,0 
+						9.376673181127135,22.92420349701454,0 
+						9.381478854575938,22.9045130039557,0 
+						9.39723980028422,22.88127458727052,0 
+						9.400068583622732,22.85767781823162,0 <!--<POI>Siedlung:Zinobab</POI>-->
+						9.419936944572962,22.82584193250752,0 
+						9.422566368027072,22.80821286005189,0 
+						9.433691796020776,22.78964333956509,0 
+						9.421486945459023,22.76536249743362,0 
+						9.404146329331329,22.74435955208645,0 
+						9.395426470131707,22.71498923791115,0 
+						9.41467336991359,22.65703799360444,0 
+						9.417270886172615,22.63380824839241,0 
+						9.408415421061374,22.5963217650111,0 
+						9.405903355225886,22.53953080000844,0 
+						9.398827384308085,22.52220736411399,0 
+						9.374470144471413,22.48522047027343,0 
+						9.370585618890834,22.45648331283536,0 
+						9.370182730340332,22.38951290891087,0 
+						9.358464341137776,22.37155136020966,0 
+						9.322508654039128,22.35306726069039,0 
+						9.269427620826839,22.31747155110438,0 
+						9.256264069855849,22.30398047583676,0 <!--Anfang Detailkarte Sinoda-->
+						9.256269061570471,22.30311558745523,0 <!--<POI>Siedlung:Sinoda</POI>--> <!--<POI>Stadttor:Sinoda</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.34</longitude>
+				<latitude>22.92</latitude>
+				<altitude>220000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			</Placemark>
+</Document>
+</kml>

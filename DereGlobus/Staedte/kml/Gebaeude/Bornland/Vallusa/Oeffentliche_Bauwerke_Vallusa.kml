@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Öffentliche_Bauwerke_Vallusa.kml</name>   
+	<open>1</open>
+    <Folder>        
+        <name>Öffentliche_Bauwerke_Vallusa</name>       
+		<Region>
+			<LatLonAltBox>
+				<north>32.96102482508957</north>
+				<south>32.95491620430128</south>
+				<east>9.706042561241496</east>
+				<west>9.696376278892609</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+	    </Region>
+		<Placemark>
+			<name>Fechtschule des Erm Sen</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>         
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Fechtschule</b> zu <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> wurde vom einstigen <a href="http://www.wiki-aventurica.de/wiki/Aventurische_Waffenmeister" title="Aventurische Waffenmeister">Schwertmeister</a> <a href="http://www.wiki-aventurica.de/wiki/Erm_Sen" title="Erm Sen">Erm Sen</a> gegründet.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.704372</longitude>
+				<latitude>32.957058</latitude>
+				<altitude>0</altitude>
+				<range>112.123716922303</range>
+				<tilt>72.2711466475884</tilt>
+				<heading>4.85577665088993</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.704372,32.957058,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Niederlassung der Draconiter</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Hotel Haus Drachenstein</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das <b>Haus Drachenstein</b> gilt als bestes Hotel <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusas</a>. Während der <a href="http://www.wiki-aventurica.de/wiki/Borbaradkrise" title="Borbaradkrise" class="mw-redirect">Borbaradkrise</a> waren im Haus <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien" class="mw-redirect">tobrische</a> Flüchtlinge untergebracht. Der <a href="http://www.wiki-aventurica.de/wiki/Sacer_Ordo_Draconis" title="Sacer Ordo Draconis">Sacer Ordo Draconis</a> nutzt einen Teil des Hotels als <a href="http://www.wiki-aventurica.de/wiki/Orden" title="Orden">Ordensniederlassung</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.699629</longitude>
+				<latitude>32.97829689810793</latitude>
+				<altitude>0</altitude>
+				<range>915.957702</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.699629,32.957702,0</coordinates>
+			</Point>
+        </Placemark>
+        <Placemark>
+			<name>Nordhafen</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Nordhafen von Vallusa</value>
+				</Data>
+			</ExtendedData>         
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusaner</a> <b>Nordhafen</b> hat den Status eines <a href="http://www.wiki-aventurica.de/wiki/Hafen" title="Hafen">Flusshafens</a> für die <a href="http://www.wiki-aventurica.de/wiki/Misa" title="Misa">Misa</a>. Hochseeschiffe legen am <a href="http://www.wiki-aventurica.de/wiki/S%C3%BCdhafen_von_Vallusa" title="Südhafen von Vallusa">Südhafen</a> an.</p>
+								<p>Am Rand des Nordhafens liegt der örtliche <a href="http://www.wiki-aventurica.de/wiki/Efferd-Tempel_in_Vallusa" title="Efferd-Tempel in Vallusa">Efferd-Tempel</a>.</p>
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.698298</longitude>
+				<latitude>32.959538</latitude>
+				<altitude>0</altitude>
+				<range>915.430271649676</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.698298,32.959538,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Ordensburg der Grauen Stäbe</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Ordensburg der Grauen Stäbe bei Vallusa</value>
+				</Data>
+			</ExtendedData>                    
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Einige Meilen nördlich von <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> in den <a href="http://www.wiki-aventurica.de/wiki/Misa-Auen" title="Misa-Auen">Misa-Auen</a> liegt eine <b>Ordensburg der Grauen Stäbe</b>. Von ihr wurden viele Angriffe gegen die <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Lande" title="Schwarze Lande">Schwarzen Lande</a> gestartet.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.699702</longitude>
+				<latitude>32.961009</latitude>
+				<altitude>0</altitude>
+				<range>915.4302716531827</range>
+				<tilt>0</tilt>
+				<heading>-8.29394689958953e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-X</styleUrl>
+			<Point>
+				<coordinates>9.699640066993158,32.96155816425438,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Station der Beilunker Reiter</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Station der Beilunker Reiter in Vallusa</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Station der Beilunker Reiter</b> in <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusa</a> befindet sich in der Nähe des <a href="http://www.wiki-aventurica.de/wiki/Gasthof_Zum_Reiter" title="Gasthof Zum Reiter">Gasthofes Zum Reiter</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.698868</longitude>
+				<latitude>32.958077</latitude>
+				<altitude>0</altitude>
+				<range>915.430271649676</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.698868,32.958077,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Südhafen</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Südhafen von Vallusa</value>
+				</Data>
+			</ExtendedData>         
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Im <b>Südhafen</b> <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusas</a> können hochseetaugliche <a href="http://www.wiki-aventurica.de/wiki/Schiff" title="Schiff">Schiffe</a> anlegen. Binnenschiffe steuern dagegen den <a href="http://www.wiki-aventurica.de/wiki/Nordhafen_von_Vallusa" title="Nordhafen von Vallusa">Nordhafen</a> an.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.698298</longitude>
+				<latitude>32.959538</latitude>
+				<altitude>0</altitude>
+				<range>915.430271649676</range>
+				<tilt>0</tilt>
+				<heading>-2.18234362501792e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.702208061712609,32.95644787186723,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Wolfsstatuen</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Im Südosten <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusas</a> liegt der <b>Zwergenplatz</b>. Ihn umstehen wichtige Gebäude der Stadt, darunter die Tempel von <a href="http://www.wiki-aventurica.de/wiki/Feuerturm_von_Vallusa" title="Feuerturm von Vallusa">Ingerimm</a> und <a href="http://www.wiki-aventurica.de/wiki/Peraine-Tempel_in_Vallusa" title="Peraine-Tempel in Vallusa">Peraine</a>, der ehemalige <a href="http://www.wiki-aventurica.de/wiki/Halle_der_Rondra" title="Halle der Rondra">Rondra-Tempel</a>, das <a href="http://www.wiki-aventurica.de/wiki/Markgrafenschloss_in_Vallusa" title="Markgrafenschloss in Vallusa">Markgrafenschloss</a>, <a href="http://www.wiki-aventurica.de/wiki/Gerichtsgeb%C3%A4ude_in_Vallusa" title="Gerichtsgebäude in Vallusa">Gerichtsgebäude</a> und die <a href="http://www.wiki-aventurica.de/wiki/Fechtschule_des_Erm_Sen" title="Fechtschule des Erm Sen">Fechtschule</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.703626</longitude>
+				<latitude>32.957342</latitude>
+				<altitude>0</altitude>
+				<range>1023.925666026772</range>
+				<tilt>0</tilt>
+				<heading>-1.828818941841522e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.7033025330116,32.95724793198984,0</coordinates>
+			</Point>
+        </Placemark>
+		<Placemark>
+			<name>Zwergenplatz</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>          
+			<description>
+				<![CDATA[<style type="text/css">
+					<!-- a:link, a:visited { text-decoration: none; color: #B21C19; } a:hover { text-decoration: underline; color: #B21C19; } hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; } #wiki { font-size:10px; } --></style>
+					<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Im Südosten <a href="http://www.wiki-aventurica.de/wiki/Vallusa" title="Vallusa">Vallusas</a> liegt der <b>Zwergenplatz</b>. Ihn umstehen wichtige Gebäude der Stadt, darunter die Tempel von <a href="http://www.wiki-aventurica.de/wiki/Feuerturm_von_Vallusa" title="Feuerturm von Vallusa">Ingerimm</a> und <a href="http://www.wiki-aventurica.de/wiki/Peraine-Tempel_in_Vallusa" title="Peraine-Tempel in Vallusa">Peraine</a>, der ehemalige <a href="http://www.wiki-aventurica.de/wiki/Halle_der_Rondra" title="Halle der Rondra">Rondra-Tempel</a>, das <a href="http://www.wiki-aventurica.de/wiki/Markgrafenschloss_in_Vallusa" title="Markgrafenschloss in Vallusa">Markgrafenschloss</a>, <a href="http://www.wiki-aventurica.de/wiki/Gerichtsgeb%C3%A4ude_in_Vallusa" title="Gerichtsgebäude in Vallusa">Gerichtsgebäude</a> und die <a href="http://www.wiki-aventurica.de/wiki/Fechtschule_des_Erm_Sen" title="Fechtschule des Erm Sen">Fechtschule</a>.
+								<!-- END EDIT -->
+								<!-- WIKI-IMPRESSUM -->
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.703626</longitude>
+				<latitude>32.957342</latitude>
+				<altitude>0</altitude>
+				<range>1023.925666026772</range>
+				<tilt>0</tilt>
+				<heading>-1.828818941841522e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+			<Point>
+				<coordinates>9.703626,32.957342,0</coordinates>
+			</Point>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Roter Pass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Roter Pass-->
+			<name>Roter Pass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Rote Pass</b> liegt zwischen den <a href="http://www.wiki-aventurica.de/wiki/Salamandersteine" title="Salamandersteine">Salamandersteinen</a> und der <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roten Sichel</a>. Der Pass verbindet in 800 <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> Höhe die <a href="http://www.wiki-aventurica.de/wiki/Gr%C3%BCne_Ebene" title="Grüne Ebene">Grüne Ebene</a> mit dem Gebiet des <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensees</a>, ist jedoch wegen der <a href="http://www.wiki-aventurica.de/wiki/Goblin" title="Goblin">Goblins</a> der <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roten Sichel</a> sehr gefährlich.
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					5.78853244194756,34.57218683505241,0 <!--<POI>Siedlung:Hardorp</POI>--> <!--<POI>SOE:Straße von Hadorp nach Rathila</POI>-->
+					5.800212853847475,34.60214936776564,0 
+					5.826279504798624,34.63526697056724,0 
+					5.857238561645779,34.68694238822798,0 
+					5.908302077392036,34.7371528971758,0 
+					5.958916529846361,34.76828735435105,0 
+					5.995809047961231,34.80466550553413,0 
+					6.008806214798592,34.83975106578873,0 
+					6.042573432461269,34.86872816418183,0 
+					6.047521554351754,34.88575805928191,0 
+					6.075043210049429,34.91178926297069,0 
+					6.076255089531135,34.92945339193585,0 
+					6.11863167914894,34.98792039484472,0 
+					6.152315103089377,35.0056963990316,0 
+					6.174458968668651,35.03431832760461,0
+					6.210741763949739,35.0558629218637,0 
+					6.267056198431198,35.06948262571714,0 
+					6.268188313451109,35.08568644400521,0
+					6.291417209338324,35.10317005179027,0
+					6.316463518249254,35.10604681879308,0 
+					6.344132072738519,35.10589095841722,0
+					6.391374590574042,35.15125284254376,0 
+					6.426116282960772,35.14785423936706,0
+					6.445847247879611,35.15560842959303,0
+					6.526387538859431,35.23056112377598,0 
+					6.603167115526968,35.2494399870909,0 
+					6.642977923464494,35.2683637859821,0 
+					6.675811721183433,35.31722882292263,0 
+					6.686227961078251,35.35153939086641,0 
+					6.710901244008496,35.36713600255795,0 
+					6.719263913547349,35.39284621999073,0
+					6.762572881751012,35.42135642890486,0 
+					6.814803202674407,35.49329978315343,0 
+					6.867344956993833,35.53441454352723,0 
+					6.906397319218984,35.58595198404915,0 
+					6.919486078187425,35.61834088466046,0 
+					6.918074595015722,35.65177996899762,0 
+					6.948125224298365,35.68685467127444,0 
+					6.975309456494681,35.70967536290216,0 <!--<POI>Siedlung:Travingen</POI>--> <!--<POI>SOE:Straße von Ask nach Travingen</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>6.416348</longitude>
+				<latitude>35.131510</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Werkstätten von Punin</name>
+	<Region>
+		<LatLonAltBox>
+			<north>27.05629773260329</north>
+			<south>27.03790578131286</south>
+			<east>2.662378418352493</east>
+			<west>2.647486645546109</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Alchemie und Fetischladen Taberna Crano</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Theaterviertel<TR><TD><I>Besitzer/Vorsteher:</I> Tolmanus Crano<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.655868</longitude>
+			<latitude>27.046163</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.655868,27.046163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Apotheke Blaemendal</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Apotheke Blaemendal</b> liegt im <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtviertel <a href="http://www.wiki-aventurica.de/wiki/Yaquirhafen" title="Yaquirhafen">Yaquirhafen</a> zwischen <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fer_Basar" title="Großer Basar">Großem Basar</a> und <a href="http://www.wiki-aventurica.de/wiki/Etilienpark" title="Etilienpark">Etilienpark</a>. Nur Wenige wissen von dem geheimen Zugang zur <a href="http://www.wiki-aventurica.de/wiki/Halle_der_Tr%C3%A4ume" title="Halle der Träume">Halle der Träume</a> des <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfaner_Ritus" title="Al'Anfaner Ritus">Al'Anfaner Ritus</a> über die <a href="http://www.wiki-aventurica.de/wiki/Kanalisation_in_Punin" title="Kanalisation in Punin">Kanalisation</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.658541</longitude>
+			<latitude>27.047609</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.658541,27.047609,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Architektin de Lana</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Sereno<TR><TD><I>Besitzer/Vorsteher:</I> Asfalia de Lana<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.654191</longitude>
+			<latitude>27.046842</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.654191,27.046842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Badehaus Tulamidya</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Tiefenbrunn<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.655093</longitude>
+			<latitude>27.049568</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.655093,27.049568,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bognerei Abendwind</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Bognerei Abendwind</b> in der <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> <a href="http://www.wiki-aventurica.de/wiki/Ingwacht" title="Ingwacht">Ingwacht</a> ist eine weit über <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">Almada</a> hinaus bekannte Werkstätte, in der <a href="http://www.wiki-aventurica.de/wiki/Noiona_Abendwind" title="Noiona Abendwind">Noiona Abendwind</a> erstklassige <a href="http://www.wiki-aventurica.de/wiki/Bogen" title="Bogen">Bögen</a> fertigt und an ausgewählte Kunden <a href="http://www.wiki-aventurica.de/wiki/Elfenbogen" title="Elfenbogen">Elfenbögen</a> verkauft.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.659112</longitude>
+			<latitude>27.048050</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.659112,27.048050,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Druckhaus des Arcanen Institutes</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Theaterviertel<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.656528</longitude>
+			<latitude>27.046889</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.656528,27.046889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Druckhaus Sfandini Erben und Cie.</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Das <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> <b>Druckhaus Sfandini Erben &amp; Cie.</b> ist eines der bekanntesten des <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a>. In der Werkstatt von <a href="http://www.wiki-aventurica.de/wiki/Bodar_Sfandini" title="Bodar Sfandini">Bodar Sfandini</a> werden neben vielen aktuellen Nachrichten und "4-Taler-Novellen" auch bedeutende Werke wie die Puniner Ausgabe der <a href="http://www.wiki-aventurica.de/wiki/Encyclopaedia_Magica" title="Encyclopaedia Magica">Encyclopaedia Magica</a> oder das <a href="http://www.wiki-aventurica.de/wiki/Bestiarium_und_Herbarium_Aventuricum" title="Bestiarium und Herbarium Aventuricum" class="mw-redirect">Bestiarium und Herbarium Aventuricum</a> gedruckt.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.660192</longitude>
+			<latitude>27.047813</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.660192,27.047813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fischer Darpani</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Yaquirhafen<TR><TD><I>Besitzer/Vorsteher:</I> Gustavo Darpani<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.659178</longitude>
+			<latitude>27.046208</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.659178,27.046208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Geisterbeschwörer</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: L 8 X<TR><TD><I>Stadtteil: Unter-Punin<TR><TD><I>Besitzer/Vorsteher:</I> Yalach Tazani<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.656873</longitude>
+			<latitude>27.045411</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.656873,27.045411,0</coordinates>
+		</Point>
+	</Placemark>
+	<!--<Placemark>
+		<name>Geldwechsler</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Besitzer/Vorsteher:</I> Ridolfo Albrizzi<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.653887</longitude>
+			<latitude>27.052298</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.653887,27.052298,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Gildenhaus der Rattenfänger</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Das <b>Gildenhaus der Rattenfänger</b> liegt im <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtviertel <a href="http://www.wiki-aventurica.de/wiki/Ingwacht" title="Ingwacht">Ingwacht</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.659186</longitude>
+			<latitude>27.050451</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.659186,27.050451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hofschneiderei Knabenschuh</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Hofschneiderei <i>Knabenschuh</i></b> im <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtteil <a href="http://www.wiki-aventurica.de/wiki/Tempelhof" title="Tempelhof">Tempelhof</a> widmet sich der <a href="http://www.wiki-aventurica.de/wiki/Schneider" title="Schneider" class="mw-redirect">Schneiderei</a> und Bearbeitung edler Stoffe und Tuche wie denjenigen der <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9F-_und_Hof-Weberei_Galandi" title="Groß- und Hof-Weberei Galandi">Hofweberei Galandi</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.658204</longitude>
+			<latitude>27.048370</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.658204,27.048370,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kaiserliche Kellerei</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Kaiserliche Kellerei</b> (ehemals <i>Königlich-Großfürstliche Kellerei</i>) im <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtteil <a href="http://www.wiki-aventurica.de/wiki/Ingwacht" title="Ingwacht">Ingwacht</a> ist die größte Kellerei des <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a>. Seit der Gründung zu Zeiten <a href="http://www.wiki-aventurica.de/wiki/Kaiser" title="Kaiser">Kaiser</a> <a href="http://www.wiki-aventurica.de/wiki/Valpo_von_Almada" title="Valpo von Almada">Valpos</a> werden hier die <a href="http://www.wiki-aventurica.de/wiki/Wein" title="Wein" class="mw-redirect">Weinernten</a> aller kaiserlichen und königlichen Ländereien gekeltert.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.657884</longitude>
+			<latitude>27.050106</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.657884,27.050106,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kellerei Pichelstein</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Kellerei <i>Pichelstein</i></b> in der <a href="http://www.wiki-aventurica.de/wiki/Ingwacht" title="Ingwacht">Ingwacht</a> ist seit Jahren eine feste Größe in der <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Welt des <a href="http://www.wiki-aventurica.de/wiki/Wein" title="Wein" class="mw-redirect">Weines</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.660077</longitude>
+			<latitude>27.048265</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.660077,27.048265,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kerzenzieher</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Ingwacht<TR><TD><I>Besitzer/Vorsteher:</I> Balbiano<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.660017</longitude>
+			<latitude>27.049419</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.660017,27.049419,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Station der Postillone</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Station der Postillone</b> (auch <i>Kutschenstation</i> genannt) steht im Südosten des <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtteils <a href="http://www.wiki-aventurica.de/wiki/Tiefenbrunn" title="Tiefenbrunn">Tiefenbrunn</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>		<LookAt>
+			<longitude>2.656271</longitude>
+			<latitude>27.048310</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.656271,27.048310,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mada-Thermen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Mada-Thermen</b> stehen am Fuße des <a href="http://www.wiki-aventurica.de/wiki/Goldacker" title="Goldacker">Goldackers</a> im <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtteil <a href="http://www.wiki-aventurica.de/wiki/Tiefenbrunn" title="Tiefenbrunn">Tiefenbrunn</a>. Das älteste Badehaus des <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a> aus den Zeiten des <a href="http://www.wiki-aventurica.de/wiki/Ur-Tulamide" title="Ur-Tulamide">urtulamidischen</a> <a href="http://www.wiki-aventurica.de/wiki/Emirat_Al%27Mada" title="Emirat Al'Mada">Emirats Al'Mada</a> wurde über heißen Quellen errichtet.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.654823</longitude>
+			<latitude>27.050033</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.654823,27.050033,0</coordinates>
+		</Point>
+	</Placemark>
+	<!--<Placemark>
+		<name>Papiermühle</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: J5 X<TR><TD><I>Stadtteil: Ingwacht<TR><TD><I>Besitzer/Vorsteher:</I> Pilar Guridi<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.649087</longitude>
+			<latitude>27.045098</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.649087,27.045098,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Papiermühle Guridi</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Papiermühle <i>Guridi</i></b> in <a href="http://www.wiki-aventurica.de/wiki/Palangana" title="Palangana">Palangana</a> trägt dem großen Bedarf an <a href="http://www.wiki-aventurica.de/wiki/Papier" title="Papier">Papier</a> von <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> Rechnung. Die <a href="/index.php?title=Familie_Guridi&amp;action=edit&amp;redlink=1" class="new" title="Familie Guridi (Seite nicht vorhanden)">Familie Guridi</a> beliefert <a href="http://www.wiki-aventurica.de/wiki/Druckerei" title="Druckerei">Druckereien</a> wie das <a href="http://www.wiki-aventurica.de/wiki/Druckhaus_Sfandini_Erben_und_Cie." title="Druckhaus Sfandini Erben und Cie." class="mw-redirect">Druckhaus Sfandini</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.652310</longitude>
+			<latitude>27.046521</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.652310,27.046521,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Plättnerei Assiref</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Ingwacht<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.659394</longitude>
+			<latitude>27.049859</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.659394,27.049859,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rattenfänger Castanyeda</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Ingwacht<TR><TD><I>Besitzer/Vorsteher:</I> Jagomo Castanyeda<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.659694</longitude>
+			<latitude>27.050339</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.659694,27.050339,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rattenfänger Fetthannen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Ingwacht<TR><TD><I>Besitzer/Vorsteher:</I> Olmo Fetthannen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.658229</longitude>
+			<latitude>27.050385</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.658229,27.050385,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Redaktionshaus Yaquirblick</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Das <b>Haus Yaquirblick</b> liegt im <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> Stadtteil <a href="http://www.wiki-aventurica.de/wiki/Palangana" title="Palangana">Palangana</a> gegenüber dem <a href="http://www.wiki-aventurica.de/wiki/Caralus-Stadion" title="Caralus-Stadion">Caralus-Stadion</a>. Hier arbeiten die Redakteure und Schreiber der <i><a href="http://www.wiki-aventurica.de/wiki/Yaquirblick" title="Yaquirblick">Journaille Yaquirblick</a></i> unter Schriftleiter <a href="http://www.wiki-aventurica.de/wiki/Tiftal_ui_Stepahan" title="Tiftal ui Stepahan">Tiftal ui Stepahan</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.652490</longitude>
+			<latitude>27.046921</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Haus Yaquirblick</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.652490,27.046921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schmiede der Gebrüder Sfazzio</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Schmiede der Gebrüder Sfazzio</b> in der <a href="http://www.wiki-aventurica.de/wiki/Ingwacht" title="Ingwacht">Ingwacht</a> bietet die besten Klingen <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punins</a> feil.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.658379</longitude>
+			<latitude>27.049730</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.658379,27.049730,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schreiber</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Theaterviertel<TR><TD><I>Besitzer/Vorsteher:</I> Jergerd<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.658125</longitude>
+			<latitude>27.046637</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.658125,27.046637,0</coordinates>
+		</Point>
+	</Placemark>
+	<!--<Placemark>
+		<name>Schreibstube</name>
+		<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Lage auf dem Stadtplan: I11 O<TR><TD><I>Stadtteil: Yaquirhafen<TR><TD><I>Besitzer/Vorsteher:</I> Kathab ben Ghulshevan<TR><TD><I>Bemerkung:</I> im Basar<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.653887</longitude>
+			<latitude>27.049898</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.653887,27.049898,0</coordinates>
+		</Point>
+	</Placemark>-->
+	<Placemark>
+		<name>Stahlschrankbauer</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: H 11 X<TR><TD><I>Stadtteil: Ingwacht<TR><TD><I>Besitzer/Vorsteher:</I> Argasch und Irgasch<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.659722</longitude>
+			<latitude>27.048949</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.659722,27.048949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Station der Beilunker Reiter</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Tiefenbrunn<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<TR><TD>Pforte des Grauens, S. 14<TR><TD>Die letzte Bastion, S. 7<TR><TD>Das Königreich Almada, S. 37<TR><TD>Erben des Zorns, S. 16<TR><TD>Die Welt des Schwarzen Auges, S. 16<TR><TD>Das Königreich Almada, S. 37<TR><TD>Geographia Aventurica, S. 52<TR><TD>Aventurischer Bote (105), S. 4<TR><TD>Meister der Dämonen, S. 178<TR><TD>Invasion der Verdammten, S. 169<TR><TD>Ehrenhändel, S. 55<TR><TD>Aus Licht und Traum, S. 103<TR><TD>Im Schatten Simyalas, S. 55<TR><TD>Stein der Mada, S. 19<TR><TD>Das Zepter des Horas, S. 32<TR><TD>Aventurischer Bote (136), S. 3<TR><TD>Patrizier und Diebesbanden, S. 83<TR><TD>Die Goldene Stadt, S. 3<TR><TD>Donner und Sturm, S. 43<TR><TD>Aventurische Götterdiener, S. 46<TR><TD>Aventurischer Bote (139), S. 14<TR><TD>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<TR><TD>Aventurischer Bote (141), S. 7<TR><TD>Aventurisches Archiv 2, S. 42<TR><TD>Der Mondenkaiser, S. 27<TR><TD>Der Mondenkaiser, S. 115<TR><TD>Im Bann des Diamanten, S. 113<TR><TD>Schatten über Bosparan, S. 75<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.654050</longitude>
+			<latitude>27.047769</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.654050,27.047769,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Weberei Galandi</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Die <b>Groß- und Hof-Weberei <i>Galandi</i></b> liegt im Südosten der <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Puniner</a> <a href="http://www.wiki-aventurica.de/wiki/Ingwacht" title="Ingwacht">Ingwacht</a>.
+		<hr>
+		<div id="wiki">
+			<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>&nbsp;</p>
+			<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+		</div>
+		</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>2.660446</longitude>
+			<latitude>27.048035</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Werkstaette</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.660446,27.048035,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

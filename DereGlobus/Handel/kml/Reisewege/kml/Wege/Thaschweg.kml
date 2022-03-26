@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Thaschweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Thaschweg-->
+			<name>Thaschweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Thaschweg</b> (auch <b>Lialinsweg</b> genannt) führt durch die südlichen Ausläufer des <a href="http://www.wiki-aventurica.de/wiki/Thasch" title="Thasch">Thasch</a>-Gebirges durch das <a href="http://www.wiki-aventurica.de/wiki/Trauerholz" title="Trauerholz">Trauerholz</a> entlang der <a href="http://www.wiki-aventurica.de/wiki/Messergrassteppe" title="Messergrassteppe">Messergrassteppe</a> von <a href="http://www.wiki-aventurica.de/wiki/Yrramis" title="Yrramis">Yrramis</a> nach <a href="http://www.wiki-aventurica.de/wiki/Teschkal" title="Teschkal" class="mw-redirect">Teschkal</a>. Einen Tagensmarsch südlich von Yrramis steht die Feste <a href="http://www.wiki-aventurica.de/wiki/Greyfensteyn" title="Greyfensteyn">Greyfensteyn</a>, die den Pass zwischen <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a> und <a href="http://www.wiki-aventurica.de/wiki/Thasch" title="Thasch">Thasch</a> bewacht. Vor Erreichen der Messergrassteppe erhebt sich der <a href="http://www.wiki-aventurica.de/wiki/Lialinsturm" title="Lialinsturm">Lialinsturm</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					0.1922368166789656,32.51610588943473,0 <!--<POI>Siedlung:Teshkal</POI>-->  <!--<POI>SOE:Weg von Andergast nach Teshkal</POI>-->
+					0.2106052171206563,32.54132986747141,0 
+					0.2170562929487652,32.62463855597171,0 
+					0.2080646409373266,32.67072072625614,0 
+					0.217078944946163,32.69511646933093,0  <!--<POI>Abzweig:Weg von Teshkal nach Thaschkamm</POI>-->
+					0.2879555196813199,32.68345693663148,0 
+					0.3251446251649148,32.68691220985457,0 
+					0.3502388775768539,32.70109872434809,0 
+					0.4180266109600961,32.70121529675674,0 
+					0.4468157566957776,32.71217655664907,0 
+					0.4817665493933743,32.73123342841842,0 
+					0.5078598358725861,32.73291097871738,0 
+					0.5290873621726844,32.74700920002547,0 
+					0.564230587713761,32.75742370974353,0 
+					0.6124330319492111,32.78223381469351,0 
+					0.6608941765884202,32.7958316539574,0 
+					0.7051642014923854,32.81669620656742,0 
+					0.7687586362566901,32.82108241853346,0 
+					0.8053349534797105,32.8413615220427,0 
+					0.8293225470900523,32.84898307845942,0 
+					0.86062866135731,32.84936198568369,0 
+					0.914407777457833,32.85905342831407,0 
+					0.9535595943672925,32.85730743447035,0 
+					0.9798169918490518,32.85113220336601,0 
+					1.015668777026673,32.87112653150233,0 
+					1.045416779712414,32.87113434272986,0 
+					1.075377841993241,32.85608681155698,0 
+					1.111804205866724,32.86518342695667,0 
+					1.14558114231234,32.85919334711664,0 
+					1.193029688241687,32.86733275779579,0 
+					1.229502321046097,32.85845301397772,0 
+					1.262346777767456,32.86681306320082,0 
+					1.306422525981406,32.89529943033001,0 
+					1.369684423856665,32.91678190253701,0 
+					1.415923487007782,32.9241637687276,0 
+					1.45276646507285,32.97595646429498,0 
+					1.488107869383302,32.99092989518962,0 
+					1.517877429735934,32.99145459388259,0 
+					1.571143237607355,33.00658673705631,0 
+					1.603468053201327,33.02118870039369,0 
+					1.642805260343951,33.02110165378871,0
+					1.703927292368577,33.07835271284264,0 
+					1.738551376037183,33.098048656586,0 
+					1.758605738357979,33.10014245339082,0 
+					1.818518880259459,33.18113993275598,0 
+					1.844566297917689,33.1918585367192,0 
+					1.869706918488761,33.21342895053945,0 
+					1.93028353696578,33.23988549491382,0 
+					1.964081091298673,33.24646939858356,0 
+					1.998288322095418,33.25611668760971,0 
+					2.037787025525166,33.27736976503673,0 
+					2.060619272614555,33.27902570285126,0 
+					2.087822057837785,33.27079372528452,0 
+					2.115305071359481,33.28257317922275,0 
+					2.119921897341439,33.3001858710148,0 
+					2.136207698515331,33.31065475028706,0 <!--<POI>Flussquerung:Lowanger Svellt</POI>-->
+					2.151838051856254,33.30488046541038,0 <!--<POI>Siedlung:Yrramis</POI>--> <!--<POI>SOE:Saljetweg</POI>--> <!--<POI>SOE:Svelltuferweg</POI>--> <!--<POI>SOE:Nôrrnstieg</POI>--> <!--<POI>SOE:Schattenpass</POI>--> <!--<POI>SOE:Schattenbachpass</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>1.206949</longitude>
+				<latitude>32.901002</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

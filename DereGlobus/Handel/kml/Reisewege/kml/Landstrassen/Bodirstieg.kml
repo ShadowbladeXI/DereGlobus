@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Bodirstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Bodirstieg von 300 bis 600 BF-->
+			<name>Bodirstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Bodirstieg</b> war einst eine <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe" title="Reichsstraße">Reichsstraße</a>, die um <a href="http://www.wiki-aventurica.de/wiki/Chronik:300" title="Chronik:300" class="mw-redirect">300 BF</a> erbaut wurde und sich heute in einem schlechten Zustand befindet. Die Straße, die <a href="http://www.wiki-aventurica.de/wiki/Thorwal_%28Stadt%29" title="Thorwal (Stadt)">Thorwal</a> mit <a href="http://www.wiki-aventurica.de/wiki/Phexcaer" title="Phexcaer">Phexcaer</a> verbindet, verläuft parallel zum <a href="http://www.wiki-aventurica.de/wiki/Bodir" title="Bodir">Bodir</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.135959197342764,32.71948848871114,0  <!--<POI>Siedlung:Thorwal</POI>--> <!--<POI>SOE:Küstenpfad von Thorwal nach Prem </POI>--> 
+						-4.134273263934155,32.71937560758822,0 
+						-4.133437664728406,32.71974768422338,0 
+						-4.130248653779505,32.72118044836427,0 
+						-4.128490573030334,32.72193292456109,0 
+						-4.127213511415286,32.72262701326594,0 
+						-4.125744466918637,32.72331235812231,0 
+						-4.12500202644177,32.72377377138361,0 
+						-4.123928523440278,32.72435646034852,0 
+						-4.123134724539547,32.72454534029643,0 
+						-4.09767548427037,32.76150701651048,0   <!-- Ende Detailkarte Thorwal</POI> -->
+						-03.986346,32.836324,0	
+						-03.965404,32.860788,0	
+						-03.959674,32.887238,0	
+						-03.953190,32.895394,0	
+						-03.951219,32.974982,0	<!-- <POI>Siedlung:Rukian</POI> -->
+						-03.951886,33.021666,0	
+						-03.946497,33.061507,0	
+						-03.952985,33.101250,0	
+						-03.967382,33.154178,0	
+						-03.982198,33.183333,0	
+						-03.999861,33.203384,0	
+						-04.044597,33.252925,0	
+						-04.052783,33.267868,0	
+						-04.054071,33.317850,0	<!-- <POI>Siedlung:Auplog</POI> -->
+						-04.044606,33.328178,0	
+						-04.025632,33.332915,0	
+						-04.013823,33.343942,0	
+						-03.998877,33.364090,0	
+						-03.992719,33.390067,0	
+						-03.987340,33.394667,0	
+						-03.985953,33.411965,0	
+						-03.981294,33.430558,0	
+						-03.964232,33.457241,0	
+						-3.963564873257463,33.50718326394944,0 	<!-- <POI>Siedlung:Vilnvad</POI> --> <!-- <POI>Abzweigung:Weg von Felsteyn nach Vilnvad</POI> -->
+						-03.950136,33.517820,0	<!-- <POI>Fluss:Bodir</POI> -->
+						-03.901354,33.558453,0	
+						-03.883333,33.570860,0	
+						-03.847685,33.595820,0	
+						-03.824959,33.607330,0	
+						-03.804720,33.613298,0	
+						-03.782700,33.615894,0	
+						-03.751563,33.633057,0	<!-- <POI>Siedlung:unbenannt</POI> -->
+						-03.714546,33.636990,0	
+						-03.702415,33.642396,0	
+						-03.643797,33.642822,0	
+						-03.622056,33.651092,0	
+						-03.597778,33.661887,0	
+						-03.581633,33.673590,0	
+						-03.554648,33.684526,0	
+						-03.518118,33.690550,0	
+						-03.491447,33.695539,0	
+						-03.443274,33.717151,0	
+						-03.391682,33.732398,0	
+						-03.324339,33.753152,0	
+						-03.248141,33.780211,0	
+						-03.163445,33.811328,0	
+						-03.101913,33.840459,0	
+						-03.087187,33.846064,0	
+						-03.033544,33.845626,0	
+						-02.993909,33.874652,0	
+						-2.968128784510445,33.90494224839365,0 
+						-2.959662609083252,33.92741324442162,0 <!-- Anfang Detailkarte Phexcaer</POI> -->
+						-2.959397329634395,33.92760224635801,0 
+						-2.959217798717751,33.92778679828347,0 
+						-2.959003434551714,33.92807807719444,0 
+						-2.958751412974496,33.92826673516756,0 
+						-2.958571874990217,33.92832899634858,0 
+						-2.9583039046488,33.92833789652129,0 
+						-2.957931675943282,33.92865224619195,0 
+						-2.957813772476722,33.92880344305348,0 
+						-2.957107765421354,33.92924559840292,0 
+						-2.956339192711299,33.92953239480103,0 
+						-2.955825049999384,33.92989668474188,0 
+						-2.955747590480675,33.93023410533678,0 
+						-2.955222097208439,33.93041178846818,0 	<!--<POI>Siedlung:Phexcaer</POI>--> <!--<POI>SOE:Via Rudesia</POI>-->
+					</coordinates>
+				</LineString>
+				<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>			
+				<longitude>-3.495739</longitude>
+				<latitude>33.305858</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>300</begin>
+				<end>599-12-31</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> 	<!-- Bodirstieg ab 600 BF-->
+	<name>Bodirstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Bodirstieg</b> war einst eine <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe" title="Reichsstraße">Reichsstraße</a>, die um <a href="http://www.wiki-aventurica.de/wiki/Chronik:300" title="Chronik:300" class="mw-redirect">300 BF</a> erbaut wurde und sich heute in einem schlechten Zustand befindet. Die Straße, die <a href="http://www.wiki-aventurica.de/wiki/Thorwal_%28Stadt%29" title="Thorwal (Stadt)">Thorwal</a> mit <a href="http://www.wiki-aventurica.de/wiki/Phexcaer" title="Phexcaer">Phexcaer</a> verbindet, verläuft parallel zum <a href="http://www.wiki-aventurica.de/wiki/Bodir" title="Bodir">Bodir</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+									<p>
+										Dieser Text basiert auf dem Artikel
+										<a href="http://www.wiki-aventurica.de/wiki/Bodirstieg">
+											Bodirstieg
+										</a>
+										aus der freien Website
+										<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+											Wiki Aventurica
+										</a>
+										und steht unter der
+										<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+											CC-BY-SA 3.0</a>.
+										Im Wiki Aventurica ist eine
+										<a href="http://www.wiki-aventurica.de/wiki/Bodirstieg&action=history">
+											Liste der Autoren
+										</a>
+										verfügbar, dort kann man den
+										<a href="http://www.wiki-aventurica.de/wiki/Bodirstieg&action=edit">
+											Artikel bearbeiten</a>.
+									</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.135959197342764,32.71948848871114,0  <!--<POI>Siedlung:Thorwal</POI>--> <!--<POI>SOE:Küstenpfad von Thorwal nach Prem </POI>--> 
+						-4.134273263934155,32.71937560758822,0 
+						-4.133437664728406,32.71974768422338,0 
+						-4.130248653779505,32.72118044836427,0 
+						-4.128490573030334,32.72193292456109,0 
+						-4.127213511415286,32.72262701326594,0 
+						-4.125744466918637,32.72331235812231,0 
+						-4.12500202644177,32.72377377138361,0 
+						-4.123928523440278,32.72435646034852,0 
+						-4.123134724539547,32.72454534029643,0 
+						-4.09767548427037,32.76150701651048,0   <!-- Ende Detailkarte Thorwal</POI> -->
+						-03.986346,32.836324,0	
+						-03.965404,32.860788,0	
+						-03.959674,32.887238,0	
+						-03.953190,32.895394,0	
+						-03.951219,32.974982,0	<!-- <POI>Siedlung:Rukian</POI> -->
+						-03.951886,33.021666,0	
+						-03.946497,33.061507,0	
+						-03.952985,33.101250,0	
+						-03.967382,33.154178,0	
+						-03.982198,33.183333,0	
+						-03.999861,33.203384,0	
+						-04.044597,33.252925,0	
+						-04.052783,33.267868,0	
+						-04.054071,33.317850,0	<!-- <POI>Siedlung:Auplog</POI> -->
+						-04.044606,33.328178,0	
+						-04.025632,33.332915,0	
+						-04.013823,33.343942,0	
+						-03.998877,33.364090,0	
+						-03.992719,33.390067,0	
+						-03.987340,33.394667,0	
+						-03.985953,33.411965,0	
+						-03.981294,33.430558,0	
+						-03.964232,33.457241,0	
+						-3.963564873257463,33.50718326394944,0 	<!-- <POI>Siedlung:Vilnvad</POI> --> <!-- <POI>Abzweigung:Weg von Felsteyn nach Vilnvad</POI> -->
+						-03.950136,33.517820,0	<!-- <POI>Fluss:Bodir</POI> -->
+						-03.901354,33.558453,0	
+						-03.883333,33.570860,0	
+						-03.847685,33.595820,0	
+						-03.824959,33.607330,0	
+						-03.804720,33.613298,0	
+						-03.782700,33.615894,0	
+						-03.751563,33.633057,0	<!-- <POI>Siedlung:unbenannt</POI> -->
+						-03.714546,33.636990,0	
+						-03.702415,33.642396,0	
+						-03.643797,33.642822,0	
+						-03.622056,33.651092,0	
+						-03.597778,33.661887,0	
+						-03.581633,33.673590,0	
+						-03.554648,33.684526,0	
+						-03.518118,33.690550,0	
+						-03.491447,33.695539,0	
+						-03.443274,33.717151,0	
+						-03.391682,33.732398,0	
+						-03.324339,33.753152,0	
+						-03.248141,33.780211,0	
+						-03.163445,33.811328,0	
+						-03.101913,33.840459,0	
+						-03.087187,33.846064,0	
+						-03.033544,33.845626,0	
+						-02.993909,33.874652,0	
+						-2.968128784510445,33.90494224839365,0 
+						-2.959662609083252,33.92741324442162,0 <!-- Anfang Detailkarte Phexcaer</POI> -->
+						-2.959397329634395,33.92760224635801,0 
+						-2.959217798717751,33.92778679828347,0 
+						-2.959003434551714,33.92807807719444,0 
+						-2.958751412974496,33.92826673516756,0 
+						-2.958571874990217,33.92832899634858,0 
+						-2.9583039046488,33.92833789652129,0 
+						-2.957931675943282,33.92865224619195,0 
+						-2.957813772476722,33.92880344305348,0 
+						-2.957107765421354,33.92924559840292,0 
+						-2.956339192711299,33.92953239480103,0 
+						-2.955825049999384,33.92989668474188,0 
+						-2.955747590480675,33.93023410533678,0 
+						-2.955222097208439,33.93041178846818,0 	<!--<POI>Siedlung:Phexcaer</POI>--> <!--<POI>SOE:Via Rudesia</POI>-->
+					</coordinates>
+				</LineString>
+				<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>			
+				<longitude>-3.495739</longitude>
+				<latitude>33.305858</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>600</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Ask nach Travingen</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Ask nach Travingen-->
+			<name>Weg von Ask nach Travingen</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					8.292030169848486,36.49300910870481,0  <!--<POI>SOE:Karawanenroute von Riva nach Norburg</POI>-->
+					8.247450589871646,36.44393326226145,0 
+					8.230745491235282,36.43958617586833,0 
+					8.193858494278043,36.39950102003982,0 
+					8.153645105810126,36.38343627907317,0 
+					8.107701855599013,36.35314012431536,0 
+					8.084504549910495,36.34943669307826,0 
+					8.039757762183728,36.31348222359991,0 
+					7.9895346034847,36.30237084084598,0 
+					7.945740026543994,36.25731741314253,0 
+					7.896384042968936,36.23360724642772,0 
+					7.871475696292462,36.21021321115395,0 
+					7.814999311407116,36.18587684301028,0 
+					7.758314079385285,36.17074891336538,0 
+					7.689810324985425,36.16892395737578,0 
+					7.65594902348105,36.15934122385164,0 
+					7.577292573286396,36.10750102902849,0 
+					7.545407701523789,36.10135154797332,0 
+					7.513382483836701,36.07547948493108,0 
+					7.469540149196041,36.06762923262239,0 
+					7.431941655980372,36.04907812131634,0 
+					7.393223718306712,36.01619325982941,0 
+					7.334862159136129,36.00180285139237,0 
+					7.245422284293735,35.94861648066305,0 
+					7.221589988190407,35.91838529497519,0 
+					7.168382806926594,35.88363794498712,0 
+					7.066209922445794,35.77305461863904,0 
+					6.975309456494681,35.70967536290216,0 <!--<POI>Siedlung:Travingen</POI>--> <!--<POI>SOE:Roter Pass</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>7.523187</longitude>
+				<latitude>36.115861</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

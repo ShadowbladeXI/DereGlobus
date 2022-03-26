@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Pass der Winde</name>
+	<open>1</open>
+		<Placemark> 	<!-- Pass der Winde-->
+			<name>Pass der Winde</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Pass der Winde</b> verbindet das <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">almadanische</a> <a href="http://www.wiki-aventurica.de/wiki/Weinbergen" title="Weinbergen">Weinbergen</a> über <a href="http://www.wiki-aventurica.de/wiki/Ferchaba" title="Ferchaba">Ferchaba</a> und <a href="http://www.wiki-aventurica.de/wiki/Eslamabad" title="Eslamabad" class="mw-redirect">Eslamabad</a> mit <a href="http://www.wiki-aventurica.de/wiki/Alam-Terekh" title="Alam-Terekh">Alam-Terekh</a> in der <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a>, von wo man mit <a href="/index.php?title=Karawane&amp;action=edit&amp;redlink=1" class="new" title="Karawane (Seite nicht vorhanden)">Karawanen</a> nach <a href="http://www.wiki-aventurica.de/wiki/Mhanadistan" title="Mhanadistan">Mhanadistan</a> reisen kann. Der Weg ist zwar länger, aber auch sicherer als der <a href="http://www.wiki-aventurica.de/wiki/Blutpass" title="Blutpass" class="mw-redirect">Blutpass</a> durch den <a href="http://www.wiki-aventurica.de/wiki/Raschtulsturm" title="Raschtulsturm">Raschtulsturm</a>. Im <a href="http://www.wiki-aventurica.de/wiki/Tulamidya" title="Tulamidya">Tulamidya</a> wird der Pass auch <b>Djer el-Kel Essouf</b> oder <b>Djebel el-Kel Essouf</b> genannt, was im <a href="http://www.wiki-aventurica.de/wiki/Garethi" title="Garethi">Garethi</a> <i>Berg des Windvolkes</i> bedeutet.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.313063547146653,26.46641002196065,0  <!--<POI>Siedlung:Weinbergen</POI>--> <!--<POI>SOE:Yaquirstieg</POI>--> <!--<POI>SOE:Weinstraße</POI>--> 
+						1.312962970966529,26.43479668999657,0 
+						1.371436791269842,26.40780341003183,0 
+						1.384320126261354,26.36015687309929,0 
+						1.382756996239913,26.29622671244351,0 
+						1.43923346843482,26.26197112161865,0 
+						1.45200169803795,26.23576493832096,0 
+						1.507363119404306,26.182949558944,0 
+						1.53813409549743,26.12801927331325,0 
+						1.596763756153106,26.09474951395363,0 
+						1.682871659064515,26.06770587944246,0 
+						1.742914838211307,26.0369030205549,0 
+						1.812807326892798,25.98096244605907,0 
+						1.886773176541836,25.95119741873807,0 
+						1.929732636276553,25.92192223856091,0 
+						2.025927247452877,25.88335943398167,0 
+						2.078514965473368,25.84026403977628,0 
+						2.125185195011319,25.88414356491969,0 
+						2.164663890208995,25.90795096456158,0 
+						2.203632107950706,25.91774022823299,0 
+						2.222936463808407,25.93243906125997,0 
+						2.232307963537885,25.94877409086852,0 
+						2.232333041726811,25.96558755706327,0 
+						2.251066390686327,25.98378264319114,0 
+						2.283522348149483,25.99954387742081,0 	<!-- <POI>SOE:Karawanenroute von Keft nach Omlad</POI> -->
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>1.933656</longitude>
+				<latitude>26.097033</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Zedernstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Zedernstraße-->
+			<name>Zedernstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Zedernstraße</b> ist ein wichtiger Handelsweg, der von <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> über den <a href="http://www.wiki-aventurica.de/wiki/Raschtulsweg" title="Raschtulsweg">Raschtulspass</a> nach <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> verläuft.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						4.554612891064858,26.52120830712475,0 <!-- <POI>Siedlung:Fasar</POI> --> <!-- <POI>SOE:Kronstrasse von Fasar nach Nasir Malkid</POI> -->
+						04.554615,26.521080,0 
+						04.554607,26.520969,0 
+						04.554588,26.520894,0 
+						04.554543,26.520817,0 
+						04.554457,26.520688,0 
+						04.554304,26.520510,0 
+						04.554106,26.520307,0 
+						04.553967,26.520172,0 
+						04.553788,26.520003,0 
+						04.553667,26.519856,0 
+						04.553547,26.519693,0 
+						04.553435,26.519489,0 
+						04.553310,26.519041,0  <!-- Ende Detailkarte Fasar</POI> -->
+						04.553303,26.518302,0 
+						04.554131,26.517009,0 
+						04.555494,26.516309,0 
+						04.558053,26.514566,0 
+						04.562558,26.509435,0 
+						04.569005,26.498145,0 
+						04.578518,26.485109,0 
+						04.585780,26.479555,0 
+						04.586218,26.468882,0 
+						04.579337,26.456000,0 
+						04.564304,26.426539,0 
+						04.560064,26.413452,0 
+						04.562193,26.400020,0 
+						04.567939,26.380917,0 	<!--<POI>Siedlung:Maridor</POI>-->
+						04.564535,26.372485,0 
+						04.551503,26.358958,0 
+						04.542654,26.343604,0 
+						04.536522,26.328884,0 
+						04.534557,26.319187,0 
+						04.513409,26.302458,0 
+						04.492645,26.286875,0 
+						04.478571,26.270646,0 
+						04.464615,26.258951,0 
+						04.451600,26.249626,0 
+						04.434809,26.247741,0 	<!--<POI>Siedlung:Merahbad</POI>-->
+						04.404865,26.244092,0 
+						04.383423,26.233938,0 
+						04.368473,26.223670,0 
+						04.356583,26.210859,0 
+						04.337527,26.193405,0 
+						04.322530,26.179254,0 
+						04.314046,26.166641,0 
+						04.307805,26.155757,0 
+						04.299363,26.146739,0 
+						04.273825,26.125236,0	<!--<POI>Siedlung:Naggilah</POI>--> <!--<POI>Abzweig:Straße von Naggilah nach Belew</POI>-->
+						04.230226,26.103731,0 
+						04.205960,26.096215,0 
+						04.179435,26.084985,0 
+						04.149028,26.074525,0 
+						04.131536,26.071839,0 
+						04.093701,26.061430,0 
+						04.060389,26.048763,0 
+						04.020988,26.041549,0 
+						03.998234,26.031787,0	<!--<POI>Siedlung:El'Trutz</POI>--> <!--<POI>Abzweig:Straße von El'Trutz nach Kerbal</POI>-->
+						03.960509,26.032222,0 
+						03.945317,26.036338,0 
+						03.927819,26.032648,0 
+						03.908982,26.032414,0 
+						03.891762,26.023167,0	<!--<POI>Abzweig:Straße von Kharraqh nach Quadanagar</POI>-->
+						03.856171,26.003335,0	<!--<POI>Siedlung:Quadanagar</POI>-->
+						03.837865,25.997412,0 
+						03.822952,25.996287,0 
+						03.801747,25.987077,0 
+						03.785045,25.987277,0 
+						03.754008,25.975568,0 
+						03.711177,25.954797,0 
+						03.675033,25.950994,0 
+						03.654151,25.945678,0 
+						03.628546,25.931270,0 
+						03.600458,25.912947,0 
+						03.584350,25.899532,0	<!--<POI>Siedlung:Selicum</POI>--> <!--<POI>Abzweig:Straße von Selicum nach Samra</POI>-->
+						03.573630,25.894627,0 
+						03.562587,25.892213,0 
+						03.550476,25.897819,0 
+						03.537264,25.909126,0 
+						03.526418,25.922516,0   <!--<POI>Abzweig:Karawanenroute von Al-Terekh nach Fasar</POI>-->
+						03.525692,25.945689,0 
+						03.525914,25.963342,0 
+						03.526021,25.990401,0 
+						03.525905,26.018396,0 
+						03.525432,26.036706,0	<!--<POI>Abzweig:Straße von Kharraqh nach Quadanagar</POI>-->
+						03.516496,26.053659,0 
+						03.502481,26.076737,0 
+						03.481704,26.109579,0 
+						03.471791,26.129444,0 
+						03.464194,26.146120,0 
+						03.465600,26.155807,0 
+						03.472772,26.159601,0	<!--<POI>Siedlung:Erkenstein</POI>--> <!--<POI>Abzweigung:Raschtulspass</POI>-->
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>4.005072</longitude>
+				<latitude>26.227439</latitude>
+				<altitude>231080</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Strassen_Khezzara.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Strassen_Khezzara</name>
+		<Region>
+			<LatLonAltBox>
+				<north>33.79384081750062</north>
+				<south>33.79132804927691</south>
+				<east>-0.07822331810895376</east>
+				<west>-0.08284636149193105</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Allee der Unterlegenen</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: </I>1<TR><TD><I>Stadtteil: </I><TR><TD><I>Besitzer/Vorsteher:</I> <HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 143<TR><TD>Die Welt des Schwarzen Auges, S. 39<TR><TD>Das Orkland, S. 21<TR><TD>Das Greifenopfer, S. 17<TR><TD>Geographia Aventurica, S. 33<TR><TD>Reich des Roten Mondes, S. 33<TR><TD>Das Jahr des Greifen - Die Entdeckung, S. 189<TR><TD>Aventurisches Archiv 1, S. 77<TR><TD>Aventurisches Archiv 2, S. 91<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 46<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0, S. 43<TR><TD><font size=-1>Es ist möglich, dass Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LookAt> 
+				<longitude>-0.070948</longitude>
+				<latitude>33.784141</latitude>
+				<altitude>0</altitude>
+				<range>2000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<TimeSpan>
+				<begin>1008</begin>
+			</TimeSpan>
+			<Point>
+				<coordinates>-0.07912318312060185,33.79232908088161,0</coordinates>
+			</Point>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.07891490826389069,33.79223988200724,0 -0.07942896259520271,33.79253923103046,0 -0.07961054211045648,33.79254974457834,0 -0.07970772844648533,33.79255818603559,0 -0.07981260521228717,33.79259000788638,0 -0.08001215424523478,33.79266641936555,0 -0.08007093235846141,33.79261535478487,0 -0.08028800246587031,33.79231975852915,0 -0.08035445942127906,33.79229846481014,0 -0.08081480468550728,33.79236617396669,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

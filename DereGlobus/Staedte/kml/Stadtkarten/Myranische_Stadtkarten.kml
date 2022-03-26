@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+    <name>Myranische Stadtkarten</name>
+    <open>0</open>
+    
+<GroundOverlay id="BathHammin-Plan">
+	<name>Bath Hammin</name>
+	<Region>	
+      <LatLonAltBox>
+		<north>-6.235140781024922</north>
+		<south>-6.255834795782689</south>
+		<east>-53.46036823017657</east>
+		<west>-53.48918120614024</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>	  
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Tr%C3%A4nen_der_G%C3%B6tter" title="Tränen der Götter">M5</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/BathHammin_M5_S37_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+			<LatLonBox>
+		<north>-6.235140781024922</north>
+		<south>-6.255834795782689</south>
+		<east>-53.46036823017657</east>
+		<west>-53.48918120614024</west>
+	</LatLonBox>
+</GroundOverlay>
+<GroundOverlay id="Ebonshaya-Plan">
+	<name>Ebonshaya</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>7.691341592361561</north>
+		<south>7.688772191014426</south>
+		<east>-54.02611567792705</east>
+		<west>-54.02998871628137</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Die_Spur_des_Sternenprinzen" title="Die Spur des Sternenprinzen">M3</a>]]></description>
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/Ebonshaya_M3_S77_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>7.691341592361561</north>
+		<south>7.688772191014426</south>
+		<east>-54.02611567792705</east>
+		<west>-54.02998871628137</west>
+	</LatLonBox>
+
+</GroundOverlay>
+
+<GroundOverlay id="Eshbathmar-Plan">
+	<name>Eshbathmar</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>-10.90450129119592</north>
+		<south>-10.93095430672746</south>
+		<east>-48.14001385463388</east>
+		<west>-48.17899031883081</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Handelsf%C3%BCrsten_und_W%C3%BCstenkrieger" title="Handelsfürsten und Wüstenkrieger">H&W</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/Eshbathmar_H&amp;W_S104_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-10.90450129119592</north>
+		<south>-10.93095430672746</south>
+		<east>-48.14001385463388</east>
+		<west>-48.17899031883081</west>
+	</LatLonBox>
+
+</GroundOverlay>
+<GroundOverlay id="Krysirenis-Plan">
+	<name>Krysirenis</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>3.888089670281323</north>
+		<south>3.858669738952643</south>
+		<east>-53.40447267671981</east>
+		<west>-53.44440237942639</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Myranor_%28HC%29" title="Myranor_Das_Güldenland">HC</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<LookAt>
+		<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+		<longitude>-53.42547007214612</longitude>
+		<latitude>3.881988888888889</latitude>
+		<altitude>0</altitude>
+		<range>3665.821738723647</range>
+		<tilt>0</tilt>
+		<heading>-0.1613671850031066</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/WestBalanCantara_M2_S69_sw.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>3.888089670281323</north>
+		<south>3.858669738952643</south>
+		<east>-53.40447267671981</east>
+		<west>-53.44440237942639</west>
+	</LatLonBox>
+
+</GroundOverlay>
+<GroundOverlay id="Malrhira-Plan">
+	<name>Malrhira</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>1.367370835396809</north>
+		<south>1.358655613593806</south>
+		<east>-46.93659280615156</east>
+		<west>-46.94873964496631</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Palast_der_Goldenen_Tiger" title="Palast der goldenen Tiger">M1</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/Malrhira_M1_S10_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>1.367370835396809</north>
+		<south>1.358655613593806</south>
+		<east>-46.93659280615156</east>
+		<west>-46.94873964496631</west>
+	</LatLonBox>
+
+</GroundOverlay>
+<GroundOverlay id="Melakkam-Plan">
+	<name>Melakkam</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>1.645837747274964</north>
+		<south>1.61765961442834</south>
+		<east>-40.43496895848</east>
+		<west>-40.46293730136134</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Tr%C3%A4nen_der_G%C3%B6tter" title="Tränen der Götter">M5</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/Melakkam_M5_S16_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>1.645837747274964</north>
+		<south>1.61765961442834</south>
+		<east>-40.43496895848</east>
+		<west>-40.46293730136134</west>
+	</LatLonBox>
+
+</GroundOverlay>
+<GroundOverlay id="Salabathlama-Plan">
+	<name>Salabathlama</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>-9.095491918571835</north>
+		<south>-9.102999247821119</south>
+		<east>-53.63252220500989</east>
+		<west>-53.63869976639181</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Tr%C3%A4nen_der_G%C3%B6tter" title="Tränen der Götter">M5</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/Salabathlama_M5_S51_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-9.095491918571835</north>
+		<south>-9.102999247821119</south>
+		<east>-53.63252220500989</east>
+		<west>-53.63869976639181</west>
+	</LatLonBox>
+
+</GroundOverlay>
+<GroundOverlay id="SchargrimmZahne-Plan">
+	<name>Schargrimm Zähne</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>9.15016546563831</north>
+		<south>9.040997750976421</south>
+		<east>-53.762518381337</east>
+		<west>-53.91079273463043</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/%C3%84onenstaub" title="Äonenstaub">M2</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/SchargrimmsZaehne_M2_S41_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>9.15016546563831</north>
+		<south>9.040997750976421</south>
+		<east>-53.762518381337</east>
+		<west>-53.91079273463043</west>
+	</LatLonBox>
+
+</GroundOverlay>
+<GroundOverlay id="TahalHomsheb-Plan">
+	<name>Tahal Homsheb</name>
+		<Region>	
+      <LatLonAltBox>
+		<north>-10.05805085331761</north>
+		<south>-10.06806166911754</south>
+		<east>-56.26708663134868</east>
+		<west>-56.27650193135384</west>
+      </LatLonAltBox>
+		<Lod>
+         <minLodPixels>16</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>128</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+	<description><![CDATA[<style type="text/css"><!--
+
+    a:link, a:visited { text-decoration: none; color: #B21C19; }
+
+    a:hover { text-decoration: underline; color: #B21C19; }
+
+    hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+
+    #wiki { font-size:10px; }
+
+    --></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Tr%C3%A4nen_der_G%C3%B6tter" title="Tränen der Götter">M5</a>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtkarten.kml#Off</styleUrl>
+
+	<drawOrder>21</drawOrder>
+	<Icon>
+		<href>http://dereglobus.orkenspalter.de/public/Medien/Staedte/media/karten/myranor/TahalHomsheb_M5_S71_sw.PNG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-10.05805085331761</north>
+		<south>-10.06806166911754</south>
+		<east>-56.26708663134868</east>
+		<west>-56.27650193135384</west>
+	</LatLonBox>
+
+</GroundOverlay>
+  </Document>
+</kml>

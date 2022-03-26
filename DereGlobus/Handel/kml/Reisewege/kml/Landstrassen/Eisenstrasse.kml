@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Eisenstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Eisenstraße als Pass -->
+			<name>Eisenstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Eisenstraße</b>, auch <b>Via Ferra</b>, <b>Eisenstieg</b> oder <b>Eisenwalder Pass-Straße</b> genannt, verbindet <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> und <a href="http://www.wiki-aventurica.de/wiki/Taladur" title="Taladur">Taladur</a> über den <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwald</a> hinweg mit <a href="http://www.wiki-aventurica.de/wiki/Albenhus" title="Albenhus">Albenhus</a> und <a href="http://www.wiki-aventurica.de/wiki/Elenvina" title="Elenvina">Elenvina</a>. Der Pass zwischen <a href="http://www.wiki-aventurica.de/wiki/Braast" title="Braast">Braast</a> und <a href="http://www.wiki-aventurica.de/wiki/Twergenhausen" title="Twergenhausen">Twergenhausen</a> ist witterungsabhängig und nur während der warmen Jahreszeit passierbar.
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-1.117186568462373,27.4187214447259,0 	<!--<POI>SOE:Phecadistieg</POI>-->
+					-1.006522075213187,27.43157368984786,0 
+					-0.9215612422509822,27.47291573189358,0 
+					-0.8562273201484372,27.51855250609415,0 
+					-0.7831702311388289,27.5340497418367,0 
+					-0.748165485844462,27.56012184710155,0 
+					-0.7123034176718257,27.56231664822722,0 
+					-0.6543257846982464,27.55379358996171,0 
+					-0.6080076930237144,27.57077825122702,0 <!--<POI>Siedlung:Alborath</POI>-->
+					-0.5557176006767595,27.61349080764957,0 
+					-0.5007522779711948,27.61267170476848,0 
+					-0.4541155587932311,27.63832477067755,0 
+					-0.374656157410268,27.62846777548357,0 
+					-0.3212284318042269,27.64120765523357,0 
+					-0.241756896013855,27.62951994635341,0 
+					-0.1962499128667561,27.64391302384377,0 
+					-0.1687848524239333,27.68102046706959,0 
+					-0.1073627835757718,27.6990211601237,0 <!--<POI>Siedlung:Calmir</POI>-->
+					-0.08721481516069995,27.75222613736394,0 
+					-0.0474639517757558,27.76423825171961,0 
+					0.002530291321347633,27.74204807802686,0 
+					0.04116864583138868,27.74130020591181,0 
+					0.08284059367232644,27.779627961075,0 
+					0.1134783024257668,27.82081429714551,0 
+					0.09667622902580497,27.85589401500975,0 
+					0.1462752609104223,27.87470988134247,0 
+					0.2170274967280572,27.87016160527605,0 
+					0.25565070423065,27.88303626623885,0 
+					0.2654320837983581,27.91923953833357,0 
+					0.2188012175135845,27.95422265729131,0 
+					0.2254215732204878,27.99408472147078,0 
+					0.2138998165054629,28.0296013340232,0 
+					0.2334722640142428,28.05637258968135,0 <!--<POI>Siedlung:Dohlenfelde</POI>-->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					0.1535860773687792,28.20374378812329,0 <!--<POI>Siedlung:Twergenhausen</POI>--> <!--<POI>SOE:</POI>-->
+					0.191629321090232,28.14552771325099,0 
+					0.2194152566412888,28.07523156106161,0 
+					0.2334722640142428,28.05637258968135,0 <!--<POI>Siedlung:Dohlenfelde</POI>--> <!--<POI>Abzweig:Eisenstraße nach Westen</POI>-->
+					0.2937012917815074,27.99670423472634,0 
+					0.3690765845410482,27.95740548249067,0 
+					0.4408370378983983,27.93413066704783,0 
+					0.4661089749683844,27.93190018649643,0 
+					0.4982251108490465,27.9074539759803,0 
+					0.5689299517817847,27.90701857317783,0 
+					0.6362422642672772,27.8663129186369,0
+					0.7324926039565849,27.78138188599664,0 <!--<POI>Siedlung:Makamesch</POI>--> <!--<POI>Abzweig:Weg von Geierschrei nach Makamesch</POI>-->
+					0.794721212944971,27.75894706252079,0 
+					0.8824660802804929,27.73305955990179,0 
+					0.9744061389059722,27.68295300800121,0
+					1.072585359855096,27.65128299760944,0
+					1.204738974576844,27.58985655122647,0 
+					1.267745027843146,27.53424642896299,0 
+					1.288282630891475,27.50845926231439,0 
+					1.297237008835781,27.46776117395916,0 
+					1.346612120977671,27.40017266307237,0 <!--<POI>Siedlung:Bangour</POI>--> <!--<POI>Abzweig:Waldwachter Stieg</POI>-->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>0.789956</longitude>
+				<latitude>27.667814</latitude>
+				<altitude>400000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+
+		<Placemark> 	<!-- Eisenstraße als Landstraße -->
+			<name>Eisenstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Eisenstraße</b>, auch <b>Via Ferra</b>, <b>Eisenstieg</b> oder <b>Eisenwalder Pass-Straße</b> genannt, verbindet <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> und <a href="http://www.wiki-aventurica.de/wiki/Taladur" title="Taladur">Taladur</a> über den <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwald</a> hinweg mit <a href="http://www.wiki-aventurica.de/wiki/Albenhus" title="Albenhus">Albenhus</a> und <a href="http://www.wiki-aventurica.de/wiki/Elenvina" title="Elenvina">Elenvina</a>. Der Pass zwischen <a href="http://www.wiki-aventurica.de/wiki/Braast" title="Braast">Braast</a> und <a href="http://www.wiki-aventurica.de/wiki/Twergenhausen" title="Twergenhausen">Twergenhausen</a> ist witterungsabhängig und nur während der warmen Jahreszeit passierbar.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					1.346612120977671,27.40017266307237,0 <!--<POI>Siedlung:Bangour</POI>--> <!--<POI>Abzweig:Waldwachter Stieg</POI>-->
+					1.461275740135744,27.39583170303731,0 
+					1.620878372654813,27.38385990712438,0 
+					1.661022732695556,27.38720727285786,0 
+					1.827279471533074,27.39922430231002,0 
+					1.881126651593486,27.38916985805139,0 <!--<POI>Abzweig:</POI>-->
+					1.946792768311136,27.41223856103039,0
+					2.031358554753924,27.42529237194914,0 <!--<POI>Flussquerung:Valquir</POI>-->
+					2.082269871257572,27.45464170905999,0 
+					2.097344428272272,27.45592840563603,0 
+					2.131805450611219,27.47074219273138,0 
+					2.163867517446421,27.47120036174016,0 
+					2.209248230787189,27.4669305272855,0 <!--Anfang Detailkarte Taladur</POI>-->
+					2.20929753188897,27.4666680978032,0 
+					2.209490538098644,27.46648849617891,0 
+					2.209887979912864,27.46632099803136,0
+					2.21005759042312,27.46619124669578,0 
+					2.210256310401253,27.46611190497986,0 
+					2.210422738886966,27.46599289069879,0 
+					2.210614008477512,27.46575045218274,0 
+					2.210678331731715,27.46554551400301,0 
+					2.210799993169379,27.46538359346239,0 
+					2.211100914184525,27.46488512778651,0 <!--<POI>Siedlung:Taladur</POI>-->
+					2.211463151458042,27.46451053819654,0 
+					2.211983711681809,27.46386003755473,0 
+					2.212463792577526,27.46335862041601,0 
+					2.212675198099494,27.46335203738925,0 
+					2.213534787124254,27.46271233159771,0
+					2.214053657344983,27.46225235640252,0 
+					2.214373326386021,27.46212512528817,0 
+					2.214498978994419,27.46197898195976,0 
+					2.214673343419278,27.46191594517801,0 
+					2.214883223072615,27.46172111049596,0 <!--Ende Detailkarte Taladur</POI>-->
+					2.226996004088879,27.44337038301338,0 
+					2.252531527085551,27.3843931239701,0 
+					2.31044132491192,27.34395597039204,0 <!--<POI>Abzweig:</POI>-->
+					2.338888911528294,27.32059546948584,0 
+					2.373564045004182,27.31536145759095,0 
+					2.411700852920746,27.3005513258498,0 
+					2.435044813713525,27.27527208119491,0
+					2.460030086810732,27.24219170209281,0 
+					2.50260807375865,27.23616790410205,0 
+					2.540583109882533,27.22345491046074,0
+					2.564766106079346,27.22067897047918,0 <!--<POI>Flussquerung:Valquir</POI>-->
+					2.57346767718317,27.20023773057282,0 <!--<POI>Siedlung:Zollfeste Valquirbrück</POI>-->
+					2.596795800708431,27.18383932094438,0
+					2.617104847568705,27.15974504926103,0 
+					2.622896660366407,27.14636378503494,0 
+					2.651164399224055,27.12361522080988,0 
+					2.655089736588767,27.0745326884418,0 
+					2.650562288474836,27.05621246691556,0 <!--Anfang Detailkarte Punin</POI>-->
+					2.650270828559673,27.05544266786246,0 
+					2.650178226839741,27.05499795598516,0
+					2.649611415113766,27.05409816147438,0 
+					2.649286120951979,27.05339121993362,0 
+					2.649234229587054,27.05290117064843,0 
+					2.649210834528684,27.05272728879783,0 
+					2.649013211334974,27.0523473986134,0 
+					2.648977347820036,27.05187658171631,0  <!--<POI>SOI:Weinstraße</POI>--> <!--<POI>Siedlung:Punin</POI>-->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>0.789956</longitude>
+				<latitude>27.667814</latitude>
+				<altitude>400000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>		
+</Document>
+</kml>

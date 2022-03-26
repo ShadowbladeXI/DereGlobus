@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Via Rudesia</name>
+	<open>1</open>
+		<Placemark> 	<!-- Via Rudesia-->
+			<name>Via Rudesia</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Via Rudesia</b> führte einst von <a href="http://www.wiki-aventurica.de/wiki/Phexcaer" title="Phexcaer">Phexcaer</a> Richtung <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Andergast" title="Königreich Andergast">Andergast</a>, verliert sich aber inzwischen irgendwo im <a href="http://www.wiki-aventurica.de/wiki/Steineichenwald" title="Steineichenwald">Steineichenwald</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-2.955222097208439,33.93041178846818,0 <!-- <POI>Siedlung:Phexcaer</POI> --> <!-- <POI>SOE:Bodirstieg</POI> -->
+						-2.954768379451354,33.9298492836393,0 
+						-2.953502718282134,33.92879451695519,0 <!-- <POI>Fluss:Bodir</POI> -->
+						-2.953711047942157,33.92858924678458,0 
+						-2.954427370720121,33.92821507786128,0 
+						-2.954368267016529,33.92795810317039,0 
+						-2.954348972702393,33.92739109633435,0 
+						-2.921720610405818,33.893413300329,0 
+						-2.860482293364787,33.89379754011398,0 
+						-2.829133347324961,33.88229003923596,0 
+						-2.788402918372845,33.88085745039784,0 
+						-2.765750879072399,33.86317879832509,0 
+						-2.724013116473667,33.85515052161223,0 
+						-2.684571183612665,33.84032457341287,0 
+						-2.613720293789346,33.83070450875925,0 
+						-2.569347919400413,33.84331292328431,0 
+						-2.543042918975766,33.85858339389245,0 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-2.773276</longitude>
+				<latitude>33.884363</latitude>
+				<altitude>73000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

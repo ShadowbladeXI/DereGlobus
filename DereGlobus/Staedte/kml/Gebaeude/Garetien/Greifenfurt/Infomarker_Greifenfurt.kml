@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Infomarker_GREIFENFURT.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Infomarker_GREIFENFURT</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>31.32786345312803</north>
+				<south>31.32352124878749</south>
+				<east>2.27255908729997</east>
+				<west>2.265440826161168</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<LookAt>
+			<longitude>2.26917068038756</longitude>
+			<latitude>31.32560073564712</latitude>
+			<altitude>0</altitude>
+			<range>716.2538035245117</range>
+			<tilt>0</tilt>
+			<heading>-1.111206291836316e-013</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Herberge Greif<br/>
+					Herberge Zum durstigen Pferd<br/>
+					Taverne Orkschädel<br/>
+					Taverne Silbernes Einhorn<br/>
+					<br/>
+					<b>Handelsstätten:</b><br/>	
+					Färber<br/>
+					Gerber<br/>
+					Maurer<br/>
+					Schuhmacher<br/>					
+					Schreiner<br/>
+					Seiler<br/>
+					Töpfer<br/>
+					Tuchmacher<br/>
+					Weber<br/>					
+					<br/>
+					<b>Landschaft:</b><br/>					
+					<br/>
+					<b>Öffentliche Bauwerke:</b><br/>
+					<br/>					
+					<b>Privathäuser:</b><br/>
+					<br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					Tsa-Schrein (ab 1022 BF)<br/>
+					<br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					<br/>
+					<b>Straßen:</b><br/>
+					Ringstraße<br/><br/>	
+					<b>Werkstätten:</b><br/>
+					<br/>
+					<B>Mögliche Quellen:</B><br/>Das Land des Schwarzen Auges, S. x<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. x<br/>Das Orkland, S. x<br/>Das Jahr des Greifen, S. x<br/>Die Welt des Schwarzen Auges, S. x<br/>Geographia Aventurica, S. x<br/>Reich des Roten Mondes, S. x<br/><HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</table></p>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>2.26440003449961,31.32556707540517,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

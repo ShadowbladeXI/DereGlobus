@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Aldenia nach Drôl</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Aldenia nach Drôl-->
+			<name>Straße von Aldenia nach Drôl</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.58895076503881,22.04336560915384,0    <!-- <POI>Siedlung:Aldenia</POI> --> <!-- <POI>SOE:Küstenstraße von Aldenia nach Mengbilla</POI> --> 
+						-1.5770800798753,22.07319778934245,0 
+						-1.551493044757091,22.09766132741273,0 
+						-1.545266765478867,22.11143405598276,0 
+						-1.526496200733357,22.12735476711882,0 
+						-1.518720328285492,22.15187641417929,0 
+						-1.506974176472045,22.17027517608197,0 
+						-1.502184564374951,22.19743369564648,0 
+						-1.484223362515533,22.21981615781806,0 
+						-1.486293742110219,22.25221475658249,0  <!-- <POI>Siedlung:unbenannt</POI> -->
+						-1.493232466516106,22.28614994499855,0 
+						-1.465363196403987,22.33494293440555,0 
+						-1.464544832802952,22.43587859123287,0  <!-- <POI>Siedlung:Chalinba</POI> -->
+						-1.474699351225225,22.45782803486435,0 
+						-1.468451232332354,22.49326494472562,0 
+						-1.449230741772909,22.53061496111427,0 
+						-1.451496080703869,22.5497568385333,0 
+						-1.464530325080349,22.57083818400852,0  
+						-1.461550427356283,22.58655492932915,0 
+						-1.453699168868807,22.59583001673695,0 
+						-1.422187764020825,22.61875926590129,0 
+						-1.416912181985021,22.63906791386489,0  <!-- <POI>Siedlung:Bilhén</POI> -->
+						-1.384977157473191,22.6611646685524,0   <!-- <POI>Fluss:Llanego</POI> --> 
+						-1.354180398216353,22.69111635428994,0 
+						-1.353827876598166,22.69112445093702,0 
+						-1.331552060206096,22.69570279963817,0 
+						-1.253928559900256,22.69941066342352,0 
+						-1.229352908061462,22.71102760366088,0 
+						-1.215450777135825,22.73272250160954,0 
+						-1.201510549652159,22.76683525418553,0  <!-- <POI>Siedlung:Theniran</POI> --> <!-- <POI>Abzweig:Straße von Theniran nach Winneb</POI> --> 
+						-1.185653077176497,22.77775660048635,0 
+						-1.116604365284175,22.78385090381208,0 
+						-1.095688031769817,22.80858571561084,0 
+						-1.074185584113628,22.81377005857529,0  <!-- <POI>Siedlung:unbenannt</POI> -->
+						-1.047786792599217,22.81137276751014,0 
+						-1.009925482796874,22.78999861454031,0 
+						-0.9789793842869321,22.78493925051626,0 
+						-0.9234332674293555,22.75476636604826,0 
+						-0.896174123606428,22.75426125257802,0 
+						-0.8516925494595895,22.77056169465728,0 
+						-0.813128018015159,22.77918678899539,0 
+						-0.7829444500680094,22.77594708110148,0 
+						-0.7558765247450261,22.78412805383992,0  <!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.7055224448210673,22.78484697100836,0 
+						-0.6613973366697901,22.7739497808326,0 
+						-0.5860932220662585,22.7300403894984,0 
+						-0.5412223469633581,22.73102345084873,0  <!-- Anfang Detailkarte Drôl -->
+						-0.539088847783914,22.73082282114173,0 
+						-0.5379319559796592,22.72976625924804,0 
+						-0.536366112752189,22.72986930820702,0 
+						-0.5341735285650084,22.72941845136076,0 
+						-0.533811066311527,22.7289099578323,0   <!-- <POI>Siedlung:Drôl</POI> --> <!-- <POI>SOE:Knüppeldamm von Drôl nach Port Corrad</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> --> 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-1.061385</longitude>
+				<latitude>22.431123</latitude>
+				<altitude>181830</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

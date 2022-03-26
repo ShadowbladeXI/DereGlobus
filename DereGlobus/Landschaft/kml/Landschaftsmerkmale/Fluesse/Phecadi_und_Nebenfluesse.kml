@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Phecadi und Nebenflüsse</name>
+	   <open>0</open>
+   <Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+
+		<Placemark>
+		<name>Hefthe</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Hefthe</b>, auch <b>Farinquir</b> genannt, entspringt im südwestlichen Gebirge des <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwalds</a> und mündet bei <a href="http://www.wiki-aventurica.de/wiki/Imdal" title="Imdal">Imdal</a> in den hier noch recht schnell fließenden <a href="http://www.wiki-aventurica.de/wiki/Phecadi" title="Phecadi">Phecadi</a>. Der Fluss stellt die natürliche Grenze zwischen <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Windhag" title="Markgrafschaft Windhag">Markgrafschaft Windhag</a> und dem <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Almada" title="Königreich Almada">Königreich Almada</a> dar.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.8376213427134782,27.32412080089485,0 -0.8524933465088913,27.3064412010608,0 -0.8608269514064904,27.29761001245216,0 -0.8736778242184673,27.29795965814176,0 -0.8822529661680156,27.29027193519818,0 -0.8918930354477728,27.27939481010011,0 -0.9099620374611339,27.2731629192949,0 -0.9255215551903007,27.26164978649238,0 -0.9320251632821286,27.25508070056261,0 -0.9316796762687507,27.24045174809277,0 -0.9328962830855403,27.22423457431139,0 -0.9291929399497978,27.21117222880832,0 -0.9122010298232375,27.19181723870106,0 -0.9029582312124618,27.16791960999357,0 -0.9083570498021476,27.14557275628548,0 -0.9193119605241484,27.13126999537559,0 -0.9448043154846941,27.1040507937042,0 -0.9485754359840382,27.0917196276937,0 -0.9451452975200914,27.07729371280356,0 -0.9384304648655528,27.05849492142745,0 -0.9420303721560963,27.03543885291539,0 -0.9571110877236444,27.01818987578202,0 -0.9666473085303406,27.01093606708713,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Phecadi</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Phecadi</b> entspringt in der <a href="http://www.wiki-aventurica.de/wiki/Windhag" title="Windhag" class="mw-redirect">Windhager</a> <a href="http://www.wiki-aventurica.de/wiki/Baronie_Salzsteige&amp;action=edit&amp;redlink=1" class="new" title="Baronie Salzsteige (Seite nicht vorhanden)">Baronie Salzsteige</a>. Ruhig fließt er aus den Bergen nach Süden, durch das nach ihm benannte <a href="http://www.wiki-aventurica.de/wiki/Phecadien" title="Phecadien">Phecadien</a>, zwischen <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagbergen</a> und <a href="http://www.wiki-aventurica.de/wiki/Phecanowald" title="Phecanowald">Phecanowald</a>. Bis nach <a href="http://www.wiki-aventurica.de/wiki/Venga" title="Venga">Venga</a> kann der Fluss befahren werden, dann stürzt er sich in den <a href="http://www.wiki-aventurica.de/wiki/Phecadif%C3%A4lle" title="Phecadifälle">Phecadifällen</a> in die Tiefe, und strömt danach bei Grangor in das <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.485130222259232,27.15056313681203,0 -1.462183933931991,27.16202052469898,0 -1.440011433786409,27.16130109370188,0 -1.423009354414663,27.17235129614201,0 -1.403555522215267,27.17088784723019,0 -1.392514911972067,27.17639639960846,0 -1.37981797211833,27.17677526256421,0 -1.364143524411838,27.16780004823127,0 -1.346479742497383,27.15338966456846,0 -1.331979004766951,27.14592178465857,0 -1.311063424603984,27.15738711085537,0 -1.29700396939043,27.15744825197216,0 -1.282252489706748,27.16316618078343,0 -1.275032882513522,27.17667260153355,0 -1.268471598850415,27.19214009879163,0 -1.250741331641639,27.20587694891401,0 -1.232544128500585,27.21358673706744,0 -1.215099726027952,27.21834727549634,0 -1.202438619253928,27.21404217090673,0 -1.187757732118453,27.20836552395542,0 -1.17438588858954,27.20766573254799,0 -1.162485598477038,27.21254757629693,0 -1.151691882541556,27.20734604682872,0 -1.140958193406604,27.19188009610734,0 -1.12934538322827,27.18426267480943,0 -1.122314262709312,27.17562429492909,0 -1.114418634541177,27.16878510167258,0 -1.100690591896411,27.16942984945919,0 -1.08143978728157,27.16038401158228,0 -1.073742637110452,27.15128677284582,0 -1.072040277442989,27.13515781937769,0 -1.067573578876171,27.12457715621639,0 -1.061603237245382,27.11187240225775,0 -1.062833425826525,27.09180621289193,0 -1.05979273173387,27.07430960378591,0 -1.047309594187321,27.07013832039099,0 -1.028283522746151,27.06700666837386,0 -1.012725021698753,27.0671778271309,0 -0.9993248214960504,27.05516774199049,0 -0.9928429543172523,27.0445696927154,0 -0.9839201460279567,27.04087720447148,0 -0.9835867938701093,27.04042240911773,0 -0.979617005292277,27.03210255889853,0 -0.9794511237740555,27.03179980399036,0 -0.9707287737921733,27.02509330502006,0 -0.9666473085303406,27.01093606708713,0  -0.9766812432872707,27.00107758961288,0 -0.982467016161751,26.98523919601093,0 -0.9834178503098179,26.95847195149082,0 -0.9892455321277338,26.93851202583988,0 -0.9913020521197136,26.93146660630314,0 -0.9809591137911833,26.9113636130576,0 -0.9801772619127436,26.89222132281816,0 -0.9805894686439221,26.88461857428573,0 -0.9675988583236805,26.86596923419195,0 -0.9601854118804032,26.85030980933971,0 -0.9621544083540601,26.82119546342656,0 -0.9670307991776783,26.79739887629157,0 -0.9842766125977986,26.75750723458922,0 -1.010944743923774,26.72873314315124,0 -1.023310059904499,26.71235158764277,0 -1.030441467580625,26.69238855929491,0 -1.049233453488179,26.6593139226586,0 -1.046520077326083,26.63515318256758,0 -1.046493654149197,26.60528195792173,0 -1.047388500408968,26.58233402033279,0 -1.046413469788335,26.54935511538479,0 -1.057096165580659,26.5222012184487,0 -1.069116832364832,26.50405452959612,0 -1.093213633429503,26.49453445239895,0 -1.108799030859882,26.48111649835079,0 -1.132196903829064,26.47570025904206,0 -1.149964641584175,26.47465302545605,0 -1.172418958424477,26.46539129743308,0 -1.204490051694908,26.44882177063902,0 -1.223103170145455,26.43108469905918,0 -1.238094433501455,26.4076439005052,0 -1.246891269138132,26.38477746671453,0 -1.248335792263208,26.38134309226319,0 -1.248997172971198,26.37948641035029,0 -1.249723715162487,26.37765536973816,0 -1.250194307481191,26.37637819137619,0 -1.250593392900162,26.37496146126026,0 -1.250846231491746,26.37377965406398,0 -1.2509242093574,26.37289115120884,0 -1.250809878671941,26.37198269849928,0 -1.25030942018429,26.37043488648109,0 -1.249241666719725,26.36842710030362,0 -1.248100798695383,26.36682225156517,0 -1.246781414483689,26.36544831435364,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Grothe</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Grothe</b> ist ein in den östlichen <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagbergen</a> entspringender Fluss, der nach etwa 35 Meilen zwischen <a href="http://www.wiki-aventurica.de/wiki/Phecanostein" title="Phecanostein">Phecanostein</a> und <a href="http://www.wiki-aventurica.de/wiki/Eslamsberge" title="Eslamsberge">Eslamsberge</a> in den <a href="http://www.wiki-aventurica.de/wiki/Phecadi" title="Phecadi">Phecadi</a> mündet. Der Fluss, der auf seiner gesamten Länge die Grenze zwischen dem <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreich</a> bildet, ist am Südufer vom <a href="http://www.wiki-aventurica.de/wiki/Horaswall" title="Horaswall">Horaswall</a> gesäumt und am Nordufer von <a href="http://www.wiki-aventurica.de/wiki/Windhag" title="Windhag" class="mw-redirect">Windhager</a> Wachtürmen und Festungen.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.305210226964803,26.7969260041609,0 -1.287934342225058,26.78568554927981,0 -1.26834107343301,26.78595430878438,0 -1.247568770199604,26.7679291626473,0 -1.224660053913511,26.74034482729627,0 -1.206446905256439,26.73861346648209,0 -1.182224430539263,26.72933292836487,0 -1.161437999121074,26.71540068037862,0 -1.153761619941514,26.69665768699061,0 -1.135816098032514,26.68600119898846,0 -1.077864685457697,26.68448706499863,0 -1.063660929921632,26.66756380650374,0 -1.050418189649084,26.65904755425822,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

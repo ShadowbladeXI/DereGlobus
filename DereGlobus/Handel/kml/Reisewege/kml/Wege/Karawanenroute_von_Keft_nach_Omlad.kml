@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Keft nach Omlad</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Keft nach Omlad-->
+			<name>Karawanenroute von Keft nach Omlad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Keft nach Omlad</b> beginnt am Knotenpunkt aller <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a>, in <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a>. Sie führt parallel zuwe <a href="http://www.wiki-aventurica.de/wiki/Wadi_Yiyilah" title="Wadi Yiyilah" class="mw-redirect">Wadi Yiyilah</a> und den Ausläufern des <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirges</a> über <a href="http://www.wiki-aventurica.de/wiki/Yiyimris" title="Yiyimris">Yiyimris</a> nach <a href="http://www.wiki-aventurica.de/wiki/Kireh" title="Kireh">Kireh</a>. Von dort verläuft die Route am Fuße des <a href="http://www.wiki-aventurica.de/wiki/Khoram-Geirge&amp;action=edit&amp;redlink=1" class="new" title="Khoram-Geirge (Seite nicht vorhanden)">Khoram-Geirges</a> weiter nach <a href="http://www.wiki-aventurica.de/wiki/Alam-Terekh" title="Alam-Terekh">Alam-Terekh</a>. Kurz hinter der <a href="http://www.wiki-aventurica.de/wiki/Oase&amp;action=edit&amp;redlink=1" class="new" title="Oase (Seite nicht vorhanden)">Oase</a> zweigt die <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute_von_Alam-Terekh_nach_Fasar&amp;action=edit&amp;redlink=1" class="new" title="Karawanenroute von Alam-Terekh nach Fasar (Seite nicht vorhanden)">Karawanenroute von Alam-Terekh nach Fasar</a> in Richtung Norden ab, wohingegen sich die Route nach <a href="http://www.wiki-aventurica.de/wiki/Omlad" title="Omlad">Omlad</a> durch das Gebirge südwestlich von <a href="http://www.wiki-aventurica.de/wiki/Rashtulsturm" title="Rashtulsturm" class="mw-redirect">Rashtulsturm</a> über <a href="http://www.wiki-aventurica.de/wiki/Al%27Keshir&amp;action=edit&amp;redlink=1" class="new" title="Al'Keshir (Seite nicht vorhanden)">Al'Keshir</a> ins <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquirtal</a> nach <a href="http://www.wiki-aventurica.de/wiki/Omlad" title="Omlad">Omlad</a> windet.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.187454240589658,23.55705935898839,0 	<!-- <POI>SOE:Karawane von Keft nach Omlad</POI> --> <!-- <POI>Siedlung:Keft</POI> --> <!-- <POI>Station:Karawanserei</POI> -->
+					3.187435712165863,23.55743072984307,0 
+					3.187260871887807,23.5577463767805,0 
+					3.187139884249219,23.5579456714097,0 
+					3.186967517274246,23.55816431281351,0 
+					3.186646016315311,23.55849680104917,0 
+					3.186524137762921,23.55865734968294,0 	<!-- Ende Detailkarte Keft -->
+					3.18584192622402,23.57084179771087,0 	<!-- Rand Keft -->
+					3.187583293401615,23.58883718375786,0 
+					3.196665920198059,23.62539671425421,0 
+					3.157307870222454,23.63598599286704,0 	<!-- <POI>AbzweigLinks:Richtung Birscha</POI> -->
+					3.161459398028623,23.67668478646484,0 
+					3.157049814558297,23.694842492923,0 
+					3.136288426255181,23.74058403137601,0 
+					3.109813493526425,23.78428029766641,0 
+					3.11301804411865,23.82426415294977,0 
+					3.104998077294443,23.85387844799069,0 
+					3.110228543039264,23.8689625165179,0 
+					3.137237646854223,23.90385280316746,0 
+					3.148811765335511,23.93455258389649,0 
+					3.138863453800174,23.9809122983095,0 
+					3.143278515343575,23.98520118618643,0 	<!-- <POI>Flussquerung:Wadi Yiyilah</POI> -->
+					3.148798427745159,23.99049973693077,0 
+					3.141888116910088,24.01089308457723,0 
+					3.127251340570738,24.02803482717044,0 
+					3.129720209829749,24.06408343576142,0 
+					3.143487443635762,24.12047175831906,0 
+					3.155364318540002,24.13863172928306,0 
+					3.180319416480315,24.1558370817649,0 
+					3.21167407620071,24.22823372473199,0 
+					3.245378721577095,24.26007293986327,0 
+					3.267951650734515,24.32505778919555,0 
+					3.285922510470432,24.36115525094957,0 
+					3.286785203643989,24.40594708390645,0 
+					3.27654676143003,24.42075108778848,0 
+					3.304592933472483,24.48127193447269,0 	<!-- <POI>Siedlung:>Yiyimris</POI> -->
+					3.275900311278641,24.52439299501086,0 
+					3.251445971804661,24.54481190026453,0 
+					3.228468684384547,24.58181609797394,0 
+					3.196601315805623,24.61522476813036,0 
+					3.148872534719875,24.64418821808581,0 
+					3.126400503801499,24.68596937623338,0 
+					3.126646698328583,24.69849523593089,0 
+					3.082193103378774,24.76115112924476,0 
+					3.081165280762837,24.82091931846826,0 
+					3.066506228606656,24.84299606893888,0 
+					3.042168944371098,24.89376890366776,0 	<!-- <POI>Siedlung:Kireh</POI> --> <!-- <POI>AbzweigRechts:nach El'Karram</POI> --> <!-- Anfang Gebirge -->
+					3.032715312444716,24.92297953123649,0 
+					3.004556022576437,24.92443428897814,0 
+					2.941915292283668,24.96634145384365,0 
+					2.891594689296861,24.96922072842756,0 
+					2.887270293978008,24.99475009321302,0 
+					2.918992784634273,25.02252980909318,0 
+					2.921236167937638,25.04510263382291,0 
+					2.951344705211323,25.06921584467063,0 
+					2.95426525612887,25.08675781519486,0 
+					2.922897171927128,25.11365138331018,0 
+					2.869064070376715,25.13088967142323,0 
+					2.810659990874955,25.16583652204232,0 	<!-- Ende Gebirge -->
+					2.78625472172366,25.22111695558744,0 
+					2.754163131797747,25.24281825504557,0 
+					2.686191932552642,25.26271070081337,0 
+					2.647504292551952,25.29000483701591,0 
+					2.659132773852206,25.33755239417774,0 
+					2.670490940689227,25.37056506358048,0 
+					2.664535936508858,25.37946105903775,0 	<!-- <POI>AbzweigLinks:nach El'Ankhra</POI> -->
+					2.653198515769997,25.41072968891349,0 
+					2.656326079934228,25.43244965036144,0 
+					2.636797887485605,25.47702300438666,0 
+					2.641329451779992,25.51696021056181,0 
+					2.632509069043096,25.54837827292899,0 
+					2.630081648643929,25.59114532431058,0 
+					2.596142166281847,25.63288471685383,0 
+					2.595360158656852,25.65907437145213,0 
+					2.564766726259793,25.69121410434012,0 	<!-- <POI>Alam-Terekh</POI> --> <!-- Anfang Gebirge -->
+					2.568767983096314,25.71696001219367,0 
+					2.573654676128838,25.75889491098393,0 	<!-- <POI>AbzweigRechts:Karawanenroute nach Fasar</POI> -->
+					2.51433136321455,25.79849077035374,0 
+					2.474499924302975,25.81966725266061,0 
+					2.4090870234511,25.84500793270728,0 
+					2.386167748425414,25.87401858726942,0 
+					2.355711310236772,25.87601585706884,0 
+					2.345621769426141,25.89266523941283,0 
+					2.370102932044207,25.93297227990469,0 
+					2.366201983782312,25.94996088929162,0 
+					2.299827658910021,25.9801640105555,0 
+					2.283522348149483,25.99954387742081,0 	<!-- <POI>Abzweig:Pass der Winde</POI> -->
+					2.265181645156726,26.01707197519644,0 
+					2.234734537368777,26.03555501398081,0 
+					2.234510022359533,26.11651966084084,0 
+					2.209495915214097,26.15000418053142,0 
+					2.213195457747457,26.1836277411474,0 
+					2.191034076464515,26.20684373853486,0 
+					2.15613119995048,26.20610552193481,0 
+					2.093407598897557,26.23071216776913,0 
+					2.057547188624738,26.26260315508219,0 
+					2.028991047891988,26.26972064973213,0 
+					2.013283213965857,26.28291279023276,0 	<!-- Ende Gebirge -->
+					1.99149045999647,26.35821121336647,0 
+					1.956970414674921,26.40121249969415,0 	<!-- <POI>Siedlung:Al'Keshir</POI> -->
+					1.895558937408581,26.44603284223641,0 
+					1.865010435354548,26.49666339530794,0 	<!-- Rand Omlad -->
+					1.858680716048131,26.50213286983485,0 	<!-- Anfang Detailkarte Omlad -->
+					1.858309160855238,26.5023988706736,0 
+					1.857581603867962,26.50283999560061,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					1.85638414796117,26.50348906288187,0 	<!-- <POI>AbzweigRechts:</POI> -->
+					1.855609933850708,26.50388285605791,0 
+					1.854673589914702,26.50451908225126,0 	<!-- <POI>Station:Stadttor von Omlad</POI> -->
+					1.854334250008807,26.50491503009549,0 
+					1.853958767907455,26.50481531531409,0 
+					1.853414827883313,26.50486829008178,0 
+					1.852788664693175,26.50503772679938,0 
+					1.852408587115264,26.5046307032022,0 
+					1.851982451035621,26.50447163362697,0 
+					1.851925237545955,26.50462324476434,0 	<!-- <POI>Siedlung:Omlad</POI> --> <!-- <POI>SOE:Karawane von Keft nach Omlad</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.578259085509189</longitude>
+				<latitude>25.03104722307564</latitude>
+				<altitude>467000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

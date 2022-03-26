@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Lettastieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Lettastieg-->
+			<name>Lettastieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Lettastieg</b> ist eine Verbindungsstraße an der <a href="http://www.wiki-aventurica.de/wiki/Letta" title="Letta">Letta</a> von <a href="http://www.wiki-aventurica.de/wiki/Vierwinden" title="Vierwinden">Vierwinden</a> über <a href="http://www.wiki-aventurica.de/wiki/Trautemanns_Hus" title="Trautemanns Hus">Trautemanns Hus</a> nach <a href="http://www.wiki-aventurica.de/wiki/Bjaldorn" title="Bjaldorn">Bjaldorn</a> und weiter bis nach <a href="http://www.wiki-aventurica.de/wiki/Paavi" title="Paavi">Paavi</a>. Doch ist er in den Wintermonaten kaum passierbar.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						11.5215122814171,39.67990803104222,0   <!--<POI>Siedlung:Paavi</POI>--> 
+						11.52119198950535,39.67967945259553,0 
+						11.52103771324065,39.67951579635988,0 
+						11.52104289255768,39.67931854771461,0  <!-- Ende Detailkarte Paavi -->
+						11.50089127234155,39.65219912565514,0 
+						11.46631758760571,39.56897902816883,0 
+						11.42421457777521,39.52003132396578,0  <!--<POI>Abzweig:Weg von Paavi nach Atanwald und Iornu</POI>-->
+						11.38133459102127,39.50786539093173,0 
+						11.3544223439686,39.48830545435371,0 
+						11.33533261539035,39.45727083359493,0 
+						11.27885521880778,39.42430689435182,0 
+						11.20867567353377,39.35455400920073,0 
+						11.16454906190474,39.32990396055558,0 
+						11.10246343079217,39.31286420783284,0 
+						11.02534474155131,39.30771235823005,0 
+						10.9395881212479,39.27710391425091,0 
+						10.89765147209629,39.24600155891181,0 
+						10.83763975906312,39.21157415991213,0 
+						10.80498452324868,39.18498366447965,0 
+						10.79146165076725,39.13170644977641,0 
+						10.7747733161207,39.08929348106195,0 
+						10.74761454675253,39.07158424866558,0 
+						10.74722123540156,39.07102182509439,0  <!-- Anfang Detailkarte Eestiva -->
+						10.74711557478287,39.07066315372705,0 
+						10.74704989643541,39.06987758079128,0  <!--<POI>Siedlung:Eestiva</POI>--> <!--<POI>SOE:Lettastieg</POI>-->
+						10.7470219556716,39.06956377578869,0   <!-- Ende Detailkarte Eestiva -->
+						10.74709891490373,39.06929906408495,0 
+						10.76647507728971,39.05988090103884,0 
+						10.79251522121759,39.02540778697488,0 
+						10.79761838903721,38.99195671096896,0 
+						10.78003889206419,38.95726120298058,0 
+						10.74087802994331,38.9511541455877,0 
+						10.67762259054672,38.93696007839366,0 
+						10.66005141397615,38.91717062236798,0 
+						10.6347880615759,38.90283278117965,0 
+						10.61774347327873,38.90079923489105,0 
+						10.58281200748223,38.8876917410776,0 
+						10.55328060713218,38.85630924413447,0 
+						10.52928343667007,38.78953779141057,0 
+						10.4996457296032,38.74756517800493,0 
+						10.47172207376669,38.72206185215377,0
+						10.46230177559339,38.68967670559189,0 
+						10.42704458004602,38.65605219307628,0 
+						10.41156586571275,38.64734278252401,0 
+						10.3577621605514,38.58453923133943,0
+						10.33389748526519,38.54392729460172,0 
+						10.33339702463246,38.50659379181175,0   <!--<POI>Siedlung:Lettjaskaja</POI>-->
+						10.32277344004449,38.48131330238326,0 
+						10.30387450704785,38.46147412475155,0 
+						10.27040406224096,38.45399735266397,0 
+						10.22169436954562,38.40730656042231,0 
+						10.22511700657109,38.38502325837175,0 
+						10.26561442872608,38.35934181001455,0 
+						10.29301317224062,38.33389535086093,0 
+						10.32141393879079,38.32842260293899,0 
+						10.3592889582079,38.29070815108106,0 
+						10.38345104874685,38.28945026570585,0
+						10.43197742909467,38.30313492528833,0
+						10.44640727015595,38.30112386262307,0 
+						10.48012029017867,38.26259163620284,0 
+						10.47372507389385,38.23914852820388,0   <!--<POI>Siedlung:Norntal</POI>-->
+						10.46976736063991,38.20073262097074,0 
+						10.44831866772367,38.1722238234882,0 
+						10.45501450178746,38.12934080945082,0
+						10.46873539946102,38.11648564891207,0
+						10.49127814878603,38.11493210318584,0 
+						10.50180215689336,38.09414986520317,0
+						10.49914777100839,38.06607595316331,0
+						10.51217518409517,38.0438591603485,0 
+						10.4932414589147,38.01414653641093,0 
+						10.4912206050182,37.98656364703102,0 
+						10.46483281198426,37.95955093746361,0
+						10.46409982879839,37.93757275321606,0 
+						10.48898559753765,37.9172970856405,0 
+						10.4874354577708,37.85882469195829,0 
+						10.47163903861997,37.81748477897438,0 
+						10.47386734100568,37.76574083663272,0
+						10.49931986008985,37.74595360320088,0 
+						10.50416669861808,37.71982510536016,0 
+						10.49410559613864,37.70111935388599,0 
+						10.49082522045141,37.67008874049758,0 
+						10.48196390552218,37.64752742829209,0   <!-- Anfang Detailkarte Bjaldorn -->
+						10.48187666075431,37.64718558574046,0 
+						10.4818523019725,37.64681859781221,0 
+						10.4818909881452,37.64645816529432,0    <!--<POI>Siedlung:Bjaldorn</POI>-->
+						10.48185698901951,37.64565034502591,0 
+						10.48180345470654,37.64504972818729,0 
+						10.48191848921249,37.64449625679316,0 
+						10.48194653245421,37.64404984958195,0 
+						10.48210880247384,37.64351739593488,0 
+						10.48210399380204,37.64323217860337,0
+						10.48226706103403,37.64285785170717,0   <!-- Ende Detailkarte Bjaldorn -->
+						10.48274417615451,37.61416968524219,0 
+						10.50506843901129,37.5813921851666,0 
+						10.5052697653372,37.53214757035046,0 
+						10.4755224333276,37.477446527693,0 
+						10.42259384366519,37.44016284078868,0 
+						10.4086344268446,37.41604079226022,0 
+						10.40804012938881,37.38456995382595,0 
+						10.42790505602483,37.34414663564522,0 
+						10.44115653523031,37.2881970604029,0 
+						10.45965577393567,37.2633362845438,0 
+						10.51111258896501,37.22465195768437,0   <!--<POI>Siedlung:Trautemanns Hus</POI>-->
+						10.54274337428201,37.20709183417081,0 
+						10.59867517160911,37.1572536311189,0
+						10.60681653687347,37.12334648232331,0 
+						10.63997801927972,37.08432351299808,0 
+						10.68170923249506,37.07671689765414,0 
+						10.69358661079105,37.05035780299043,0 
+						10.6910574454648,37.02507100891388,0 
+						10.74829715983437,36.96368281173287,0 
+						10.77906139873147,36.92922839122779,0 
+						10.7829052462627,36.89365119929936,0   <!--<POI>Siedlung:Brandthusen</POI>-->
+						10.77761003378043,36.81891599213565,0
+						10.78210682660785,36.80444750951512,0 
+						10.78014095822589,36.73966514632875,0 
+						10.806501862987,36.68975143603011,0
+						10.80680515988621,36.67271241456675,0  <!--<POI>Siedlung:Persanzig</POI>--> <!--<POI>SOE:Weg von Persanzig nach Karenow</POI>-->
+						10.81125444425639,36.59979081838289,0 
+						10.82296620589155,36.56972674450512,0 
+						10.81894677553502,36.53456583193284,0 
+						10.82745340186912,36.50785242546886,0 
+						10.82700252567975,36.41159691011821,0
+						10.86461883298449,36.32164870937721,0  <!--<POI>Siedlung:Viereichen</POI>--> <!--<POI>SOE:Landstraße von Torsin nach Notmark</POI>--> <!--<POI>SOE:Straße von Viereichen nach Treie</POI>-->
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>10.871603</longitude>
+				<latitude>38.000778</latitude>
+				<altitude>670000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

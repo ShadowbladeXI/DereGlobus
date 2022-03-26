@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Küstenstraße von Aldenia nach Mengbilla</name>
+	<open>1</open>
+		<Placemark> 	<!-- Küstenstraße von Aldenia nach Mengbilla-->
+			<name>Küstenstraße von Aldenia nach Mengbilla</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Küstenstraße</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Aldenia" title="Aldenia">Aldenia</a> über <a href="http://www.wiki-aventurica.de/wiki/Benivilla" title="Benivilla">Benivilla</a> nach <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">Mengbilla</a>. Sie wurde unter <a href="http://www.wiki-aventurica.de/wiki/Silem-Horas" title="Silem-Horas">Silem-Horas</a> errichtet.
+
+
+
+
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				-1.58895076503881,22.04336560915384,0   <!-- <POI>Siedlung:Aldenia</POI> --> <!-- <POI>SOE:Straße von Aldenia nach Drôl</POI> --> 
+				-1.567734728481639,22.02050226528979,0 
+				-1.524372933195207,21.99948160822562,0 
+				-1.418850218310053,21.99132498996289,0 
+				-1.36658395485134,21.96869346867674,0 
+				-1.327884226668775,21.96342151838566,0 
+				-1.302670212324855,21.95504689921937,0 
+				-1.272359658445565,21.95108137185575,0 
+				-1.2402060349639,21.9374703470128,0 
+				-1.201154916587572,21.93318412991246,0
+				-1.157476770883399,21.91255627975566,0  <!-- <POI>Siedlung:Benivilla</POI> -->
+				-1.144274977312521,21.88822470507753,0 
+				-1.095004183861287,21.85300362230008,0 
+				-1.077289044827524,21.82769443728289,0 
+				-0.9929913791055522,21.77578483511277,0 
+				-0.9814351284535705,21.76394446806008,0 
+				-0.9805454424779392,21.76338716000274,0  <!-- Anfang Detailkarte Mengbilla -->
+				-0.9804211453243994,21.76358362249145,0 
+				-0.9802845213342482,21.76369728748887,0 
+				-0.9804032744687841,21.76383925102554,0 
+				-0.9803888367647617,21.76409672717618,0 
+				-0.9804355518745922,21.76449420271889,0 
+				-0.980316492938782,21.764849178726,0 
+				-0.9800082015841372,21.76490520823205,0 
+				-0.979620256441317,21.76414500276392,0 
+				-0.9789421309469293,21.76326115214094,0 
+				-0.9785788012460339,21.76342840233762,0 
+				-0.9779343853022071,21.76341225531065,0 
+				-0.9776579834814858,21.76327587227424,0 
+				-0.9775323199009744,21.7634124395043,0   <!-- <POI>Siedlung:Mengbilla</POI> --> <!-- <POI>SOE:Seidenstraße</POI> --> <!-- <POI>SOE:Drunab-Straße</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-1.283242</longitude>
+				<latitude>21.903313</latitude>
+				<altitude>64770</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

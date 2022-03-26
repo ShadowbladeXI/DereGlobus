@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+<Folder>
+	<name>Ogerzähne</name>
+
+		<Placemark>
+			<name>Ogerzähne</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Ogerzähne</b> im nordöstlichen Teil des <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orklandes</a> werden auch <b>Lindwurmrücken</b> genannt. Im Osten verschmilzt das <a href="http://www.wiki-aventurica.de/wiki/Gebirge" title="Gebirge">Gebirge</a> mit den <a href="http://www.wiki-aventurica.de/wiki/Blutzinnen" title="Blutzinnen">Blutzinnen</a>. Seinen Namen erhielt dieses bis zu 2000 Schritt hohe Bergmassiv von den vielen <a href="http://www.wiki-aventurica.de/wiki/Oger" title="Oger">Ogern</a>, die dort leben sollen. In den Ogerzähnen können außerdem <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> (vor allem die Sippe der <a href="http://www.wiki-aventurica.de/wiki/Korogai" title="Korogai">Korogai</a>), <a href="http://www.wiki-aventurica.de/wiki/Holberker" title="Holberker">Holberker</a> in ihrer von Orks besetzten Stadt <a href="http://www.wiki-aventurica.de/wiki/Ohort" title="Ohort">Ohort</a> angetroffen werden, es gibt aber auch Behausungen der <a href="http://www.wiki-aventurica.de/wiki/Grolm" title="Grolm">Grolme</a> wie <a href="http://www.wiki-aventurica.de/wiki/Gh%27Orrgelmur" title="Gh'Orrgelmur">Gh'Orrgelmur</a> und die Minenstadt <a href="http://www.wiki-aventurica.de/wiki/Hartomadosch" title="Hartomadosch">Hartomadosch</a> der <a href="http://www.wiki-aventurica.de/wiki/Roter_Zwerg" title="Roter Zwerg">Roten Zwerge</a> sowie einige <a href="http://www.wiki-aventurica.de/wiki/Affenmensch" title="Affenmensch">Affenmenschen</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>-0.7908528696829364</longitude>
+			<latitude>35.15835503671024</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>-0.7988450574638273,35.15109399064289,0</coordinates>
+			</Point>
+		</Placemark>
+
+</Folder>
+</Document>
+</kml>

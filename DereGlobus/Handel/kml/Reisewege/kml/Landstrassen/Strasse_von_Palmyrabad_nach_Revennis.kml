@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Palmyrabad nach Revennis</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Palmyrabad nach Revennis-->
+			<name>Straße von Palmyrabad nach Revennis</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						5.494337285555046,27.44874071509816,0  <!-- <POI>Siedlung:Palmyrabad</POI> --> <!-- <POI>SOE:Straße von Palmyrabad nach Revennis</POI> -->
+						5.543326574811037,27.48534273335136,0 
+						5.559553452734849,27.50952804205889,0 
+						5.568119137128129,27.54430862535775,0 
+						5.591331074007586,27.57397519226658,0 
+						5.592580540238686,27.62007924332886,0 
+						5.585208326989837,27.65159079113506,0 
+						5.587498924469909,27.67192341599256,0  <!-- <POI>Siedlung:Yakshabar</POI> --> <!-- <POI>Abzweig:Weg von Yakshabar nach Keshal Fennek</POI> -->
+						5.616724779140285,27.69710845948028,0 
+						5.659288829948601,27.71924945281037,0 
+						5.750969971142146,27.73895477038877,0  <!-- <POI>Siedlung:unbenannt</POI> --> 
+						5.78325684130472,27.74720777257201,0 
+						5.844284838758956,27.74896071297494,0 
+						5.884889013050614,27.73921600463314,0  <!-- <POI>Fluss:Barun-Ulah</POI> -->
+						5.943869678494065,27.73891421488684,0  <!-- <POI>Siedlung:Revennis</POI> --> <!-- <POI>SOE:Straße von Palmyrabad nach Revennis</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>5.715000</longitude>
+				<latitude>27.608561</latitude>
+				<altitude>111300</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

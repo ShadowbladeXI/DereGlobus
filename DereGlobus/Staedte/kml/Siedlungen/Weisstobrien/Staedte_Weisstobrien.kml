@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Städte Weißtobrien</name>
+      <visibility>1</visibility>
+	  	
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+			  <minLodPixels>1800</minLodPixels>
+			  <maxLodPixels>-1</maxLodPixels>
+			  <minFadeExtent>0</minFadeExtent>
+			  <maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		
+		<Placemark>
+			<name>Perainefurten</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><a href="http://www.wiki-aventurica.de/wiki/Perainefurten"><img height="122" alt="Wappen" src="http://www.wiki-aventurica.de/images/d/d9/Perainefurtenwappenklein1.gif" width="100" align="right" /></a>
+<b>Perainefurten</b> war lange Zeit ein Dorf in <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien" class="mw-redirect">Tobrien</a>. Als <a href="http://www.wiki-aventurica.de/wiki/Borbarad" title="Borbarad" class="mw-redirect">borbaradianische</a> Truppen die tobrische Hauptstadt <a href="http://www.wiki-aventurica.de/wiki/Ysilia" title="Ysilia">Ysilia</a> besetzten, zog der <a href="http://www.wiki-aventurica.de/wiki/Bernfried_von_Ehrenstein" title="Bernfried von Ehrenstein">Herzog des Landes</a> in einen ummauerten Gutshof nach Perainefurten. Ihm folgten viele weitere Flüchtlinge, die in bescheidenen Verhältnissen in dem Ort Zuflucht fanden. Über die Jahre wuchs Perainefurten zu einer befestigten Kleinstadt heran, die man heute das "Herz von Weißtobrien" nennen kann.<br>
+In der Stadt befindet sich das <a href="http://www.wiki-aventurica.de/wiki/Zw%C3%B6lfg%C3%B6ttliches_Konzil_zu_Perainefurten" title="Zwölfgöttliches Konzil zu Perainefurten" class="mw-redirect">Zwölfgöttliches Konzil zu Perainefurten</a>.
+
+			</p>
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Perainefurten-Plan;flyto">Stadtplan betrachten</a></div>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki Aventurica" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" align="left" /></a>
+            <p>&nbsp;</p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>8.083970389317976</longitude>
+				<latitude>33.0332635107322</latitude>
+				<altitude>1000</altitude>
+				<range>1969.257710532817</range>
+				<tilt>5.86813964518405</tilt>
+				<heading>-0.1391365513300261</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+			<Point id="KMLe_45">
+				<coordinates>8.083472888096976,33.0283776012971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ilsur</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien" class="mw-redirect">tobrische</a> Stadt <b>Ilsur</b> liegt an der Mündung des <a href="http://www.wiki-aventurica.de/wiki/Dogul" title="Dogul">Dogul</a> in die <a href="http://www.wiki-aventurica.de/wiki/Tobrische_See" title="Tobrische See">Tobrische See</a>. <a href="http://www.wiki-aventurica.de/wiki/Borbarad" title="Borbarad" class="mw-redirect">Borbarads</a> Truppen besetzten die Stadt, die vom <a href="http://www.wiki-aventurica.de/wiki/Schwertzug&amp;action=edit&amp;redlink=1" class="new" title="Schwertzug (Seite nicht vorhanden)">Schwertzug</a>, dem sogenannten <a href="http://www.wiki-aventurica.de/wiki/Blutbanner&amp;action=edit&amp;redlink=1" class="new" title="Blutbanner (Seite nicht vorhanden)">Blutbanner</a>, teilweise befreit und lange Zeit erbittert umkämpft wurde. Die Versorgung erfolgte über die See. 
+
+<b>Ilsur</b> konnte Dank eines <a href="http://www.wiki-aventurica.de/wiki/Peraine" title="Peraine">Perainewunders</a> befreit werden. Erst <a href="http://www.wiki-aventurica.de/wiki/Chronik:1030" title="Chronik:1030">1030 BF</a> endete die Militärherrschaft als die 21jährige <a href="http://www.wiki-aventurica.de/wiki/Lleara-Dhana_von_Yyoffrynn-Thama" title="Lleara-Dhana von Yyoffrynn-Thama">Lleara-Dhana von Yyoffrynn-Thama</a> zur neuen <a href="http://www.wiki-aventurica.de/wiki/Baron" title="Baron">Baronin</a> von Ilsur ernannt wurde.
+
+</p>
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml#Ilsur-Plan;flyto">Stadtplan betrachten</a></div>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>9.670023019813675</longitude>
+				<latitude>31.56763403758583</latitude>
+				<altitude>0</altitude>
+				<range>78641.51062090606</range>
+				<tilt>5.868139645183367</tilt>
+				<heading>0.7375300673748717</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+			<Point id="KMLe_44">
+				<coordinates>9.670277567350624,31.5019010763794,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

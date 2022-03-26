@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sikram und Nebenflüsse</name>
+   <open>0</open>
+   <Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Sikram</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Sikram</b>, der in den <a title="Goldfelsen" href="http://www.wiki-aventurica.de/wiki/Goldfelsen">Goldfelsen</a> entspringt, ist nach dem <a title="Yaquir" href="http://www.wiki-aventurica.de/wiki/Yaquir">Yaquir</a> der zweitlängste <a class="mw-redirect" title="Strom" href="http://www.wiki-aventurica.de/wiki/Strom">Strom</a> des <a title="Liebliches Feld" href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld">Lieblichen Feldes</a>. Er wird von mehreren <a title="Brücke" href="http://www.wiki-aventurica.de/wiki/Br%C3%BCcke">Brücken</a> überspannt und ist ab <a title="Sibur" href="http://www.wiki-aventurica.de/wiki/Sibur">Sibur</a> schiffbar.
+</p>
+<p>
+An seinem Ufer wurde bei <a title="Marvinko" href="http://www.wiki-aventurica.de/wiki/Marvinko">Marvinko</a> die <a class="mw-redirect" title="Schlacht von Marvinko" href="http://www.wiki-aventurica.de/wiki/Schlacht_von_Marvinko">Schlacht von Marvinko</a> geschlagen.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				0.05097379770574007,25.66926543657787,0 0.003638798756770978,25.65471442006599,0 -0.02669718014189804,25.6412366628952,0 -0.05205456656915408,25.62115706828926,0 -0.07971220240357013,25.61707773813055,0 -0.1123305286701382,25.61199140621374,0 -0.1371220839492182,25.60319662513441,0 -0.1603320983044754,25.60069975970464,0 -0.1851215998128719,25.58809436153479,0 -0.2069039204047973,25.58323558920984,0 -0.2386152546188425,25.55641596918877,0 -0.2648866421505303,25.52993443544666,0 -0.286294692001976,25.5077136463994,0 -0.2926986036301293,25.47386142953674,0 -0.3059810534818219,25.43815428113389,0 -0.3192138075582196,25.41055571036997,0 -0.3256224820983378,25.37666822945536,0 -0.337661103275263,25.36462237811372,0 -0.3595926786506509,25.34126535198134,0 -0.3723174428247056,25.31684581530852,0 -0.3892770574658799,25.30000231516491,0 -0.391662955559533,25.27645420689859,0 -0.3998411983962058,25.23844757241618,0 -0.4151142006083908,25.20891338059883,0 -0.4313589480205027,25.18871561097213,0 -0.4468142446618195,25.17763779680639,0 -0.4657564638483702,25.17513428489712,0 -0.4933257395761648,25.16098424150691,0 -0.5178834453140735,25.16514054250933,0 -0.5437396036055198,25.15264401221742,0 -0.5603102067227106,25.14603602330556,0 -0.5845687676852185,25.13604718160889,0 -0.5859841746846539,25.13459689714627,0 -0.608573151356322,25.11572072672023,0 -0.6201597449642016,25.09801295592334,0 -0.6351577478109272,25.07959024508423,0 -0.635927494096209,25.07772713478994,0 -0.6388725746224799,25.07602510125125,0 -0.6404828008614261,25.07165368173821,0 -0.6422495045402477,25.06959126777762,0 -0.6429737656732049,25.0656514709771,0 -0.6424406309376562,25.06369731742843,0 -0.6471988882350932,25.05485566553231,0 -0.6726985905577376,25.03907879964719,0 -0.7030536150032563,25.01575223350224,0 -0.7153879614831271,24.98912883689593,0 -0.716308983189029,24.94702748124635,0 -0.7188041808748391,24.90239802887331,0 -0.7193602453648029,24.85479665716111,0 -0.7168775259902271,24.79124576637726,0 -0.7279997773744751,24.77259100979112,0 -0.7320694925420801,24.74927900298478,0 -0.7469658369070631,24.73325104836688,0 -0.764528956722812,24.72729195684279,0 -0.7695103224060551,24.71383066883004,0 -0.7920340241253299,24.70252272860599,0 -0.8206242197453195,24.69844960505647,0 -0.8528817160939328,24.69373414450306,0 -0.8608002383191582,24.6925358521052,0 -0.8746611216245559,24.68339974978892,0 -0.8788326402160718,24.66333239492155,0 -0.8763678548342868,24.64786654987431,0 -0.8871340798952521,24.62750931672913,0 -0.9197064834895452,24.60246518234569,0 -0.9563589321767485,24.57174882661123,0 -0.9689858153201825,24.56679204123312,0 -0.9958221290568159,24.54550014900751,0 -1.03661431123992,24.53430109410232,0 -1.041114169948041,24.53232842855275,0 -1.041621581841873,24.53170784870023,0 -1.043858273633522,24.5309289861078,0 -1.046717715413859,24.53073395822446,0 -1.048119804468477,24.53111661456867,0 -1.052741630129935,24.52962686809278,0 -1.052630300899771,24.51375544216846,0  -1.067254202424366,24.48882311313192,0 -1.089213874872722,24.46789046736853,0 -1.106121265533626,24.43131653912294,0 -1.113703965911052,24.40140498835556,0 -1.115505017178906,24.39128919899515,0 -1.115576133394742,24.38335838981621,0 -1.115024723035309,24.37788460008509,0 -1.113291936306566,24.37092714604961,0 -1.11291416909989,24.36792164758307,0 -1.112971993720042,24.36792207810495,0 -1.113050188117249,24.36565753406876,0 -1.113632836992966,24.3636261977139,0 -1.114167510037625,24.36230720201597,0 -1.114804550334858,24.36110126716674,0 -1.115576247078285,24.35933638489488,0 -1.116277406487458,24.35740702762642,0 -1.116472628088993,24.35570342133185,0 -1.116508618390711,24.35570368884279,0 -1.116817089532671,24.35341067745438,0 -1.117232937012742,24.35118398612252,0 -1.11802289972106,24.34928420209024,0 -1.118298626083941,24.34928624796864,0 -1.121217300571327,24.34667002652963,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Mardilo</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Mardilo</b> ist ein kleiner Fluss, der in den <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a> entspringt und nach etwa 40 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Marvinko" title="Marvinko">Marvinko</a> in den <a href="http://www.wiki-aventurica.de/wiki/Sikram" title="Sikram">Sikram</a> mündet. Bei <a href="http://www.wiki-aventurica.de/wiki/Marudret" title="Marudret">Marudret</a> wird er vom <a href="http://www.wiki-aventurica.de/wiki/Goldfelser_Stieg" title="Goldfelser Stieg">Goldfelser Stieg</a> überquert.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.0502443434010702,24.82546888446489,0 -0.08539408300337725,24.82807159857945,0 -0.1093865552693885,24.84378551537717,0 -0.1227375770945405,24.85203479403356,0 -0.1355500469789295,24.87525698601656,0 -0.1528567274780068,24.87370965648298,0 -0.164676929396862,24.88260144657745,0 -0.1877449323593738,24.88053140324783,0 -0.203352202320809,24.87187415814813,0 -0.2283613943541474,24.87822242059062,0 -0.2555877973518239,24.87669606683489,0 -0.2689867124816381,24.88750152836632,0 -0.2726887955591528,24.90560564788252,0 -0.296062102509056,24.92502983353307,0 -0.3073778437156383,24.92824805575114,0 -0.3125797641366246,24.9370965667798,0 -0.3341737243249854,24.93823780530916,0 -0.3477530970696108,24.93917492437029,0 -0.3581091040001916,24.95428352845396,0 -0.3730247697788935,24.9528179866312,0 -0.392729090178261,24.94862456675102,0 -0.4248667360493519,24.94899717242929,0 -0.4425984712776732,24.95949098538728,0 -0.4615357086759719,24.9654163330591,0 -0.4604346696092021,24.98416418523264,0 -0.4700099857469908,25.00130833783504,0 -0.4744920323205148,25.01477791861895,0 -0.4738723583428739,25.02757879078591,0 -0.4961812861817783,25.05111518299547,0 -0.5056537090897206,25.06008577993277,0 -0.5266810673792421,25.05897204544806,0 -0.537831715701661,25.05141223929592,0 -0.5516442981678904,25.0330370008952,0 -0.5621982070013165,25.02325325798455,0 -0.5844852123603794,25.01845971280132,0 -0.6039282004944591,25.00639899883281,0 -0.6242245915022471,24.99788366855031,0 -0.6594906590183158,24.99646981020969,0 -0.6821497985636549,25.00886431129211,0 -0.7015696250987458,25.01482127028734,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

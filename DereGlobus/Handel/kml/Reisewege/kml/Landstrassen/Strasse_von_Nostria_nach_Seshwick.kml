@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Nostria nach Seshwick</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Nostria nach Seshwick-->
+			<name>Straße von Nostria nach Seshwick</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-03.010977,30.039115,0	<!--<POI>Siedlung:Nostria</POI>--> <!-- <POI>SOE:Straße von Nostria nach Havena</POI>--> <!--<POI>SOE:Küstenstraße von Thorwal nach Nostria</POI>-->
+					-3.010687263902123,30.03918788058455,0 
+					-3.009516868106004,30.0397901241759,0 
+					-3.006858057933195,30.04133589960444,0  <!--Ende Detailkarte Nostria</POI>-->
+					-2.989131881174378,30.043743127783,0 
+					-2.965307934467115,30.05980968003715,0 
+					-2.949116543220719,30.06436538173402,0 
+					-2.910933869913879,30.09443469709243,0 
+					-2.881358699272663,30.10495083916419,0 
+					-2.8405608288512,30.10688044396095,0 
+					-2.799001261214115,30.09475719068858,0 
+					-2.764955935796203,30.09430948179548,0   <!--<POI>Siedlung:unbenannt</POI>-->
+					-2.685931096758978,30.07241186486076,0 
+					-2.637765889083234,30.05410260719892,0 
+					-2.582645944690565,30.03967787462305,0 
+					-2.542128430854398,30.038789283289,0 
+					-2.507929359525104,30.03289912203968,0   <!--<POI>Siedlung:Varnyth</POI>--> <!--<POI>Abzweig:</POI>-->
+					-2.41990309028947,30.03103271179128,0 
+					-2.389362104078216,30.02090459521916,0 
+					-2.367629579201491,30.01773546523193,0 
+					-2.307453464017801,29.98602742489562,0 
+					-2.285770594569936,29.98273069558203,0 
+					-2.240674061202332,29.9677816746445,0 
+					-2.21217878130864,29.96337137369388,0 
+					-2.151400080743198,29.94180546061601,0 
+					-2.081067321104925,29.89564359802273,0 
+					-2.018638875562174,29.87518082210081,0  <!--<POI>Siedlung:Bockshag</POI>--> <!--<POI>Abzweig:</POI>-->
+					-1.988152619944257,29.86650608196717,0 
+					-1.950112373447153,29.83939885883694,0 
+					-1.933759736134997,29.83755011862851,0 
+					-1.893532658100758,29.81831476799207,0 
+					-1.853242748193485,29.81105282948721,0 
+					-1.813281279952227,29.79072987502614,0 
+					-1.778901742663457,29.78275768785193,0 
+					-1.764437435681503,29.77494159607511,0 
+					-1.722949587543807,29.72890862837912,0 
+					-1.691547857509755,29.72399188819397,0 
+					-1.647250368081016,29.70395928375277,0 
+					-1.615007492717375,29.70018094138752,0 
+					-1.591055156676428,29.69197072222661,0 
+					-1.55404398985167,29.66578838601837,0 
+					-1.524757403069784,29.65425368074542,0  <!--<POI>Siedlung:Bredenhag</POI>--> <!--<POI>Abzweig:</POI>-->
+					-1.494627648446052,29.64525289272707,0 
+					-1.455425084557194,29.62423297433409,0 
+					-1.405072795616577,29.60521688009167,0 
+					-1.367659697518825,29.57664360020575,0 
+					-1.254427703804115,29.54561535139314,0  <!--<POI>Siedlung:Glydwick</POI>--> <!--<POI>Abzweig:</POI>-->
+					-1.197584975189027,29.53618568214026,0 
+					-1.11483851964813,29.5011460678021,0 
+					-1.077966216967946,29.49405716599665,0 
+					-1.02144666403884,29.47328829615541,0 
+					-0.9775687033136971,29.46800822714101,0 
+					-0.9381836610000682,29.45309976885893,0 
+					-0.8974880971843513,29.42977762999438,0 
+					-0.8714673591380406,29.42491900370761,0 	<!-- <POI>Siedlung:Seshwick</POI> --> <!-- <POI>SOE:Reichsstraße 3</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-1.990538</longitude>
+				<latitude>29.825816</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Al'Anfa nach Pinnacht</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Al'Anfa nach Pinnacht-->
+			<name>Straße von Al'Anfa nach Pinnacht</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die gut ausgebaute <b>Straße von Al'Anfa nach Pinnacht</b> verläuft quer über die <a href="http://www.wiki-aventurica.de/wiki/Halbinsel_von_Al'Anfa" title="Halbinsel von Al'Anfa">Halbinsel von Al'Anfa</a> und weist zwar den Rang, nicht aber die Quallität einer <a href="http://www.wiki-aventurica.de/wiki/Reichslandstraße" title="Reichslandstraße">Reichslandstraße</a> auf.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+						-0.8048591404769823,18.43022555458393,0 	<!-- <POI>Siedlung:Al'Anfa</POI> -->   <!-- <POI>SOE:Palaststraße</POI> -->
+						-0.8045807057411747,18.42999796413014,0 
+						-0.8044666027154768,18.42999824224505,0 
+						-0.8041077447213763,18.4303003381149,0 
+						-0.8038798172340422,18.43040443833129,0   <!-- Ende Detailkarte Al'Anfa -->
+						-0.8035673813011768,18.43075067182543,0 
+						-0.7986117687796768,18.43286653305217,0 
+						-0.7331659518583111,18.45407374791691,0 
+						-0.5161194871328512,18.51056744654205,0   	<!-- <POI>Siedlung:Shoy'Rina</POI> -->
+						-0.4816443705754414,18.5360106397533,0 
+						-0.4352372330104581,18.57744239079839,0 
+						-0.3874160964445672,18.59761222904787,0   	<!-- <POI>Siedlung:Patras</POI> -->
+						-0.3608093456883588,18.61255533318642,0 
+						-0.2929767477744261,18.67442733604698,0   	<!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.2255638272857652,18.71329847571397,0 
+						-0.1396732081544039,18.73687828185711,0  	<!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.08823527672710774,18.76078125065466,0 
+						-0.03389137216647464,18.7729370945098,0 
+						-0.01301754018614876,18.78688967649055,0 
+						0.02782387893431215,18.86580899737953,0 
+						0.0575939852178653,18.89825546764301,0 
+						0.06802885225581035,18.93169112522395,0 
+						0.07961024750230861,18.94645885815801,0 	<!-- <POI>Siedlung:Pinnacht</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-0.362624</longitude>
+				<latitude>18.688228</latitude>
+				<altitude>129640</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

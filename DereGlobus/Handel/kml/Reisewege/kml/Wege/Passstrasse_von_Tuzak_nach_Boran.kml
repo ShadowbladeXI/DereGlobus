@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Passstraße von Tuzak nach Boran</name>
+	<open>1</open>
+		<Placemark>
+			<name>Passstraße von Tuzak nach Boran</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Küstenstraße von Jergan nach Tuzak</b> ist die längste Straße <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskans</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Tuzak" title="Tuzak">Tuzak</a> mit <a href="http://www.wiki-aventurica.de/wiki/Jergan" title="Jergan">Jergan</a>. Einige Burgen der <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstkomturei" title="Fürstkomturei" class="mw-redirect">Fürstkomturei</a> liegen an der Straße.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						9.343193724442644,23.5278469323187,0 <!--<POI>Siedlung:Tuzak</POI>--> <!--<POI>Stadttor:Tuzak</POI>-->
+						9.344192953373462,23.52771773984561,0 
+						9.34466277813312,23.52780140995566,0 
+						9.345003313867771,23.52791644777678,0 
+						9.345634366451797,23.52817155004592,0 
+						9.346570133306702,23.52823278284451,0 <!--Ende Detailkarte Tuzak-->
+						9.447957022042893,23.55721510526367,0 
+						9.503695233799496,23.5758268669462,0 
+						9.551576567677882,23.63981571178485,0 
+						9.556868322551274,23.67877379341531,0 
+						9.564079437588793,23.69441945598022,0 
+						9.567366165171649,23.72501776196024,0 
+						9.581515886130292,23.75127270397617,0 
+						9.585242009486874,23.7938816019536,0 
+						9.600753071680437,23.80919380648704,0 <!--<POI>Fluss:Roab</POI>-->
+						9.643355322166514,23.82743832512281,0 
+						9.682414194629715,23.83714249472264,0 
+						9.725925288115869,23.85920506407875,0 
+						9.747990244671048,23.8904527529365,0 
+						9.776339934097907,23.90986886326089,0 
+						9.793168733283453,23.92728648246897,0 
+						9.812266457174017,23.99244051564391,0 
+						9.82672716961163,24.0181708028522,0 
+						9.828854384114035,24.04293291005389,0 
+						9.851283984551102,24.05814137371618,0 
+						9.884036474688013,24.06128136868991,0 
+						9.897164561731831,24.07160731529559,0 
+						9.912355916447321,24.07626949634552,0 
+						9.944761492332289,24.10468965116224,0 <!--<POI>Siedlung:Amdeggynak</POI>-->
+						9.990392488342806,24.12593857438395,0 
+						10.04371595677547,24.15588400696852,0 
+						10.05787886243932,24.17949370480682,0 
+						10.08377193744699,24.19838306220796,0 
+						10.09708624991261,24.21687766581601,0 
+						10.13679673149623,24.2373962143977,0 
+						10.16353954496802,24.25715539863901,0 
+						10.22950202138261,24.30661590214857,0 
+						10.25828972127149,24.3361344397552,0 
+						10.32169508006729,24.37865483305888,0 
+						10.347679151773,24.40978148580605,0 
+						10.37426670616201,24.42924276552709,0 
+						10.40153762558069,24.43521981691266,0 
+						10.41612707703579,24.45295549674228,0 
+						10.42591610627213,24.48240598590617,0 
+						10.43761111604302,24.57118561357351,0 
+						10.44576503232671,24.58532305510185,0 
+						10.44731354800671,24.6191895143707,0 
+						10.46895311196828,24.65025703052852,0 
+						10.50651619498838,24.67797843595941,0 
+						10.5127399881508,24.69759551018436,0 
+						10.52168268828576,24.76998076559656,0 
+						10.52623574025393,24.80326297581859,0 
+						10.52681792844848,24.80376756354592,0 
+						10.52712041987245,24.80406381763069,0 
+						10.52725859964406,24.80447353834011,0 
+						10.52711590291017,24.80507532403233,0 
+						10.52671537401768,24.80609801447655,0 <!--Anfang Detailkarte Boran-->
+						10.52671284996643,24.80634087030548,0 
+						10.52684896500719,24.80655914471414,0 
+						10.52710733031903,24.8066642555969,0 
+						10.52835416000691,24.80673268148794,0 
+						10.52908299009491,24.80674020105651,0 
+						10.52920059263873,24.80619744965142,0 
+						10.52951533310316,24.80580704703701,0 
+						10.53005106408862,24.80539599266133,0 
+						10.53070388079631,24.80503775319394,0 <!--<POI>Siedlung:Boran</POI>--> <!--<POI>Stadttor:Boran</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.94</longitude>
+				<latitude>24.17</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			</Placemark>
+</Document>
+</kml>

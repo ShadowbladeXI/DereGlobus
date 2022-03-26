@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kronstraße von Pervin nach Brinbaum</name> 
+	<open>1</open>
+		<Placemark> 	<!-- Kronstraße von Pervin nach Brinbaum-->
+			<name>Kronstraße von Pervin nach Brinbaum</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Kronstraße von Pervin nach Brinbaum</b> ist eine wichtige Handelsstraße für das <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">bornische</a> <a href="http://www.wiki-aventurica.de/wiki/Sewerien" title="Sewerien">Sewerien</a>. Im Westen geht sie Richtung <a href="http://www.wiki-aventurica.de/wiki/Norburg" title="Norburg">Norburg</a> und <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festum</a> in die <a href="http://www.wiki-aventurica.de/wiki/Bornstra%C3%9Fe" title="Bornstraße">Bornstraße</a> über, hinter <a href="http://www.wiki-aventurica.de/wiki/Brinbaum" title="Brinbaum">Brinbaum</a> beginnt die <a href="http://www.wiki-aventurica.de/wiki/Walsachstra%C3%9Fe" title="Walsachstraße">Walsachstraße</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						11.04305768958925,35.64486375992945,0   <!--<POI>Siedlung:Brinbaum</POI>--> <!--<POI>SOE:Walsachstraße</POI>--> 
+						11.02944395908429,35.65181378232479,0 
+						10.96572569173709,35.69802382452038,0 
+						10.95863690441831,35.71468645003854,0 
+						10.95572751509541,35.74454923184263,0 
+						10.93567057023148,35.76725400751276,0 
+						10.9235804173234,35.77253473958049,0    <!-- <POI>Flussquerung:Ouve</POI> -->
+						10.91526726844918,35.77590775767349,0 
+						10.89541619050012,35.77759646561923,0 
+						10.88220763028819,35.78491444554084,0 
+						10.8744371645702,35.7992817352099,0 
+						10.87266000869256,35.81988602396343,0 
+						10.87472502460173,35.84426766585889,0 
+						10.86756684696026,35.86248511720628,0 
+						10.87027552079895,35.87901713406166,0  <!-- <POI>Siedlung:Treie</POI> -->
+						10.84070509741309,35.91043319462865,0 
+						10.80959366667925,35.92303249094468,0 
+						10.759586366276,35.93988805075163,0 
+						10.7310826670264,35.9538362428079,0 
+						10.70085978562695,35.97080077061439,0 
+						10.67011798067169,35.97997450115627,0 
+						10.63681437081332,35.98100344943084,0 
+						10.60342159548286,36.00400465270229,0 
+						10.59027883492886,36.00577093260278,0   <!-- <POI>Flussquerung:Drulga</POI> -->
+						10.577051653885,36.00206473741701,0     <!-- <POI>Siedlung:Silling</POI> -->
+						10.53230482978319,35.98709100224328,0 
+						10.45874234911181,35.95440311264007,0 
+						10.4284339086576,35.95585266593058,0 
+						10.38252572747926,35.97745942708076,0 
+						10.33033758779365,35.96848321320995,0 
+						10.26662185013781,35.98152846032913,0 
+						10.24221790297663,35.98386310940477,0 
+						10.20054022694212,35.99677729454122,0 
+						10.14970354460464,35.99696061081276,0
+						10.06349423426883,35.9895639257546,0    <!-- <POI>Flussquerung:Seweria</POI> --> <!-- <POI>Siedlung:Eschenfurt</POI> -->
+						9.96115285667037,35.98979322859456,0 
+						9.938792579750269,35.98516349988517,0 
+						9.895059406721638,35.98498030128575,0 
+						9.861042355394305,35.9918988885525,0 
+						9.809624587463441,35.97940694239092,0
+						9.732446871488641,35.99097341306285,0 
+						9.71252177301521,35.9903703268481,0    <!-- Anfang Detailkarte Pervin -->
+						9.712274881236748,35.99032132317199,0
+						9.711905619837911,35.99030168386414,0
+						9.711163661719926,35.99021772300789,0
+						9.710676835040417,35.99020921912275,0 
+						9.70961557190109,35.99006373269476,0 
+						9.708973260861393,35.99007472581261,0 
+						9.70842026450083,35.98997404654664,0 
+						9.707692154227637,35.98980629659852,0 
+						9.707344453989414,35.98975483511227,0 
+						9.705646567231446,35.98963705125826,0 
+						9.70415058885337,35.98955586583282,0   <!-- <POI>Siedlung:Pervin</POI> --> <!-- <POI>Kreuzung:Bornstraße</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>10.212150</longitude>
+				<latitude>35.929155</latitude>
+				<altitude>230000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sâlweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Sâlweg-->
+			<name>Sâlweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Sâlweg</b> führt am <a href="http://www.wiki-aventurica.de/wiki/Ingval" title="Ingval">Ingval</a> entlang von <a href="http://www.wiki-aventurica.de/wiki/Salza" title="Salza">Salza</a> nach <a href="http://www.wiki-aventurica.de/wiki/Andergast" title="Andergast">Andergast</a>. Auf der <i>Salzstraße</i> wird schon seit langer Zeit <a href="http://www.wiki-aventurica.de/wiki/Salz" title="Salz">Salz</a> von der Küste <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Nostria" title="Königreich Nostria">Nostrias</a> und <a href="/index.php?title=Steinsalz&amp;action=edit&amp;redlink=1" class="new" title="Steinsalz (Seite nicht vorhanden)">Steinsalz</a> aus dem <a href="http://www.wiki-aventurica.de/wiki/Kosch" title="Kosch">Kosch</a> nach <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Andergast" title="Königreich Andergast">Andergast</a> gebracht. Im Gegenzug transportieren die Händler Fleisch, <a href="http://www.wiki-aventurica.de/wiki/Pelz" title="Pelz">Pelze</a> und <a href="http://www.wiki-aventurica.de/wiki/Eisen_%28Metall%29" title="Eisen (Metall)">Eisenwaren</a> nach Westen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-3.984086648184918,31.27975913558582,0  <!--<POI>Siedlung:Salza</POI>--> <!--<POI>SOE:Küstenstraße von Thorwal nach Nostria</POI>-->
+						-3.983104162580825,31.27970843146893,0  <!-- Ende Detailkarte Salza</POI> -->
+						-3.919412101353546,31.27376228751045,0 
+						-3.786801178205371,31.30248918209424,0 
+						-3.681362340394473,31.31367441237897,0 
+						-3.642573108010188,31.33599141575277,0 
+						-3.604477640411882,31.34093681241133,0 
+						-3.587235050497734,31.37564275225035,0 
+						-3.534989976170191,31.38179729500223,0 
+						-3.509820861670163,31.39805724807272,0 
+						-3.496918173984345,31.42098106737028,0 
+						-3.493093098919935,31.45095389272696,0 
+						-3.476718524039357,31.46732493823766,0  <!--<POI>Siedlung:Lyckmoor</POI>--> <!--<POI>Abzweigung:Straße von Efferdûn nach Lyckmoor</POI>-->
+						-3.434214425096544,31.4780516559379,0 
+						-3.409471951161152,31.49196208428429,0 
+						-3.389675461169247,31.51485196620284,0 
+						-3.384959844047081,31.53872752168519,0 
+						-3.300195645355263,31.66946662554707,0 
+						-3.265252843186814,31.72176533677164,0 
+						-3.231920811134865,31.74959291266492,0 
+						-3.194085500428399,31.76575864521275,0 
+						-3.163805297922544,31.78597424077195,0 
+						-3.128736615590813,31.81805358717867,0  <!--<POI>Siedlung:Althagen</POI>--> <!--<POI>Abzweigung:Weg von Althagen nach Mirdin</POI>-->
+						-3.101393568291648,31.84386511152114,0 
+						-3.093469124610557,31.86530257952787,0 
+						-3.077401118776468,31.88559023747449,0 
+						-3.073793971443709,31.90341654025444,0 
+						-3.060189926404417,31.91784147599033,0 
+						-3.058415253637875,31.92365751281072,0  <!--<POI>Siedlung:Nordvest</POI>--> <!--<POI>Abzweigung:Weg von Rovamund nach Nordvest</POI>-->
+						-3.028135657064745,31.94638662923956,0 
+						-3.019399181175069,31.95955731542441,0 
+						-3.026340230424963,31.9773089257185,0 
+						-3.040424767326124,31.99403561061538,0 
+						-3.040290877918953,32.00742013935255,0 
+						-3.033509577355398,32.02240986240532,0 
+						-3.012410053481428,32.04637948726643,0 
+						-3.017615891582484,32.08920727563663,0 
+						-3.004395243033967,32.12729506719391,0 
+						-3.029184328260255,32.17356431371351,0 
+						-3.065487183992643,32.20448534877946,0 
+						-3.06834046893504,32.22175313036904,0 
+						-3.056615379857248,32.26078818068301,0 
+						-3.041971841081228,32.2889134723238,0 
+						-3.039061250872819,32.31507842743208,0 
+						-3.01874945848399,32.34181470042488,0 
+						-3.003317594927676,32.37139530595282,0 
+						-2.98175644231595,32.3957318871925,0 
+						-2.941017252830357,32.41999826366583,0 
+						-2.921741354599091,32.41856376865488,0  <!--<POI>Siedlung:Kravik</POI>--> <!--<POI>Abzweigung:Weg nach Skelellen</POI>-->
+						-2.876374958675455,32.38497246256733,0 
+						-2.773702552898378,32.3843690401684,0 
+						-2.748163143381891,32.37103492990225,0 
+						-2.729505456719332,32.35233174711215,0 
+						-2.721837134945834,32.3321346418132,0 
+						-2.690807987605719,32.30241572985642,0 
+						-2.635610429144908,32.30408378732347,0  <!--<POI>Siedlung:Vardall</POI>-->
+						-2.607707491681323,32.29899667078968,0 
+						-2.569033043980985,32.26883544812192,0 
+						-2.515863377996056,32.24013862308247,0 
+						-2.462917461180739,32.24399625407553,0 
+						-2.437841295375862,32.25168549784757,0 
+						-2.396421838003757,32.25116992526776,0   <!--<POI>Siedlung:Ingfallspeugen</POI>-->
+						-2.35900888039036,32.25230119573589,0 
+						-2.315607413242942,32.26964027987101,0   <!--<POI>Abzweigung:Weg nach Norddrakenburg</POI>-->
+						-2.284068975272648,32.24602066358533,0 
+						-2.23286644666395,32.24309306581731,0 
+						-2.209974128021151,32.22962859527578,0 
+						-2.169134363054534,32.23744346326741,0 
+						-2.130107263966334,32.2149901242287,0 
+						-2.114721660304135,32.1912714724305,0 
+						-2.114510557889187,32.15303275286809,0 
+						-2.103977562883,32.13497745534302,0 
+						-2.097557859952961,32.10970771838267,0 
+						-2.099220756580368,32.09294689715286,0 
+						-2.076377541419039,32.0688597822101,0 
+						-2.06692247340355,32.01098068050948,0 
+						-2.040840969264691,31.9652883860209,0 
+						-2.025460719892813,31.92897268335884,0 
+
+						-1.986775790086153,31.90657984849938,0
+						-1.955800642283889,31.89963560267225,0  <!-- Anfang Detailkarte Joborn</POI> --> 
+						-1.955557635181359,31.8996189008166,0 
+						-1.955304817720073,31.89955426669204,0 
+						-1.955070799500061,31.89957525404321,0 
+						-1.95493399094051,31.89973875494262,0 
+						-1.95440087545868,31.89950170059098,0 
+						-1.953839943520261,31.89937839210669,0 <!--<POI>Siedlung:Joborn</POI>--> <!--<POI>Abzweigung:Weg nach Mirdin</POI>-->
+						-1.953214663095074,31.89940437165479,0 
+						-1.952680270012629,31.89939718389298,0 
+						-1.952482104082434,31.89928103225491,0 
+						-1.952456871297712,31.89902034662649,0 
+						-1.951550720974595,31.89900124836065,0 
+						-1.951226929593068,31.89895617029602,0 
+						-1.950763540356826,31.8990390396402,0 <!--<POI>Abzweigung:Weg nach Beilstatt</POI>-->
+						-1.950436931843711,31.89910534103644,0 
+						-1.950272236764417,31.89911479277092,0 
+						-1.949948405486853,31.89923086007469,0 <!-- Ende Detailkarte Joborn</POI> -->
+						
+						-1.912481998205594,31.89187308931927,0    
+						-1.855277274817139,31.89092731426523,0 
+						-1.835499095108613,31.90675537702928,0 
+						-1.806289150675714,31.91038144948724,0 
+						-1.768111885140904,31.92874675192878,0 
+						-1.747504441402463,31.93061172830447,0 
+						-1.709998162390027,31.97740188774053,0 
+						-1.708536239539601,32.00590353986356,0 
+
+						-1.685403973885741,32.03950351020228,0 
+						-1.684955448456623,32.05668215516703,0 <!-- Anfang Detailkarte Kalleth</POI> -->
+						-1.68491128526462,32.05686867533918,0 
+						-1.684794798349416,32.05707996577358,0 
+						-1.684587744272392,32.05735231820702,0 
+						-1.684454948710855,32.05762482283055,0 
+						-1.684450301167315,32.05796684706643,0 
+						-1.68423553611904,32.05841921069794,0 <!--<POI>Siedlung:Kalleth</POI>-->
+						-1.684085255532145,32.05879000024757,0 
+						-1.683992825577525,32.05887601899767,0 
+						-1.683804109678267,32.05924725646647,0 
+						-1.68353150655832,32.05935981662824,0 
+						-1.683645683563111,32.05967343619973,0 <!-- Ende Detailkarte Kalleth</POI> -->
+						-1.673815612544432,32.07196873746315,0 
+						
+						-1.674636397172016,32.11291393008636,0 
+						-1.659789484608455,32.1526371327527,0 
+						-1.655648284125593,32.18298150703652,0 
+						-1.624865210946945,32.21922540890189,0 
+						-1.585535771017933,32.24765345762271,0 
+						-1.533606379446736,32.25492475801066,0 
+
+						-1.479427176166467,32.23454340438754,0 <!-- Anfang Detailkarte Eichhafen</POI> -->
+						-1.479094531633418,32.23452721103345,0 
+						-1.478444413284683,32.23444047334973,0 
+						-1.477960663949494,32.23430907151461,0 
+						-1.477254006973129,32.23403683463731,0 <!--<POI>Siedlung:Eichhafen</POI>-->
+						-1.476327004850555,32.23351265756432,0 
+						-1.475764032686688,32.23320852754316,0 
+						-1.475163232913007,32.23292994828794,0 <!-- Ende Detailkarte Eichhafen</POI> -->
+				
+						-1.44035021688944,32.18178466252419,0 
+						-1.414319459760945,32.16426428045651,0 
+						-1.376075416857411,32.15303452780788,0 
+						-1.344232748513254,32.1533342615726,0 
+						-1.303987363149534,32.13284496495231,0 
+						-1.278350022039712,32.10784289658223,0 
+						-1.248822994857156,32.09422221464346,0 
+						-1.197724083338536,32.08614544784432,0 
+						-1.167087889091836,32.0727972058715,0 
+						-1.148702543381317,32.07460781410176,0  <!--<POI>SOE:Fürstenstraße</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-2.543961</longitude>
+				<latitude>31.833812</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

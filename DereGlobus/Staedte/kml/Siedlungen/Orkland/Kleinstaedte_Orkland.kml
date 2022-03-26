@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kleinstädte Orkland</name>
+      <visibility>1</visibility>
+	  	
+		<Region>
+         <LatLonAltBox>
+            <north>44.68523182173993</north>
+            <south>13.83211470255367</south>
+            <east>13.82951187257615</east>
+            <west>-8.928795211729799</west>
+         </LatLonAltBox>
+         <Lod>
+           <minLodPixels>3000</minLodPixels>
+           <maxLodPixels>-1</maxLodPixels>
+           <minFadeExtent>0</minFadeExtent>
+           <maxFadeExtent>0</maxFadeExtent>
+         </Lod>
+      </Region>
+    <Placemark>
+        <name>Gh'Orrgelmur</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+In den östlichen <a href="http://www.wiki-aventurica.de/wiki/Ogerz%C3%A4hne" title="Ogerzähne">Ogerzähnen</a> liegt die von <a href="http://www.wiki-aventurica.de/wiki/Orklandgrolm" title="Orklandgrolm">Orklandgrolmen</a> bewohnte Stadt <b>Gh&#39;Orrgelmur</b>. Sie besteht aus einem Höhlensystem unter einem fruchtbaren Tal. Hier leben unter der Führung von Häuptling <a href="http://www.wiki-aventurica.de/wiki/G%27Noskpel&amp;action=edit&amp;redlink=1" class="new" title="G&#39;Noskpel (Seite nicht vorhanden)">G'Noskpel</a> 85 Grolmenfamilien (ca. 700 Grolme). Ihren Reichtum verdanken sie einer Goldmine, die sie von etwa 150 versklavten <a href="http://www.wiki-aventurica.de/wiki/Affenmensch" title="Affenmensch">Affenmenschen</a> und <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> ausbeuten lassen. Diese arbeiten ebenfalls auf den oberirdischen Feldern, eine Flucht wird einerseits durch eine zehn Schritt hohe Mauer am Taleingang und anderseits von <a href="http://www.wiki-aventurica.de/wiki/Beherrschung" title="Beherrschung" class="mw-redirect">Beherrschungsmagie</a> verhindert.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude>-.279152</longitude>
+              <latitude> 35.117821</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-.279152, 35.117821,0</coordinates>
+        </Point>
+    </Placemark>
+		</Document>
+</kml>

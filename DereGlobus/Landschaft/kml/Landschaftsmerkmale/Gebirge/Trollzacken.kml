@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+<Folder>
+	<name>Trollzacken</name>
+
+		<Placemark>
+			<name>Trollzacken</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Trollzacken</b> sind ein <a href="/wiki/Gebirge" title="Gebirge">Gebirgszug</a> aus <a href="/index.php?title=Kalk&amp;action=edit&amp;redlink=1" class="new" title="Kalk (Seite nicht vorhanden)">Kalkstein</a> im Südosten des <a href="/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreichs</a>. Im Westen reichen ihre Ausläufer bis ans <a href="/wiki/Ochsenwasser" title="Ochsenwasser">Ochsenwasser</a>, im Süden an den Fluss <a href="/wiki/Darpat" title="Darpat">Darpat</a>, im Osten an den <a href="/wiki/Golf_von_Perricum" title="Golf von Perricum">Golf von Perricum</a>, im Norden an die <a href="/wiki/Schwarze_Sichel" title="Schwarze Sichel">Schwarze Sichel</a> und die <a href="/wiki/Trollpforte" title="Trollpforte">Trollpforte</a>.
+</p>
+<p>
+Der Name weist auf die bis heute hier lebenden <a href="/wiki/Troll" title="Troll">Trolle</a> hin. Auch das wilde Menschenvolk der <a href="/wiki/Trollzacker" title="Trollzacker">Trollzacker</a> findet sich in der ansonsten recht dünn besiedelten Gegend.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>6.243964248914287</longitude>
+			<latitude>29.43171670136924</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>6.243964248914287,29.43171670136924,0</coordinates>
+			</Point>
+		</Placemark>
+
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kleinstädte Kosch</name>
+      <visibility>1</visibility>
+	  	
+		<Region>
+         <LatLonAltBox>
+            <north>44.68523182173993</north>
+            <south>13.83211470255367</south>
+            <east>13.82951187257615</east>
+            <west>-8.928795211729799</west>
+         </LatLonAltBox>
+         <Lod>
+           <minLodPixels>3000</minLodPixels>
+           <maxLodPixels>-1</maxLodPixels>
+           <minFadeExtent>0</minFadeExtent>
+           <maxFadeExtent>0</maxFadeExtent>
+         </Lod>
+      </Region>
+    <Placemark>
+        <name>Fürstenhort</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Fürstenhort</b> ist ein Ort in der <a href="/index.php?title=Baronie_F%C3%BCrstenhort&amp;action=edit&amp;redlink=1" class="new" title="Baronie Fürstenhort (Seite nicht vorhanden)">Baronie Fürstenhort</a> inmitten der <a href="http://www.wiki-aventurica.de/wiki/Koschberge" title="Koschberge">Koschberge</a>. Oberhalb der Siedlung – in <a href="http://www.wiki-aventurica.de/wiki/Greings_Klamm" title="Greings Klamm">Greings Klamm</a> – liegt <a href="http://www.wiki-aventurica.de/wiki/Burg_F%C3%BCrstenhort" title="Burg Fürstenhort">Burg Fürstenhort</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Fuerstenhort-Plan;flyto">Stadtplan betrachten (InOff)</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> .929188</longitude>
+              <latitude> 29.548235</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <TimeSpan>
+        </TimeSpan>
+        <Point>
+             <coordinates> .929188, 29.548235,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Koschtal</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Koschtal</b> (<a href="http://www.wiki-aventurica.de/wiki/Rogolan" title="Rogolan">rog.</a> <i>Grokoschom</i>) war Hauptstadt der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Schetzeneck" title="Grafschaft Schetzeneck">Grafschaft Schetzeneck</a>, bis diese <a href="http://www.wiki-aventurica.de/wiki/1029_BF" title="1029 BF">1029 BF</a> mit der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Angbarer_See" title="Grafschaft Angbarer See">Grafschaft Angbarer See</a> zur <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_H%C3%BCgellande" title="Grafschaft Hügellande">Grafschaft Hügellande</a> vereinigt wurde. Die alte Grafenburg <a href="http://www.wiki-aventurica.de/wiki/G%C3%B6tterzahn" title="Götterzahn">Götterzahn</a> thront heute verwaist hoch über dem <a href="http://www.wiki-aventurica.de/wiki/Sylbriger_See" title="Sylbriger See">Sylbrigen See</a> auf der Spitze des ambossförmigen Felsens, auf dem die Stadt errichtet wurde. Der Legende nach schleuderte <a href="http://www.wiki-aventurica.de/wiki/Ingerimm" title="Ingerimm">Ingerimm</a> am <a href="http://www.wiki-aventurica.de/wiki/Tag_des_Zorns" title="Tag des Zorns">Tag des Zorns</a> an dieser Stelle einen Amboss auf Dere.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Koschtal-Plan;flyto">Stadtplan betrachten (InOff)</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 1.095126</longitude>
+              <latitude> 29.226659</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when>-112</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin>-112</begin>
+        </TimeSpan>
+        <Point>
+             <coordinates> 1.095126, 29.226659,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Eisenhuett</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>Eisenhuett (Kosch)</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Eisenhuett</b>, der in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Ferdok" title="Grafschaft Ferdok">Grafschaft Ferdok</a> gelegene Hauptort der <a href="http://www.wiki-aventurica.de/wiki/Baronie_Roterz&amp;action=edit&amp;redlink=1" class="new" title="Baronie Roterz (Seite nicht vorhanden)">Baronie Roterz</a>, ist die höchst gelegene menschliche Ansiedlung im <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Amboss</a>-Gebirge und für Schmiedeerzeugnisse bekannt.   
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 1.918934</longitude>
+              <latitude> 28.251936</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.918934, 28.251936,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Nadoret</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Nadoret</b> ist der Herrschersitz der <a href="http://www.wiki-aventurica.de/wiki/Baronie_Nadoret" title="Baronie Nadoret">gleichnamigen Baronie</a>. Der Ort liegt südlich von <a href="http://www.wiki-aventurica.de/wiki/Ferdok" title="Ferdok">Ferdok</a> an der Mündung des <a href="http://www.wiki-aventurica.de/wiki/Waschwasser" title="Waschwasser">Waschwassers</a> in den <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fer_Fluss" title="Großer Fluss" class="mw-redirect">Großen Fluss</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#NAME-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 1.647933</longitude>
+              <latitude> 29.206767</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.647933, 29.206767,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Rhôndur</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das Städtchen <b>Rhôndur</b> liegt südlich des <a href="http://www.wiki-aventurica.de/wiki/Angbarer_See" title="Angbarer See">Angbarer Sees</a> an der Schnittstelle von <a href="http://www.wiki-aventurica.de/wiki/Grevensteig" title="Grevensteig">Grevensteig</a> und <a href="http://www.wiki-aventurica.de/wiki/Rittersteig" title="Rittersteig">Rittersteig</a>. Die auf einem Felsplateau ruhende Siedlung weist zwölf Türme auf, die den ansässigen Familien unterstehen.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Rhondur-Plan;flyto">Stadtplan betrachten (InOff)</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 1.296843</longitude>
+              <latitude> 29.309111</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when>-565</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin>-565</begin>
+        </TimeSpan>
+        <Point>
+             <coordinates> 1.296843, 29.309111,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Salmingen</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der Baronssitz <b>Salmingen</b> besitzt keine auffälligen Gebäude.
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 2.200646</longitude>
+              <latitude> 29.222353</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <TimeSpan>
+        </TimeSpan>
+        <Point>
+             <coordinates> 2.200646, 29.222353,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Steinbrücken</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Steinbrücken</b> ist eine wohlhabende Handelsstadt östlich von <a href="http://www.wiki-aventurica.de/wiki/Angbar" title="Angbar">Angbar</a>. Es ist der Sitz von Baron <a href="http://www.wiki-aventurica.de/wiki/Merwerd_Stoia_von_Vinansamt&amp;action=edit&amp;redlink=1" class="new" title="Merwerd Stoia von Vinansamt (Seite nicht vorhanden)">Merwerd</a> von <a href="http://www.wiki-aventurica.de/wiki/Baronie_Vinansamt" title="Baronie Vinansamt">Vinansamt</a> an der Provinzgrenze <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Garetien" title="Königreich Garetien">Garetien</a>-<a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstentum_Kosch" title="Fürstentum Kosch">Kosch</a>. <a href="http://www.wiki-aventurica.de/wiki/Burg_Flu%C3%9Ffels" title="Burg Flußfels">Burg Flußfels</a> wacht über die mächtige Bogenbrücke, auf der die <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_3" title="Reichsstraße 3">Reichsstraße 3</a> hier den Großen Fluss nach <a href="http://www.wiki-aventurica.de/wiki/Garetien" title="Garetien" class="mw-redirect">Garetien</a> überquert.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 1.698418</longitude>
+              <latitude> 30.039528</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.698418, 30.039528,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Bragahn</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Bragahn</b> ist eine Siedlung in der Nähe des <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fer_Fluss" title="Großer Fluss" class="mw-redirect">Großen Flusses</a>. Es liegt in der gleichnamigen <a href="http://www.wiki-aventurica.de/wiki/Baronie_Bragahn&amp;action=edit&amp;redlink=1" class="new" title="Baronie Bragahn (Seite nicht vorhanden)">Baronie Bragahn</a> in der <a href="http://www.wiki-aventurica.de/wiki/Grafschaft_Ferdok" title="Grafschaft Ferdok">Grafschaft Ferdok</a>.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 1.761176</longitude>
+              <latitude> 28.592868</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.761176, 28.592868,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Rohalssteg</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das Städtchen <b>Rohalssteg</b> liegt am Südwestufer des <a href="http://www.wiki-aventurica.de/wiki/Angbarer_See" title="Angbarer See">Angbarer Sees</a>, ist der Hauptort der gleichnamigen <a href="http://www.wiki-aventurica.de/wiki/Baronie_Rohalssteg" title="Baronie Rohalssteg">Baronie</a> und Sitz des Barons. 
+
+</p><p>Auch <a href="http://www.wiki-aventurica.de/wiki/Rohal_der_Weise" title="Rohal der Weise">Rohal der Weise</a> besaß hier einen Landsitz, in den er sich oft zurückzog. Er soll am namensgebenden Steg nach Alveran entrückt sein. Nach seinem Verschwinden gründete sich hier der <a href="http://www.wiki-aventurica.de/wiki/Orden_der_W%C3%A4chter_Rohals" title="Orden der Wächter Rohals" class="mw-redirect">Orden der Wächter Rohals</a>, der nach der Zerstörung seines Angbarer Ordenshauses wieder zu seinen Wurzeln zurückgekehrt ist.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 1.354724</longitude>
+              <latitude> 29.476893</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.354724, 29.476893,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Wallerheim</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  560<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Land der stolzen Schlösser, S. 98<TR><TD>Am Großen Fluß, S. 140<TR><TD>Stromschnellen, S. 39<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt-X</styleUrl>
+        <Camera> 
+              <longitude> 1.681852</longitude>
+              <latitude> 29.363673</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.681852, 29.363673,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Uztrutz</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  540<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 138<TR><TD>Aventurischer Bote (129), S. 25<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 1.507916</longitude>
+              <latitude> 28.560914</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.507916, 28.560914,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Drift</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Drift</b> ist eine Siedlung am <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fer_Fluss" title="Großer Fluss" class="mw-redirect">Großen Fluss</a> und Hauptort der gleichnamigen <a href="http://www.wiki-aventurica.de/wiki/Baronie_Drift&amp;action=edit&amp;redlink=1" class="new" title="Baronie Drift (Seite nicht vorhanden)">Baronie</a>.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <Camera> 
+              <longitude> 1.357254</longitude>
+              <latitude> 28.439972</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 1.357254, 28.439972,0</coordinates>
+        </Point>
+    </Placemark>
+		</Document>
+</kml>

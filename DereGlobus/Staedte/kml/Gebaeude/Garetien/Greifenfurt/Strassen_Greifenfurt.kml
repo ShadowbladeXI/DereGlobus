@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Strassen_GREIFENFURT.kml</name>
+	<open>1</open>	
+	<Folder>
+		<name>Strassen_GREIFENFURT</name>
+		<open>0</open>		
+		<Region>
+			<LatLonAltBox>
+				<north>31.32786345312803</north>
+				<south>31.32352124878749</south>
+				<east>2.27255908729997</east>
+				<west>2.265440826161168</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<LookAt>
+			<longitude>2.26917068038756</longitude>
+			<latitude>31.32560073564712</latitude>
+			<altitude>0</altitude>
+			<range>716.2538035245117</range>
+			<tilt>0</tilt>
+			<heading>-1.111206291836316e-013</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		
+		<Placemark>
+			<name>Am Nordwesttor</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.268000490220115,31.32764042248442,0 2.268047294713316,31.32754980302379,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>An der Wehr</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269734193550872,31.32414412497261,0 2.27023829494384,31.32409139103234,0 2.270749254728643,31.32410310188778,0 2.270780119959255,31.32419098370631,0 2.270810992105894,31.32451028626002,0 2.270883009904958,31.32464210977631,0 2.271393974784486,31.32464795801789,0 2.271634030156986,31.3248061415372,0 2.27177120631382,31.32493503288135,0 2.271829510281793,31.32513130311267,0 2.272021552739549,31.32512836833977,0 2.272090147329757,31.32537736769745,0 2.272145176948879,31.32583734836122,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>An der Wehr</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.267953696666902,31.32709137118745,0 2.267950569166324,31.3275178183406,0 2.268047294713316,31.32754980302379,0 2.268380756005615,31.32765155910334,0 2.268972923496337,31.32765368328719,0 2.269211780512364,31.32764730633091,0 2.269560113579414,31.32762392573347,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>An der Wehr</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269727124336538,31.32392981499712,0 2.269643707991926,31.32397217191991,0 2.269515037373127,31.32387063510846,0 2.269220643232961,31.32384015653773,0 2.269071346740272,31.32378064049761,0 2.26872298885987,31.32376363623544,0 2.268727965497552,31.32381465042378,0 2.268245239731512,31.32381252341928,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Apfelplatz</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.270763048887758,31.32714108710541,0 2.270934529976267,31.32704733532635,0 2.271078575113645,31.32700338791697,0 2.271315221936383,31.32697701641451,0 2.271342657169868,31.32688912597174,0 2.271682194130615,31.32682173603464,0 2.271678753096917,31.32641451178881,0 2.272189777625711,31.32637055149753,0 2.272200055174143,31.32596039406072,0 2.272145176948879,31.32583734836122,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Apfelweg</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.270864317263983,31.32574725483469,0 2.270849079505668,31.32581885216746,0 2.270838923511123,31.32597072446341,0 2.270795749119821,31.3261117492914,0 2.270767813893488,31.32625928256842,0 2.270760198339981,31.3264458683513,0 2.270762741832757,31.3266150973544,0 2.270767824515352,31.32675178237027,0 2.270752587841669,31.32687328066992,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Brauereiweg</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.268397626526235,31.32584920203205,0 2.268390645027536,31.32613019188486,0 2.268387283785911,31.32618187325944,0 2.268427617863069,31.32623642597388,0 2.268424256735093,31.32643740912376,0 2.268430978931133,31.32655512761082,0 2.268417532345908,31.32726430922028,0 2.268380756005615,31.32765155910334,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Burgstraße</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.267847897896578,31.32584551224329,0 2.268937996994906,31.32585301025594,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ferdokerstraße</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269961701356666,31.32382495913706,0 2.269727124336538,31.32392981499712,0 2.269735312292791,31.32435155916866,0 2.269694400581572,31.32464747921669,0 2.26974496874313,31.32489835502646,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Fischmarkt</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.268937998688192,31.32572034634042,0 2.268750190403408,31.32571111264348,0 2.268600166382941,31.32572276309967,0 2.268597438499862,31.3258509174119,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Hafenstraße</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269257746431754,31.32501540916855,0 2.26889150911556,31.32503776936725,0 2.268043511407167,31.32506236166844,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Langestraße</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.268989760416615,31.32619377516373,0 2.269001575887417,31.32653485115148,0 2.268971572646386,31.32724086653278,0 2.26897430001122,31.32765329276394,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mostgasse</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.270561066868289,31.32541600385788,0 2.27046971152264,31.32518189138385,0 2.270317454021813,31.32496598758442,0 2.270131700650409,31.32493217164546,0 2.26974496874313,31.32489835502646,0 2.269257746431754,31.32501540916855,0 2.26908112659286,31.32520269820146,0 2.268959318844552,31.32537177863079,0 2.268937998688192,31.32572034634042,0 2.268937996994906,31.32585301025594,0 2.268989760416615,31.32619377516373,0 2.269071978068002,31.32636806015085,0 2.269291230886643,31.32643049157971,0 2.269604885049386,31.32641748644326,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Neumarkt</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.270864317263983,31.32574725483469,0 2.270874474976854,31.32567348815774,0 2.270846533756916,31.32554331243317,0 2.271194492252933,31.32554330605981,0 2.271199575497378,31.32568216062112,0 2.27120276533729,31.32577659272421,0 2.271583725195729,31.32582865296028,0 2.27187833426449,31.32583949395236,0 2.272145176948879,31.32583734836122,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pflanzerstraße</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269731988872172,31.32414419273659,0 2.269557157807007,31.32410623970845,0 2.269442101310437,31.3240994770411,0 2.269048953608424,31.32407184628692,0 2.268464208343355,31.3240697208516,0 2.268205426540209,31.32407397107302,0 2.268207915161817,31.32385716055539,0 2.268245239662987,31.32381464897085,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Speicherplatz</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.270763048887758,31.32714108710541,0 2.270649870664385,31.32717331500045,0 2.270505825820792,31.32721726183947,0 2.270396077266907,31.32724948944428,0 2.270372070335844,31.3272846456227,0 2.27036178738907,31.3276186265832,0 2.269885062862396,31.32761863150991,0 2.269891918467979,31.32731394725224,0 2.269711883263934,31.3273114976552,0 2.269567574541502,31.32733700282038,0 2.269560113579414,31.32762392573347,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Tempelweg</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269698137476826,31.32588326539084,0 2.269990560120705,31.32596652674608,0 2.270017449999449,31.32600672312096,0 2.270017450395052,31.32603830623678,0 2.27001072815249,31.32605840479813,0 2.269920868728368,31.32619356105899,0 2.269881059957368,31.32624457033491,0 2.269893090739699,31.3264000777676,0 2.269849396607666,31.32652641042287,0 2.26979561906123,31.3266470005445,0 2.269788900150302,31.32693986094131,0 2.269709391960231,31.32705858108255,0 2.269711883263934,31.3273114976552,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Webergasse</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.267273424011116,31.32426952048866,0 2.267291200149317,31.32406998084307,0 2.26741053758593,31.32374247660347,0 2.267641585662261,31.32372729661266,0 2.267692365744121,31.32369259452669,0 2.268164616214889,31.32369259765522,0 2.268243324414367,31.32372513162111,0 2.268245239731512,31.32381252341928,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Zum Nordtor</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.269548106028381,31.32772838715477,0 2.269560113579414,31.32762392573347,0 </coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Zum Westtor</name>
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die Straße <B>$[name]</B> ...		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[name]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<LookAt>
+				<longitude>2.26917068038756</longitude>
+				<latitude>31.32560073564712</latitude>
+				<altitude>0</altitude>
+				<range>716.2538035245117</range>
+				<tilt>0</tilt>
+				<heading>-1.111206291836316e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>2.272327080810872,31.32637376701866,0 2.272189777625711,31.32637055149753,0 </coordinates>
+			</LineString>
+		</Placemark>	
+	</Folder>
+</Document>
+</kml>

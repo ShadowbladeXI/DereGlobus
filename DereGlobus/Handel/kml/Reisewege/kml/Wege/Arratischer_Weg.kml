@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Arratischer Weg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Arratischer Weg-->
+			<name>Arratischer Weg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Arratische Weg</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Arratistan" title="Arratistan">Arratistan</a> mit dem <a href="http://www.wiki-aventurica.de/wiki/Szintotal" title="Szintotal">Szintotal</a> und verläuft zum Teil als Gebirgspass durch die <a href="http://www.wiki-aventurica.de/wiki/Eternen" title="Eternen">Eternen</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						0.9081243986667009,21.95482426166769,0   <!-- <POI>Siedlung:Vishia</POI> -->  <!-- <POI>SOE:Straße nach Gravina</POI> -->  <!-- <POI>Flussquerung:Virud</POI> -->
+						0.9088878437646408,21.92403308841407,0 
+						0.9041945590123079,21.89889909593395,0 
+						0.9060262835298527,21.8827759230672,0 
+						0.8980038903873999,21.86487624013633,0 
+						0.9006938545797727,21.84793993204974,0 
+						0.9250569183856494,21.82997168574988,0 
+						0.9269712130562291,21.79712072729281,0 
+						0.9334560333885489,21.78363300089012,0 
+						0.9235044558434291,21.74938123316208,0 
+						0.9290508200397474,21.73019358079553,0 
+						0.9134104956267564,21.70297998759609,0 
+						0.9160674481439757,21.6836265924386,0   <!-- <POI>Siedlung:unbenannt</POI> -->  <!-- <POI>SOE:Weg nach El Arrat</POI> -->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						0.9160674481439757,21.6836265924386,0	<!-- <POI>Siedlung:unbenannt</POI> -->  <!-- <POI>SOE:Weg nach El Arrat</POI> -->
+						0.941738467481954,21.70429360178873,0 
+						0.9849543682061746,21.71671617978355,0 
+						1.08590929392359,21.72445561874854,0 
+						1.112732814786284,21.74105832919909,0 
+						1.137047133733211,21.76413745105658,0 
+						1.180752137832732,21.77851358993625,0 
+						1.29305842868193,21.7975195842819,0 
+						1.320720889738678,21.81249847674171,0      <!-- <POI>Flussquerung:Arrati</POI> -->
+						1.350466423215182,21.80009309083093,0 
+						1.374396632050952,21.76414043030351,0 
+						1.375492530840008,21.70571934551077,0 
+						1.386802400097693,21.69745655600496,0 
+						1.425238802397799,21.70892216647786,0 
+						1.451577920295593,21.70412198535396,0 
+						1.477068489903672,21.69353545481143,0 
+						1.514269547178124,21.70519052056217,0 
+						1.537077423868194,21.70061866945916,0 
+						1.572540394462725,21.66577805623448,0 
+						1.586944987486481,21.60080467389944,0 
+						1.61211624123117,21.57620272375485,0 
+						1.687452216555962,21.52530450567429,0 
+						1.714545511486501,21.49239776271928,0 
+						1.768124796598787,21.47656687837441,0 
+						1.819155439723639,21.46564178407177,0    <!-- <POI>Siedlung:unbenannt</POI> -->
+						1.841493476513343,21.44756433506242,0 
+						1.896372350651903,21.44793774730435,0 
+						1.913332556205956,21.43288368736917,0 
+						1.91801737111738,21.41634086021087,0 
+						1.990933677498603,21.33471496653773,0  <!-- <POI>Siedlung:Abszint</POI> --> <!-- <POI>Abzweig:Arratischer Weg</POI> -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>1.445363</longitude>
+				<latitude>21.645103</latitude>
+				<altitude>115960</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

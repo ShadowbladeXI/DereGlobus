@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>  
+          <name>Handelsstätten in Trutzbach (InOff)</name>
+   	<Region>
+		<LatLonAltBox>
+			<north>32.94805537772493</north>
+			<south>32.94310994776229</south>
+			<east>7.807110179548025</east>
+			<west>7.798774106906949</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <Placemark>
+          <name>Lebensmittelhänderl</name>
+          <LookAt>
+            <longitude>7.803367635823244</longitude>
+            <latitude>32.94519840334134</latitude>
+            <altitude>1000</altitude>
+            <range>299.804926760139</range>
+            <tilt>0</tilt>
+            <heading>-128.6628239187258</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-InOff</styleUrl>
+          <Point>
+            <coordinates>7.803490029221201,32.94526223978941,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Krämer</name>
+          <LookAt>
+            <longitude>7.803338492300909</longitude>
+            <latitude>32.94568393147841</latitude>
+            <altitude>0</altitude>
+            <range>299.8049267601553</range>
+            <tilt>0</tilt>
+            <heading>-128.662839769914</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette-InOff</styleUrl>
+          <Point>
+            <coordinates>7.803457194194903,32.9457763283425,0</coordinates>
+          </Point>
+        </Placemark>
+    </Document>
+</kml>

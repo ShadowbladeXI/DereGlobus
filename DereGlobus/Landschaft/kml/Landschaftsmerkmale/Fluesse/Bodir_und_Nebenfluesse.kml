@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Bodir und Nebenflüsse</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Bodir</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Bodir</b> ist ein Fluss in Nordaventurien, der aus zwei Quellflüssen gespeist wird, die im zentralen <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a> entspringen. Der Fluss hat mehrere Zuflüsse, von denen der <a href="http://www.wiki-aventurica.de/wiki/Feldir" title="Feldir">Feldir</a> bei <a href="http://www.wiki-aventurica.de/wiki/Groenvelden" title="Groenvelden">Groenvelden</a>, der <a href="http://www.wiki-aventurica.de/wiki/Vrala" title="Vrala">Vrala</a> bei <a href="http://www.wiki-aventurica.de/wiki/Vilnvad" title="Vilnvad">Vilnvad</a> und der <a href="http://www.wiki-aventurica.de/wiki/Arval" title="Arval">Arval</a> bei <a href="http://www.wiki-aventurica.de/wiki/Angbodirtal" title="Angbodirtal">Angbodirtal</a> namentlich bekannt sind. Er mündet nach etwa 350 Meilen bei der Stadt <a href="http://www.wiki-aventurica.de/wiki/Thorwal_(Stadt)" title="Thorwal (Stadt)">Thorwal</a> in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Prem" title="Golf von Prem">Golf von Prem</a>, einen Teil des <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meeres der Sieben Winde</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-1.672685371227474,34.44197929424219,0 -1.71177329278966,34.43087814096418,0 -1.732343555932129,34.42668243928221,0 -1.762352194212846,34.4285648838742,0 -1.783811154021122,34.43071805543064,0 -1.793611331856203,34.43400840711927,0 -1.836801749520531,34.4287333874685,0 -1.861621575080228,34.43355062052752,0 -1.9117383337473,34.42206288173222,0 -1.936686166771965,34.41929676730257,0 -1.972934265854039,34.40024849207869,0 -1.988100846583178,34.39459264621931,0 -2.011061816814642,34.4010232782286,0 -2.025432930091423,34.39896894981022,0 -2.041359289718738,34.38890005740898,0 -2.070366228979884,34.39034300905014,0 -2.109074815754179,34.36198356115579,0 -2.130766830426483,34.35785530500155,0 -2.167382655296267,34.3363388327514,0 -2.215459932745172,34.33313695096555,0 -2.232876660371979,34.32459196975231,0 -2.280696884899296,34.29790564926802,0 -2.303775293218854,34.29711641696293,0 -2.319900296642301,34.30173352465735,0 -2.344978091583903,34.30245839138227,0 -2.369283888249271,34.28808934545666,0 -2.387566504686611,34.28784852427452,0 -2.427460205191547,34.25859769041846,0 -2.46899639718662,34.23912435661315,0 -2.486993493251986,34.23330687555258,0 -2.515242056670437,34.23030092623803,0 -2.563880921934583,34.22177281262412,0 -2.589814570869731,34.20292223685159,0 -2.602872193710685,34.19528180462464,0 -2.633334547208639,34.16272689850145,0 -2.647034481390728,34.15823933179886,0 -2.669607933178707,34.157795145343,0 -2.753710617370007,34.09569674922346,0 -2.760493619240228,34.09663048544086,0 -2.774659833517892,34.08707746400617,0 -2.79345132008106,34.08235273616135,0 -2.804658583522441,34.07933039091909,0 -2.833079168440258,34.06880824124097,0 -2.869675241440093,34.02198869480775,0 -2.874028135093578,33.99354863133012,0 -2.949341424876586,33.93317544972165,0 -2.951194230379288,33.93062060911261,0 -2.953812733655767,33.92963047607707,0 -2.956111568243775,33.92855147256748,0 -2.95762724450873,33.92742582671973,0 -2.958520213905327,33.91643545503538,0  -2.958257470815482,33.89244887325406,0 -2.976748772114783,33.87115441734019,0 -2.980866711044422,33.85897467348423,0 -2.989556048859634,33.85226590252406,0 -2.999028409233278,33.84929445000263,0 -3.013153929389729,33.83859669244502,0 -3.023955062908629,33.83415641870856,0 -3.045540228480754,33.83469644509336,0 -3.066118903556373,33.83739363555745,0 -3.083323078746739,33.83574923776702,0 -3.220713811717176,33.77637903066014,0 -3.244490278615605,33.77584900841432,0 -3.273758049441428,33.75858997382213,0 -3.297878711538319,33.75450124536594,0 -3.315099763155991,33.74881782672147,0 -3.350178231388582,33.72940159559398,0 -3.36597954169391,33.73154871126882,0 -3.392659406730928,33.7228431608995,0 -3.412704832787176,33.71254011262375,0 -3.432708434902903,33.71072173916996,0 -3.451681722860998,33.70611830066116,0 -3.486874190335007,33.68500954478557,0 -3.548067604027578,33.67663516977615,0 -3.565027722229815,33.67039201720008,0 -3.622636196790786,33.63664691397487,0 -3.634156011733298,33.63093614161371,0 -3.653303053373876,33.62935544690935,0 -3.671565696496735,33.63158448474108,0 -3.688166136164026,33.63435929168347,0 -3.708892812741279,33.63104983217735,0 -3.726717745632198,33.62669317320808,0 -3.743429216677601,33.62686463282179,0 -3.75778827419628,33.62148609196414,0 -3.775216779618097,33.6112493411319,0 -3.790590802653269,33.60543089015263,0 -3.809814755578308,33.60499773696952,0 -3.826194627529018,33.60021612157133,0 -3.849528066830269,33.58119361227894,0 -3.87351459115663,33.55954917342931,0 -3.900199663598465,33.54861823320118,0 -3.919580897047648,33.53025331888666,0 -3.945670884186639,33.51085631321113,0 -3.948672097813408,33.48879135678029,0 -3.956916760716498,33.47307192423659,0 -3.959177418859991,33.44844265824436,0 -3.978907102922358,33.4107736110871,0 -3.980636764813323,33.37462375143485,0 -3.995507160739468,33.36117651200107,0 -4.0008356630186,33.34041337276486,0 -4.03555110239982,33.3123237974747,0 -4.044009988062571,33.2961147991776,0 -4.042900290385693,33.27211824716832,0 -4.035494252571016,33.25541346847169,0 -4.007596206765499,33.23130473339942,0 -3.993213868589188,33.2067804355774,0 -3.982440317590227,33.19763925806674,0 -3.955574473815179,33.16339549164434,0 -3.953385538321506,33.14794176608274,0 -3.947495771613411,33.13596863525979,0 -3.944508215531387,33.10476551338702,0 -3.933409747185528,33.06193234456326,0 -3.939646874707615,33.00126996397926,0 -3.931522074612924,32.97281026191899,0 -3.938697232207119,32.94630129480155,0 -3.932315265029552,32.90230028856333,0 -3.952160826193544,32.86834077078483,0 -3.953452394225549,32.85035851093553,0 -3.975619894251092,32.82760994870217,0 -4.006813901152949,32.80793279155639,0 -4.032768184164924,32.79393193441675,0 -4.059237164949522,32.77141695797214,0 -4.075702476473689,32.76235461451007,0 -4.089913936051438,32.75316556170344,0 -4.10313635846503,32.7378940865088,0 -4.114270734519926,32.72484466867281,0 -4.121697465022426,32.71894996658308,0 -4.125431601498676,32.71664671522132,0 -4.132774346625961,32.71498921007168,0 -4.140137535410105,32.71368014033305,0 -4.145208756726452,32.70080914933998,0  </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Arval</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Arval</b> ist ein kleiner Fluss in <a href="http://www.wiki-aventurica.de/wiki/Thorwal" title="Thorwal">Thorwal</a>, der im westlichen <a href="http://www.wiki-aventurica.de/wiki/Steineichenwald" title="Steineichenwald">Steineichenwald</a> entspringt und nach etwa 40 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Angbodirtal" title="Angbodirtal">Angbodirtal</a> in den <a href="http://www.wiki-aventurica.de/wiki/Bodir" title="Bodir">Bodir</a> mündet.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-3.7763525051837,33.37855776965854,0 -3.794762408154424,33.37341815066131,0 -3.812268920726511,33.3600621335801,0 -3.820594737831409,33.34713985883703,0 -3.818984789442905,33.31845790962088,0 -3.834573884919863,33.29721436881991,0 -3.834420818590401,33.28497458499771,0 -3.834707864382438,33.24421873647185,0 -3.846848426023233,33.22894686353472,0 -3.859957221720789,33.22148567325876,0 -3.872549522997702,33.22145174166769,0 -3.881949207922049,33.20961112372014,0 -3.893325995468874,33.20678644730182,0 -3.907766743432501,33.20893821783866,0 -3.920263729945694,33.20264045571173,0 -3.952284694243911,33.222730192566,0 -3.973285509196124,33.21145809193028,0 -3.985822642908961,33.20088020752184,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Vrala</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Vrala</b> ist ein Fluss in <a href="http://www.wiki-aventurica.de/wiki/Thorwal" title="Thorwal">Thorwal</a>, der in den östlichen <a href="http://www.wiki-aventurica.de/wiki/Hjaldorberge" title="Hjaldorberge">Hjaldorbergen</a> entspringt und nach etwa 40 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Vilnvad" title="Vilnvad">Vilnvad</a> und <a href="http://www.wiki-aventurica.de/wiki/Bodon" title="Bodon">Bodon</a> in den <a href="http://www.wiki-aventurica.de/wiki/Bodir" title="Bodir">Bodir</a> mündet.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-3.9986783274917,33.83875032042081,0 -3.997865441468655,33.82719441345297,0 -3.991669766680863,33.81983093682084,0 -3.99349484868332,33.80205532999666,0 -4.021310475980319,33.76729135632438,0 -4.021949437735155,33.74956877819022,0 -4.01599180860315,33.74219183847458,0 -4.014635243219844,33.72967356633933,0 -4.020060856534239,33.71686013600142,0 -4.01952588005813,33.69919385795197,0 -4.046983547981077,33.67328090366038,0 -4.050496219077382,33.6562075726435,0 -4.054604480025844,33.6475554049762,0 -4.057809835051698,33.62951394754122,0 -4.054235023750621,33.6090522471715,0 -4.043138974455681,33.59898211999711,0 -4.026774439971847,33.59113307518174,0 -4.008184101056748,33.57499553546754,0 -4.003253221238743,33.55853155249531,0 -3.991009787695381,33.54202975278998,0 -3.985194610507097,33.5297334531469,0 -3.969948108325302,33.52418235374194,0 -3.958196885793559,33.52140825288336,0 -3.945149897437927,33.51024048439372,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Südlicher Bodir</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-1.355578222518,34.20369896940782,0 -1.368518802708113,34.20763674459621,0 -1.383845504754218,34.2020799012726,0 -1.408194941375274,34.20627446258038,0 -1.452653790566205,34.22933389424214,0 -1.4890341116213,34.23174873938555,0 -1.512602673922141,34.25851432584715,0 -1.51031789854259,34.28686623507861,0 -1.516092608394053,34.30099337846592,0 -1.549283126409653,34.33322278554721,0 -1.547913227905849,34.35814385095182,0 -1.557806606139589,34.38037857609205,0 -1.578737279406053,34.40063544581564,0 -1.593386704185867,34.41135667052108,0 -1.608702009722995,34.41320052388743,0 -1.618751684059195,34.42148123016898,0 -1.645795990428406,34.4221241114349,0 -1.672685371227474,34.44197929424219,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nördliche Bodir</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-1.435749901024965,34.58977967013568,0 -1.452018129290559,34.58876089456151,0 -1.471967421602781,34.57592496359819,0 -1.480195541218271,34.55655487908047,0 -1.514115548983158,34.52931602113959,0 -1.538626243597433,34.52633422475368,0 -1.548870480479317,34.52232604656686,0 -1.581417853257171,34.49300262048239,0 -1.610688161107934,34.48844571362808,0 -1.640507029478145,34.4644390742701,0 -1.672685371227474,34.44197929424219,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Feldir</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Feldir</b> ist ein Fluss im <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a>, der in den südlichen Ausläufern der <a href="http://www.wiki-aventurica.de/wiki/Olochtai_(Gebirge)" title="Olochtai (Gebirge)">Olochtai</a> entspringt und nach etwa 70 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Groenvelden" title="Groenvelden">Groenvelden</a> in den <a href="http://www.wiki-aventurica.de/wiki/Bodir" title="Bodir">Bodir</a> mündet. 
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-3.020588173573576,34.58394299479496,0 -3.020489265320678,34.53803443727741,0 -3.034937913001986,34.51579311840589,0 -3.059074861678343,34.49748665902757,0 -3.071896827451477,34.48006462177698,0 -3.07600904629587,34.46538546819919,0 -3.075001786494314,34.44420345586761,0 -3.061228517354409,34.42029379276926,0 -3.057028850556517,34.39837413823445,0 -3.069206653138403,34.32996957288355,0 -3.069544859553827,34.27863156946105,0 -3.055204585401659,34.26232358710236,0 -3.035806507136314,34.26224409891316,0 -3.027997006354552,34.25432916287399,0 -3.025339711546646,34.24490539394154,0 -3.029007972772142,34.23609217435038,0 -3.041895951387579,34.20596506752573,0 -3.043075197289157,34.19054103829329,0 -3.037715994834793,34.17083552655699,0 -3.02726662915703,34.16238004294693,0 -3.012869465153893,34.1579806667859,0 -2.99858519142933,34.14664300438309,0 -2.994428981954479,34.12947982981751,0 -2.955663148091254,34.10263493178169,0 -2.937712339805718,34.09973868959831,0 -2.923091527789232,34.10465110253166,0 -2.903385758059359,34.10759720738632,0 -2.882980571510225,34.1075356807647,0 -2.862623664994313,34.09469065732213,0 -2.833418800481109,34.06896717096042,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

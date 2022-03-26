@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Merek und Nebenfluss</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Merek</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das Flüsschen <b>Merek</b> fließt von den Osthängen der <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Fe_Olochtai" title="Große Olochtai">Großen Olochtai</a> durch das <a href="http://www.wiki-aventurica.de/wiki/Waskirer_Hochland" title="Waskirer Hochland">Waskirer Hochland</a> bis zum <a href="http://www.wiki-aventurica.de/wiki/Hjaldingolf" title="Hjaldingolf">Hjaldingolf</a>, in den er bei <a href="http://www.wiki-aventurica.de/wiki/Muryt" title="Muryt">Muryt</a> mündet. Am Oberlauf liegt das <a href="http://www.wiki-aventurica.de/wiki/Seufzermoos" title="Seufzermoos">Seufzermoos</a>. Er ist nur auf dem Unterlauf schiffbar.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-4.187151276527627,34.87779009076414,0 -4.220787364035099,34.89810317424899,0 -4.24458517892817,34.89471831701209,0 -4.260467250425181,34.89463035711464,0 -4.280992110942151,34.90661300846634,0 -4.309262588533639,34.89620511326202,0 -4.345105826796694,34.9076134925944,0 -4.364456820453118,34.91400106631397,0 -4.378204774015608,34.92740328456922,0 -4.387385032430862,34.93757737798206,0 -4.401058394215208,34.94260088922908,0 -4.411881763871179,34.94624711124899,0 -4.423890062392488,34.95453685285422,0 -4.435379648885317,34.95490556372426,0 -4.44894572885798,34.94829552247276,0 -4.467725197670063,34.95095489042929,0 -4.491736668014164,34.96427426839468,0 -4.504940532947784,34.97627250945492,0 -4.507395844411239,34.99207270174303,0 -4.513254664804184,35.0073806870553,0 -4.533877307150187,35.02164078404447,0 -4.551528983093517,35.0247555000684,0 -4.56566963678871,35.01952296170634,0 -4.58085111449562,35.00683758803437,0 -4.585811686096467,34.99470167133381,0 -4.600404120383606,34.98108901365323,0 -4.612230505004971,34.97354558114387,0 -4.618724377004027,34.9488339539801,0 -4.634931771481154,34.92961799175914,0 -4.667651260678095,34.91536743108639,0 -4.686359010592488,34.91426534081224,0 -4.709076806553392,34.91591385338943,0 -4.7209781483674,34.91486954634073,0 -4.754256909070257,34.90058161409588,0 -4.760188393324729,34.87864316913496,0 -4.770274591883235,34.86969434634723,0 -4.81818709197741,34.84730077503636,0 -4.838630734967985,34.84800873400683,0 -4.861274836297801,34.84356195045555,0 -4.890268548645063,34.84555836002616,0 -4.930238602414729,34.82084122408065,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Aldiar</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Aldiar</b> ist ein Fluss in <a href="http://www.wiki-aventurica.de/wiki/Thorwal" title="Thorwal">Thorwal</a>. Er entspringt in den südöstlichen <a href="http://www.wiki-aventurica.de/wiki/Graue_Berge" title="Graue Berge">Grauen Bergen</a> und mündet nach etwa 50 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Storsjen" title="Storsjen">Storsjen</a> in den <a href="http://www.wiki-aventurica.de/wiki/Merek" title="Merek">Merek</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-4.969384984281024,35.18407448113597,0 -4.947510093865591,35.16989982366203,0 -4.923529265954061,35.14779382519512,0 -4.888038913395904,35.14538590912859,0 -4.855458617023389,35.15519489637593,0 -4.833722651248089,35.15046316677891,0 -4.800055324699103,35.13075802916626,0 -4.773725822112297,35.12294778687727,0 -4.751971852840812,35.10172260136251,0 -4.751962571893512,35.07749979024963,0 -4.737107730796711,35.06205075505807,0 -4.734513911681129,35.04731787966411,0 -4.71101791655148,35.02219438043117,0 -4.708684805372586,35.0018814373483,0 -4.678805233665547,34.97980488506475,0 -4.665569815114149,34.95680897407801,0 -4.664316036411201,34.93955175829338,0 -4.6663678287892,34.91557894852962,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

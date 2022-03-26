@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Reichslandstraße von Eslamsbrück nach Mendena</name>
+	<open>1</open>
+		<Placemark>   <!-- bis 1026 BF -->
+			<name>Reichslandstraße von Eslamsbrück nach Mendena</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						8.856240483875837,31.52566591773441,0 <!--<POI>Siedlung:Flussbuckel</POI>--> <!--<POI>Abzweig:Misamunder Straße</POI>-->
+						8.885108532821423,31.52166610323318,0 
+						8.918089314387776,31.49243882188677,0 
+						8.930205976136636,31.45758389333446,0 
+						8.935904850303007,31.40846796095664,0 
+						8.984310876484539,31.36892314940283,0 
+						9.003576602392819,31.3384960401206,0 
+						9.007108845427126,31.26381334657947,0 
+						9.048096511404332,31.22336552087571,0 
+						9.065603701132439,31.19821318702054,0 
+						9.108685498818446,31.15388100837386,0 <!--<POI>Siedlung:Flusswacht</POI>-->
+						9.171845854096075,31.08328522003151,0 
+						9.220493809107076,31.05345875848818,0 
+						9.313837789322797,31.01015533914506,0 <!--<POI>Siedlung:Wirtshaus Zum Bauern</POI>-->
+						9.360558799340568,30.97143281225173,0 
+						9.405778362565684,30.9437233926671,0 
+						9.433589558713775,30.94142940592128,0 <!--<POI>Siedlung:Keilerau</POI>-->
+						9.520518564963346,30.93200866066754,0 
+						9.546698130204355,30.94065393707798,0 
+						9.610552336552981,31.01903853917558,0 
+						9.627548145230405,31.0706724838638,0 
+						9.657924333712947,31.09355192920117,0 
+						9.700736426408392,31.09328610469134,0 
+						9.751803636916446,31.05890515196855,0 
+						9.790453976780176,31.03963666794773,0 <!--<POI>Abzweig:Straße nach Ilsur</POI>-->
+						9.823376653364761,31.02847326769479,0 
+						9.890105078281499,31.0356107795702,0 
+						9.977284396858856,31.06252655724087,0 <!--<POI>Siedlung:Borwein</POI>-->
+						10.09744255229119,31.06018678604594,0 
+						10.12086686184206,31.05385802239224,0 <!--Anfang Detailkarte Mendena-->
+						10.12229896846347,31.05317536373532,0 
+						10.12384559270631,31.05236912206137,0 
+						10.12482095736213,31.05180613448411,0 
+						10.12686030092215,31.05070050781739,0 
+						10.12729390221278,31.05051428132791,0 <!--<POI>Siedlung:Mendena</POI>--> <!--<POI>Stadttor:Mendena</POI>-->
+						</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1026</when>
+				</gx:TimeStamp>
+				<longitude>9.257</longitude>
+				<latitude>31.229</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1026-12-31</end>
+			</TimeSpan>
+			</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+    <Folder>
+        <name>Infomarker Brig-Lo</name>
+	<Region>
+		<LatLonAltBox>
+			<north>26.40646433074556</north>
+			<south>26.40348287582102</south>
+			<east>0.6733757048787331</east>
+			<west>0.6691195933676425</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+  
+  <Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					Taverne Am Schlachtfeld<br/>
+					Taverne Brüderliche Einkehr<br/>
+					Taverne Yaquirhengst<br/>
+					Mühle<br/>
+					Alchimist<br/>
+					Hof<br/>
+					Schlachtfeld der 2. Dämonenschlacht<br/><br/>
+					<br/><B>Mögliche Quellen:</B><br/>Das Grabmahl von Brig-Lo, S. 15<br/>Das Königreich Almada, S. 34<br/>Das Königreich Almada, S. 36<br/>Das Königreich Almada, S. 51<br/>Erben des Zorns, S. 30<br/>Raschtuls Atem, S. 58<br/>Aus der Asche, S. 82<br/>Invasion der Verdammten, S. 220<br/>Herz des Reiches, S. 146<br/>Herz des Reiches, S. 147<br/>Wetterleuchten, S. 52<br/>Donner und Sturm, S. 37<br/><HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]>
+					</description>
+			<LookAt>
+				<longitude>0.668850</longitude>
+				<latitude>26.405948</latitude>
+				<altitude>0</altitude>
+				<range>459</range>
+				<tilt>0</tilt>
+				<heading>-0.003757110224056893</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>0.668850,26.405948,0</coordinates>
+			</Point>
+		</Placemark>
+		</Folder>
+    </Document>
+</kml>

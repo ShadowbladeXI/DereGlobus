@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Staedte_Hoher_Norden.kml</name>
+
+	<Folder>
+		<name>Garetien</name>
+		<open>1</open>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+   <Placemark>
+        <name>Paavi</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">
+<img src="http://www.wiki-aventurica.de/images/5/5e/Paavi_Wappen_klein.gif" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Paavi</b> ist an der <a href="http://www.wiki-aventurica.de/wiki/Letta" title="Letta">Letta</a>-Mündung in die <a href="http://www.wiki-aventurica.de/wiki/Brecheisbucht" title="Brecheisbucht">Brecheisbucht</a> gelegen. Die Stadt ist umgeben von Eiswüste. Östlich der Stadt steht <a href="http://www.wiki-aventurica.de/wiki/Glorana_die_Sch%C3%B6ne" title="Glorana die Schöne">Gloranas</a> <a href="http://www.wiki-aventurica.de/wiki/Eispalast&amp;action=edit&amp;redlink=1" class="new" title="Eispalast (Seite nicht vorhanden)">Eispalast</a>, die heute über die Stadt herrscht. Davor war Paavi Zentrum des gleichnamigen <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Paavi" title="Herzogtum Paavi">Herzogtums</a>, das sogar eigene Münzen prägte, den <a href="http://www.wiki-aventurica.de/wiki/Gulden" title="Gulden">Gulden</a>. <a href="http://www.wiki-aventurica.de/wiki/Chronik:1018" title="Chronik:1018">1018 BF</a> stieg die Einwohnerzahl durch den Goldfund an der <a href="http://www.wiki-aventurica.de/wiki/Letta" title="Letta">Letta</a> stark an.<br />
+
+Die <a href="http://www.wiki-aventurica.de/wiki/Nivese" title="Nivese">Nivesen</a> der <a href="http://www.wiki-aventurica.de/wiki/Lieska-Kangerluk" title="Lieska-Kangerluk">Lieska-Kangerluk</a> wohnen in der Stadt.
+</p><p>Synonym für <i>aventurienweit</i> sagt man auch <i>von Paavi bis <a href="http://www.wiki-aventurica.de/wiki/Brabak" title="Brabak">Brabak</a></i>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Paavi-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 11.518157</longitude>
+              <latitude> 39.682564</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates> 11.518157, 39.682564,0</coordinates>
+        </Point>
+    </Placemark>
+	</Folder>
+</Document>
+</kml>

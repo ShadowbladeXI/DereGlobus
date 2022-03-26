@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+
+<Document>
+<name>Handelswaren-Styles</name>
+
+
+
+
+
+
+<!-- HIER OBEN NUR DIE STYLEMAPS DEFINIEREN -->
+
+
+
+
+<StyleMap id="Gold">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Gold-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Gold-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Eisen">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Eisen-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Eisen-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Blei">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Blei-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Blei-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Kupfer">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kupfer-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kupfer-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Zinn">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zinn-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zinn-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+<StyleMap id="Meteoreisen">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Meteoreisen-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Meteoreisen-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Zink">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zink-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zink-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Silber">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Silber-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Silber-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Zwergensilber">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zwergensilber-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zwergensilber-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Mondsilber">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Mondsilber-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Mondsilber-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Zwergengold">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zwergengold-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zwergengold-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+	<StyleMap id="Quecksilber">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Quecksilber-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Quecksilber-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	<StyleMap id="SonstigeMetalle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#SonstigeMetalle-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#SonstigeMetalle-h</styleUrl>
+		</Pair>
+	</StyleMap>	
+
+
+	<!-- Transparente -->
+
+
+
+
+<StyleMap id="Gold-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Gold-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Gold-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Eisen-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Eisen-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Eisen-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Blei-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Blei-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Blei-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Kupfer-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kupfer-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kupfer-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Zinn-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zinn-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zinn-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+<StyleMap id="Meteoreisen-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Meteoreisen-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Meteoreisen-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Zink-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zink-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zink-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+<StyleMap id="Silber-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Silber-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Silber-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Zwergensilber-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zwergensilber-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zwergensilber-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Mondsilber-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Mondsilber-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Mondsilber-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="Zwergengold-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zwergengold-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zwergengold-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+	
+<StyleMap id="Quecksilber-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Quecksilber-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Quecksilber-X-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+	
+<StyleMap id="SonstigeMetalle-X">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#SonstigeMetalle-X-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#SonstigeMetalle-X-h</styleUrl>
+		</Pair>
+	</StyleMap>	
+	
+	
+	
+	<!-- Inoffizielle -->
+
+	
+	
+
+<StyleMap id="Gold-InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Gold-InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Gold-InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Eisen-InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Eisen-InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Eisen-InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<StyleMap id="Blei-InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Blei-InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Blei-InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Kupfer-InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Kupfer-InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Kupfer-InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+<StyleMap id="Zinn-InOff">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Zinn-InOff-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Zinn-InOff-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+
+
+
+<!-- AB HIER DIE STYLES DEFINIEREN -->
+
+
+
+
+
+
+<Style id="Zinn-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zinn-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+<Style id="Kupfer-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Kupfer-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+
+
+<Style id="Gold-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Gold-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Eisen-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Eisen-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Blei-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Blei-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Meteoreisen-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Meteoreisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Meteoreisen-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Meteoreisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Zink-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zink.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zink-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zink.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+	
+<Style id="Silber-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Silber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Silber-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Silber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+	
+<Style id="Zwergensilber-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergensilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zwergensilber-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergensilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>	
+	
+	
+<Style id="Mondsilber-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Mondsilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Mondsilber-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Mondsilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>		
+	
+<Style id="Zwergengold-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergengold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zwergengold-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergengold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>			
+	
+<Style id="Quecksilber-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Quecksilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Quecksilber-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Quecksilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>		
+	
+<Style id="SonstigeMetalle-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/SonstigeMetalle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="SonstigeMetalle-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/SonstigeMetalle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>		
+	
+	
+	
+
+
+
+	<!-- Transparente -->
+
+
+
+
+
+
+
+
+<Style id="Zinn-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zinn-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+<Style id="Kupfer-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Kupfer-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+
+
+<Style id="Gold-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Gold-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Eisen-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Eisen-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Blei-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+<Style id="Blei-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Meteoreisen-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Meteoreisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Meteoreisen-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Meteoreisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>	
+	
+<Style id="Zink-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zink.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zink-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zink.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+		
+<Style id="Silber-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Silber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Silber-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Silber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+	<Style id="Zwergensilber-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergensilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zwergensilber-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergensilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+		<Style id="Mondsilber-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Mondsilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Mondsilber-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Mondsilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+		<Style id="Zwergengold-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergengold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Zwergengold-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zwergengold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>	
+	
+	
+		<Style id="Quecksilber-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Quecksilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="Quecksilber-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Quecksilber.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>	
+	
+
+	
+
+
+		<Style id="SonstigeMetalle-X-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/SonstigeMetalle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+<Style id="SonstigeMetalle-X-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>b2ffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/SonstigeMetalle.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Mason" color="#CC0000" size="+3">$[name]</font>
+      <br/><br/>
+      $[description]
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>	
+
+
+	
+	
+	
+	
+	
+	
+	<!-- Inoffizielle -->
+
+
+
+
+
+
+
+<Style id="Zinn-InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+<Style id="Zinn-InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+<Style id="Kupfer-InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+<Style id="Kupfer-InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+
+
+
+
+<Style id="Gold-InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+<Style id="Gold-InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Eisen-InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+<Style id="Eisen-InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+
+<Style id="Blei-InOff-n">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+	</Style>
+
+
+
+<Style id="Blei-InOff-h">
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF5999C8</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#5E4030" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#000000">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+		</BalloonStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+
+	</Style>
+	
+	
+		
+	
+	
+	
+	
+</Document>
+</kml>

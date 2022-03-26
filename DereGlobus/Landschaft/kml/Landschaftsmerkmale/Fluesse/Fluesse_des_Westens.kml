@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Flüsse des Westens</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Thivor</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Thivor</b> ist ein Grenzfluss, der das Jarltum <a href="http://www.wiki-aventurica.de/wiki/Ifirnsgard" title="Ifirnsgard">Ifirnsgard</a> von dem <a href="http://www.wiki-aventurica.de/wiki/Gjalskerland" title="Gjalskerland">Gjalskerland</a> geographisch trennt.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-3.368538202817645,35.92044344059116,0 -3.393311531413582,35.94324438683476,0 -3.412328808384521,35.94661887017509,0 -3.430764870552343,35.95819265806348,0 -3.441059178966648,35.97458635059239,0 -3.458721585878192,35.98770735197409,0 -3.479698133328877,35.99963397859082,0 -3.492575503490408,36.01065696676324,0 -3.503242008097319,36.0258438553384,0 -3.516491198686627,36.03537388260956,0 -3.533056734949472,36.04192583227182,0 -3.548151036292515,36.04460579104883,0 -3.560299950478816,36.05293959738179,0 -3.5742927826965,36.06603468112021,0 -3.587184232051752,36.07615253267726,0 -3.598309578867061,36.0799183087919,0 -3.627266119435249,36.1158837507216,0 -3.644724163667773,36.12403113847584,0 -3.675963796508706,36.1347582046777,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Angra</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Angra</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Flüsschen</a> in <a href="http://www.wiki-aventurica.de/wiki/S%C3%BCdthorwal" title="Südthorwal">Südthorwal</a>, die einige Meilen nördlich von <a href="http://www.wiki-aventurica.de/wiki/Skardan" title="Skardan">Skardan</a> entspringt und bei <a href="http://www.wiki-aventurica.de/wiki/Kendrar" title="Kendrar">Kendrar</a> ins <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a> mündet. Südlich der Angra befinden sich die <a href="http://www.wiki-aventurica.de/wiki/Ingvaller_Marschen" title="Ingvaller Marschen">Ingvaller Marschen</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-4.059120385246894,31.84423075593505,0 -4.073785562361065,31.83071109182915,0 -4.079607582068041,31.82178584215578,0 -4.083090011747276,31.80823856708373,0 -4.097060767297156,31.79236936162801,0 -4.098957956110695,31.76065803221524,0 -4.105936935698839,31.75173217108102,0 -4.119909827243371,31.74510968674342,0 -4.138172872921988,31.74904995421348,0 -4.154874134343345,31.7480348710687,0 -4.174664482052918,31.7380928272738,0 -4.189390925501425,31.72253902588923,0 -4.204520363036593,31.7139187563298,0 -4.213815800367382,31.70233351495718,0 -4.220000303055789,31.68943048333549,0 -4.219966429233542,31.67488637741744,0 -4.235342360134268,31.65397206907661,0 -4.235264960668232,31.62754641973156,0 -4.264280025458578,31.60270875460216,0 -4.271983150266641,31.5861742278644,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Thossel</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der/Die <b>Thossel</b> ist ein Fluss in <a href="http://www.wiki-aventurica.de/wiki/Nordwestthorwal" title="Nordwestthorwal">Nordwestthorwal</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-4.791361235467571,33.76569967366168,0 -4.798558607315372,33.78678910823205,0 -4.782601053544179,33.8225695666548,0 -4.781519156352384,33.8413679591902,0 -4.744559099964549,33.87027535265106,0 -4.737949092082033,33.89411856200785,0 -4.722494684507977,33.91796684786046,0 -4.719741136184753,33.94135400589626,0 -4.731910628935027,33.96106949584717,0 -4.730814650377378,33.98033543950476,0 -4.752409802160522,34.01519567216497,0 -4.754077843336666,34.02483316025754,0 -4.765164400883288,34.04318916344568,0 -4.768035289677921,34.05820414283287,0 -4.759747827901856,34.07244340641891,0 -4.760321569606512,34.08759382914837,0 -4.768096002125271,34.10273732140233,0 -4.79138348014652,34.11878341940609,0 -4.80580533961354,34.13115853590614,0 -4.824087370737253,34.13159813215317,0 -4.837402034882839,34.14213283302565,0 -4.844659139648102,34.1710180747224,0 -4.865231474561806,34.20308657637069,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Hjalsach</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Hjalsach</b> ist ein kleiner <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a>, der in den <a href="http://www.wiki-aventurica.de/wiki/Graue_Berge" title="Graue Berge">Grauen Bergen</a> entspringt und bei <a href="http://www.wiki-aventurica.de/wiki/Hoijangar" title="Hoijangar">Hoijangar</a> in den <a href="http://www.wiki-aventurica.de/wiki/Hjalsfjord" title="Hjalsfjord">Hjalsfjord</a> mündet. Die <a href="http://www.wiki-aventurica.de/wiki/Thorwaler" title="Thorwaler">Thorwaler</a> nutzen den Hjalsach, um Baumstämme für den <a href="http://www.wiki-aventurica.de/wiki/Schiff" title="Schiff">Schiffsbau</a> zu flößen.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+ <LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+-5.167823879895933,35.12859148182352,0 -5.18659980243682,35.11297384806463,0 -5.200096306231103,35.09258660326649,0 -5.199855530258254,35.06936029667804,0 -5.188954003059775,35.04952022438043,0 -5.192287236688255,35.03211964413104,0 -5.199449462158409,35.02024565638394,0 -5.207530962651326,35.01937946872416,0 -5.21507844057132,35.02215961235358,0 -5.229860347259459,35.00816339576205,0 -5.245982481063233,35.01724948357173,0 -5.255675172600093,35.01393958943712,0 -5.261804475138328,35.00136658875581,0 -5.269064325526961,34.98767627348867,0 -5.282368322610572,34.97738972467528,0 -5.300331991407374,34.97215653242026,0 -5.314220261545064,34.969808129177,0 -5.355055818532096,34.97040578265653,0 -5.399337593630989,34.97321149544124,0 -5.417278328277991,34.96437640801648,0 -5.445006851047229,34.9417364644595,0 -5.492132377666676,34.91632684637218,0 -5.526116552455318,34.90185952468907,0 -5.578382329186223,34.87473957833789,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Arinkel</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Arinkel</b> teilt sich an Arins Quell vom <a href="http://www.wiki-aventurica.de/wiki/Banquir" title="Banquir">Banquir</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.307349,25.698651,0 -1.325488,25.725242,0 -1.352763265470321,25.70918462793383,0 -1.372539301156768,25.70669964970062,0 -1.400003378687958,25.70598650561863,0 -1.413178931195185,25.70995144296979,0 -1.424445028419762,25.72604642637612,0 -1.427087165158357,25.73637870319935,0 -1.443134622002207,25.74323020011114,0 -1.450881444537926,25.74175999263568,0 -1.46907842415748,25.75434440007226,0 -1.466414834739211,25.76964133368086,0 -1.473317446859577,25.78332996162284,0 -1.476333415092672,25.80213510467314,0 -1.483819620961164,25.80842153729545,0 -1.502435615050569,25.80644124297892,0 -1.518673548956901,25.82043895115179,0 -1.52558241316989,25.82277045010154,0 -1.558113236563371,25.81896860925777,0 
+			</coordinates>
+		</LineString>
+		</Placemark>
+	<Placemark>
+		<name>Bleiche</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die <b>Bleiche</b> ist ein in den westlichen <a title="Windhagberge" href="http://www.wiki-aventurica.de/wiki/Windhagberge">Windhagbergen</a> entspringender <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a>, der in <a title="Harben" href="http://www.wiki-aventurica.de/wiki/Harben">Harben</a> in der <a title="Tiefe Bresche" href="http://www.wiki-aventurica.de/wiki/Tiefe_Bresche">Tiefen Bresche</a> ins <a title="Meer der Sieben Winde" href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde">Meer der Sieben Winde</a> mündet.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+ <LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.493089384556745,26.76982469410529,0 -1.509520645712387,26.76340175827956,0 -1.514431311480757,26.76078307300402,0 -1.530932680641211,26.76147164179666,0 -1.540308113564299,26.75480624895451,0 -1.550059184325013,26.74265015619689,0 -1.553793254402837,26.73934285412111,0 -1.562782650973441,26.74009397133591,0 -1.588352779115492,26.76653698597476,0 -1.602194608803006,26.77574391104145,0 -1.611831929252849,26.78842737165309,0 -1.61587859620313,26.79850628931315,0 -1.619901433489538,26.81356603657537,0 -1.627311653425384,26.82696954527546,0 -1.634901172740114,26.8355379995115,0 -1.637343872798609,26.85012055879291,0 -1.657888790369546,26.86585327731176,0 -1.664268358200302,26.86638626834592,0 -1.665732734210323,26.87005114562327,0 -1.673024494383111,26.87079083139561,0 -1.68668387464138,26.88079161774093,0 -1.696479788028836,26.88194536420681,0 -1.702953728945887,26.88715245121679,0 -1.711213885875679,26.89175581114339,0 -1.723302467404869,26.89645138155004,0 -1.72570550513807,26.89647351975006,0 -1.727025686705346,26.89650104205905,0 -1.728916516567699,26.89627646702514,0 -1.730884166980683,26.89625990142354,0 -1.732874713136319,26.89695913336755,0 -1.735582366458113,26.89737272684104,0 -1.750427090251289,26.89418765478893,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>König-Therengar-Kanal</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>König-Therengar-Kanal</b> ist ein von Menschenhand angelegter Wasserweg, der die Flüsse <a href="http://www.wiki-aventurica.de/wiki/Sikram" title="Sikram">Sikram</a> und <a href="http://www.wiki-aventurica.de/wiki/Onjet" title="Onjet">Onjet</a> verbindet. Er hat eine Breite von sechs Schritt, weist aber 24 Ausweichstellen auf, an denen Schiffe aneinander vorbeifahren können. Die Reisezeit zwischen <a href="http://www.wiki-aventurica.de/wiki/Silas" title="Silas">Silas</a> und <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> lässt sich durch Verwendung des Kanals um mehrere Tage verkürzen. Der König-Therengar-Kanal ist nach seinem Erbauer <a href="http://www.wiki-aventurica.de/wiki/Therengar_Firdayon&amp;action=edit&amp;redlink=1" class="new" title="Therengar Firdayon (Seite nicht vorhanden)">Therengar Firdayon</a> benannt und gilt als eines der <a href="http://www.wiki-aventurica.de/wiki/Zw%C3%B6lf_Menschenwunder" title="Zwölf Menschenwunder">Zwölf Menschenwunder</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.6116606853881446,24.61020896383506,0 -0.627361212210783,24.63247872884999,0 -0.6317728456180594,24.65483951769568,0 -0.646964076460379,24.67211465019271,0 -0.6598398857049947,24.70344562430554,0 -0.675537707202879,24.73147643821042,0 -0.6976170124183179,24.75284927907662,0 -0.7256601438416543,24.77720650506126,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Llanego</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Llanego</b> ist ein Fluss im südlichen <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Dr%C3%B4l" title="Königreich Drôl">Königreich Drôl</a> nahe der Grenze zu <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">Mengbilla</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.242399654516094,22.38562853840834,0 -1.23108033034144,22.40892487326055,0 -1.243961194629699,22.45523006791717,0 -1.226243906040243,22.50183238257595,0 -1.234843689721457,22.53267314759977,0 -1.22508477118886,22.54075915322405,0 -1.230058620207383,22.56177002445296,0 -1.234590732692863,22.5927726704174,0 -1.250826685883894,22.61114740620632,0 -1.279681634168345,22.62083958904007,0 -1.297455350752927,22.6283021299361,0 -1.319936292117195,22.62257090105706,0 -1.336130339209635,22.62823408417623,0 -1.337924684587296,22.64078074470205,0 -1.356130501665515,22.64638396874187,0 -1.382947132319115,22.64006336326279,0 -1.395697867332358,22.62848338579297,0 -1.409895057878822,22.62645163697232,0 -1.435750723926222,22.62869824466739,0 
+			</coordinates>
+		</LineString>
+		</Placemark>
+		<Placemark>
+		<name>Nyssides</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der Fluss <b>Nyssides</b> auf <a href="http://www.wiki-aventurica.de/wiki/Hylailos" title="Hylailos" class="mw-redirect">Hylailos</a> ist der einzige ganzjährig wasserführende Fluss der <a href="http://www.wiki-aventurica.de/wiki/Zyklopeninseln" title="Zyklopeninseln">Zyklopeninseln</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.59741637953724,23.3736219701683,0 -1.619934165545863,23.36541696942595,0 -1.632757052356874,23.35480500587449,0 -1.640170899449904,23.33780567687563,0 -1.652248021358892,23.32952223213784,0 -1.674215932174107,23.31360233445898,0 -1.686296687245036,23.30530967747595,0 -1.699522397799228,23.29066290923371,0 -1.722864851484608,23.26723582762758,0 -1.750329109392972,23.243314363571,0 -1.769334256789226,23.23237560438248,0 -1.791161382588715,23.23448927572968,0 -1.80962257618018,23.24996265338921,0 -1.827854123174536,23.24770456291032,0 -1.845996222265708,23.25915805252018,0 -1.862359280037249,23.26558439866993,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Onjet</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Onjet</b> ist ein kleiner Fluss, der in den <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a> entspringt und nach etwa 30 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> mit einer Breite von 100 Schritt in das <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a> mündet. Er ist auf der Höhe von <a href="http://www.wiki-aventurica.de/wiki/Parsek" title="Parsek">Parsek</a> über den <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nig-Therengar-Kanal" title="König-Therengar-Kanal">König-Therengar-Kanal</a> mit dem <a href="http://www.wiki-aventurica.de/wiki/Sikram" title="Sikram">Sikram</a> verbunden und bis <a href="http://www.wiki-aventurica.de/wiki/Onjaro" title="Onjaro">Onjaro</a> schiffbar.
+
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.120865484371917,24.49819772639787,0 -0.142887352479536,24.49885881385613,0 -0.168267741594027,24.49300340617839,0 -0.1876197895685139,24.50396483887424,0 -0.1945558027504157,24.51891746733806,0 -0.1892028565638759,24.5477423559391,0 -0.2000729057150363,24.56611629143799,0 -0.2251207184652193,24.58606827681263,0 -0.2365083072482099,24.59875443501817,0 -0.2542080624321486,24.60616513724289,0 -0.281440089128282,24.60259313640488,0 -0.3057873830951741,24.6133894344163,0 -0.343394994389985,24.60715271145928,0 -0.3534661115101234,24.60363349966881,0 -0.374438068328744,24.62379371770779,0 -0.380936961181263,24.6468590830105,0 -0.3899501001588479,24.66576043543476,0 -0.4061424406566316,24.6791019889564,0 -0.4347868479760508,24.68061632212191,0 -0.4558983626051294,24.68395501743854,0 -0.4798322430147339,24.6704454912777,0 -0.5040120064186138,24.68241091175007,0 -0.5372233624024048,24.66197330200152,0 -0.563553337427759,24.6610961416394,0 -0.5806330366757617,24.65073347043822,0 -0.6030269691431622,24.61935538386279,0 -0.6169685066939623,24.60075847142543,0 -0.6159851950014816,24.5661501407368,0 -0.6059846881438902,24.52618234456108,0 -0.6251650514660423,24.48033756355273,0 -0.6230548572906047,24.44432643575581,0 -0.6249569201467931,24.43002613367159,0 -0.6242024502887245,24.41031754186633,0 -0.6240906171404526,24.40956207242611,0 -0.6237870250692601,24.40829277477045,0 -0.6238582643455182,24.40709341473929,0 -0.6237317926792985,24.40587934760519,0 -0.6236402061535751,24.40438496993936,0 -0.6234588944769226,24.40351165385256,0 -0.6255187274195762,24.39289896827203,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Sewak</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Sewak</b> entspringt nördlich von <a href="http://www.wiki-aventurica.de/wiki/Veliris" title="Veliris">Veliris</a> im <a href="http://www.wiki-aventurica.de/wiki/Phecanowald" title="Phecanowald">Phecanowaldgebirge</a> und fließt in südwestlicher Richtung nach <a href="http://www.wiki-aventurica.de/wiki/Sewamund" title="Sewamund">Sewamund</a>, wo er in das <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a> mündet.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.7824540321883533,26.36739501483261,0 -0.7972354153995698,26.35090139051787,0 -0.7997134291482666,26.3355636628056,0 -0.8199207706101375,26.31937116563448,0 -0.8308733950791514,26.31204803974522,0 -0.8345306196640157,26.29389534646144,0 -0.8401642815904187,26.27780574580613,0 -0.8424101148847929,26.25563116975154,0 -0.8492575204212738,26.23340969096909,0 -0.8736648542762371,26.1877163038816,0 -0.8878864627778782,26.16787345736855,0 -0.9045506966688133,26.15880300087959,0 -0.9288013946008245,26.15217276290726,0 -0.9434811934363097,26.14027116796306,0 -0.9544474972350825,26.12884561707048,0 -0.9634692047371074,26.11279042402303,0 -0.9723906881741751,26.1056951539302,0 -0.987556430865405,26.10146796936069,0 -1.004182699964969,26.09443106523317,0 -1.021891543759532,26.09303543153557,0 -1.031659013324401,26.08728225542702,0 -1.042062101706469,26.07379676673519,0 -1.048724790651807,26.06360712447373,0 -1.06017990932224,26.0585763475574,0 -1.105371865787918,26.05393757557602,0 -1.122468671571468,26.0552912074152,0 -1.129307625015333,26.05478819124521,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Tovalla</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der kleine &ndash; etwa 30 Meilen lange &ndash; Grenzfluss zwischen den Herzogtümern <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> und <a href="http://www.wiki-aventurica.de/wiki/Chababien" title="Chababien">Chababien</a> entspringt aus einem Vorgebirge der <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a> und mündet im <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.2747885857702304,24.31102847636574,0 -0.2852194210375181,24.30237830969144,0 -0.2874648077392894,24.2935730210149,0 -0.2913334449052851,24.28585108600371,0 -0.3079465242910984,24.2848151533929,0 -0.3219418143381825,24.28475986252088,0 -0.3263218459978001,24.26935480569656,0 -0.3373324541927147,24.26079761914669,0 -0.3480866260354865,24.25525068195712,0 -0.3464224282695327,24.23475040262239,0 -0.347583804774918,24.22522289377978,0 -0.367942237290757,24.21866491938299,0 -0.3965023695864567,24.21863939916941,0 -0.4220802463756412,24.22217582248276,0 -0.454925587024092,24.23361254972904,0 -0.4791001268036588,24.24093208216683,0 -0.4973260693597115,24.23929446056717,0 -0.5226434284012915,24.2354160778451,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Trona</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die  <b>Trona</b> entspringt einem Wald östlich von <a href="http://www.wiki-aventurica.de/wiki/Drolsash" title="Drolsash">Drolsash</a> und mündet in das <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde" class="mw-redirect">Meer der Sieben Winde</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-0.3055988524135778,22.85367128720429,0 -0.3020727463389528,22.87074105856303,0 -0.2963129067951553,22.87792114423195,0 -0.2746972447627127,22.89331782342856,0 -0.2757357214480471,22.91015091868994,0 -0.255675393164797,22.92585896837448,0 -0.2526135699134191,22.94264283783313,0 -0.2560317004550394,22.95805251822156,0 -0.2741487797494169,22.9702945308886,0 -0.2913830788239302,22.9774471686566,0 -0.2908231287154195,22.99584716562097,0 -0.2953780434152165,23.00278156872883,0 -0.3075626089175365,23.0104503082927,0 -0.3251894584443837,23.00520699350513,0 -0.3544043868138558,22.99769790184517,0 -0.3637379899597526,22.99989764607905,0 -0.3879412117161929,23.00160135353364,0 -0.4049658284953195,23.0237892220539,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Rybossl</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> <b>Rybossl</b> stellt die Grenze zwischen der <a href="http://www.wiki-aventurica.de/wiki/Premer_Halbinsel" title="Premer Halbinsel">Premer Halbinsel</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Bodirtal" title="Bodirtal">Bodirtal</a> dar. Er entspringt in den <a href="http://www.wiki-aventurica.de/wiki/Hjaldorberge" title="Hjaldorberge">Hjaldorbergen</a>, passiert <a href="http://www.wiki-aventurica.de/wiki/Rybon" title="Rybon">Rybon</a> und mündet bei <a href="http://www.wiki-aventurica.de/wiki/Daspota" title="Daspota">Daspota</a> in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Prem" title="Golf von Prem">Golf von Prem</a>. 
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-4.671432558432208,33.70284195775008,0 -4.661187353258127,33.69076814700495,0 -4.660005396392545,33.67922768796599,0 -4.645052949946612,33.66430105368914,0 -4.641548296996004,33.64994408495325,0 -4.644697697969876,33.6368798797759,0 -4.657377760083048,33.62435667910514,0 -4.665258934119971,33.61295179139162,0 -4.661318678948789,33.59659953703386,0 -4.659329685886837,33.57828729301362,0 -4.665982340472931,33.55731938137333,0 -4.667810223998003,33.54081914103985,0 -4.641731069237626,33.48747247044679,0 -4.641172445713117,33.46961125202814,0 -4.647834053154689,33.45605440077235,0 -4.648138652766853,33.44202013718775,0 -4.671587348907965,33.42985217843031,0 -4.68926407585073,33.42932442340001,0 -4.70811469120699,33.4229717428439,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Weilwasser</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> <b>Weilwasser</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> in den <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagbergen</a>. Er mündet in <a href="http://www.wiki-aventurica.de/wiki/Kaltstetten" title="Kaltstetten">Kaltstetten</a> ins <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a>.
+ 
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-2.287230210670661,28.01401854834802,0 -2.297269697198854,28.00444674727164,0 -2.30655113810895,28.00524634979238,0 -2.316823410546242,27.99949703804176,0 -2.330899078649067,27.99541476457535,0 -2.345691305511161,27.99610182682627,0 -2.356125050021725,27.99034662843002,0 -2.365454687956662,27.9903227311392,0 -2.380953711748759,27.98409124340374,0 -2.394395544654067,27.9698407420772,0 -2.396676449007618,27.96017379598347,0 -2.388136085820889,27.94743927157015,0 -2.371976222514681,27.93107441169184,0 -2.369062602235577,27.90750362622814,0 -2.374785635611072,27.8951867928816,0 -2.381853904773601,27.88265740212065,0 -2.375166902484365,27.87330327643321,0 -2.375309462277126,27.87269912526051,0 -2.375778653598051,27.86039909610283,0 -2.358094267877444,27.84753042505868,0 -2.345625984589659,27.83762353819951,0 -2.347908311105578,27.81661283668624,0 -2.344056861041584,27.79846935332392,0 -2.348577264178773,27.7819835494402,0 -2.359012478615548,27.76529194177686,0 -2.358532790746861,27.74677476714543,0 -2.359142502917843,27.73761568287649,0 -2.364758779343077,27.73067957450035,0 -2.364219552273971,27.71092355503812,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Windhaege</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> <b>Windhaege</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> in den <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagbergen</a>. Er mündet in <a href="http://www.wiki-aventurica.de/wiki/Kellun" title="Kellun">Kellun</a> ins <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meer der Sieben Winde</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-2.382578184834727,28.1785958163569,0 -2.393694998409912,28.17145052290654,0 -2.406960079959059,28.1716755080156,0 -2.421257208045775,28.15731376006021,0 -2.448735235068148,28.13560662660723,0 -2.474910422252138,28.13673933914372,0 -2.482306297167103,28.13452502298879,0 -2.505948602607458,28.11466745993288,0 -2.529925228901415,28.11633026307349,0 -2.535971497794401,28.1122177867693,0 -2.576654722898596,28.08427136021198,0 -2.583644701962151,28.0810512998032,0 -2.602872788001461,28.08126949752962,0 -2.611438497639188,28.08393620495041,0 -2.626409415410701,28.09851320669075,0 -2.641199948845157,28.10633715017401,0 -2.656429694318461,28.11231195788724,0 -2.662945031290616,28.11435866534168,0 -2.690803064791133,28.11551029730349,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

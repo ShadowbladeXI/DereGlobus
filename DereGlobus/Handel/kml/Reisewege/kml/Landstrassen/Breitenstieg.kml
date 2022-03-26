@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Breitenstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Breitenstieg-->
+			<name>Breitenstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Breitenstieg</b> führt entlang der <a href="http://www.wiki-aventurica.de/wiki/Breite" title="Breite">Breite</a> von <a href="http://www.wiki-aventurica.de/wiki/Greifenfurt" title="Greifenfurt">Greifenfurt</a> nach <a href="http://www.wiki-aventurica.de/wiki/Angbar" title="Angbar">Angbar</a>. Er wird auch als südlicher Teil des <a href="http://www.wiki-aventurica.de/wiki/Markenweg" title="Markenweg">Markenweges</a> bezeichnet, der weiter Richtung <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> führt.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.130004779657955,31.31583580697343,0 <!-- <POI>Siedlung:Breitenbruck</POI> --> <!--<POI>SOE:Fürstenstraße</POI>-->
+					2.134901364569855,31.25649851508185,0
+					2.151017545891323,31.2366945711638,0 
+					2.14241937155121,31.17839452970327,0 
+					2.124886947078988,31.15700652464521,0 
+					2.09559856465126,31.13190787820064,0 
+					2.070196016577441,31.09850498193082,0 
+					2.072454282423923,31.07737929471442,0 <!--<POI>Flussquerung:Breite</POI>-->
+					2.089046705874764,31.03918335763187,0 <!-- <POI>Siedlung:Niemith</POI> --> <!-- <POI>Abzweig:Weg von Niemith nach Tannwirk</POI> -->
+					2.076185034759945,31.00225543724649,0 
+					2.049249230219437,30.96052598518453,0 
+					2.045030362209874,30.92087693384215,0 
+					2.073227115721721,30.89831313496498,0 
+					2.10304585696965,30.8595045035115,0 
+					2.105550981052404,30.82992826002753,0 
+					2.089356871041315,30.77267643631157,0 <!-- <POI>Abzweig:Weg nach Klappechs</POI> -->
+					2.074674207830183,30.71862344922512,0 
+					2.069089965167701,30.66995822623644,0 
+					2.042467301249804,30.63742159005438,0 
+					2.023750754527529,30.62458286295128,0 <!-- <POI>Abzweig:Weg nach Njerbusch</POI> -->
+					1.986502151114451,30.61869765031557,0 
+					1.935852301155958,30.6233626019561,0 <!-- <POI>Siedlung:Serrinmoor</POI> -->
+					1.866006013904649,30.5773806426377,0
+					1.826616531708818,30.57591910176009,0 
+					1.798700646022129,30.55615080878587,0 
+					1.771243544900258,30.52972052285617,0 
+					1.762073328507479,30.50921647536745,0
+					1.755926396914747,30.48386024489599,0 
+					1.740031147536219,30.46599841648594,0 
+					1.732287617322035,30.43933757920287,0 <!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					1.668476741863283,30.37064353067122,0 <!-- <POI>Siedlung:Oberangbar</POI> --> <!--<POI>Abzweigung:Straße von Angenburg nach Oberangbar</POI>-->
+					1.682051851192847,30.3561204153944,0 
+					1.716233171346002,30.29743716410621,0
+					1.715139663547691,30.27638865614673,0 
+					1.702135286046784,30.24390294672435,0
+					1.697657241279946,30.20767741863364,0 <!--<POI>Weg:Straße nach Gaschenk</POI>-->
+					1.703799915972906,30.10250206512816,0 
+					1.700527795690379,30.03742975166025,0 	<!-- <POI>Siedlung:Steinbrücken</POI> --> <!--<POI>Abzweigung:Reichsstraße 3</POI>--> <!-- <POI>Abzweig:Richtung Gômel</POI> -->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>1.852102</longitude>
+				<latitude>30.619918</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

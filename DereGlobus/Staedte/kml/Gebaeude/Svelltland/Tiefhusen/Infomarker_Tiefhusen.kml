@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Infomarker_Tiefhusen.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Infomarker_Tiefhusen</name>
+		<open>0</open>
+		<Region>
+			<LatLonAltBox>
+				<north>35.00385887676055</north>
+				<south>34.99546802275255</south>
+				<east>1.102428316519272</east>
+				<west>1.095168976597658</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Schänke Zum Silberfuchs<br/>
+					Taverne Weite Welt<br/><br/>
+					
+					<b>Handelsstätten:</b><br/>
+					Krämerin Maldevia Gosht<br/>
+					Pfand- und Lagerhaus Zur verstimmten Laute<br/><br/>
+					
+					<b>Landschaft:</b><br/><br/>
+					
+					<b>Öffentliche Bauwerke:</b><br/>
+					Schiffsanlegestelle<br/><br/>
+					
+					<b>Privathäuser:</b><br/>
+					Privathaus Akko<br/>
+					Privathaus Hensger<br/>
+					Verwandte der Leineweber<br/><br/>
+					
+					<b>Sakrale Bauwerke:</b><br/><br/>
+					
+					<b>Staatliche Bauwerke:</b><br/>
+					Holzkastell<br/><br/>
+					
+					<b>Straßen:</b><br/><br/>
+					
+					<b>Werkstätten:</b><br/>
+					Heiler Jasper Elkensiepen<br/><br/>
+					
+					<B>Mögliche Quellen:</B><br/>Die Welt des Schwarzen Auges, S. 43<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 252<br/>Das Orkland, S. 59<br/>Xeledons Rache, S. 7<br/>Das Orkland - Abenteuer im Orkland, S. 40<br/>Das Levthansband, S. 20<br/>Das Orkland - Abenteuer im Orkland, S. 40<br/>Das vergessene Volk, S. 23<br/>Geographia Aventurica, S. 37<br/>Sternenschweif, S.-1<br/><HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</table></p>]]>
+			</description>
+			<LookAt> 
+				  <longitude>1.099043</longitude>
+				  <latitude>35.000000</latitude>
+				  <altitude>0</altitude>
+				  <range>2000</range>
+				  <tilt>0</tilt>
+				  <heading>0</heading>
+				  <altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>1.093439374035221,34.99970968813347,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

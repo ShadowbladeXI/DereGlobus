@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+      <Region>
+			<LatLonAltBox>
+				<north>56.74077927769645</north>
+				<south>2.904595940080863</south>
+				<east>69.49764543749859</east>
+				<west>12.96520920142949</west>
+			</LatLonAltBox>
+			<Lod>
+			  <minLodPixels>1700</minLodPixels>
+			  <maxLodPixels>-1</maxLodPixels>
+			  <minFadeExtent>0</minFadeExtent>
+			  <maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+
+
+	<name>Flüsse Rakshazars</name>
+	<Folder>
+		<name>Flüsse</name>
+		<Placemark>
+			<name>Nebali</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					20.35794888509469,40.36970408127585,0 20.1134583582853,40.10576743778861,0 20.06198960162467,40.01130124715734,0 20.05181499229386,39.840936602861,0 20.05055789263696,39.63101229075951,0 20.07846880705743,39.52941990300626,0 20.17357602108735,39.4166113701223,0 20.20139908163183,39.31938106445719,0 20.20717035878656,39.14419721146098,0 20.21336263368958,39.1527187757643,0 20.19087500435607,39.06601613808778,0 20.11807322957874,38.98546075880691,0 19.95184772711767,38.84631505698098,0 19.83770332324031,38.71486458574762,0 19.74770519781565,38.50825700678212,0 19.72997179871571,38.39090111022362,0 19.72518304374723,38.10697189349303,0 19.73319596858646,37.95358032671167,0 19.7189223525967,37.89715016673083,0 19.68173358109653,37.81566642364209,0 19.44527590829884,37.52207445584577,0 19.38881358097668,37.38839626751576,0 19.37156432112182,37.26651706536445,0 19.34201032069881,37.11867344301157,0 19.26890892478339,36.97634369936426,0 19.16375172363774,36.84782360319648,0 19.04316501954538,36.7369486749725,0 18.9221990311728,36.54422611555324,0 18.82413170067764,36.28471897262214,0 18.79961642885791,36.08887714739386,0 18.81345346181383,35.90510413848845,0 18.91101778757354,35.54403454118301,0 19.14704818779839,34.94023409752975,0 19.20363058257073,34.80006488092294,0 19.2195763131595,34.68598032270177,0 19.2385713958335,34.52375481907527,0 19.29091367554064,34.39537108140846,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Krawell</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					27.29967966678508,39.90205686044152,0 27.32903674831345,39.81240487314781,0 27.3912098827817,39.72028458878054,0 27.49694097625095,39.66063549765752,0 27.52752937838035,39.58654631377878,0 27.52673409770164,39.26504600505188,0 27.56736152811565,39.1701468029451,0 27.63053405921908,39.0989486395419,0 27.72536246212889,39.07097065365014,0 27.86228232576876,39.06490227242907,0 28.02157473064094,39.03138950612805,0 28.18444545677284,38.93129808628181,0 28.29017312454169,38.80038485903155,0 28.32900798041259,38.65998702214736,0 28.31993579243513,38.50346992226696,0 28.31852389538264,38.4934447804026,0 28.33221576934497,38.31469566091943,0 28.38546431964802,38.14261112596087,0 28.38262089095192,38.07686618489006,0 28.36775668444937,38.01723100476131,0 28.32960062777647,37.92912223275527,0 28.2272922369082,37.84139987873201,0 28.06595046406294,37.74322877543337,0 28.01989236121865,37.65653082765561,0 27.99973590734294,37.50446242172816,0 28.05272463467128,37.37201531328228,0 28.21252853443285,37.08772060417171,0 28.25077396214579,36.85534841155866,0 28.30949799068829,36.6824694857484,0 28.35749717424609,36.52587540764549,0 28.33744661342897,36.38048957968533,0 28.26985719476611,36.20894068223718,0 28.15215724395691,36.0823690365516,0 28.05827650276734,35.94343891201322,0 28.02216450842059,35.86029446890591,0 28.01257086725585,35.69353983975045,0 27.99648360148177,35.52519798737297,0 28.00554964413668,35.35694549682287,0 27.94414500601939,35.22028104811439,0 27.85616958120652,35.11633717299446,0 27.77710464732344,35.03185013517973,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Byrastes</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>An der Südküste des <a href="http://rakshazar.de/wiki/index.php?title=Totenwasser" title="Totenwasser">Totenwassers</a> entspringt der Fluss <b>Byrastes</b>, fließt durch die verfluchten <a href="http://rakshazar.de/wiki/index.php?title=Geistersteppe" title="Geistersteppe">Geistersteppen</a> und mündet schließlich im <a href="http://rakshazar.de/wiki/index.php?title=Unbezwingbarer_Ozean" title="Unbezwingbarer Ozean">Unbezwingbaren Ozean</a>. Über ihn ist es möglich, zwischen Totenwasser und Unbezwingbaren Ozean hin und her zu fahren. Unglücklicherweise ist der Fluss, und das Gebiet, dem er entspringt an vielen Stellen relativ seicht, so dass Flussschiffer hier häufig auf schwarzes Wasser stoßen oder auf Sandbänken auflaufen. Die Ufer des Byrastes sind tot und schlickverpestet, ebenso wie die giftigen Sümpfe am Südufer des Totenwassers. Auf den ersten Blick sind die Sümpfe eine kahle, tote Schlammfläche mit unzähligen Sielen und brackigen Tümpeln, aber Legenden zufolge tummeln sich hier giftresistente Riesenwürmer. Diese Legenden zu überprüfen ist schwer, denn der Schlamm in den Sümpfen ist giftig und ätzend. Nur die besten Schiffsmeister der <a href="http://rakshazar.de/wiki/index.php?title=Amhasim" title="Amhasim">Amhasim</a> kennen alle Tücken des Byrastes und können Schiffe unbeschadet nach <a href="http://rakshazar.de/wiki/index.php?title=Amhalashal" title="Amhalashal">Amhalashal</a>, den verrufenen Ozeanhafen des amhasischen Reiches an der Mündung des Byrastes steuern.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					37.55539567038978,36.97961549901905,0 37.37878009284714,36.82165380072934,0 37.18323853796297,36.72363361910859,0 36.98741300153406,36.70488877611958,0 36.65722340376253,36.68496902599559,0 36.43853159635504,36.62944222505883,0 36.18774087301632,36.4993139395373,0 35.99722606747763,36.35359195703817,0 35.86334258264571,36.29505145613248,0 35.63784173139092,36.23597934503787,0 35.44725483787387,36.11165716739635,0 35.12420441540749,35.83184153218608,0 34.90457270166746,35.59897349660827,0 34.69124015808593,35.26354409111511,0 34.47641061975872,34.88282238339195,0 34.26601701093173,34.57961361898712,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ebro</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					40.73019835575141,35.01710327093957,0 40.67812893893849,34.92139165574202,0 40.56925633608303,34.8515072856888,0 40.38186321942786,34.77305467847341,0 40.36944430626064,34.77069290688935,0 40.08075583007729,34.74553293149776,0 39.88346787134778,34.71166248468824,0 39.57578377372565,34.722601833112,0 39.46731945796147,34.67102144938025,0 39.3854616120925,34.54690853325187,0 39.18856485362361,34.36710164312065,0 38.98098178016014,34.23196908816711,0 38.87915243664915,34.13961155283732,0 38.85029986141564,34.01439302654325,0 38.83007109423832,33.75169867038033,0 38.80140444476621,33.60634688410999,0 38.75712616120416,33.45575411052325,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Kree</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					42.98337336545625,34.86629658398594,0 42.95662580461437,34.75722929148341,0 42.86108284802631,34.66574147341598,0 42.70758752576504,34.51753646344792,0 42.4963914199973,34.37340112286286,0 42.3277448877677,34.25951808103121,0 42.23330004008252,34.14133094680244,0 42.14471366867579,33.94878389202885,0 42.11024933798511,33.48045009904809,0 42.21583974604992,33.30134609339132,0 42.49136710908846,33.02416475034156,0 42.70997249352369,32.83269415327059,0 42.8808386343086,32.61893423071555,0 42.97871094884436,32.44407988443977,0 43.03515905998003,32.32147702793721,0 43.05503637813739,32.10220705532938,0 43.04762797095226,31.99854049260644,0 42.94965624894416,31.88102153834191,0 42.75973236878375,31.77657073183278,0 42.4832107621895,31.69782460528738,0 42.1353864560426,31.62241935639188,0 41.49409972515359,31.61287600320438,0 41.31475571162905,31.54961067781421,0 41.23350065706413,31.46546870158182,0 41.21939580207159,31.36901840610723,0 41.24646749594481,31.26871721146739,0 41.31208067368661,31.13716426617945,0 41.33959675903842,31.00239912285972,0 41.31111656981166,30.87132693715419,0 41.21662098634278,30.74809829542835,0 40.81920591954848,30.55460494323626,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Haba</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					46.95999021052232,34.17859064424109,0 46.8925836723229,34.00915505156149,0 46.81184147759711,33.87991582423004,0 46.74629838882765,33.83799079255239,0 46.74101723813332,33.83814174183497,0 46.6293713562183,33.82378440995347,0 46.52180933026546,33.77863567930739,0 46.37062078711639,33.6909340725613,0 46.17893202677808,33.62607711200905,0 46.00921318280442,33.57360039002731,0 45.91488200677239,33.57152078881115,0 45.70159992029016,33.61134247592377,0 45.70188445540467,33.62005989820334,0 45.43518589206537,33.63013148863411,0 45.27246989806193,33.61592541697307,0 45.19236720919553,33.55639181560168,0 45.00525111267061,33.39405701566994,0 44.90414498028125,33.31725794610329,0 44.81435549278585,33.27506751549342,0 44.63022738616243,33.2210399134793,0 44.33643794640301,33.19414285038539,0 44.04392681171678,33.12300004841862,0 43.91802901040268,33.03696222812319,0 43.802469196851,32.92458789572748,0 43.7490915929797,32.78116979159002,0 43.71119283506936,32.62014675893047,0 43.68422561901124,32.51129178712947,0 43.64695016298644,32.40242008141624,0 43.5374018255226,32.29378261509872,0 43.33997598043344,32.16760457255062,0 43.19964615946081,32.06704368419245,0 43.04637656567154,31.99775733490487,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Kaspan</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					45.12255915755836,29.41068251112915,0 45.04814953077761,29.1255070534485,0 44.94690943862871,28.97043967454436,0 44.76157279565788,28.8261932363503,0 44.32302540463098,28.64915673152344,0 44.03766643834789,28.59797634225813,0 43.77319422113333,28.47281923615331,0 43.52995272801675,28.27392836969799,0 43.48634132865579,28.11872262186169,0 43.45213973940788,27.85350113161585,0 43.33662032523663,27.71725550913704,0 43.09701610077658,27.53613289787252,0 42.74472225751061,27.29092617215783,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Rabukir</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					46.84828263703219,26.59431777466257,0 46.64126083978865,26.31715221114322,0 46.53226397691385,26.15107322337104,0 46.47301992222958,25.94123284864683,0 46.45102903731452,25.68776427809612,0 46.4899555164755,25.43491362342818,0 46.58852878419824,25.29250679833272,0 46.86903038436586,25.12889339926668,0 47.01504355937937,25.01950913872163,0 47.08820204183513,24.86594494002894,0 47.06476206950963,24.59132655575987,0 46.92046376938718,24.40409222478277,0 46.86076278155308,24.23895431552137,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ramina</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					48.59940142153493,26.91390467221129,0 48.36191280505928,26.94564486687821,0 48.15815807263876,26.94660941127875,0 47.97457952879359,26.89261129031055,0 47.92684734311162,26.83200215617668,0 47.87223331115706,26.7168143320534,0 47.86499803765962,26.57129176579143,0 47.8174519383934,26.48662281615196,0 47.68893453769789,26.34773014271014,0 47.64160922441215,26.23894823182859,0 47.65492136122732,26.11197359938228,0 47.74881846132501,25.98489932577238,0 47.80217797907659,25.85190107688583,0 47.79488839831147,25.65869498605293,0 47.86790768724886,25.4773376723753,0 47.94759787162033,25.34418706108128,0 47.97347618749669,25.15670993032033,0 47.93280837318739,25.01164419975529,0 47.9385785689135,24.80564646025771,0 48.08409597843594,24.60476252941897,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Sanskis</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					49.40994030116566,31.87494716750187,0 49.45227638724943,31.71732389697407,0 49.61078080404194,31.58336313020897,0 49.74124967510795,31.43189746628507,0 49.81650799873294,31.34451745962098,0 49.97333049823994,31.21047851137559,0 50.02763130796552,31.10558674997772,0 50.03401913532583,30.91335546058951,0 50.07421068409488,30.71514488450291,0 50.16181950308373,30.58084712860814,0 50.49889388407297,30.3752729811995,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Terul</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					54.17473225067598,34.82048772307942,0 54.03342403972478,34.72438543541198,0 53.93736726738388,34.6509606317302,0 53.73837010417499,34.5644926363173,0 53.4395310795122,34.41616999538014,0 53.30392853629455,34.31523022751482,0 53.27163303102854,34.23163816803186,0 53.2627101957454,34.11931886322,0 53.29296063405677,34.01407616141854,0 53.31212542344339,33.87693639858478,0 53.27838558829486,33.75708607253598,0 53.14895120817147,33.67549408917942,0 52.90925020850455,33.54374795790525,0 52.64543637374676,33.41691293782994,0 52.49282945137415,33.29146561889489,0 52.43662845071794,33.16403965370472,0 52.42840163837744,33.0316989455254,0 52.48370994926644,32.94636920977769,0 52.57770241316281,32.8803623251607,0 52.83510318612048,32.85104158239018,0 53.06924756557464,32.85380766086238,0 53.32046926295177,32.80352399614226,0 54.04829690707513,32.50929057685929,0 54.36313717925605,32.38568332954362,0 54.5038334157718,32.31995506266972,0 54.56771159449221,32.24884879845765,0 54.58661427089612,32.16141365525695,0 54.56646129884105,32.05311296433239,0 54.4909949554601,31.88633615128191,0 54.43173775346763,31.65088699281517,0 54.42591325257488,31.42990839122205,0 54.44399985114306,31.20803562556829,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Totec-Wasser</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					56.61544639585485,22.99036073929558,0 56.40431261759169,22.86208284964759,0 56.19398376081337,22.81335603041273,0 55.96405918632861,22.81327939219312,0 55.74885474067848,22.83902308394947,0 55.53120351903017,22.88755611867941,0 55.38970789962588,22.8826322649036,0 55.31372909926866,22.85935229255405,0 55.20620467499511,22.78780736701909,0 54.8411461564409,22.53273373821929,0 54.7651510910157,22.50160261331265,0 54.68693429916825,22.50872175214537,0 54.6024843645041,22.55807901932885,0 54.51177838295711,22.56562441042794,0 54.37406506424183,22.54442211436382,0 54.18983307126274,22.41777978014667,0 54.06093805184854,22.32310574977737,0 53.96397926082769,22.29215850802623,0 53.81048484433678,22.30140062176045,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ribun</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					59.69757725109462,22.39362105582559,0 59.69257177428521,22.25284076036401,0 59.68024308590395,22.11227350247705,0 59.58659916589633,22.0331196558448,0 59.47946383189956,21.91978716233037,0 59.40446819391178,21.79935120354678,0 59.32104250643582,21.70475908771886,0 59.31526758955401,21.70014392781147,0 59.22539853283638,21.65624060770291,0 59.07630739369657,21.61142360282864,0 58.89457855597444,21.62894131858034,0 58.82833973109911,21.60839870215554,0 58.70432528342199,21.5366281628917,0 58.584635565516,21.44949856021525,0 58.56894989864332,21.45555830168467,0 58.45010735494618,21.37832940063291,0 58.36732127355862,21.27863459906729,0 58.35453156086079,21.17934378132989,0 58.35851842347661,21.08897988783412,0 58.33191003403677,21.02063453391116,0 58.26478287352182,20.98493236844767,0 58.17641917506203,20.88043523415091,0 58.18465089893081,20.77472326207396,0 58.18252832725571,20.67464375500992,0 58.1212695897205,20.57321596268858,0 58.11058817191113,20.5738839603536,0 58.00199426726508,20.48797994300504,0 57.88888520446477,20.47508698133829,0 57.76379050029404,20.44287327928885,0 57.65688597838707,20.36446274970253,0 57.60179688501327,20.26283425990619,0 57.60027253966729,20.08789233121819,0 57.57779172865002,19.99422340435031,0 57.11242771248852,19.64630099797439,0 56.94536120818886,19.61567119551711,0 56.61561587212835,19.6287165866717,0 56.3013184972069,19.65011993170048,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Driadt</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					63.83076509416213,19.21435863832101,0 63.7358703304793,19.12657686795414,0 63.70412017560032,18.98965269459835,0 63.68864236031925,18.79209228810008,0 63.60469584302715,18.64424806832629,0 63.5057651399048,18.49415565236278,0 63.38820787874808,18.40295565593825,0 63.1380111138573,18.28660656861698,0 62.97511240070331,18.1889156288007,0 62.70642129362555,17.99343594578435,0 62.36902958217587,17.50259822907476,0 62.22244931216217,17.39178305274481,0 62.04535566132055,17.31564389314594,0 61.86589134275955,17.21773875143443,0 61.80574510688411,17.1255948717532,0 61.77871242201847,17.02512034999682,0 61.81609864885428,16.94621734872254,0 61.94043438361378,16.83283012683457,0 62.07617741102545,16.69840765609084,0 62.18569215208658,16.55422589584291,0 62.21151743451106,16.41752295680245,0 62.18832667380312,16.1829296819988,0 62.15525638170682,16.01894251310628,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Kithoga</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					61.29175726292286,29.41779561006262,0 61.16722461522192,29.52323720508249,0 61.07870932448874,29.65121057657614,0 61.07756978345583,29.76899062336019,0 61.10574401405544,29.85508774200021,0 61.18079926730932,29.88938775978539,0 61.32566855000947,29.88424261235185,0 61.55496843799567,29.9508925764078,0 61.77698757883772,30.07804076942664,0 61.91031389595398,30.23508268558284,0 61.92312066780802,30.35258143234453,0 61.91857143626885,30.52915647545151,0 61.9998196183037,30.62366125386967,0 62.09511090866835,30.7384487429319,0 62.37856406015652,30.88551078854115,0 62.44790390811841,30.98543134672241,0 62.47722623933953,31.1016642414195,0 62.57256944054277,31.20019841865268,0 62.70417469601956,31.23326078506763,0 62.88022086841772,31.25523009198113,0 63.13348489651677,31.23354087015572,0 63.32943633053264,31.18259738129304,0 63.51912195863583,31.11963332926963,0 63.63975999563941,31.04225643659618,0 63.79665619141214,30.94572657950502,0 63.96006678503847,30.88430588746734,0 64.14068603392005,30.86538669787809,0 64.34466706739786,30.89767876517455,0 64.48426527322584,30.97732738078808,0 64.59275811086582,31.09229351908306,0 64.63365125292056,31.23188640872935,0 64.65861143915598,31.40041676520433,0 64.77082147304628,31.59734545064024,0 64.94024858018179,31.75659723380653,0 65.05743323970292,31.84869220091135,0 65.24955274783076,31.88513035567278,0 65.44024029997247,31.90503307666367,0 65.69984525077342,31.84449473767292,0 65.84571593946615,31.75747087669945,0 66.38693869890948,31.75425016943056,0 66.60099675724499,31.80595115180129,0 66.74511833552677,31.86411203079423,0 67.17879175664973,31.86431919538746,0 67.8521676861786,31.32340387645071,0 67.87783107764591,31.20747551339609,0 67.87037876883184,31.01757596967617,0 67.95795983007014,30.87804460705832,0 68.40712272536945,30.4651092180513,0 68.55563125844014,30.28585583176622,0 68.62970944006545,30.12037073393648,0 68.82527959685432,29.87430083030755,0 69.12595671643925,29.53412180296933,0 69.15162688568348,29.24445512147059,0 69.08240738308081,29.12292935467835,0 68.80291701655804,28.90156280394355,0 68.61085328070892,28.71071671447106,0 68.58603198321173,28.50014072473099,0 68.65514605601392,28.3103315002137,0 68.65628653220341,27.95665079933707,0 68.34633731742274,27.6998913916015,0 67.91979202133896,27.43071150983437,0 67.74627539723694,27.29814964580545,0 67.66301548901436,27.14443752780026,0 67.60797016789019,26.58106342238014,0 67.59025991940611,26.42866803551056,0 67.49214649666999,26.29575155948858,0 67.0704742973023,25.92289803495651,0 66.97584239496057,25.80623537645304,0 66.9447450036333,25.63588304049993,0 66.85205253406403,25.41938584227261,0 66.67640795138848,25.25882957777163,0 66.1299679878866,24.9202201821341,0 65.60437674915826,24.67885264607286,0 65.33181821932438,24.57026610910972,0 64.93017719410511,24.30223926283245,0 64.80370770858112,24.1456719298708,0 64.76525890200017,23.87727091507243,0 64.75584840122808,23.46109516375442,0 64.72120840462262,23.33518017302987,0 64.60992073820034,23.24637916374089,0 64.34444027567155,23.0650661837255,0 64.23975618546439,22.92062213593542,0 64.24517486099558,22.71682010649901,0 64.43996278798757,22.39096622415548,0 64.73793136578072,22.11150452461288,0 64.74704565086728,21.64537767149854,0 64.65932721946884,21.5149771014281,0 64.51532656754819,21.46505082413454,0 64.42710775538141,21.32743759681907,0 64.48441405656072,21.14330321302891,0 64.61972511623725,21.02877088233159,0 64.59420993583882,20.70670792547157,0 64.46059619554011,20.52380588203742,0 64.52485955756062,20.23938482520763,0 65.10454630519882,19.85578509558581,0 65.46306988980291,19.52152760818373,0 65.54970378180565,19.33048761155176,0 65.56420072577664,18.96037578109137,0 66.09082050124393,18.44415968546288,0 66.17862230609846,18.34138001892877,0 66.17991481542366,18.22564573083088,0 66.16953473063215,17.98202160222501,0 66.14424053056214,17.759279626543,0 66.15026787506697,17.55791855741467,0 66.16114220002595,17.32265059963095,0 66.27370136864676,17.14788767478665,0 66.38011846125178,17.07062586465176,0 66.46826260621947,16.98409570048991,0 66.48218879373195,16.87770982629909,0 66.54149952218295,16.73857599356981,0 66.64337745411595,16.66929451639413,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Artachi</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p><b>Artachi</b> ist der Name eines Flusses, der dem <a href="http://rakshazar.de/wiki/index.php?title=Artach" title="Artach">Artachgebirge</a> entspringt und südlich hinab bis zu den Randgebieten der <a href="http://rakshazar.de/wiki/index.php?title=Lath" title="Lath">Lath</a> reicht. Er befindet sich zum grossen Teil auf dem Stammesgebiet von <a href="http://rakshazar.de/wiki/index.php?title=Bracht%C3%A3o" title="Brachtão">Brachtão</a> Khez. An seinem östlichen Ausläufer liegt die Zeltstadt <a href="http://rakshazar.de/wiki/index.php?title=KhurKez_Kao&amp;action=edit&amp;redlink=1" class="new" title="KhurKez Kao (Seite nicht vorhanden)">KhurKez Kao</a>.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					53.89601997720552,41.62762307516904,0 53.80974209559209,41.71126604223547,0 53.64373315116517,41.75504571264521,0 53.49294237077443,41.77145019686691,0 53.35238623633583,41.83960107883184,0 53.30864778061788,41.94659692465957,0 53.34263880027133,42.07159204595214,0 53.2987914889832,42.1783503310658,0 53.19150862066401,42.23128419481775,0 53.10753466019529,42.2830308430166,0 53.10238693918404,42.43568376600701,0 53.05727668182082,42.53346056044953,0 53.00922077600379,42.59651012951008,0 53.0043042055396,42.90139058400939,0 52.93461176401323,42.99585353974619,0 52.89929127582355,43.07577796736836,0 52.90085275689462,43.24573021146304,0 52.82385549415689,43.331912074454,0 52.69569369226956,43.45957422705434,0 52.63692152430681,43.55821504267488,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Omakai</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					62.97727835954774,48.00882257035878,0 62.76079081496306,48.29738663169112,0 62.6822645752479,48.53290883938104,0 62.5156501689223,48.59478559632878,0 62.31214493281749,48.72728052247624,0 62.30811082504434,48.95827406262778,0 62.33888112096904,49.25143098432934,0 62.34649104198904,49.45605259634918,0 62.27955946784458,49.59026182775854,0 62.03196400323021,49.74999065942289,0 61.7613445984259,49.86322361968605,0 61.37125206357055,50.18703741153602,0 60.95717795435341,50.33054536927365,0 60.62551496120288,50.404386041456,0 60.35107322636902,50.52603039987785,0 60.27695075520752,50.61693351059387,0 60.26366519085445,50.76839979538816,0 60.20207634636218,50.96019889129176,0 59.93579265882494,51.13984895965523,0 59.66754140467336,51.36716747539953,0 59.64075106345629,51.5137846047165,0 59.64029519742467,51.69444822753279,0 59.64424613732297,51.85086118335844,0 59.57317315063036,51.97757100740542,0 59.28978629131678,52.12800688082597,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Cromdel</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					20.89316054810544,50.18065700827497,0 21.22178449209116,50.17887928613057,0 21.3813919774267,50.1286968766984,0 22.02864809343662,50.13311307719076,0 22.29694477330741,50.09350842522819,0 22.45732779296369,49.96531910571256,0 22.47681996186871,49.72171868177258,0 22.55199986015117,49.614077358731,0 22.57562106361887,49.36277242411041,0 22.76815908893128,49.20614060198297,0 22.97388989407289,49.16482724671246,0 23.30437006819594,49.12474601802458,0 23.62781108307989,49.08151019467806,0 23.74173338757792,49.04488129313764,0 24.23908297261342,49.04608572137742,0 24.61462465384189,48.94381268489229,0 25.12594424194982,48.89281308988526,0 25.64674577013741,48.73687340879221,0 25.83031657726448,48.64293728541119,0 26.13932880930784,48.55694685351805,0 26.69029167686299,48.51209034601257,0 27.12845738138535,48.5006375394915,0 27.3183863064468,48.47528636010872,0 27.52257396877961,48.42667062503499,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Frinn</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					29.50469352202989,54.43796985654566,0 29.4316371784854,54.36392264444482,0 29.20286998611017,54.28103133085276,0 29.03993365413932,54.23506657734883,0 28.67775392982175,54.22088381861996,0 28.49603199708208,54.12737546662573,0 28.27021170814139,53.91966391660238,0 28.01925490020165,53.75112798896147,0 27.88428652969535,53.65356591490347,0 27.87740308490469,53.44988182247565,0 27.92978584018394,53.28817236915354,0 27.93127924950035,52.94937964130549,0 27.82715005280105,52.77888996976227,0 27.73541635358163,52.620643692051,0 27.56819811803872,52.39647934723962,0 27.51429650186056,52.26446563074781,0 27.48527487395894,51.98677133474355,0 27.48341029474801,51.70214149791705,0 27.4882157116626,51.39727686130252,0 27.61072610861517,51.14735899604376,0 27.73187399063724,50.72714417368992,0 27.83140123766749,50.39845406652694,0 27.87730054878779,50.08425982568838,0 27.84990241586553,49.77326156144942,0 27.74643458358284,49.53731359831938,0 27.5078877236741,49.08586697684271,0 27.48648727786478,48.81522585773434,0 27.47214798220477,48.60633142605639,0 27.52193239258761,48.42638008984492,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Wamal</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					27.52176321386962,48.427294438878,0 27.62372282237421,48.3562402250164,0 27.8301467277645,48.18486137178734,0 28.0058011920757,48.1046603291758,0 28.38532056671336,47.90868297662597,0 28.46606345107439,47.80975804147616,0 28.66079935603589,47.67868937617872,0 28.81467310940623,47.46366602505901,0 28.9702877496342,47.23592483567018,0 29.20590426690627,47.01945812433087,0 29.41068981858756,46.85935482335515,0 29.63946216545206,46.70813086652231,0 29.74444852994858,46.69039940172822,0 30.59360747630892,46.67817475077573,0 30.77565718693249,46.68854805862705,0 30.86602969935534,46.73112138287038,0 31.42073516290344,47.04704776907409,0 31.52236201039241,47.05056934517193,0 31.84189580979675,47.05002774993347,0 32.13583348001324,46.98532900152929,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Grimm</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					34.30478322649503,54.74249163145117,0 34.37144258006491,54.55603166143555,0 34.46628915498287,54.42911210889969,0 34.73516774675976,54.30220715796896,0 35.13595548928394,54.17865298344967,0 35.20314303287685,54.1040923421258,0 35.21206597499335,53.98847726008347,0 35.22541795414968,53.8740423270615,0 35.28760701339315,53.78369760718304,0 35.42007566228057,53.75031238510898,0 35.64212747238647,53.74969401616085,0 35.9355686481176,53.5906986854736,0 36.16329608523995,53.50291751085518,0 36.29738261576731,53.26355149957708,0 36.40751703561498,52.96243080287262,0 36.42839749312435,52.54065225552138,0 36.48704731516929,52.31264817462437,0 36.51630634332624,51.74386846669705,0 36.40916210647681,51.56661992888861,0 36.38017255646302,51.4136012137708,0 36.3364409925838,51.33634434450134,0 36.26776089258102,51.29586037016,0 36.19025957571574,51.28758536016472,0 36.12952824833612,51.31962445935827,0 35.98599696300037,51.40758653903582,0 35.91565621888105,51.48501770182186,0 35.8447513277287,51.58115912230985,0 35.77510136031608,51.60477284120194,0 35.70712125047807,51.5532200789008,0 35.66222388471656,51.44554593464332,0 35.68187663794875,51.34112095875702,0 35.67586831889251,51.23110357222509,0 35.61376555665542,51.1447596706816,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Isdir</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					38.7600412170302,53.52061295718115,0 38.74084992483623,53.29320179229323,0 38.66996254152042,53.13307699524636,0 38.63950910711922,52.984647003293,0 38.55087937025942,52.85219256443011,0 38.35798217517984,52.65603507839531,0 38.25194271439887,52.54177829489288,0 38.23877035117735,52.42934943106404,0 38.28205594230392,52.26585306674059,0 38.40902958450342,52.16336768451737,0 38.39381919541922,51.7369684480286,0 38.33201121075325,51.6073960300894,0 38.2045136946481,51.44671535816508,0 38.09187928308432,51.32948786464039,0 38.06892253094199,51.1844970758455,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Remell</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					39.35896465902367,54.3610763290929,0 39.39278848193619,54.17199225427293,0 39.47625710237705,54.11949761046497,0 39.58844521941421,54.11411086685777,0 39.83270003188594,53.9559934018781,0 39.87834351870044,53.81736362850365,0 39.9415787987497,53.71110176748482,0 39.96350865011409,53.53119309368648,0 39.97876788015663,53.39622877487652,0 40.00126312087247,52.94582589380246,0 39.90266958856849,52.82907361272859,0 39.68054421433776,52.58888691130865,0 39.56162966730629,52.36757319276162,0 39.34024145991801,51.98109093360472,0 39.23997826324887,51.77645907418076,0 39.18282343243959,51.6252432676654,0 39.16864042897903,51.45545183225762,0 39.16066481799177,51.30650710967922,0 39.29934607175887,51.12125046589832,0 39.29853610049861,51.10634055772717,0 39.33379178304611,50.96204166226058,0 39.34378488501707,50.78750572047737,0 39.29773206628536,50.55867161244276,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jasiej</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					46.41707653435113,54.46652986264181,0 46.1549195316821,54.20120166869331,0 45.96938483976323,54.04306336547451,0 45.74101892409561,53.91244480095945,0 45.60070646954,53.83903131506759,0 45.41755002439162,53.79797754265839,0 45.13625484228101,53.76330929466832,0 44.64786007756661,53.7755363664117,0 44.19433749371707,53.82175099635638,0 43.90740726204974,53.81205205717987,0 43.75350781879498,53.75591179186735,0 43.53596593394834,53.6707275387579,0 43.42009589816955,53.56211613652075,0 43.21036526434897,53.43968186770258,0 42.92632719370096,53.33804507418341,0 42.6610546109558,53.24719308143535,0 42.43832396959861,53.16597641326612,0 42.24080029211934,53.03924296011395,0 41.93726591788665,52.91109512478217,0 41.6756115768363,52.74542465351711,0 41.63477944402985,52.59117874594175,0 41.61415726878875,52.48900443900437,0 41.49287061330183,52.39077215961495,0 41.27159392584814,52.24640261690293,0 41.00348767949919,52.11153913211259,0 40.81828895379597,52.02369382617967,0 40.71366248425873,51.97422742657087,0 40.68722091660933,51.8868556799835,0 40.72578365814569,51.77965683526745,0 40.78212881425345,51.71592177727552,0 40.76856353086147,51.55736688459879,0 40.72763811098094,51.35291818738384,0 40.73705964523994,51.24078232306521,0 40.6131561462385,51.10373431561318,0 40.25871830670219,50.76791076676923,0 40.10330348647339,50.48348590623938,0 39.64886964168426,50.18653901134765,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Okash</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss_Rakshazar</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					48.19918519926848,49.71046410955069,0 48.22109862211859,49.92374512636495,0 48.26743375954013,50.14205736542161,0 48.13756574237911,50.30344759693357,0 47.87452307694331,50.47366208765214,0 47.56029892373165,50.47697639544347,0 47.25731479717641,50.34430478912633,0 46.99905119733901,50.05847952123003,0 46.89407965759336,49.85997934980605,0 46.78804126558595,49.68028592839847,0 46.62946682448351,49.52652712015578,0 46.24069808215288,49.35528679142909,0 45.97277555764604,49.23282223531668,0 45.64696922498627,49.15522875478192,0 45.35690515274581,49.14433954450807,0 45.14388682439864,49.15286907603355,0 44.92383303735979,49.22055051956949,0 44.62943544292684,49.32231073954154,0 44.38882216631743,49.39665359418268,0 44.0004621866011,49.41837129887038,0 43.81866301212911,49.36728120957117,0 43.58080241001748,49.25604652587538,0 43.33481868092888,49.15611898591803,0 43.09497758670938,49.09239554189848,0 42.80003388824085,49.07548891279999,0 42.53441281023311,49.06363968895624,0 42.17594067473073,49.17341613905464,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>Kleinstädte_Meridiana.kml</name>
+    <open>1</open>
+    <Folder>
+	<name>Kleinstädte</name>
+        <open>0</open>
+    <Region>
+      <LatLonAltBox>
+        <north>44.68523182173993</north>
+        <south>13.83211470255367</south>
+        <east>13.82951187257615</east>
+        <west>-8.928795211729799</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>3000</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+    </Region>
+    <Placemark>
+	<name>Nagra</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+Das befestigte Dorf <b>Nagra</b> gehrt zum <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Brabak" title="Königreich Brabak">Königreich Brabak</a>.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfgbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude>-3.31957896818007</longitude>
+              <latitude> 17.0478842989426</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-3.319122522096639,17.0370887673751,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Port Corrad</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/7/77/Portcorradwappenklein.gif" width="100" height="122" align="right"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>Port Corrad</b> war einst eine aufblhende Handelsstadt, verfiel aber nach der Besetzung durch <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">mengbillanische</a> Truppen im <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4mkrieg" title="Khômkrieg">Khômkrieg</a> zu einem verschlafenen Nest am Rande des <a href="http://www.wiki-aventurica.de/wiki/Alanfanisches_Imperium" title="Alanfanisches Imperium">Imperiums</a>. Ein Eindruck, den der derzeitige Generalpräfekt <a href="http://www.wiki-aventurica.de/wiki/Oderin_du_Metuant" title="Oderin du Metuant">Oderin du Metuant</a> ändern möchte. Nur wenn die große <a href="http://www.wiki-aventurica.de/wiki/Seidenkarawane" title="Seidenkarawane">Seidenkarawane</a> einmal im Jahr hier ihren Anfang nimmt, kommt Leben in die Stadt.
+
+
+<!-- END EDIT -->
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Port_Corrad-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt_Karte</styleUrl>
+        <LookAt> 
+              <longitude> .798609235852079</longitude>
+              <latitude> 21.165078628578</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates> .798609235852079, 21.165078628578,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Sylphur</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+Dort, wo der <a href="http://www.wiki-aventurica.de/wiki/Gangreb&amp;action=edit&amp;redlink=1" class="new" title="Gangreb (Seite nicht vorhanden)">Gangreb</a> in den mittleren <a href="http://www.wiki-aventurica.de/wiki/Mysob" title="Mysob">Mysob</a> mündet, liegt <b>Sylphur</b>, der Hauptort des Lehenslands der herrschenden <a href="http://www.wiki-aventurica.de/wiki/Haus_De_Sylphur" title="Haus De Sylphur">Familie Brabaks</a>.
+
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude>-2.08258709522787</longitude>
+              <latitude> 17.5185953731048</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-2.084269580799447,17.51308557554848,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Patras</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Patras</b> ist ein großer Markt 40 Meilen ostnordöstlich von <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al&#39;Anfa">Al'Anfa</a> auf der Straße nach <a href="http://www.wiki-aventurica.de/wiki/Pinnacht" title="Pinnacht">Pinnacht</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude>-.399462225622043</longitude>
+              <latitude> 18.5939512128886</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-0.3955858975528337,18.57994225262915,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Vinay</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+Das sdlichste <a href="http://www.wiki-aventurica.de/wiki/Jolskrim" title="Jolskrim">Jolskrim</a> <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a> steht in <b>Vinay</b> in den Lndereien der <a href="http://www.wiki-aventurica.de/wiki/Haus_Hammerfaust&amp;action=edit&amp;redlink=1" class="new" title="Haus Hammerfaust (Seite nicht vorhanden)">Familie Hammerfaust von Vinay</a> im <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Brabak" title="Knigreich Brabak">Knigreich Brabak</a>, die es <a href="http://www.wiki-aventurica.de/wiki/Chronik:946" title="Chronik:946" class="mw-redirect">946 BF</a> zum Lehen bekam. Hier leben Bauern und Fischer.
+
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude>-1.83706494105832</longitude>
+              <latitude> 16.7815963198452</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-1.836687497449447,16.79344921439532,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Yar'dasham</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>Yar'dasham</b>, auch <b>Yar'Dasham</b>, ist eine kleine Hafenstadt südlich von <a href="http://www.wiki-aventurica.de/wiki/Sylla" title="Sylla">Sylla</a>. Sie ist eine <a href="http://www.wiki-aventurica.de/wiki/Myranor" title="Myranor">güldenländische</a> Siedlung aus der <a href="http://www.wiki-aventurica.de/wiki/Rohalszeit" title="Rohalszeit">Rohalszeit</a>. Interessant ist der landeinwärtsgelegenen überwucherte Tempel eines <a href="http://www.wiki-aventurica.de/wiki/Sch%C3%A4delgott" title="Schädelgott" class="mw-redirect">schädelhäuptigen Gottes</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude> 1.25371964037367</longitude>
+              <latitude> 16.39390971324</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>1.250343921610027,16.40397949728617,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Port Visar</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description>
+<![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Die wichtige Garnison <b>Port Visar</b> ist ein stark befestigter Freibeuterhafen 100 Meilen östlich von <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al&#39;Anfa">Al'Anfa</a>. 
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude> .151465534953536</longitude>
+              <latitude> 18.5240169961559</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>0.1414002686439742,18.50653112608722,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Lorfas</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>Lorfas</b> ist der östlichste Bezirk des <a href="http://www.wiki-aventurica.de/wiki/Gro%C3%9Femirat_Mengbilla" title="Großemirat Mengbilla">Großemirats Mengbilla</a> und gleichzeitig eine Wehrsiedlung mitten im Sumpf.
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude>-7.01025995754879E-02</longitude>
+              <latitude> 21.7469327127761</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-0.05181695051150403,21.74693170861976,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>El'Halem</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>El'Halem</b> liegt östlich von <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">Mengbilla</a> an der Flussmündung des <a href="http://www.wiki-aventurica.de/wiki/Cuoris_%28Fluss%29" title="Cuoris (Fluss)">Cuoris</a> in den <a href="http://www.wiki-aventurica.de/wiki/Nordask" title="Nordask">Nordask</a> inmitten von grünen Weiden. Der Ort war in der Zeit nach <a href="http://www.wiki-aventurica.de/wiki/Chronik:467" title="Chronik:467" class="mw-redirect">467 BF</a> die Residenz der ersten Großwesire und wird heute von der <a href="http://www.wiki-aventurica.de/wiki/Gilde_der_S%C3%B6ldner&amp;action=edit&amp;redlink=1" class="new" title="Gilde der Söldner (Seite nicht vorhanden)">Gilde der Söldner</a> verwaltet.
+
+
+<!-- END EDIT -->
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+        <LookAt> 
+              <longitude>-.764750645518608</longitude>
+              <latitude> 21.830315817342</latitude>
+              <altitude>0</altitude>
+              <range>200000</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+			<coordinates>-0.7716873328250107,21.83689366269269,0</coordinates>
+        </Point>
+    </Placemark>
+    </Folder>
+
+</Document>
+</kml>

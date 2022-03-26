@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+  <name>Kleinstädte Myr-Imperium</name>
+      <visibility>1</visibility>
+      
+            <Region>
+         <LatLonAltBox>
+			<north>14.841196</north>
+         	<south>-30.491179</south>
+         	<east>-29.271083</east>
+         	<west>-59.281524</west>
+         </LatLonAltBox>
+         <Lod>
+           <minLodPixels>3000</minLodPixels>
+           <maxLodPixels>-1</maxLodPixels>
+           <minFadeExtent>0</minFadeExtent>
+           <maxFadeExtent>0</maxFadeExtent>
+         </Lod>
+      </Region>
+	  <Placemark>
+			<name>Sumnea Velkaris </name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Knochenblei und Schwarzes Blut Seite 43ff<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>-47.518342</longitude>
+				<latitude>10.839944</latitude>
+				<altitude>0</altitude>
+				<range>200000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<!--	<TimeSpan>
+  <begin></begin>      kml:dateTime 
+  <end></end>          kml:dateTime 
+</TimeSpan> -->
+	<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt-X</styleUrl>
+			<Point>
+				<coordinates>-47.518342,10.839944,0</coordinates>
+			</Point>
+		</Placemark>
+    </Document>
+</kml>

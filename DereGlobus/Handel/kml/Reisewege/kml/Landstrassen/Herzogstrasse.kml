@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Herzogstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Herzogstraße -->
+			<name>Herzogstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Herzogstraße</b> ist eine Straße im Herzogtum <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Grangor" title="Herzogtum Grangor">Grangor</a>, die von <a href="http://www.wiki-aventurica.de/wiki/Bomed" title="Bomed">Bomed</a> über <a href="http://www.wiki-aventurica.de/wiki/Veliris" title="Veliris">Veliris</a> und <a href="http://www.wiki-aventurica.de/wiki/Farsid" title="Farsid">Farsid</a> nach <a href="http://www.wiki-aventurica.de/wiki/Grangor" title="Grangor">Grangor</a> führt.
+
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.119804178151647,26.26826117614873,0  <!-- <POI>Siedlung:Farsid</POI> --> <!-- <POI>Abzweig:König-Khadan-Straße</POI> -->  <!-- <POI>Abzweig:Silem-Horas-Straße</POI> --> 
+						-1.054236020502123,26.23523321461228,0 
+						-0.9927415730564759,26.23551635961278,0 
+						-0.9636722011662136,26.2236048811489,0 
+						-0.9189428587870241,26.22380783671668,0 
+						-0.8727397699301009,26.20978373778146,0  <!-- <POI>Abzweig:Dämonenstieg</POI> --> 
+						-0.8654422141658669,26.23270127774824,0 
+						-0.8493043899341646,26.24706492990272,0  <!-- <POI>Fluss:Sewak</POI> -->
+						-0.8303917862592769,26.24802458916939,0  <!-- <POI>Siedlung:Veliris</POI> --> <!-- <POI>Ende:Dämonenstieg, theoretisch, aber nicht eingezeichnet</POI> --> 
+						-0.8047766046235405,26.24674237296209,0 
+						-0.7592567341389644,26.22118552516008,0 
+						-0.7364026452156147,26.20321225100502,0 
+						-0.7145809776186851,26.19443894430387,0 
+						-0.6612758403967978,26.14304987804174,0 
+						-0.6103339657807194,26.1216853532458,0 
+						-0.5645651417506448,26.12226213667645,0 
+						-0.5057011848011428,26.08411318074215,0 
+						-0.4839026645540101,26.06113941706012,0 
+						-0.461598104594384,26.05807280883879,0 
+						-0.4434063297751711,26.06397999772188,0 <!-- Anfang Detailkarte Bomed -->
+						-0.4430668157996676,26.06389104265579,0 
+						-0.4427617932982608,26.0638597432735,0 
+						-0.4424786960805027,26.06390885829678,0 
+						-0.4422181944174419,26.0641382232275,0 
+						-0.4421700537354811,26.06446324540734,0 
+						-0.4419963232454771,26.06475056401818,0 
+						-0.441750726613086,26.06491755671736,0 
+						-0.4414303323560409,26.06503287631827,0 
+						-0.4408077978427616,26.06514625995906,0 
+						-0.4395151469790126,26.06521705477565,0 
+						-0.4391067862325049,26.06529486874156,0 
+						-0.4387845521293843,26.06546011346655,0 
+						-0.4385825334950033,26.06566862159695,0 
+						-0.4381798542459781,26.06622709880684,0 
+						-0.4378700886896025,26.06641479062488,0 
+						-0.4375898114958687,26.06648374002008,0 
+						-0.4371651314893277,26.06653345847701,0 <!-- <POI>Siedlung:Bomed</POI> --> 
+						-0.4366357549682587,26.06650920022964,0 
+						-0.4361718463152564,26.06641016288799,0 
+						-0.4356931039447098,26.06623631348294,0 
+						-0.4353616203963695,26.06600413339274,0 
+						-0.4350970997914194,26.06567007587079,0 
+						-0.4347911109260938,26.06520534649949,0  <!-- <POI>SOE:Yaquirstraße</POI> --> 
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-0.974878</longitude>
+				<latitude>26.174384</latitude>
+				<altitude>170810</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

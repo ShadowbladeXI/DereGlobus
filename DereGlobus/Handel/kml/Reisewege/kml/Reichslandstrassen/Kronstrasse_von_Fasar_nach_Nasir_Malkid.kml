@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kronstraße von Fasar nach Nasir Malkid</name>
+	<open>1</open>
+		<Placemark> 	<!-- Kronstraße von Fasar nach Nasir Malkid-->
+			<name>Kronstraße von Fasar nach Nasir Malkid</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Kronstraße von Fasar nach Nasir Malkid</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> mit dem südlichen <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien">Aranien</a>. Sie führt dabei durch die Stadtstaaten <a href="http://www.wiki-aventurica.de/wiki/Emirat_Floeszern" title="Emirat Floeszern">Floeszern</a> und <a href="http://www.wiki-aventurica.de/wiki/Sultanat_Jindir" title="Sultanat Jindir">Jindir</a>.
+							</p>
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					4.55385606208605,26.52169606296301,0 	<!-- <POI>Siedlung:Fasar</POI> -->
+					4.553991603036273,26.52163585432657,0 
+					4.554274199233037,26.52142234241434,0 
+					4.554471063738115,26.52128407225175,0 
+					4.554612891064858,26.52120830712475,0 	<!-- <POI>Abzweig:Zedernstraße</POI> -->
+					4.555157348117181,26.52098023133291,0 
+					4.555765138049583,26.52077230286005,0 
+					4.556263684292712,26.52064569880486,0   <!-- Ende Detailkarte Fasar</POI> -->
+					4.55797953600065,26.52028886723796,0 
+					4.560379314791274,26.51901726890644,0 
+					4.562463182316732,26.51746318269379,0 
+					4.565163919490891,26.51425180886294,0 
+					4.568101239918418,26.51017197119679,0 
+					4.5770707414079,26.49775843790506,0 
+					4.589847291835101,26.48783313696326,0   
+					4.620836008845282,26.4725777261406,0 
+					4.643035421362525,26.47036243751186,0 
+					4.668140961361988,26.47065919460297,0 
+					4.699157245376848,26.46402157084951,0 
+					4.720605009861756,26.46557198526707,0 
+					4.743256276763987,26.46918971099894,0 
+					4.780801250009381,26.47615479209985,0 
+					4.790180268369497,26.47222589336747,0 
+					4.802347321771688,26.46300472483268,0 
+					4.810408672563247,26.45514095693564,0 
+					4.819106379769929,26.44691629186228,0 
+					4.825595256259558,26.44140109586452,0 
+					4.833278981721052,26.43961053569256,0 	<!-- <POI>Fluss:Gadang</POI> -->
+					4.842861595975652,26.43893649400833,0 	<!-- <POI>Siedlung:Floeszern</POI> --> <!-- <POI>Abzweig:Kronstrasse von Fasar nach Palmyrabad</POI> -->
+					4.843729172243439,26.4340995424981,0 
+					4.861052296085832,26.41466234095838,0 
+					4.888020100011044,26.40604102854785,0 
+					4.899378553727225,26.39864600504561,0 
+					4.918487427827945,26.36193474724173,0 
+					4.931444223835026,26.33527183089641,0 
+					4.934951073196667,26.32584657807319,0 
+					4.951704388257204,26.30735669112945,0 
+					4.965727156161217,26.29936611304163,0 
+					4.980673613474091,26.29974339123095,0   <!-- <POI>Siedlung:Ben-Oni</POI> --> <!-- <POI>Abzweig:Straße von Ben-Oni nach O'Habin</POI> -->
+					4.999035219022714,26.30673759895305,0 
+					5.022354700216485,26.3094665952628,0 
+					5.052705677242244,26.32163098422438,0 
+					5.084917095344379,26.32526819832142,0 
+					5.109204757036823,26.31917750786906,0 
+					5.136287107037118,26.30980449450067,0 
+					5.157029298827796,26.30356207519466,0 
+					5.176900702027877,26.28667002241558,0 
+					5.198901483997151,26.26735516329956,0 
+					5.218322939911284,26.25221722286601,0 
+					5.228306114445809,26.23499205720075,0 
+					5.246306705572295,26.22216976968743,0 
+					5.269509530899159,26.21182326507202,0 
+					5.281321155792364,26.20472375737763,0 
+					5.290650437494149,26.19406080365026,0 
+					5.297091225751583,26.1880566260722,0 
+					5.309421303331011,26.18348031015683,0   <!-- <POI>Siedlung:Jindir</POI> -->
+					5.337083116639643,26.17422139153209,0 
+					5.358927412479682,26.16962513467085,0 
+					5.378562242725757,26.16031901944958,0 
+					5.407570552571219,26.14618278785708,0 
+					5.431360832111718,26.14380287399533,0 
+					5.477643994134369,26.14280118319756,0 
+					5.497261553088128,26.13757769670266,0 
+					5.509918827110836,26.12639652643352,0 
+					5.521131312596115,26.10930059547606,0   <!-- <POI>Siedlung:Ulahbar</POI> --> <!-- <POI>Abzweig:Straße von Ulahbar nach Mherwed</POI> -->
+					5.535950806551842,26.10703899870448,0 
+					5.564042279665509,26.10821613374752,0 
+					5.585416673523643,26.11082458142095,0 
+					5.637567,26.115641,0 					<!-- <POI>Siedlung:Fennekesh</POI> --> <!-- <POI>Abzweig:Straße von Dorgulawend nach Fennekesh</POI> -->
+					5.712357826591347,26.09194362579383,0 
+					5.759622402690365,26.08215084159747,0 
+					5.81185639566862,26.07931658995102,0 
+					5.84498276188209,26.07328936168482,0 
+					5.88641137897032,26.05561279427497,0 	<!-- <POI>Siedlung:unbenannt</POI> -->
+					5.942800968773225,26.04259151791524,0 
+					5.977093296767659,26.04008220309667,0 
+					6.045907058541271,26.05324206559259,0 
+					6.097845,26.056624,0 					<!-- <POI>Siedlung:Nerenenah</POI> --> <!-- <POI>Abzweig:Straße von Moribis nach Nerenenah</POI> -->
+					6.163812603878334,26.05293274316335,0 
+					6.207195296939975,26.05148516644997,0 
+					6.238702544587285,26.05782208209598,0 
+					6.268107312322604,26.06103644714138,0 
+					6.312778588474917,26.06746390356751,0 
+					6.35830188689213,26.07032783381973,0 
+					6.381873785103769,26.06518202552308,0 
+					6.420819985084845,26.06308105532847,0 	<!-- <POI>Siedlung Nasir Malkid</POI> --> <!-- <POI>SOE:Transaranica</POI> --> <!-- <POI>SOE:Straße von Nasir Malkid nach Terekand</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>5.471697</longitude>
+				<latitude>26.325026</latitude>
+				<altitude>233540</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

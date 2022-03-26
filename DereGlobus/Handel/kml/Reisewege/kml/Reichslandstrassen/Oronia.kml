@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Oronia</name>
+	<open>1</open>
+		<Placemark> 	<!-- Oronia bis 1021 BF -->
+			<name>Oronia</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Oronia</b> ist eine <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien" class="mw-redirect">inneraranische</a> Straße, die <a href="http://www.wiki-aventurica.de/wiki/Llanka" title="Llanka">Llanka</a> mit <a href="http://www.wiki-aventurica.de/wiki/Elburum" title="Elburum">Elburum</a> verbindet. Sie ist größtenteils verfallen und im Abschnitt vor <a href="http://www.wiki-aventurica.de/wiki/Llanka" title="Llanka">Llanka</a> erheben <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Räuber "Wegzoll".
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						08.639863,27.820160,0 <!--<POI>Siedlung:Llanka</POI>SOE:Straße von Farukand nach Llanka-->
+						08.625093,27.799872,0 
+						08.624920,27.700083,0 
+						08.638044,27.679084,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						08.664660,27.653541,0 
+						08.672109,27.626547,0 
+						08.668329,27.604267,0 
+						08.657065,27.580447,0 
+						08.636110,27.534952,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						08.635814,27.485823,0 
+						08.628833,27.456601,0 
+						08.629313,27.428490,0 
+						08.633696,27.398955,0 
+						08.635525,27.367299,0 
+						08.635056,27.340536,0 <!--<POI>Siedlung:unbenannt</POI>--> <!--<POI>Abzweigung:Weg zu unbenannter Siedlung</POI>-->
+						08.647207,27.306391,0 
+						08.657338,27.271850,0 
+						08.666438,27.236469,0 
+						08.689190,27.196749,0 
+						08.698740,27.179505,0 
+						08.702337,27.173766,0 
+						08.704603,27.171190,0 
+						8.706347098751442,27.17018175098011,0  <!-- Anfang Detailkarte Elburum</POI> -->
+						8.707957194892295,27.16963426441007,0 
+						8.710725220795583,27.1689723942521,0   <!-- <POI>Station:Stadttor</POI> -->
+						8.71211824402681,27.16873764111722,0 
+						8.7129142410055,27.16875605568604,0 
+						8.714120357115768,27.16843312663083,0 
+						8.713988091299568,27.16778245162479,0 
+						8.713465284695358,27.16684312220027,0 
+						8.713328252409481,27.16614826961189,0   <!-- <POI>Siedlung:Elburum</POI> --> <!-- <POI>SOE:Elburnia</POI> --> <!-- <POI>SOE:Weg von Elburum nach Rathmos</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1021-12-31</when>
+				</gx:TimeStamp>
+				<longitude>8.669520</longitude>
+				<latitude>27.493154</latitude>
+				<altitude>130310</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1021-12-31</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> 	<!-- Oronia ab 1022 BF -->
+			<name>Oronia</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Oronia</b> ist eine <a href="http://www.wiki-aventurica.de/wiki/Aranien" title="Aranien" class="mw-redirect">inneraranische</a> Straße, die <a href="http://www.wiki-aventurica.de/wiki/Llanka" title="Llanka">Llanka</a> mit <a href="http://www.wiki-aventurica.de/wiki/Elburum" title="Elburum">Elburum</a> verbindet. Sie ist größtenteils verfallen und im Abschnitt vor <a href="http://www.wiki-aventurica.de/wiki/Llanka" title="Llanka">Llanka</a> erheben <a href="http://www.wiki-aventurica.de/wiki/Ferkina" title="Ferkina">Ferkina</a>-Räuber "Wegzoll".
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						08.639863,27.820160,0 <!--<POI>Siedlung:Llanka</POI>SOE:Straße von Farukand nach Llanka-->
+						08.625093,27.799872,0 
+						08.624920,27.700083,0 
+						08.638044,27.679084,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						08.664660,27.653541,0 
+						08.672109,27.626547,0 
+						08.668329,27.604267,0 
+						08.657065,27.580447,0 
+						08.636110,27.534952,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						08.635814,27.485823,0 
+						08.628833,27.456601,0 
+						08.629313,27.428490,0 
+						08.633696,27.398955,0 
+						08.635525,27.367299,0 
+						08.635056,27.340536,0 <!--<POI>Siedlung:unbenannt</POI>--> <!--<POI>Abzweigung:Weg zu unbenannter Siedlung</POI>-->
+						08.647207,27.306391,0 
+						08.657338,27.271850,0 
+						08.666438,27.236469,0 
+						08.689190,27.196749,0 
+						08.698740,27.179505,0 
+						08.702337,27.173766,0 
+						08.704603,27.171190,0 
+						8.706347098751442,27.17018175098011,0  <!-- Anfang Detailkarte Elburum</POI> -->
+						8.707957194892295,27.16963426441007,0 
+						8.710725220795583,27.1689723942521,0   <!-- <POI>Station:Stadttor</POI> -->
+						8.71211824402681,27.16873764111722,0 
+						8.7129142410055,27.16875605568604,0 
+						8.714120357115768,27.16843312663083,0 
+						8.713988091299568,27.16778245162479,0 
+						8.713465284695358,27.16684312220027,0 
+						8.713328252409481,27.16614826961189,0   <!-- <POI>Siedlung:Elburum</POI> --> <!-- <POI>SOE:Elburnia</POI> --> <!-- <POI>SOE:Weg von Elburum nach Rathmos</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>8.669520</longitude>
+				<latitude>27.493154</latitude>
+				<altitude>130310</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1022</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

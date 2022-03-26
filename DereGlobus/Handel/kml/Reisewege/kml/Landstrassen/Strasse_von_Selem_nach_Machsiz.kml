@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Selem nach Machsiz</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Selem nach Machsiz-->
+			<name>Straße von Selem nach Machsiz</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Straße von Selem nach Machsiz</b> verläuft durch das <a href="http://www.wiki-aventurica.de/wiki/Szintotal" title="Szintotal">Szintotal</a> am <a href="http://www.wiki-aventurica.de/wiki/Szinto" title="Szinto">namensgebenden Fluss</a> entlang. In den Orten <a href="http://www.wiki-aventurica.de/wiki/Abszint" title="Abszint">Abszint</a> und <a href="http://www.wiki-aventurica.de/wiki/Malkillabad" title="Malkillabad">Malkillabad</a> können regional bedeutende <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> genutzt werden.
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.490046393062058,22.14543002168803,0 	<!-- <POI>Siedlung:Machsiz</POI> --> <!-- <POI>SOE:Karawanenroute von Keft nach Machsiz</POI> --> <!-- <POI>SOE:Stra�e von Qir nach Machsiz</POI> -->
+					2.501421699228255,22.1267776973823,0 
+					2.514743094048917,22.1111776370268,0 
+					2.512039288015391,22.07641568463872,0 
+					2.492137666508152,22.05344086227216,0  <!-- <POI>Siedlung:Theves</POI> -->					
+					2.49329943791363,22.00004576338755,0 
+					2.507680494358,21.97907844785791,0 
+					2.507508184014786,21.96971569525418,0 
+					2.503602343857463,21.95907469241986,0 
+					2.501776784660352,21.92718430807526,0 
+					2.489382258574933,21.90476781750125,0 
+					2.471657889252177,21.882614730948,0 
+					2.466929400676667,21.8599113964255,0 
+					2.450165523032184,21.82964141610085,0 
+					2.447135291729283,21.8035463594106,0 
+					2.460020350915941,21.77693916047813,0  <!-- <POI>Siedlung:Malkillabad</POI> --> <!-- <POI>Abzweig:Karawanenroute von Malkillabad nach Unau</POI> -->
+					2.459056898331449,21.74419568565667,0 
+					2.432478676045866,21.70198498062434,0 
+					2.402370649369165,21.67082591171693,0 
+					2.374769342211183,21.65002005188464,0 
+					2.331654143410762,21.59676627425935,0 
+					2.304536074228634,21.58175841185727,0 
+					2.278850205152356,21.56879811674444,0  <!-- <POI>Siedlung:Krividhan</POI> -->
+					2.248038385418023,21.5648850227101,0 
+					2.223834178455886,21.54951366659959,0 
+					2.179472083656413,21.50386689795645,0 
+					2.156298584848542,21.48350094019506,0 
+					2.132414723029337,21.47158379004324,0  <!-- <POI>Siedlung:Halderot</POI> -->
+					2.100247177793442,21.43542171395161,0 
+					2.075163856516979,21.40120018701442,0 
+					2.059778616687304,21.38915957560972,0 
+					2.046618007519894,21.3697384604719,0 
+					1.990933677498603,21.33471496653773,0  <!-- <POI>Siedlung:Abszint</POI> --> <!-- <POI>Abzweig:Arratischer Weg</POI> --> <!-- <POI>Flussquerung:Nagwa</POI> -->
+					1.954478535332931,21.28715238808713,0 
+					1.939914410264441,21.25005009919512,0 
+					1.918940649441134,21.20923197882812,0 
+					1.890538163373816,21.18318551447132,0 
+					1.8657916638283,21.16426455904868,0 
+					1.853506915008918,21.14128339807651,0 
+					1.822168868241396,21.11444595569913,0 
+					1.766681786317161,21.0884309338609,0 
+					1.732064411995653,21.05316733069357,0 
+					1.711346757512682,21.02100964166525,0 
+					1.71130538375702,21.00677050257013,0  <!-- Beginn Detailkarte Selem -->
+					1.711034315101359,21.00618398485371,0 
+					1.710876854483894,21.00555821545102,0 
+					1.710982872357034,21.00509217671821,0 
+					1.711109509711597,21.0047769801542,0 
+					1.711068142327339,21.00452311388509,0 
+					1.71070434206982,21.00382412877316,0 
+					1.710364174488197,21.00340256090141,0 
+					1.709521570253592,21.00273801153206,0 
+					1.708535527971467,21.00205182051557,0 
+					1.707610730532858,21.00162292865933,0 
+					1.707202370041716,21.00131687384094,0 
+					1.706932453040206,21.00102837873531,0 
+					1.706598587438142,21.00054465432228,0 
+					1.706393063800813,20.99991303644415,0 
+					1.706199568694515,20.99919834244866,0  <!-- <POI>SOE:Karawanenroute von Mirham nach Selem</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.110471</longitude>
+				<latitude>21.572339</latitude>
+				<altitude>198830</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

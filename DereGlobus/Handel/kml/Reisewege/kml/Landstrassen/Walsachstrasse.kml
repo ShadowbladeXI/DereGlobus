@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Walsachstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Walsachstraße-->
+			<name>Walsachstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Walsachstraße</b>, auch <b>Walsachstieg</b>, ist eine <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">bornische</a> Handelsstraße und führt von <a href="http://www.wiki-aventurica.de/wiki/Neersand" title="Neersand">Neersand</a> am westlichen <a href="http://www.wiki-aventurica.de/wiki/Walsach" title="Walsach">Walsachufer</a> nach <a href="http://www.wiki-aventurica.de/wiki/Trallsky" title="Trallsky">Trallsky</a>. Der zu einem großen Teil gepflasterte Weg führt weiter nach <a href="http://www.wiki-aventurica.de/wiki/Brinbaum" title="Brinbaum">Brinbaum</a>, wo die <a href="http://www.wiki-aventurica.de/wiki/Kronstra%C3%9Fe_%28Bornland%29" title="Kronstraße (Bornland)">Kronstraße</a> nach <a href="http://www.wiki-aventurica.de/wiki/Norburg" title="Norburg">Norburg</a> beginnt. Der größte Teil des Handelsverkehrs wird aber auf dem Walsach abgewickelt.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						11.18171019264874,34.27925949740381,0  <!--<POI>Siedlung:Neersand</POI>--> <!--<POI>SOE:Küstenstraße von Festum nach Neersand</POI>-->
+						11.18175857813683,34.28050265347073,0 
+						11.18125380100622,34.2817199667915,0 
+						11.18085369879973,34.28272902137039,0  <!-- Ende Detailkarte Neersand -->
+						11.18136132050165,34.29206622416514,0 
+						11.21841200574743,34.34876945495466,0 
+						11.2212213927559,34.36592539970128,0 
+						11.23268150492,34.38001732952182,0 
+						11.23483832159312,34.41604826439617,0   <!--<POI>Siedlung:Pjeschen</POI>--> 
+						11.2263891837441,34.42964860030584,0 
+						11.22358394806021,34.46406335572542,0 
+						11.21634542414658,34.48455509642646,0 
+						11.18208794030711,34.50695369432011,0 
+						11.16913635739213,34.5254651651617,0 
+						11.15512446378118,34.5376363002514,0 
+						11.14194727369549,34.55341834979753,0 
+						11.13369738947968,34.55431432608462,0 
+						11.11593227680511,34.54703278855471,0 
+						11.10631294010067,34.53749074583993,0 
+						11.08486736078617,34.53268697816976,0 
+						11.05944110200719,34.54088340677314,0 
+						11.04325750374281,34.54676231908216,0   <!--<POI>Siedlung:Elkenacker</POI>--> 
+						11.03504149726122,34.54810851479489,0 
+						11.02661475828643,34.54672370018198,0 
+						11.00207593368717,34.5667482740939,0 
+						10.99163675099639,34.57093562534889,0 
+						10.97280894257668,34.56414465064539,0 
+						10.95246736572763,34.55925849516701,0   
+						10.92750321439204,34.56648886639232,0 
+						10.8960317991383,34.59050372445287,0 <!--<POI>Siedlung:Rivilauken</POI>--> <!--<POI>Abzweig:Kronstraße von Hinterbruch nach Riwilauken</POI>-->
+						10.88866524105739,34.60322457536931,0 
+						10.85927306267229,34.61845003837582,0 
+						10.84801985315299,34.63137439241767,0   <!--<POI>Siedlung:Elkfurten</POI>--> 
+						10.83770762826146,34.64907101558359,0 
+						10.82957325127685,34.6590747400674,0 
+						10.81850760117986,34.65963392438462,0 
+						10.80600396451906,34.6780783858668,0 
+						10.77643965180292,34.69874965330069,0 
+						10.76970665843643,34.71279248487686,0 
+						10.76851828625072,34.76403679751904,0   <!--<POI>Siedlung:Elkauen</POI>--> 
+						10.76874160329955,34.81952895661731,0 
+						10.77422803520416,34.83341958865355,0 
+						10.77291568588151,34.85313755394174,0 
+						10.78578882447213,34.868950785289,0 
+						10.7879636772996,34.90542907533246,0 
+						10.80362267885713,34.92207035483762,0   <!--<POI>Siedlung:Trachau</POI>--> 
+						10.79958478980129,34.95743732118804,0 
+						10.78980850731641,34.97573872079059,0 
+						10.79302195252904,35.01120340428332,0 
+						10.80029503764884,35.02637098113452,0 
+						10.80180247005025,35.07610536879887,0
+						10.80864976107523,35.11508565279308,0 
+						10.81178619367141,35.1423746487593,0 
+						10.83554584203755,35.18321169911116,0
+						10.84962754438743,35.22135350710482,0 
+						10.84895472672544,35.27123700155397,0 
+						10.85437594148756,35.30659353238509,0 
+						10.88012433094705,35.34320597132396,0 
+						10.88849679998895,35.38664752401142,0
+						10.89451685973462,35.43571671191378,0
+						10.89700653308404,35.45342903252087,0   <!--<POI>Siedlung:Festung Elekoje</POI>--> <!--<POI>Abzweig:Weg von Jassuula nach Elekoje</POI>--> 
+						10.90659291648865,35.46850233259175,0   <!-- <POI>Fluss:Ele</POI> -->
+						10.92193744026852,35.48929446661441,0   <!--<POI>Siedlung:Trallsky</POI>-->
+						10.95135552811181,35.51428239243287,0 
+						10.99408844611685,35.54406838356656,0 
+						11.01798797288885,35.57665366988037,0 
+						11.04305768958925,35.64486375992945,0   <!--<POI>Siedlung:Brinbaum</POI>--> <!--<POI>SOE:Kronstraße von Norburg nach Brinbaum</POI>--> <!-- <POI>Fluss:Brinna</POI> -->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>10.801331</longitude>
+				<latitude>34.980706</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

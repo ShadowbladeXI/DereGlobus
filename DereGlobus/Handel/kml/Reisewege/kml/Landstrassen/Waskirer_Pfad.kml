@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Waskirer Pfad</name>
+	<open>1</open>
+		<Placemark> 	<!-- Waskirer Pfad-->
+			<name>Waskirer Pfad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Waskirer Pfad</b> ist ein Karrenweg in <a href="http://www.wiki-aventurica.de/wiki/Nordthorwal" title="Nordthorwal">Nordthorwal</a>, der <a href="http://www.wiki-aventurica.de/wiki/Waskir" title="Waskir">Waskir</a>, <a href="http://www.wiki-aventurica.de/wiki/Tyldon" title="Tyldon">Tyldon</a> und <a href="http://www.wiki-aventurica.de/wiki/Skovbjerg" title="Skovbjerg">Skovbjerg</a> verbindet.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.502007675203799,34.75105454244421,0  <!--<POI>Siedlung:Warunk</POI>--> <!-- <POI>SOE:Straße von Meryt nach Warunk</POI> --> <!--<POI>SOE:Weg von Warunk nach Siljen</POI>--> <!--<POI>SOE:Graubjergener Höhenweg</POI>--> 
+						-4.560189656663571,34.692912797602,0 
+						-4.568771026683828,34.648976234008,0 
+						-4.589375552066053,34.62297536203096,0 
+						-4.569783067406084,34.5193878637701,0 
+						-4.569676854341931,34.4743830353649,0 
+						-4.584919412904474,34.44471423182034,0  <!--<POI>Siedlung:Tyldon</POI>--> <!--<POI>Abzweigung:Weg von Vidsand nach Tyldon</POI>-->
+						-4.626351333451012,34.40611433240772,0 
+						-4.638260491481693,34.38632315697803,0 
+						-4.663881254141793,34.29734232827933,0 
+						-4.65839794775308,34.24740653684773,0 
+						-4.639653611567275,34.20200231702113,0 
+						-4.621016561954495,34.18632588375851,0  <!--<POI>Siedlung:Skovbjerg</POI>--> <!-- <POI>SOE:Weg von Liskor nach Skovbjerg</POI> --> <!--<POI>SOE:Hjaldorpass</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-4.583340</longitude>
+				<latitude>34.463110</latitude>
+				<altitude>130000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

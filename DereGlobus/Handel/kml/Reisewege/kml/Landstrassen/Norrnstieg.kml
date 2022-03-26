@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Nôrrnstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Nôrrnstieg-->
+			<name>Nôrrnstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Nôrrnstieg</b> führt über den <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a> und verläuft von <a href="http://www.wiki-aventurica.de/wiki/Yrramis" title="Yrramis">Yrramis</a> über <a href="http://www.wiki-aventurica.de/wiki/Nordhag_%28Weiden%29" title="Nordhag (Weiden)">Nordhag</a> nach <a href="http://www.wiki-aventurica.de/wiki/Greifenfurt" title="Greifenfurt">Greifenfurt</a>. Er ist mit Wagen und Fuhrwerken passierbar.
+							</p>
+							<p>
+							Zwischen <a href="http://www.wiki-aventurica.de/wiki/Yrramis" title="Yrramis">Yrramis</a> über <a href="http://www.wiki-aventurica.de/wiki/Nordhag_%28Weiden%29" title="Nordhag (Weiden)">Nordhag</a> ist er als <b>Finsterkammpass</b> und <b>Saljethstieg</b> (nicht zu verwechseln mit dem <a href="http://www.wiki-aventurica.de/wiki/Saljethweg" title="Saljethweg">Saljethweg</a>) bekannt. Der zweite Abschnitt ist Teil des <a href="http://www.wiki-aventurica.de/wiki/Markenweg" title="Markenweg">Markenwegs</a>.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.465888440804024,32.81585230390425,0 <!--<POI>Siedlung:Nordhag (Weiden)</POI>--> <!--<POI>SOE:Alter Weg</POI>--> <!--<POI>SOE:Saljethstieg</POI>--> <!--<POI>SOE:Alte Straße</POI>--> <!--<POI>SOE:Straße von Nordhag nach Reichsweg</POI>-->
+					3.447392552948727,32.79566965704239,0 
+					3.418794726933991,32.75192574368972,0 
+					3.383070728573419,32.7285820641436,0 
+					3.342458864040276,32.69812987496419,0
+					3.295965631419928,32.62562859751618,0 
+					3.233225885618767,32.59114263663267,0 
+					3.204885627350482,32.56945809893389,0
+					3.147530026829359,32.49251952474298,0 
+					3.14846702157771,32.40942171704555,0 
+					3.124622322832169,32.38362770461143,0
+					3.100423201437279,32.37034255926966,0 
+					3.053211538509666,32.33232802273379,0 <!-- <POI>Flussquerung:Dergel</POI> -->
+					3.03089295272275,32.29342713221049,0 <!--<POI>Siedlung:Waldrast</POI>-->
+					3.003093191251924,32.27033767473058,0
+					2.982530082086656,32.2400897812022,0 
+					2.947958072423977,32.22262767176747,0 
+					2.925821245600442,32.19375881588425,0
+					2.914140276586192,32.151248092793,0 
+					2.896451471076051,32.12506860953767,0 
+					2.86872730428722,32.09922464999609,0 
+					2.859674090215372,32.04638515778734,0 
+					2.846833488862188,32.0147560321106,0 
+					2.816342468086732,31.98093827036923,0 <!--<POI>Siedlung:Gut Boronshof</POI>-->
+					2.79485831670431,31.90542233705757,0 
+					2.75062829427204,31.86432140381491,0 
+					2.738348281544296,31.83335234302248,0 
+					2.736584436309206,31.78451516172214,0 
+					2.730232854009993,31.76126039225678,0 <!--<POI>Siedlung:Hundsgrab</POI>--> <!--<POI>Abzweig:Straße von Hundsgrab nach Eslamsroden</POI>-->
+					2.715229746383279,31.73489427758476,0
+					2.697032866448785,31.71433053114461,0 
+					2.67972827992677,31.70732809064293,0 
+					2.656789396920145,31.68740914418025,0
+					2.619600214243938,31.62867471853116,0 
+					2.562837761413699,31.58864812901086,0 
+					2.525666893097061,31.54921690329881,0
+					2.505799546193397,31.51183984978571,0
+					2.474118466956965,31.47842660130971,0 
+					2.460199455871908,31.43769416690167,0 
+					2.440765179284872,31.41359784133716,0 
+					2.403370698294216,31.3962755599972,0
+					2.350913761033027,31.3577161959167,0 
+					2.269572164599696,31.32799420099201,0 
+					2.269549103549626,31.32770131895811,0 <!--<POI>Siedlung:Greifenfurt</POI>--> <!--<POI>Station:Stadttor</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.974507</longitude>
+				<latitude>32.082974</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

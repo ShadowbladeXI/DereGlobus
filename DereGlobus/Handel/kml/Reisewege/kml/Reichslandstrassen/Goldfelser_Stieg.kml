@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Goldfelser Stieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Goldfelser Stieg-->
+			<name>Goldfelser Stieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Goldfelser Stieg</b> (<a href="http://www.wiki-aventurica.de/wiki/Bosparano" title="Bosparano">bosp.</a>: <i>Via Aurea</i>) bezeichnet die im <a href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld" title="Liebliches Feld">Lieblichen Feld</a> gelegene <a href="http://www.wiki-aventurica.de/wiki/Kronstra%C3%9Fe_%28Horasreich%29" title="Kronstraße (Horasreich)">Kronstraße</a>, die von <a href="http://www.wiki-aventurica.de/wiki/Vinsalt" title="Vinsalt">Vinsalt</a> über <a href="http://www.wiki-aventurica.de/wiki/Sibur" title="Sibur">Sibur</a> und <a href="http://www.wiki-aventurica.de/wiki/Nadoret" title="Nadoret">Nadoret</a> nach <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> verläuft. Die dabei zu überquerenden Brücken über <a href="http://www.wiki-aventurica.de/wiki/Sikram" title="Sikram">Sikram</a> und <a href="http://www.wiki-aventurica.de/wiki/Mardilo" title="Mardilo">Mardilo</a> gelten als Meisterwerke der <a href="http://www.wiki-aventurica.de/wiki/Baukunst" title="Baukunst">Baukunst</a>.
+
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					-0.5553890233480241,25.59232521217543,0  <!-- <POI>SOE:Yaquirstraße</POI> --> 
+					-0.5553858825760116,25.59167692312421,0 
+					-0.554180525393756,25.59105875742542,0 
+					-0.553621512965049,25.59121052001019,0 
+					-0.553370620950665,25.59071517434918,0 
+					-0.5525335492939454,25.58891059436851,0  <!-- <POI>Fluss:Yaquir</POI> -->
+					-0.5524731749100931,25.58869576928024,0 
+					-0.5524675258231848,25.58847695660214,0 
+					-0.5525553346776524,25.58815361727596,0 
+					-0.5526518821863502,25.58794424826083,0 
+					-0.5530033050409366,25.5873958201727,0 
+					-0.5537510749714125,25.58611159001746,0 
+					-0.5542475105673539,25.58522273945209,0 
+					-0.5545298855074543,25.58478456004445,0 
+					-0.554884479557467,25.58412688123769,0 
+					-0.5550746093701608,25.58357855251845,0 
+					-0.5552362201507588,25.58269261941133,0 
+					-0.5552972728089878,25.58203262359839,0 
+					-0.5553590525878405,25.58178780229326,0 
+					-0.5553478339749018,25.58085915193302,0  <!-- Ende Detailkarte Vinsalt -->
+					-0.5554570355287114,25.5788921502825,0 
+					-0.5555869877557806,25.57570205508275,0 
+					-0.5555720867521496,25.57487284139283,0  <!-- Ende Detailkarte Vinsalt-Region --> <!-- <POI>Abzweig:Straße nach Aldyra</POI> --> 
+					-0.5536254432570908,25.57236445667415,0 
+					-0.5227486643761459,25.56779805541703,0 
+					-0.5118850146124154,25.55613258845198,0  <!-- <POI>Siedlung:Viaurelia</POI> -->
+					-0.5043106798564156,25.52293956902998,0 
+					-0.5002322707553475,25.48704958431232,0  <!-- <POI>Siedlung:Centano</POI> --> <!-- <POI>Abzweig:Straße nach Sibur</POI> -->
+					-0.4641539783192872,25.45988778992767,0 
+					-0.4336761849120119,25.41411525310589,0 
+					-0.4145464158025491,25.41308034730292,0 
+					-0.3519171556811129,25.36856440241499,0  <!-- <POI>Siedlung:Radoleth</POI> --> <!-- <POI>Abzweig:Sikramstieg</POI> -->
+					-0.387183805124578,25.33235347119047,0 
+					-0.4070819053257802,25.29284708078145,0 
+					-0.4097444610075918,25.25379937079203,0 
+					-0.4184953547018278,25.2284993424779,0 
+					-0.4370020326888324,25.20632320211692,0  <!-- <POI>Abzweig:Straße nach Sibur</POI> -->
+					-0.439726999903346,25.19842772853839,0   <!-- <POI>Siedlung:Sibur</POI> --> <!-- <POI>Abzweig:Sikramstieg</POI> -->
+					-0.4206080044614813,25.1709293099711,0   <!-- <POI>Fluss:Sikram</POI> -->
+					-0.4190768610507611,25.03086490955893,0 
+					-0.4292084196121815,24.99810529425401,0 
+					-0.4588599411148597,24.94851217275884,0  <!-- <POI>Fluss:Mardilo</POI> --> <!-- <POI>Siedlung:Marudret</POI> --> <!-- <POI>Abzweig:Weg nach Marvinko</POI> -->
+					-0.4633970403771115,24.845228557511,0 
+					-0.4520289855565784,24.81965546417622,0 
+					-0.4511066709473222,24.7889747497835,0 
+					-0.4374684818895069,24.75868543315173,0 
+					-0.4353539754116242,24.73578664275456,0 
+					-0.425777247502066,24.71544112065518,0 
+					-0.4377100888366758,24.69385833122797,0  <!-- <POI>Siedlung:Onjaro</POI> --> <!-- <POI>Abzweig:Weg nach Parsek</POI> -->
+					-0.4458702791448166,24.67185357773386,0  <!-- <POI>Fluss:Onjet</POI> -->
+					-0.4771764461862493,24.6408490077474,0 
+					-0.4847252620226517,24.62045273419898,0 
+					-0.4964657308747977,24.60564649231736,0 
+					-0.5060749770388051,24.58553265751124,0 
+					-0.5392773902452375,24.56351391469439,0 
+					-0.5903616445932902,24.53608770948658,0  <!-- <POI>SOE:Seneb-Horas-Straße</POI> --> 
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-0.486563</longitude>
+				<latitude>25.001203</latitude>
+				<altitude>219790</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

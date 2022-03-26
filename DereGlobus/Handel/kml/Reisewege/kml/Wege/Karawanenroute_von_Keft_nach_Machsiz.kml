@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Keft nach Machsiz</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Keft nach Machsiz-->
+			<name>Karawanenroute von Keft nach Machsiz</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <i>Karawanenroute von Keft nach Machsiz</i> beginnt am Knotenpunkt aller <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Khom" title="Khom" class="mw-redirect">Khom</a>, in <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a> und führt über <a href="http://www.wiki-aventurica.de/wiki/Manesh" title="Manesh">Manesh</a> und <a href="http://www.wiki-aventurica.de/wiki/Hawwah&amp;action=edit&amp;redlink=1" class="new" title="Hawwah (Seite nicht vorhanden)">Hawwah</a> nach <a href="http://www.wiki-aventurica.de/wiki/Machsiz" title="Machsiz">Machsiz</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					3.187454240589658,23.55705935898839,0 	<!-- <POI>Siedlung:Keft</POI> --> <!-- <POI>Station:Karawanserei</POI> --> <!-- <POI>SOE:Karawanenroute von Keft nach Machsiz</POI> -->
+					3.1875117557896,23.55630747387184,0 
+					3.18762315523349,23.55629348014601,0 
+					3.187623958806598,23.55595866553747,0 
+					3.187792502164988,23.55593901046633,0 
+					3.188204007638644,23.55576681532066,0 
+					3.188289107643207,23.55568429506631,0 
+					3.188988643623409,23.55526857163304,0 
+					3.189486973562083,23.55495692256217,0 
+					3.189813021176791,23.55465334110473,0 
+					3.190293879889219,23.55411593064112,0 
+					3.190523870372177,23.55389613023226,0 
+					3.190812383640074,23.55367008484044,0 
+					3.191076646621132,23.55336061872508,0 
+					3.191320664791781,23.55296589054258,0 
+					3.191520598357485,23.55256122201294,0 
+					3.191655190423477,23.55220245804926,0 	<!-- Ende Detailkarte: Keft -->
+					3.192125256404597,23.5452116114205,0 
+					3.162109271418925,23.54145809949818,0 
+					3.147740679247568,23.53552402745342,0 
+					3.109750122728017,23.45758763374273,0 
+					3.1039592595469,23.4487894203127,0 
+					3.087248409198751,23.38599370565251,0 
+					3.069763830403769,23.35922557545492,0 
+					3.032579052414137,23.33302072733525,0 
+					2.999603299196303,23.29745213112647,0 
+					2.969358162206539,23.25829111003112,0 
+					2.946947755327134,23.24309686082103,0 
+					2.913423219774605,23.2188352185294,0 
+					2.891606955847577,23.19829110386139,0 
+					2.885102026533757,23.18269795545393,0 
+					2.879819274152535,23.16724959579791,0 
+					2.856418743963369,23.15172888364559,0 
+					2.843651776085823,23.1326872698362,0 
+					2.847697530136097,23.09850096287778,0 
+					2.83057005586087,23.05471633949952,0 
+					2.823362759369812,23.02460785973208,0 
+					2.820528176828623,22.98940434735817,0 
+					2.82546076807138,22.95883741601928,0 	<!-- <POI>Siedlung:Manesh</POI> -->
+					2.819429817915182,22.94659279071717,0 
+					2.818666806872374,22.89331142610297,0 
+					2.79854052265514,22.87249195533092,0 
+					2.766209889312066,22.85946337569466,0 
+					2.749047657676129,22.80534348703267,0 
+					2.732435304201697,22.77216714711489,0 
+					2.71122721266176,22.75626202256058,0 
+					2.700141063584536,22.73091896733423,0 	<!-- Anfang Gebirge -->
+					2.680446197516506,22.70945464115686,0 
+					2.681462932159824,22.67571934905952,0 
+					2.692562423297764,22.6646582519336,0 
+					2.693754330317886,22.65463912509535,0 
+					2.713076885594319,22.64432099546559,0 
+					2.71597221685804,22.6315849935759,0 
+					2.702873566873074,22.61014713442235,0 	<!-- Ende Gebirge -->
+					2.692760782897969,22.58929692694783,0 
+					2.668217407446418,22.56575408716231,0 
+					2.660908145339189,22.55284508759522,0 
+					2.66286072478422,22.52208755763382,0 
+					2.672234080362912,22.49823440399418,0 
+					2.677299547018861,22.47575540021613,0 
+					2.677300625096188,22.42741339022168,0 	<!-- <POI>Siedlung:Hawwah</POI> -->
+					2.660716135297963,22.4079659800274,0 
+					2.627621742182462,22.38853677775073,0 
+					2.622486800224702,22.38161197107786,0 
+					2.617365904699178,22.36557500699946,0 
+					2.590264281460457,22.3396119387489,0 
+					2.573447976573047,22.30655515115012,0 
+					2.569076878430965,22.27290319764533,0 
+					2.560323235429207,22.25466671615233,0 
+					2.557268089997267,22.23297071124572,0 
+					2.540558534685116,22.2071018825159,0 	
+					2.510811423392414,22.18081891107384,0   <!-- <POI>Abzweig:Straße von Qir nach Machsiz</POI> -->
+					2.496660865126348,22.16857919074881,0   <!-- <POI>Flussquerung:Szinto</POI> -->
+					2.490046393062058,22.14543002168803,0 	<!-- <POI>Siedlung:Machsiz</POI> --> <!-- <POI>SOE:Karawanenroute von Keft nach Machsiz</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.841085824733328</longitude>
+				<latitude>22.85124469033821</latitude>
+				<altitude>224000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

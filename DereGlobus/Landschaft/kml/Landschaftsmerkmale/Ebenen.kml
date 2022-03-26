@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Ebenen</name>
+
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Ebenen Aventuriens</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Ebenen/Ebenen_Aventuriens.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink>
+		<visibility>1</visibility>
+		<name>Ebenen Rakshazars</name>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/Landschaftsmerkmale/Ebenen/Ebenen_Rakshazars.kml</href>
+		</Link>
+	</NetworkLink>
+	
+</Document>
+</kml>

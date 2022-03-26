@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<GroundOverlay>
+	<name>Rakshazar</name>
+	<drawOrder>10</drawOrder>
+	<Icon>
+		<href>http://www.dereglobus.orkenspalter.de/public/Medien/Kontinente/media/Rakshazar/Rakshazar.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>56.74077927769645</north>
+		<south>2.904595940080863</south>
+		<east>69.49764543749859</east>
+		<west>12.96520920142949</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

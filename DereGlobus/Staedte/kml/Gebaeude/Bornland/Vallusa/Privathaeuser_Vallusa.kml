@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Privathäuser_Vallusa.kml</name>
+	<open>1</open>
+    <Folder>
+		<name>Privathäuser_Vallusa</name>
+		<Region>
+			<LatLonAltBox>
+				<north>32.96102482508957</north>
+				<south>32.95491620430128</south>
+				<east>9.706042561241496</east>
+				<west>9.696376278892609</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>256</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+    </Folder>
+</Document>
+</kml>

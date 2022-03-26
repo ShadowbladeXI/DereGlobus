@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Charypso nach Altaïa</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Charypso nach Altaïa-->
+			<name>Weg von Charypso nach Altaïa</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.737109867821249,17.05642135303707,0  <!-- <POI>Siedlung:Charypso</POI> --> 
+						1.73859051309168,17.05670588905107,0 
+						1.739361357258917,17.05674235439714,0 
+						1.740582502745927,17.0569174375821,0   <!-- Ende Detailkarte Charypso -->
+						1.74145258301498,17.05715089946487,0 
+						1.806029695811771,17.05788003401827,0 
+						1.859906161808238,17.01225262191867,0 
+						1.876855398397834,16.98777538925862,0 
+						1.921701947942927,16.96196984058512,0 
+						1.936487923162307,16.93954921906874,0 
+						1.944039555595805,16.89581942060765,0 
+						1.976534862226544,16.86480052772121,0  <!-- <POI>Siedlung:Edas</POI> --> 
+						2.016737342569559,16.84270894218031,0 
+						2.090828310293058,16.84205705963553,0 
+						2.10943953766797,16.84706792042088,0   <!-- <POI>Flussquerung:Ilara</POI> -->
+						2.148838957709147,16.79126516282318,0 
+						2.152368133858886,16.75673760965765,0 
+						2.141485448318581,16.72568725314881,0 
+						2.144877522995285,16.70926892675357,0 
+						2.183901060989635,16.6786481859819,0 
+						2.203230372858673,16.64833117110885,0  <!-- <POI>Siedlung:Altaïa</POI> --> 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>1.970170</longitude>
+				<latitude>16.853106</latitude>
+				<altitude>115690</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

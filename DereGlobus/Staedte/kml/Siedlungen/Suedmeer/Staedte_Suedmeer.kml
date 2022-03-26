@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+    				<Region>
+					<LatLonAltBox>
+		<north>14.55156357881777</north>
+		<south>1.438521030845794</south>
+		<east>12.6300224329932</east>
+		<west>-3.57119778085097</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>1000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+
+		<Placemark>
+			<name>Ghurenia</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/2/2a/Ghureniawappenklein.gif" width="100" height="122" align="right"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+Die enge Stadt <b>Ghurenia</b> auf den Kalkfelsen der <a href="http://www.wiki-aventurica.de/wiki/Ghurenia_%28Insel%29" title="Ghurenia (Insel)">gleichnamigen Insel</a> im <a href="http://www.wiki-aventurica.de/wiki/S%C3%BCdmeer" title="Südmeer">Südmeer</a> wurde nach einer <a href="http://www.wiki-aventurica.de/wiki/Bosparan" title="Bosparan">bosparanischen</a> <a href="http://www.wiki-aventurica.de/wiki/Oktere" title="Oktere">Oktere</a> benannt, die <a href="http://www.wiki-aventurica.de/wiki/Chronik:999_v._BF_bis_0_BF" title="Chronik:999 v. BF bis 0 BF">546 v. BF</a> hier strandete. Unter dem heutigen Praefos wurde die Stadt Teil der <a href="http://www.wiki-aventurica.de/wiki/Goldene_Allianz" title="Goldene Allianz">Goldenen Allianz</a>. Die Bewohner des entlegenen und weithin unbekannten Ghurenia, die streng genommen außerhalb <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a> leben, ernähren sich von Shatakwurz und Erdnüssen. Da Ghurenia wenig Platz bietet, verfügt die Stadt über viele Tunnel und Höhlen. Das und der Leuchtturm erklärt die hiesige Gilde der Beleuchter.
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+<LookAt>
+				<longitude>5.278399155335389</longitude>
+				<latitude>11.90387741633807</latitude>
+				<altitude>0</altitude>
+				<range>80590.49314594893</range>
+				<tilt>0</tilt>
+				<heading>0.01184936664652846</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt-X</styleUrl>
+			<Point>
+				<coordinates>5.205361227251498,11.91834132430143,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

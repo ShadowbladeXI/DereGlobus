@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Chabab und Nebenflüsse</name>
+	   <open>0</open>
+   <Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Kachabi</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung des Flusses mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				1.02188979938173,22.84017945460174,0 0.9881710517296383,22.85522683962116,0 0.9540214964061899,22.84337961667485,0 0.943825045659874,22.84667064092311,0 0.9139483051184771,22.88490968359243,0 0.8972266816034491,22.89316363684567,0 0.8734134378968417,22.91186782575655,0 0.8661482303069068,22.9338993120318,0 0.8780791485523087,22.97651953783897,0 0.8652315389325782,23.00412699240786,0 0.845694343453034,23.01516502507786,0 0.8313048782071886,23.0268629208684,0 0.8218780347993704,23.05080724527448,0 0.8109499155310052,23.06730719946261,0 0.7890363763854369,23.08337037331405,0 0.7631721267633451,23.08392603153977,0 0.7345984648630788,23.10034954521241,0 0.7167085030517217,23.12420271955213,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Therkabas</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung des Flusses mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				1.190677144537804,23.22484710912358,0 1.151209620737934,23.21238343164712,0 1.113182330670399,23.20275263593967,0 1.084279202839455,23.20079400077844,0 1.047247563485936,23.17942793692436,0 1.030708784791832,23.17225603590401,0 1.000606320375783,23.17665594043891,0 0.986887177112119,23.18748250753011,0 0.958814861756232,23.18536250890984,0 0.927165694150438,23.17383793527767,0 0.9111264646283823,23.1773514474348,0 0.8929782979270962,23.17044204343205,0 0.8713633377271357,23.17952347148551,0 0.8386148398898952,23.18741819657365,0 0.8222928140118868,23.17710835644779,0 0.8054287528705251,23.15995790703078,0 0.7846386075293577,23.15656302129557,0 0.7698445579027347,23.14136428726422,0 0.732605953667782,23.13536063196925,0 0.7152453304543194,23.12377016049545,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Chabab</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Chabab</b> (<a href="http://www.wiki-aventurica.de/wiki/Tulamidya" title="Tulamidya">tul.</a> <i>habibi</i>: Gefährte) ist ein Fluss im <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a>, der lange die Grenze zwischen dem <a href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld" title="Liebliches Feld">Lieblichen Feld</a> und der <a href="http://www.wiki-aventurica.de/wiki/Dr%C3%B4ler_Mark" title="Drôler Mark" class="mw-redirect">Drôler Mark</a> markierte. Nach dem Chabab wird die teils flache, teils hügelige Landschaft zwischen dem Fluss und den Hohen Eternen <a href="http://www.wiki-aventurica.de/wiki/Chababien" title="Chababien">Chababien</a> genannt.<br />
+
+An der Brücke von <a href="http://www.wiki-aventurica.de/wiki/Neetha" title="Neetha">Neetha</a> schlug die <a href="http://www.wiki-aventurica.de/wiki/Heiliger" title="Heiliger" class="mw-redirect">Heilige</a> <a href="http://www.wiki-aventurica.de/wiki/Thalionmel" title="Thalionmel">Thalionmel</a> einst alleine ein Heer der <a href="http://www.wiki-aventurica.de/wiki/Novadi" title="Novadi">Novadis</a> zurück. Ihr Schwert ging in den Fluten verloren und wurde erst <a href="http://www.wiki-aventurica.de/wiki/Chronik:1008" title="Chronik:1008">1008 BF</a> wieder aufgefunden.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+ <LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				0.7152453304543194,23.12377016049545,0 0.6907367886563898,23.13101557130313,0 0.6626501660197226,23.1496431283072,0 0.6364331850891691,23.18180272493331,0 0.6155601639592101,23.20303973716308,0 0.5707774193228543,23.20521266445326,0 0.5161247176334038,23.20826501208358,0 0.4890723163337074,23.19434552526445,0 0.4459036298022423,23.19621112093664,0 0.3989658948192965,23.20023360985956,0 0.3698534948574683,23.21818920635854,0 0.3468459980668892,23.22896217648919,0 0.3285504560562069,23.23817523521045,0 0.3031640998937202,23.24549082972942,0 0.2839050606464233,23.24845786394407,0 0.2573801182402091,23.24801656978339,0 0.2180469189619649,23.24826084765872,0 0.184360988431953,23.26587961953243,0 0.1654516983377552,23.27652289215425,0 0.1439512076176897,23.29850891203605,0 0.1242028850883825,23.30234799797211,0 0.1003125962923668,23.30440601000263,0 0.08340037491500585,23.30627287147381,0 0.06794966443496975,23.31483241451796,0 0.05325615922447957,23.32772427186941,0 0.03160444946356478,23.32740841090962,0 0.0167849753381355,23.323460775243,0 0.002461512365377061,23.33281323297666,0 -0.01458524506582126,23.33122097332327,0 -0.03192488961522799,23.32273737122896,0 -0.04445610810760114,23.3248442697438,0 -0.06610681278732766,23.32451700508114,0 -0.071052740614721,23.31593105490983,0 -0.07519551266579883,23.30324551963601,0 -0.08682856104096137,23.30172933313206,0 -0.09741323910852806,23.30548777772465,0 -0.09802655194394605,23.3105464908771,0 -0.116974129534797,23.31025455265544,0 -0.1303167881614753,23.31645482376317,0 -0.1486491166345638,23.33290499856652,0 -0.1631437627082866,23.35515437982901,0 -0.167759934796935,23.37277828834093,0 -0.1776089189018615,23.37940726558385,0 -0.1949186433552275,23.39568774514351,0 -0.2137507956237983,23.40973738764049,0 -0.2350538797872526,23.41130034680425,0 -0.2603925097252469,23.41154941831184,0 -0.2833531864843142,23.41834133064536,0 -0.3066609867513592,23.44253785475681,0 -0.3257818608539009,23.45512936585178,0 -0.3540732306607564,23.46229782182479,0 -0.3943244540975122,23.45628026989752,0 -0.4124643586958365,23.45968152296366,0 -0.4182291523653137,23.46224785249196,0 -0.4222027523759853,23.46357461636587,0 -0.4243386729658016,23.4636134228034,0 -0.424460582170143,23.46360618456573,0 -0.4266114493379347,23.46285680443674,0 -0.4291279271552118,23.46255558891406,0 -0.4319422308064436,23.46261617971941,0 -0.4568799225290499,23.45849408601495,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Banchab</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Banchab</b> ist ein kleiner Fluss in <a href="http://www.wiki-aventurica.de/wiki/Chababien" title="Chababien">Chababien</a>, der in den <a href="http://www.wiki-aventurica.de/wiki/Hohe_Eternen" title="Hohe Eternen" class="mw-redirect">Hohen Eternen</a> entspringt und nach etwa 30 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Bahin" title="Bahin">Bahin</a> in den <a href="http://www.wiki-aventurica.de/wiki/Chabab" title="Chabab">Chabab</a> mündet. Aus der gleichnamigen <a href="http://www.wiki-aventurica.de/wiki/Dom%C3%A4ne_Banchab" title="Domäne Banchab">Domäne</a> kommt die <a href="http://www.wiki-aventurica.de/wiki/Banchaber_Blende&amp;action=edit&amp;redlink=1" class="new" title="Banchaber Blende (Seite nicht vorhanden)">Banchaber Blende</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				0.55637382266293,23.62982974251964,0 0.5252355359628957,23.61532845034371,0 0.5132732027524245,23.59653302952488,0 0.5094515851727333,23.58576967178114,0 0.4971930115511003,23.58142374794265,0 0.4888303321471188,23.56697094598841,0 0.4844873560401775,23.55629463811804,0 0.492534451863671,23.54000499374786,0 0.4924107346976592,23.52874927921067,0 0.475402455864169,23.50635752417383,0 0.4785840847948841,23.48744780969907,0 0.4817597729727496,23.47647839333128,0 0.4636728244906974,23.46469456049877,0 0.446336436075303,23.45923354482492,0 0.4307718335945165,23.44651741791046,0 0.4125562579295794,23.44467860523668,0 0.3870641204597991,23.44160179817834,0 0.3751901671407332,23.43370769403521,0 0.3664507534741257,23.42527568174571,0 0.3641883848252658,23.40083809487927,0 0.3661865834182754,23.39205328232941,0 0.3493269404533383,23.37556877046228,0 0.3505231634069705,23.3570392587743,0 0.3436600411227664,23.34183037693243,0 0.3449512402784616,23.33217499850448,0 0.3214603299884122,23.306902873337,0 0.3204836310915327,23.28869349113092,0 0.3058892011333447,23.27530103066108,0 0.2917232180292917,23.26133603568593,0 0.2894939542403852,23.25028992846402,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

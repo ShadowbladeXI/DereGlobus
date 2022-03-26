@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Kirma nach Farlorn</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Kirma nach Farlorn-->
+			<name>Karawanenroute von Kirma nach Farlorn</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Karawanenroute von Kirma nach Farlorn</b> verbindet die <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute_von_Riva_nach_Norburg" title="Karawanenroute von Riva nach Norburg">Route Riva - Norburg</a> mit dem <a href="http://www.wiki-aventurica.de/wiki/Nivese" title="Nivese">nivesischen</a> Vorposten im <a href="http://www.wiki-aventurica.de/wiki/Hoher_Norden" title="Hoher Norden">Hohen Norden</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						6.23759284011615,37.47843260404103,0    <!--<POI>Siedlung:Kirma</POI>--> <!--<POI>SOE:Karawanenroute von Riva nach Norburg</POI>-->
+						6.2414718284865,37.51817651010307,0     <!-- <POI>Flussquerung:Lemon</POI> -->
+						6.274971083845092,37.58864944558788,0 
+						6.260948716287674,37.64682029024355,0 
+						6.269556786691435,37.67294142672655,0 
+						6.244489035796097,37.70610161973607,0 
+						6.249262272817655,37.75631540515085,0 
+						6.235109069245494,37.77501483987382,0 
+						6.235490486515003,37.78761358041482,0 
+						6.267138080050523,37.81922933253789,0 
+						6.270778555068823,37.86192104766314,0 
+						6.253149033976557,37.88646027538331,0 
+						6.251730568234253,37.90675119726802,0 
+						6.231847135251321,37.94847797806904,0   <!--<POI>Siedlung:Oblarasim</POI>--> <!--<POI>Abzweig:Weg von Tavaljuk nach Oblarasim</POI>-->
+						6.275421032376285,37.94103086587121,0   <!-- <POI>Flussquerung:Oblomon</POI> -->
+						6.309142992086796,37.92871252192186,0 
+						6.355313843324455,37.93741854761559,0 
+						6.39406194197639,37.93355951712808,0 
+						6.442256351600564,37.91774009898877,0 
+						6.47190939408736,37.91643892639403,0 
+						6.52953165697757,37.92282797299996,0 
+						6.580719667074295,37.90333478271363,0 
+						6.652154354838585,37.92142515667874,0 
+						6.705033084646004,37.94577589642467,0 
+						6.750144396996795,37.94857426155261,0 
+						6.821230531254008,37.9402930151464,0 
+						6.863436647924854,37.95064712683411,0 
+						6.910535220072607,37.94328118151569,0 
+						6.992243297318095,37.9182145137567,0 
+						7.046592431478431,37.91755012383231,0 
+						7.100563435075966,37.90463593244634,0 
+						7.139016528192562,37.91061379875214,0 
+						7.177253363222159,37.90578107482084,0 
+						7.231157308287366,37.92700369255128,0 
+						7.260460336929535,37.9283910160262,0 
+						7.290994458723485,37.94559573961239,0 
+						7.310250040111264,37.94855804280167,0 
+						7.319314806507249,37.96463113868065,0   <!-- <POI>Flussquerung:Oberer Frisund</POI> -->
+						7.344674570456345,37.97906953287698,0   <!--<POI>Siedlung:Naaulok</POI>-->
+						7.310984003365117,38.00296539999193,0 
+						7.274196387980629,38.05210174533053,0
+						7.269829340824954,38.12054691087405,0 
+						7.296325211509817,38.15782632237499,0 
+						7.307597221273303,38.20878434643323,0 
+						7.330673145496583,38.25428254864542,0 
+						7.328801744536067,38.29103206127103,0 
+						7.318282819590847,38.31171320805564,0 
+						7.316769718583498,38.36393394149829,0 
+						7.328294207369012,38.38500988860718,0 
+						7.364874261694261,38.40667512420914,0 
+						7.375971559214514,38.46555244666116,0   <!--<POI>Siedlung:Nysjunen</POI>-->
+						7.424909706429641,38.50980717100776,0 
+						7.446554693779468,38.52819615452022,0 
+						7.467918565895624,38.57905021216103,0 
+						7.469296926773438,38.6143127827434,0 
+						7.486940981595045,38.63720095127262,0   <!-- <POI>Flussquerung:Tylsen</POI> -->
+						7.489746158675048,38.65623687113188,0   <!--<POI>Abzweig:Karawanenroute von Oblarasim nach Eestiva</POI>-->
+						7.477745246346976,38.67334916591724,0 
+						7.455823829897339,38.68161543638079,0 
+						7.409344913474898,38.67790392268723,0 
+						7.381543207446278,38.6963050123427,0 
+						7.35558299936023,38.72651481955565,0 
+						7.356317922353832,38.75673598225431,0 
+						7.369896022970035,38.797803701776,0 
+						7.351767639154798,38.8280607001382,0 
+						7.352232464591719,38.84725721712596,0 
+						7.382739763029573,38.87172567605838,0 
+						7.382747804410574,38.89290243039122,0 
+						7.372482898034454,38.92369621354116,0   <!-- <POI>Flussquerung:unbenannt</POI> -->
+						7.303578158780533,38.98637969312804,0 
+						7.26909763927988,38.99707383240027,0 
+						7.237611084073472,38.99955782397623,0 
+						7.104235096998986,39.05279286326984,0 
+						7.045134307429228,39.13673089229614,0 
+						7.016877000992268,39.22665625321234,0 
+						6.968585576537265,39.2955205059897,0 
+						6.970260783329129,39.31618781630944,0 
+						6.997700357314618,39.36920566760811,0 
+						7.051380981803255,39.41064150933138,0 
+						7.051158826799742,39.42571389460567,0 
+						7.035666741360666,39.44424968934223,0 
+						7.020165920838595,39.48948397331423,0 
+						6.970347968325312,39.54585394466098,0 
+						6.965339878988099,39.57680399486272,0  <!--<POI>Siedlung:Falorn</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>6.446646</longitude>
+				<latitude>38.433602</latitude>
+				<altitude>505410</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+
+		<Placemark> 	<!-- Reichsstraße 3 (Angbarer Reichsstraße)  bis 1025-->
+			<name>Reichsstraße 3</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Reichsstraße 3</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Elenvina" title="Elenvina">Elenvina</a> über <a href="http://www.wiki-aventurica.de/wiki/Kyndoch" title="Kyndoch">Kyndoch</a>, <a href="http://www.wiki-aventurica.de/wiki/Abilacht" title="Abilacht">Abilacht</a>, <a href="http://www.wiki-aventurica.de/wiki/Honingen" title="Honingen">Honingen</a> nach <a href="http://www.wiki-aventurica.de/wiki/Gratenfels" title="Gratenfels">Gratenfels</a>, von dort über den <a href="http://www.wiki-aventurica.de/wiki/Greifenpass" title="Greifenpass">Greifenpass</a> nach <a href="http://www.wiki-aventurica.de/wiki/Angbar" title="Angbar">Angbar</a> und weiter über <a href="http://www.wiki-aventurica.de/wiki/Hirschfurt" title="Hirschfurt">Hirschfurt</a> nach <a href="http://www.wiki-aventurica.de/wiki/Gareth" title="Gareth">Gareth</a>.<br><br>Ihr Name im Volksmund lautet <b>Angbarer Reichsstraße</b>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					03.742339,29.780528,0 				<!-- KEINE DETAILKARTE! --> <!-- <POI>Siedlung:Gareth</POI> --> <!-- <POI>Kreuzung:Reichsstraße 2</POI> -->
+					3.585976820309045,29.78202576373615,0 
+					3.518347973629536,29.75871305211194,0 	<!-- <POI>Siedlung:</POI> -->
+					3.463679796446439,29.75528394986457,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					3.417177547580961,29.76135884636146,0 
+					3.305936001884648,29.79817290248686,0 	<!-- <POI>Siedlung:Weyring</POI> --> <!-- <POI>Kreuzung:</POI> -->
+					3.205166853454926,29.84003292663357,0 	<!-- <POI>AbzweigRechts:</POI> -->
+					3.128079219246751,29.84965844407263,0 
+					3.052784544203313,29.86122403022215,0 	<!-- <POI>Siedlung:Randersburg</POI> --> <!-- <POI>AbzweigLinks:Richtung Güldenfeldt</POI> -->
+					2.901238730174889,29.91235794395509,0 
+					2.804036445774043,29.93512504113821,0 	<!-- <POI>Siedlung:Hornbach</POI> --> <!-- <POI>AbzweigLinks:Richtung Nuzell</POI> -->
+					2.721130617016143,29.93739546958704,0 
+					2.623641944374775,29.97728269996987,0 
+					2.409282837296518,29.98290548834515,0 	<!-- <POI>Siedlung:??Hirschfurt??</POI> -->
+					2.371348589949112,29.98803724564777,0 
+					2.355632814621025,29.99885081085272,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					2.334257496584378,30.00935054283146,0 	<!-- <POI>Flussquerung:</POI> -->
+					2.253349445496311,30.02952315575769,0 	<!-- <POI>Siedlung:??Hirschfurt??</POI> --> <!-- <POI>AbzweigRechts:Richtung Hoxforst</POI> -->
+					2.16972211129532,30.03005471599348,0 
+					2.035493134120121,30.01428708625173,0 
+					1.989300981274484,30.01852389712504,0 
+					1.915820532353019,30.03700033533294,0 	<!-- <POI>Siedlung:Bitani</POI> --> <!-- <POI>AbzweigRechts:Richtung Hornbell</POI> -->
+					1.852228396682649,30.03571337100434,0 
+					1.784230792195112,30.02459235879178,0 
+					1.715649907339929,30.0328844990871,0 <!-- <POI>Flussquerung:</POI> -->
+					1.700527795690379,30.03742975166025,0 	<!-- <POI>Siedlung:Steinbrücken</POI> --> <!--<POI>Abzweigung:Breitenstieg</POI>--> <!-- <POI>Abzweig:Richtung Gômel</POI> -->
+					1.679619096977871,30.04836266679668,0 	
+					1.632001120849214,30.05259458215746,0 
+					1.598991812785817,30.04480796603582,0 
+					1.551188745102197,30.01084361415285,0 
+					1.502746296760658,29.95454941536739,0 	<!-- <POI>Siedlung:</POI> -->
+					1.467491377923709,29.91674538043759,0 
+					1.427262596066627,29.88321281106781,0   <!-- Anfang Detailkarte Angbar -->
+					1.424059112173493,29.88278783525194,0   <!-- <POI>Siedlung:Angbar</POI> --> <!-- <POI>Abzweig:Grevensteig</POI> -->
+					1.423243562202796,29.88615825442155,0 
+					1.422866702762862,29.88653221156686,0   <!-- Ende Detailkarte Angbar -->
+					1.421696680046329,29.88684598184209,0 
+					1.379268066951258,29.88320693309805,0 
+					1.346606345189463,29.88641001524486,0
+					1.226670415470677,29.92549329569854,0 	<!-- <POI>Siedlung:Unbekannt</POI> -->
+					1.167459400132527,29.9298295734946,0 
+					1.075098916965946,29.91396967506522,0 
+					0.9275719741036181,29.90323983529948,0 	<!-- <POI>SOE:R3-Unbekannt</POI> -->
+					0.6989329216665152,29.87235678424369,0 
+					0.6399173324643992,29.87060765503647,0 	<!-- <POI>Siedlung:Unbekannt</POI> -->
+					0.5669958081368409,29.85561242634541,0 
+					0.4198687753737684,29.85557584817792,0 
+					0.3977084828345223,29.85113772110177,0 <!-- Anfang Detailkarte Gratenfels -->
+					0.397187983126428,29.85112482943633,0 
+					0.396117118196897,29.85120007737921,0 
+					0.3960452387670488,29.8509593103661,0 
+					0.3958220030679427,29.85073288952878,0 <!-- <POI>Siedlung:Gratenfels</POI> --> <!-- <POI>Abzweig:Halwartsstieg</POI> -->
+					0.3953586196226877,29.85071209449203,0 
+					0.3950947177878428,29.85106294623913,0 
+					0.3944958928562015,29.85137318517286,0 
+					0.3937449885380362,29.8513443272512,0 
+					0.3932189515176532,29.85143076423722,0 <!-- Ende Detailkarte Gratenfels -->
+					0.2552971293629458,29.83697756507722,0 
+					0.1518041753377508,29.84235204737175,0 
+					0.08818444219891086,29.86682111060867,0 
+					0.05810087080828641,29.87028024510287,0 	<!-- <POI>Flussquerung</POI> -->
+					0.04666504397585092,29.87380621572998,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					-0.003747042675499301,29.91051667777784,0 
+					-0.02628111872134187,29.91228632241662,0 	<!-- <POI>Siedlung:Kelberg</POI> -->
+					-0.1121453853480248,29.89158463670309,0 
+					-0.2304481543568426,29.89942953220431,0 
+					-0.2825689618478944,29.86239255254824,0 
+					-0.3373110342931207,29.83626514269051,0 
+					-0.3703852557619281,29.82718134021665,0 	<!-- <POI>Siedlung:Vairningen</POI> -->
+					-0.4291145910942062,29.83110322541156,0 
+					-0.4457940090995671,29.82352253022998,0 
+					-0.4629655333138705,29.80554699060238,0 
+					-0.5198709243821453,29.78695080125618,0 
+					-0.5437448732410077,29.76522831809407,0 
+					-0.5729124352190507,29.75761431382207,0 
+					-0.6022696981658871,29.73186182518721,0 
+					-0.6204280519110017,29.70990704657216,0 
+					-0.6445394391073855,29.69395881939671,0 
+					-0.6751291447527474,29.66712338555434,0 
+					-0.6801688979145626,29.65562920564088,0 <!-- Anfang Detailkarte Honingen --> 
+					-0.680159790885162,29.65527767342001,0 
+					-0.679961184777742,29.65466682994471,0 
+					-0.6801597817739202,29.65355300455185,0 
+					-0.680106900548032,29.65330957051355,0  <!-- <POI>Kreuzung:Straße von Winhall nach Nembutal</POI> --> <!-- <POI>Siedlung Honingen</POI> -->
+					-0.6800687085679436,29.65314616423674,0 
+					-0.6801127814247476,29.65287807648768,0 
+					-0.6801509769788772,29.6527078757401,0 
+					-0.6805828640857248,29.65214106291973,0 
+					-0.6811017926941487,29.65091349095766,0 
+					-0.6820928563418871,29.64923453055706,0 
+					-0.6821945039257971,29.64887870882227,0 
+					-0.682202970390986,29.64841736784669,0 
+					-0.6824566387023123,29.64786502022728,0 <!-- Ende Detailkarte Honingen --> 
+					-0.6919660590749166,29.63427990542872,0 
+					-0.7010859381562173,29.61395791912605,0 
+					-0.7310474368626307,29.57624495918417,0 
+					-0.7346987245690362,29.55445757523896,0 
+					-0.8078160964250791,29.4995240625743,0 
+					-0.8434147468474029,29.44448194966312,0 
+					-0.8714673591380406,29.42491900370761,0 	<!-- <POI>Siedlung:Seshwick</POI> -->
+					-0.8928094308546608,29.39250760239296,0 
+					-0.9057151210124104,29.36668527397419,0 
+					-0.9198492665639491,29.31665739502682,0 
+					-0.9625778336872259,29.22914206624005,0 	<!-- <POI>Siedlung:Abilacht</POI> --> <!-- <POI>Abzweig:Weg von Abilacht nach Nummath</POI> --> <!-- <POI>Abzweig:Reichslandstraße von Havena nach Abilacht</POI> -->
+					-0.9746274786819198,29.20469617982635,0 
+					-0.9980597055595797,29.17150304129517,0 
+					-1.005711497401784,29.14745986919572,0 
+					-1.051596479172745,29.10128329987572,0 
+					-1.095255282593833,29.06508723577085,0 
+					-1.123058576565261,29.04645490157962,0 
+					-1.136052866551495,29.04217939154531,0 
+					-1.150415970711016,29.02046620577601,0 
+					-1.174288523835101,29.00208870279383,0 
+					-1.201873818473603,28.97028687811991,0 
+					-1.213374210544544,28.94878292529955,0 		<!-- <POI>Siedlung:</POI> -->
+					-1.23371189760525,28.92851523036685,0 
+					-1.270496479743694,28.90075635981861,0 
+					-1.324209670508006,28.8565611676698,0 
+					-1.368446636651033,28.8342806119688,0 		<!-- <POI>Siedlung:Traviarim</POI> --> <!-- <POI>AbzweigRechts:</POI> -->
+					-1.39010391105985,28.82395541638052,0 
+					-1.41118821169537,28.80346976352951,0 
+					-1.434781608179121,28.76908917872051,0 
+					-1.454468090848995,28.72542012427154,0 
+					-1.468973369716193,28.69949744245457,0 
+					-1.479072066829031,28.68677895518227,0 		<!-- <POI>Siedlung:</POI> -->
+					-1.506098285988412,28.65573854064889,0 
+					-1.537005471374291,28.62786588017573,0 
+					-1.574336932859942,28.59798915452231,0 
+					-1.599326673398935,28.56656763047146,0 
+					-1.682818936165239,28.50024389022302,0 
+					-1.691498787150979,28.48475026317741,0 		<!-- <POI>Station:Burg Crumold</POI> -->
+					-1.689180670415772,28.47518168639934,0 		<!-- <POI>Flussquerung:</POI> -->
+					-1.686613846857779,28.46869490391798,0 		<!-- <POI>AbzweigLinks:</POI> -->
+					-1.674434830755038,28.4476761568403,0 
+					-1.631881294472133,28.41181063419318,0 
+					-1.602634475675632,28.38958841762007,0 
+					-1.587297346206662,28.36942433560204,0 
+					-1.548014932488295,28.33685027485597,0 		<!-- <POI>Siedlung:Taindoch</POI> -->
+					-1.513667238231117,28.30278828889422,0 
+					-1.51004286488664,28.15757635919282,0 
+					-1.527437048043857,28.1341815994624,0 
+					-1.571491070529111,28.10780013790788,0 
+					-1.578496451368681,28.093491775653,0 
+					-1.568666562161067,28.05339525061626,0 		<!-- <POI>Siedlung:Turchall</POI> --> <!-- <POI>AbzweigLinks:Richtung Eisenhuett</POI> -->
+					-1.567315813791712,28.03089694709154,0 		<!-- <POI>Flussquerung:</POI> -->
+					-1.565522291177108,28.01565043871478,0 
+					-1.527423114355984,27.94889782931439,0 
+					-1.498235451826957,27.93134614773559,0 		<!-- <POI>Siedlung:</POI> -->
+					-1.48030588205342,27.91311026497195,0 
+					-1.473695294028,27.88640120295095,0 
+					-1.457020888734065,27.85726933013576,0 
+					-1.455069882806541,27.83911357222784,0 
+					-1.415234695598403,27.78191996558095,0 
+					-1.408840917334787,27.7450065021883,0 		<!-- <POI>Siedlung:Klippag</POI> --> <!-- <POI>AbzweigLinks:Richtung Altenfurt</POI> -->
+					-1.414745978954319,27.70918067145137,0 
+					-1.406969219117003,27.65384415108078,0 
+					-1.356680361552007,27.58280904210664,0 		<!-- <POI>Siedlung:Zinnen</POI> --> <!-- <POI>Abzweig:Schattengrundpass</POI> -->
+					-1.333519201002291,27.55712199378138,0 
+					-1.28726657616505,27.52351380884545,0 
+					-1.285969545946862,27.52241437535284,0      <!-- Anfang Detailkarte Elenvina -->
+					-1.285603880974251,27.52230798914594,0 
+					-1.28511552106425,27.52223257771846,0 
+					-1.284647024708979,27.5222883321828,0 
+					-1.28429278685449,27.52214647465828,0 
+					-1.28414422286394,27.5218120693105,0  		<!-- <POI>Siedlung:Elenvina</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1025-12-31</when>
+				</gx:TimeStamp>
+				<longitude>0.3962069194384998</longitude>
+				<latitude>29.85215403631605</latitude>
+				<altitude>700000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1025-12-31</end>
+			</TimeSpan>
+		</Placemark>
+		<Placemark> 	<!-- Reichsstraße 3 (Angbarer Reichsstraße)  ab 1026-->
+			<name>Reichsstraße 3</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Reichsstraße 3</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Elenvina" title="Elenvina">Elenvina</a> über <a href="http://www.wiki-aventurica.de/wiki/Kyndoch" title="Kyndoch">Kyndoch</a>, <a href="http://www.wiki-aventurica.de/wiki/Abilacht" title="Abilacht">Abilacht</a>, <a href="http://www.wiki-aventurica.de/wiki/Honingen" title="Honingen">Honingen</a> nach <a href="http://www.wiki-aventurica.de/wiki/Gratenfels" title="Gratenfels">Gratenfels</a>, von dort über den <a href="http://www.wiki-aventurica.de/wiki/Greifenpass" title="Greifenpass">Greifenpass</a> nach <a href="http://www.wiki-aventurica.de/wiki/Angbar" title="Angbar">Angbar</a> und weiter über <a href="http://www.wiki-aventurica.de/wiki/Hirschfurt" title="Hirschfurt">Hirschfurt</a> , <a href="http://www.wiki-aventurica.de/wiki/Gareth" title="Gareth">Gareth</a>, <a href="http://www.wiki-aventurica.de/wiki/Hartsteen" title="Hartsteen">Hartsteen</a> nach <a href="http://www.wiki-aventurica.de/wiki/Perricum" title="Perricum">Perricum</a>.<br><br>Ihr Name im Volksmund lautet <b>Angbarer Reichsstraße</b>, der Abschnitt von der <a href="http://www.wiki-aventurica.de/wiki/Festung_Hohenstein&amp;action=edit&amp;redlink=1" class="new" title="Festung Hohenstein (Seite nicht vorhanden)">Festung Hohenstein</a> nach <a href="http://www.wiki-aventurica.de/wiki/Perricum" title="Perricum">Perricum</a> wird als <b>Darpatweg</b> bezeichnet.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>	
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					6.374239278104441,29.02453400158377,0  	<!-- <POI>Siedlung:Perricum</POI> --> <!-- <POI>SOE:Reichstraße 3</POI> -->
+					6.373772526863084,29.02479764023855,0 
+					6.372599447485888,29.02534296277438,0 
+					6.371461333022495,29.02535317655484,0 
+					6.370721469740575,29.0254864100375,0 
+					6.369225888675003,29.02591959225312,0 
+					6.368673367834303,29.02595009664427,0   <!-- Ende Detailkarte Perricum -->
+					6.284530604581433,28.99365188429044,0 
+					6.217036096191717,28.96174166828325,0 
+					6.19046044235223,28.93129196545231,0    <!-- <POI>Siedlung:Rabicum</POI> -->
+					6.176664188159804,28.91954361601346,0 	<!-- <POI>Abzweig:Straße zu unbenannter Siedlung</POI> -->
+					6.126302047505392,28.89033992360445,0 	<!-- <POI>Siedlung:unbenannt</POI> -->
+					6.051312320485027,28.86341973476715,0 	
+					5.997594686363852,28.8312482772839,0    <!-- <POI>Siedlung:Gaulsfurt</POI> --> <!-- <POI>Abzweig:Kronstraße von Perricum nach Zorgan</POI> -->
+					5.94633557121548,28.82086629571845,0 	
+					5.887504958331506,28.82741664488205,0 
+					5.788310935553113,28.87104164275703,0 
+					5.741805694689946,28.87046856115031,0 
+					5.697964975947681,28.87084204635296,0 	<!-- <POI>Siedlung:Gnuzenkuhl</POI> -->
+					5.664058995379538,28.88005728222447,0 
+					5.597105210277347,28.87265051448119,0 
+					5.566634621461235,28.88678056501624,0 
+					5.542050391999888,28.92568536955873,0 
+					5.524705722998098,29.01722026355875,0 
+					5.527267091423555,29.18855925943181,0 
+					5.506394708895368,29.22227946834502,0 	<!-- <POI>Siedlung:?Wasserburg?</POI> -->
+					5.506772184281816,29.26374813690524,0 
+					5.518499846371212,29.30074145331547,0 
+					5.51444844387037,29.35339853368136,0 
+					5.484041785879272,29.39135637543159,0 
+					5.444285967803291,29.4065265163759,0 
+					5.363461553726321,29.41790334787443,0 
+					5.333961437108952,29.43595749399883,0 
+					5.320402853319644,29.46472607481724,0 	<!-- <POI>AbzweigLinks:Richtung Perainsgarten</POI> -->
+					5.300724403896577,29.51257643490724,0 	<!-- <POI>Siedlung:Mardramund</POI> -->
+					5.245130779273659,29.5605266397315,0 
+					5.208711391906748,29.66433980641282,0 
+					5.188286759238969,29.68927892863826,0 
+					5.156595089601441,29.70808880770353,0 	<!-- <POI>AbzweigLinks:Richtung Wandleth</POI> -->
+					5.114164279577091,29.72328844999027,0 	<!-- <POI>Siedlung:Hausen</POI> -->
+					5.07393070096054,29.74849191220982,0 
+					4.988930468041599,29.77637736620578,0 
+					4.976736424785397,29.80149914034628,0 
+					4.959191734592336,29.85058397901757,0 	<!-- <POI>Flussquerung:</POI> --> <!-- <POI>Station:Feste Hohenstein</POI> -->
+					4.902157495724502,29.85879224127463,0 	<!-- <POI>AbzweigRechts:Richtung Rommilys</POI> -->
+					4.816986399813406,29.85147057560985,0 
+					4.748686318285253,29.86413483950442,0 
+					4.709603585053673,29.86731107763078,0 	<!-- <POI>Siedlung:</POI> -->
+					4.664132191189694,29.86109001486093,0 
+					4.606404653961578,29.86299680611973,0 
+					4.500429852926038,29.83356916858255,0 
+					4.442705613051472,29.83602963125972,0 
+					4.380669885761,29.85097263345122,0 		<!-- <POI>AbzweigLinks:Richtung Valpolust</POI> -->
+					4.280625856001685,29.81656806085622,0 	<!-- <POI>Siedlung:Hartsteen</POI> --> <!-- <POI>AbzweigRechts:Richtung Burgenhog</POI> -->
+					4.188417341469581,29.81476358434897,0 
+					4.103931893271811,29.78775204859405,0 
+					4.064709759810709,29.77922663509262,0 	<!-- <POI>Siedlung:Nattersquell</POI> -->
+					4.019371585526659,29.78700994876881,0 
+					3.978128747036174,29.78086159331955,0 
+					3.924675925378156,29.78459478872784,0 
+					3.852416945659754,29.79368066675086,0 	<!-- <POI>Kreuzung:</POI> -->
+					3.783163847065778,29.77636883545301,0 
+					3.742416674939266,29.77960330420404,0
+					03.742339,29.780528,0 				<!-- KEINE DETAILKARTE! --> <!-- <POI>Siedlung:Gareth</POI> --> <!-- <POI>Kreuzung:Reichsstraße 2</POI> -->
+					3.585976820309045,29.78202576373615,0 
+					3.518347973629536,29.75871305211194,0 	<!-- <POI>Siedlung:</POI> -->
+					3.463679796446439,29.75528394986457,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					3.417177547580961,29.76135884636146,0 
+					3.305936001884648,29.79817290248686,0 	<!-- <POI>Siedlung:Weyring</POI> --> <!-- <POI>Kreuzung:</POI> -->
+					3.205166853454926,29.84003292663357,0 	<!-- <POI>AbzweigRechts:</POI> -->
+					3.128079219246751,29.84965844407263,0 
+					3.052784544203313,29.86122403022215,0 	<!-- <POI>Siedlung:Randersburg</POI> --> <!-- <POI>AbzweigLinks:Richtung Güldenfeldt</POI> -->
+					2.901238730174889,29.91235794395509,0 
+					2.804036445774043,29.93512504113821,0 	<!-- <POI>Siedlung:Hornbach</POI> --> <!-- <POI>AbzweigLinks:Richtung Nuzell</POI> -->
+					2.721130617016143,29.93739546958704,0 
+					2.623641944374775,29.97728269996987,0 
+					2.409282837296518,29.98290548834515,0 	<!-- <POI>Siedlung:??Hirschfurt??</POI> -->
+					2.371348589949112,29.98803724564777,0 
+					2.355632814621025,29.99885081085272,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					2.334257496584378,30.00935054283146,0 	<!-- <POI>Flussquerung:</POI> -->
+					2.253349445496311,30.02952315575769,0 	<!-- <POI>Siedlung:??Hirschfurt??</POI> --> <!-- <POI>AbzweigRechts:Richtung Hoxforst</POI> -->
+					2.16972211129532,30.03005471599348,0 
+					2.035493134120121,30.01428708625173,0 
+					1.989300981274484,30.01852389712504,0 
+					1.915820532353019,30.03700033533294,0 	<!-- <POI>Siedlung:Bitani</POI> --> <!-- <POI>AbzweigRechts:Richtung Hornbell</POI> -->
+					1.852228396682649,30.03571337100434,0 
+					1.784230792195112,30.02459235879178,0 
+					1.715649907339929,30.0328844990871,0 
+					1.700527795690379,30.03742975166025,0 	<!-- <POI>Flussquerung:</POI> -->
+					1.679619096977871,30.04836266679668,0 	<!-- <POI>Siedlung:Steinbrücken</POI> --> <!-- <POI>AbzweigLinks:Richtung Gômel</POI> --> <!-- <POI>AbzweigRechts:Richtung Oberanghai</POI> -->
+					1.632001120849214,30.05259458215746,0 
+					1.598991812785817,30.04480796603582,0 
+					1.551188745102197,30.01084361415285,0 
+					1.502746296760658,29.95454941536739,0 	<!-- <POI>Siedlung:</POI> -->
+					1.467491377923709,29.91674538043759,0 
+					1.427262596066627,29.88321281106781,0   <!-- Anfang Detailkarte Angbar -->
+					1.424059112173493,29.88278783525194,0   <!-- <POI>Siedlung:Angbar</POI> --> <!-- <POI>Abzweig:Grevensteig</POI> -->
+					1.423243562202796,29.88615825442155,0 
+					1.422866702762862,29.88653221156686,0   <!-- Ende Detailkarte Angbar -->
+					1.421696680046329,29.88684598184209,0 
+					1.379268066951258,29.88320693309805,0 
+					1.34664313135026,29.88667422465853,0 
+					1.226670415470677,29.92549329569854,0 	<!-- <POI>Siedlung:Unbekannt</POI> -->
+					1.167459400132527,29.9298295734946,0 
+					1.075098916965946,29.91396967506522,0 
+					0.9275719741036181,29.90323983529948,0 	<!-- <POI>SOE:R3-Unbekannt</POI> -->
+					0.6989329216665152,29.87235678424369,0 
+					0.6399173324643992,29.87060765503647,0 	<!-- <POI>Siedlung:Unbekannt</POI> -->
+					0.5669958081368409,29.85561242634541,0 
+					0.4198687753737684,29.85557584817792,0 
+					0.3977084828345223,29.85113772110177,0 <!-- Anfang Detailkarte Gratenfels -->
+					0.397187983126428,29.85112482943633,0 
+					0.396117118196897,29.85120007737921,0 
+					0.3960452387670488,29.8509593103661,0 
+					0.3958220030679427,29.85073288952878,0 <!-- <POI>Siedlung:Gratenfels</POI> --> <!-- <POI>Abzweig:Halwartsstieg</POI> -->
+					0.3953586196226877,29.85071209449203,0 
+					0.3950947177878428,29.85106294623913,0 
+					0.3944958928562015,29.85137318517286,0 
+					0.3937449885380362,29.8513443272512,0 
+					0.3932189515176532,29.85143076423722,0 <!-- Ende Detailkarte Gratenfels -->
+					0.2552971293629458,29.83697756507722,0 
+					0.1518041753377508,29.84235204737175,0 
+					0.08818444219891086,29.86682111060867,0 
+					0.05810087080828641,29.87028024510287,0 	<!-- <POI>Flussquerung</POI> -->
+					0.04666504397585092,29.87380621572998,0 	<!-- <POI>AbzweigLinks:</POI> -->
+					-0.003747042675499301,29.91051667777784,0 
+					-0.02628111872134187,29.91228632241662,0 	<!-- <POI>Siedlung:Kelberg</POI> -->
+					-0.1121453853480248,29.89158463670309,0 
+					-0.2304481543568426,29.89942953220431,0 
+					-0.2825689618478944,29.86239255254824,0 
+					-0.3373110342931207,29.83626514269051,0 
+					-0.3703852557619281,29.82718134021665,0 	<!-- <POI>Siedlung:Vairningen</POI> -->
+					-0.4291145910942062,29.83110322541156,0 
+					-0.4457940090995671,29.82352253022998,0 
+					-0.4629655333138705,29.80554699060238,0 
+					-0.5198709243821453,29.78695080125618,0 
+					-0.5437448732410077,29.76522831809407,0 
+					-0.5729124352190507,29.75761431382207,0 
+					-0.6022696981658871,29.73186182518721,0 
+					-0.6204280519110017,29.70990704657216,0 
+					-0.6445394391073855,29.69395881939671,0 
+					-0.6751291447527474,29.66712338555434,0 
+					-0.6801688979145626,29.65562920564088,0 <!-- Anfang Detailkarte Honingen --> 
+					-0.680159790885162,29.65527767342001,0 
+					-0.679961184777742,29.65466682994471,0 
+					-0.6801597817739202,29.65355300455185,0 
+					-0.680106900548032,29.65330957051355,0  <!-- <POI>Kreuzung:Straße von Winhall nach Nembutal</POI> --> <!-- <POI>Siedlung Honingen</POI> -->
+					-0.6800687085679436,29.65314616423674,0 
+					-0.6801127814247476,29.65287807648768,0 
+					-0.6801509769788772,29.6527078757401,0 
+					-0.6805828640857248,29.65214106291973,0 
+					-0.6811017926941487,29.65091349095766,0 
+					-0.6820928563418871,29.64923453055706,0 
+					-0.6821945039257971,29.64887870882227,0 
+					-0.682202970390986,29.64841736784669,0 
+					-0.6824566387023123,29.64786502022728,0 <!-- Ende Detailkarte Honingen --> 
+					-0.6919660590749166,29.63427990542872,0 
+					-0.7010859381562173,29.61395791912605,0 
+					-0.7310474368626307,29.57624495918417,0 
+					-0.7346987245690362,29.55445757523896,0 
+					-0.8078160964250791,29.4995240625743,0 
+					-0.8434147468474029,29.44448194966312,0 
+					-0.8714673591380406,29.42491900370761,0 	<!-- <POI>Siedlung:Seshwick</POI> --> <!-- <POI>Abzweig:Straße von Nostria nach Seshwick</POI> -->
+					-0.8928094308546608,29.39250760239296,0 
+					-0.9057151210124104,29.36668527397419,0 
+					-0.9198492665639491,29.31665739502682,0 
+					-0.9625778336872259,29.22914206624005,0 	<!-- <POI>Siedlung:Abilacht</POI> --> <!-- <POI>AbzweigLinks:Richtung Albentrutz</POI> --> <!-- <POI>AbzweigRechts:</POI> -->
+					-0.9746274786819198,29.20469617982635,0 
+					-0.9980597055595797,29.17150304129517,0 
+					-1.005711497401784,29.14745986919572,0 
+					-1.051596479172745,29.10128329987572,0 
+					-1.095255282593833,29.06508723577085,0 
+					-1.123058576565261,29.04645490157962,0 
+					-1.136052866551495,29.04217939154531,0 
+					-1.150415970711016,29.02046620577601,0 
+					-1.174288523835101,29.00208870279383,0 
+					-1.201873818473603,28.97028687811991,0 
+					-1.213374210544544,28.94878292529955,0 		<!-- <POI>Siedlung:</POI> -->
+					-1.23371189760525,28.92851523036685,0 
+					-1.270496479743694,28.90075635981861,0 
+					-1.324209670508006,28.8565611676698,0 
+					-1.368446636651033,28.8342806119688,0 		<!-- <POI>Siedlung:Traviarim</POI> --> <!-- <POI>AbzweigRechts:</POI> -->
+					-1.39010391105985,28.82395541638052,0 
+					-1.41118821169537,28.80346976352951,0 
+					-1.434781608179121,28.76908917872051,0 
+					-1.454468090848995,28.72542012427154,0 
+					-1.468973369716193,28.69949744245457,0 
+					-1.479072066829031,28.68677895518227,0 		<!-- <POI>Siedlung:</POI> -->
+					-1.506098285988412,28.65573854064889,0 
+					-1.537005471374291,28.62786588017573,0 
+					-1.574336932859942,28.59798915452231,0 
+					-1.599326673398935,28.56656763047146,0 
+					-1.682818936165239,28.50024389022302,0 
+					-1.691498787150979,28.48475026317741,0 		<!-- <POI>Station:Burg Crumold</POI> -->
+					-1.689180670415772,28.47518168639934,0 		<!-- <POI>Flussquerung:</POI> -->
+					-1.686613846857779,28.46869490391798,0 		<!-- <POI>AbzweigLinks:</POI> -->
+					-1.674434830755038,28.4476761568403,0 
+					-1.631881294472133,28.41181063419318,0 
+					-1.602634475675632,28.38958841762007,0 
+					-1.587297346206662,28.36942433560204,0 
+					-1.548014932488295,28.33685027485597,0 		<!-- <POI>Siedlung:Taindoch</POI> -->
+					-1.513667238231117,28.30278828889422,0 
+					-1.51004286488664,28.15757635919282,0 
+					-1.527437048043857,28.1341815994624,0 
+					-1.571491070529111,28.10780013790788,0 
+					-1.578496451368681,28.093491775653,0 
+					-1.568666562161067,28.05339525061626,0 		<!-- <POI>Siedlung:Turchall</POI> --> <!-- <POI>AbzweigLinks:Richtung Eisenhuett</POI> -->
+					-1.567315813791712,28.03089694709154,0 		<!-- <POI>Flussquerung:</POI> -->
+					-1.565522291177108,28.01565043871478,0 
+					-1.527423114355984,27.94889782931439,0 
+					-1.498235451826957,27.93134614773559,0 		<!-- <POI>Siedlung:</POI> -->
+					-1.48030588205342,27.91311026497195,0 
+					-1.473695294028,27.88640120295095,0 
+					-1.457020888734065,27.85726933013576,0 
+					-1.455069882806541,27.83911357222784,0 
+					-1.415234695598403,27.78191996558095,0 
+					-1.408840917334787,27.7450065021883,0 		<!-- <POI>Siedlung:Klippag</POI> --> <!-- <POI>AbzweigLinks:Richtung Altenfurt</POI> -->
+					-1.414745978954319,27.70918067145137,0 
+					-1.406969219117003,27.65384415108078,0 
+					-1.356680361552007,27.58280904210664,0 		<!-- <POI>Siedlung:Zinnen</POI> --> <!-- <POI>Abzweig:Schattengrundpass</POI> -->
+					-1.333519201002291,27.55712199378138,0 
+					-1.28726657616505,27.52351380884545,0 
+					-1.285969545946862,27.52241437535284,0      <!-- Anfang Detailkarte Elenvina -->
+					-1.285603880974251,27.52230798914594,0 
+					-1.28511552106425,27.52223257771846,0 
+					-1.284647024708979,27.5222883321828,0 
+					-1.28429278685449,27.52214647465828,0 
+					-1.28414422286394,27.5218120693105,0  		<!-- <POI>Siedlung:Elenvina</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>2.320553755292671</longitude>
+				<latitude>28.91057203632963</latitude>
+				<altitude>700000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1026</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+
+</Document>
+</kml>

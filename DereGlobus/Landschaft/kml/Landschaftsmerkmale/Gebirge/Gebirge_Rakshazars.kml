@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Gebirge Rakshazars</name>
+	
+	      <Region>
+			<LatLonAltBox>
+				<north>56.74077927769645</north>
+				<south>2.904595940080863</south>
+				<east>69.49764543749859</east>
+				<west>12.96520920142949</west>
+			</LatLonAltBox>
+			<Lod>
+			  <minLodPixels>1700</minLodPixels>
+			  <maxLodPixels>-1</maxLodPixels>
+			  <minFadeExtent>0</minFadeExtent>
+			  <maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+	
+	<Folder>
+		<name>Gebirge</name>
+		<Placemark>
+			<name>Götterberge</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>17.63145038692607</longitude>
+				<latitude>35.02080017789844</latitude>
+				<altitude>2049176.457361927</altitude>
+				<heading>30.21308447530053</heading>
+				<tilt>0.03250271909229177</tilt>
+				<roll>39.90575309139295</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>15.61214625251548,37.93103277917567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ödlandtwall</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>24.80538338828925</longitude>
+				<latitude>41.38630194839374</latitude>
+				<altitude>2274646.259268258</altitude>
+				<heading>48.85784604369167</heading>
+				<tilt>0.02589601040097718</tilt>
+				<roll>54.49559442685306</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>23.70950350536093,40.80611542874771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drachenberge</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Die gewaltigen Berge im Westen <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar" title="Rakshazar">Rakshazars</a> hinter denen sich ein riesiges Land voller Dämonen, Menschen und Zwerge befinden soll, hat noch kein Bewohner des Rieslandes je überwunden – der Hauptgrund dafür sind die zahlreichen Drachen, die ihre Horte auf den Spitzen der Berge angelegt haben und die diesem Gebirge seinen Namen gaben sowie ihre zahlreichen Diener, Sklaven und Feinde. Trolle leben hier in kleinen Enklaven beieinander, beuten Menschen, Orks und Echslinge aus, die für sie an wenigen, versteckten Orten wertvolles - teilweise magisches - Erz abbauen müssen.</p>
+<p>Faulende Zwerge leben in einer gigantischen unterirdischen Stadt, ihre Körper aufgewertet durch irrsinnige dämonische Metallkonstrukte, und sollen angeblich an einem Tunnel der dereinst bis in die Niederhöllen reichen wird arbeiten. In riesigen Höhlen unter den Bergen, vor allem in der alten, zusammengestürzten Binge, durch welche die Zwerge dereinst aus dem fernen Land im Osten hierher gekommen sind, leben die „Trogglinge“ - degenerierte Wesen die kein Tageslicht ertragen können und in den Höhlen uralte Schätze, Artefakte und Orte bewachen, ohne jedoch deren wahre Geschichte zu kennen.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>24.10456969749142</longitude>
+				<latitude>43.93782804940468</latitude>
+				<altitude>2274646.259268261</altitude>
+				<heading>48.44597065183521</heading>
+				<tilt>0.02589601035874508</tilt>
+				<roll>54.49559442700487</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>19.75342664966611,44.93498676355466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schwefelklippen</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Steil und schroff ragen die gewaltigen Vulkane empor, welche die <b>Schwefelklippen</b> dominieren. Zwischen ihnen erheben sich kleinere Berge, in deren höheren Lagen Orks und Menschen wegen der schwefelhaltigen Dämpfe, die von den Vulkangipfeln herabwehen, kaum atmen können. In dieser urtümlichen Wildnis, dieser kargen Pracht, speien schwarze und rote Berge Asche und Feuer hoch in die Luft und fliegen Drachen zwischen den flammenden Gipfeln durch die schwefeldunstgeschwängerte Luft. In tiefen Minen schuften Menschen, Orks und Echsen als Sklaven für die Trolle und ziehen für sie das Erz aus dem Felsen.</p>
+<p>Das Leben hier ist in steter Bewegung: Sklaven befreien sich von ihren trollischen Unterdrückern, gründen eigene Lager, sterben eines grausamen Todes oder werden erneut von Trollen in die Sklaverei verschleppt. Lager bekämpfen sich untereinander, den Trollen treu ergebene Karawanen bringen den wertvollen Stahl von einem Ort zum anderen, Drachen lassen ihre Marionetten über die Jahrhunderte hinweg ihre Ziele verfolgen und zahllose Monster treiben ihr Unwesen. Und in all diesem Chaos liegt das stetig wachsende Lager des Propheten der <a href="http://www.wiki-aventurica.de/index.php?title=Zw%C3%B6lfg%C3%B6tter" class="extiw" title="ave:Zwölfgötter">Zwölf Götter</a>, <a href="http://rakshazar.de/wiki/index.php?title=Myrokar" title="Myrokar">Myrokar</a>, der umherwandert auf der Suche nach neuen (und alten) Heiligtümern seiner göttlichen Herren.</p>
+            <hr><div id="wiki">
+            Dieser Text basiert auf dem Artikel <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a> aus der freien Website <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> und steht unter <a href="http://rakshazar.de/forum/index.php?topic=160.0">dieser Lizenz</a>. Im Rakshazar-Wiki ist eine <a href="http://rakshazar.de/wiki/index.php?title=$[name]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar.</div></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>26.08608495619801</longitude>
+				<latitude>40.65497968937407</latitude>
+				<altitude>2274646.259268265</altitude>
+				<heading>49.56501973378819</heading>
+				<tilt>0.02589601034466772</tilt>
+				<roll>54.49559442709162</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>23.91444725631138,36.13287521186668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marhamal</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>39.27036623170658</longitude>
+				<latitude>42.94551118544115</latitude>
+				<altitude>2274646.259268265</altitude>
+				<heading>58.00540758287719</heading>
+				<tilt>0.02589601035874508</tilt>
+				<roll>54.4955944271179</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>38.38965062770031,39.61331246974962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Die hohe Therau</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>35.14836410922112</longitude>
+				<latitude>50.38400074642334</latitude>
+				<altitude>2274646.259200444</altitude>
+				<heading>54.87174846339143</heading>
+				<tilt>0.02520361340519963</tilt>
+				<roll>54.53197716135755</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>22.77744127715473,53.08772111710334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Artach</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>42.84660796913477</longitude>
+				<latitude>45.44008930550082</latitude>
+				<altitude>2274646.259200444</altitude>
+				<heading>60.55630396066694</heading>
+				<tilt>0.02520361346305603</tilt>
+				<roll>54.53197716138124</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>51.16984563594676,43.91096902103043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yal Hamat</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>44.83197583338881</longitude>
+				<latitude>36.35137726930666</latitude>
+				<altitude>2274646.259200445</altitude>
+				<heading>62.41008701623451</heading>
+				<tilt>0.02520361353537653</tilt>
+				<roll>54.53197716140496</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>41.30778814148007,35.57474069810126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orthwall</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>46.37290992574796</longitude>
+				<latitude>32.98177819342903</latitude>
+				<altitude>2274646.259200442</altitude>
+				<heading>63.3374511091581</heading>
+				<tilt>0.02520361346305603</tilt>
+				<roll>54.53197716141889</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>44.6781189296715,30.07307629648024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sumataco</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>56.87536238042927</longitude>
+				<latitude>32.36406705807536</latitude>
+				<altitude>2274646.259200444</altitude>
+				<heading>68.59191741557355</heading>
+				<tilt>0.02520361344859194</tilt>
+				<roll>54.53197716139387</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>59.49490727434944,29.44685423703465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maru-Himal</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>56.87536238042927</longitude>
+				<latitude>32.36406705807536</latitude>
+				<altitude>2274646.259200444</altitude>
+				<heading>68.59191741557355</heading>
+				<tilt>0.02520361344859194</tilt>
+				<roll>54.53197716139387</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>66.0568656661719,26.37190252816052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yethymon</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>53.88183334821401</longitude>
+				<latitude>50.47868435519098</latitude>
+				<altitude>2274646.259200445</altitude>
+				<heading>65.40582238778715</heading>
+				<tilt>0.02520361343412783</tilt>
+				<roll>54.53197716143072</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>57.12870955693694,51.76491294343112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Olkaimassiv</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>53.88183334821401</longitude>
+				<latitude>50.47868435519098</latitude>
+				<altitude>2274646.259200445</altitude>
+				<heading>65.40582238778715</heading>
+				<tilt>0.02520361343412783</tilt>
+				<roll>54.53197716143072</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>63.41310036549802,46.26531002715596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gyol</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>59.87425878223689</longitude>
+				<latitude>37.70056162463585</latitude>
+				<altitude>2271403.593120793</altitude>
+				<heading>0.3771240848462474</heading>
+				<tilt>2.273813718064618</tilt>
+				<roll>0.5176302758148141</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>61.43179199766536,38.45288185590221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kithorra-Massiv</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>59.87425878223689</longitude>
+				<latitude>37.70056162463585</latitude>
+				<altitude>2271403.593120793</altitude>
+				<heading>0.3771240848462474</heading>
+				<tilt>2.273813718064618</tilt>
+				<roll>0.5176302758148141</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>68.5544693726502,35.94081536092268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Opfersteine</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>60.07162526520821</longitude>
+				<latitude>26.6125044889028</latitude>
+				<altitude>2271403.593120795</altitude>
+				<heading>0.8793294145295988</heading>
+				<tilt>2.273813718064458</tilt>
+				<roll>0.5176302758151863</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>56.22725263495353,25.87127319541517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ipexim</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>60.07162526520821</longitude>
+				<latitude>26.6125044889028</latitude>
+				<altitude>2271403.593120795</altitude>
+				<heading>0.8793294145295988</heading>
+				<tilt>2.273813718064458</tilt>
+				<roll>0.5176302758151863</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>63.36539420525939,25.36709353119218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Totec-Kämme</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>60.07162526520821</longitude>
+				<latitude>26.6125044889028</latitude>
+				<altitude>2271403.593120795</altitude>
+				<heading>0.8793294145295988</heading>
+				<tilt>2.273813718064458</tilt>
+				<roll>0.5176302758151863</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>57.95343617583772,23.87234517807298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kithomont</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>60.07162526520821</longitude>
+				<latitude>26.6125044889028</latitude>
+				<altitude>2271403.593120795</altitude>
+				<heading>0.8793294145295988</heading>
+				<tilt>2.273813718064458</tilt>
+				<roll>0.5176302758151863</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>63.48113322988306,21.70329552296234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wehr von Kithara</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>60.91226819228656</longitude>
+				<latitude>19.1034116629524</latitude>
+				<altitude>2271403.593120791</altitude>
+				<heading>0.4383246513327582</heading>
+				<tilt>2.273813718064297</tilt>
+				<roll>0.5176302758143442</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>65.12867301583978,16.48048484743802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nagatwall</name>
+			<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #810101; }
+a:hover { text-decoration: underline; color: #ffffff; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>Im <a href="http://rakshazar.de/wiki/index.php?title=Rakshazar">Rakshazar-Wiki</a> existiert leider noch kein Artikel mit dem Namen <a href="http://rakshazar.de/wiki/index.php?title=$[name]">$[name]</a>. Wir würden uns freuen, wenn du diesen schreiben würdest und uns darüber im <a href="http://dereglobus.orkenspalter.de/viewforum.php?f=27">Forum</a> benachrichtigst.</p></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<Camera>
+				<longitude>57.80311273148976</longitude>
+				<latitude>19.99617992090845</latitude>
+				<altitude>2271403.593120791</altitude>
+				<heading>-0.3878935899341228</heading>
+				<tilt>2.273813718064458</tilt>
+				<roll>0.5176302758136102</roll>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge_Rakshazar</styleUrl>
+			<Point>
+				<coordinates>55.06365416584447,15.33460133276868,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

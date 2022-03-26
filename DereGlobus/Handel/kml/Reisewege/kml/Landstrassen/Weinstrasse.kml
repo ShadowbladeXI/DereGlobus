@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weinstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weinstraße-->
+			<name>Weinstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Weinstraße</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Punin">Punin</a> über <a href="http://www.wiki-aventurica.de/wiki/Madasee_%28Stadt%29" title="Madasee (Stadt)">Madasee</a>, <a href="http://www.wiki-aventurica.de/wiki/Al%27Muktur" title="Al'Muktur">Al'Muktur</a>, <a href="http://www.wiki-aventurica.de/wiki/Soroban" title="Soroban">Soroban</a>, <a href="http://www.wiki-aventurica.de/wiki/Ratzingen" title="Ratzingen">Ratzingen</a> und <a href="http://www.wiki-aventurica.de/wiki/Sherbeth" title="Sherbeth">Sherbeth</a> nach <a href="http://www.wiki-aventurica.de/wiki/Weinbergen" title="Weinbergen">Weinbergen</a>. Sie dient hauptsächlich dem Transport von <a href="http://www.wiki-aventurica.de/wiki/Wein" title="Wein" class="mw-redirect">Wein</a> im <a href="http://www.wiki-aventurica.de/wiki/Yaquirtal" title="Yaquirtal">Yaquirtal</a> und den <a href="http://www.wiki-aventurica.de/wiki/Madah%C3%B6hen" title="Madahöhen">Madahöhen</a>. <br>
+							</p>
+							<p>
+								Der <a href="http://www.wiki-aventurica.de/wiki/Yaquirstieg" title="Yaquirstieg" class="mw-redirect">Yaquirstieg</a>, der von <a href="http://www.wiki-aventurica.de/wiki/Punin" title="Punin">Punin</a> aus den <a href="http://www.wiki-aventurica.de/wiki/Yaquir" title="Yaquir">Yaquir</a> entlang verläuft und ins <a href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld" title="Liebliches Feld">Liebliche Feld</a> führt, wird im späten <a href="http://www.wiki-aventurica.de/wiki/Ingerimm" title="Ingerimm">Ingerimm</a> oft als <i>Weinstraße</i> bezeichnet, wenn viele <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a>-Gläubige zu den Weinfesten nach <a href="http://www.wiki-aventurica.de/wiki/Belhanka" title="Belhanka">Belhanka</a> ziehen und auf dem Weg dorthin reichlich vom Rebensaft kosten.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					2.656447359381973,27.04917927119185,0  <!--<POI>Siedlung:Punin</POI>--> <!--<POI>SOE:Reichsstraße 2</POI>--> <!--<POI>SOE:Yuquirstieg</POI>-->
+					2.656429256922421,27.04953743539388,0 
+					2.654659295487025,27.05036731966117,0 
+					2.653698222859584,27.05104125358805,0 
+					2.653092161961657,27.05099290505715,0  <!--<POI>Station:Süd Stadttor Punin</POI>-->
+					2.652475210908352,27.05090847106413,0 
+					2.652308510913863,27.05094459702782,0 
+					2.652183909998338,27.05094582719842,0 
+					2.652048472130957,27.05099019044878,0 
+					2.651795514060666,27.05101514093514,0 
+					2.650859358447837,27.05123204196525,0 
+					2.649765893129186,27.05153847906883,0 
+					2.649362635154973,27.0518362411123,0 
+					2.648977347820036,27.05187658171631,0  <!--<POI>Abzweigung:Eisenstraße</POI>-->
+					2.648148368300367,27.05192850396508,0 
+					2.647783984516261,27.05189644384688,0  <!-- Ende Detailkarte Punin</POI> -->
+					2.64729908062552,27.05172969972768,0 
+					2.636752231914981,27.05132898038202,0 
+					2.605777732503158,27.03303933572052,0 
+					2.567447075113041,27.03542283100886,0  <!--<POI>Siedlung:unbenannt</POI>--> <!--<POI>Abzweigung:Straße nach Valquirbrück</POI>-->
+					2.547634857290237,27.03291023210226,0 
+					2.510814413628912,27.02100465792619,0 
+					2.463227355494979,27.02486681876949,0 
+					2.422916464938039,27.00228323017972,0  <!--<POI>Siedlung:Madasee</POI>--> <!--<POI>Abzweigung:Straße von Madasee nach Then</POI>-->
+					2.408588146116297,26.99279987160473,0 
+					2.38689851007051,26.9907416502796,0 
+					2.342210196566548,26.98718965498141,0 
+					2.252072190337833,26.96128166976748,0 
+					2.221754287991289,26.9629691637413,0 
+					2.179461346777747,26.97998023142412,0 
+					2.126623396382315,26.98422044817069,0  <!--<POI>Abzweigung:Straße von Jassafheim nach Taladur</POI>-->
+					2.087595508552533,26.96816905557332,0  <!--<POI>Siedlung:Al'Muktur</POI>--> <!--<POI>Abzweigung:Straße von Jassafheim nach Taladur</POI>-->
+					2.03902222129779,26.9705372615106,0 
+					1.989516513521994,26.98720163449759,0 
+					1.936059371715957,26.99111688810011,0  <!--<POI>Siedlung:Soroban</POI>--> <!--<POI>Abzweigung:Straße von Hundred nach Soroban</POI>-->
+					1.87874576830932,26.99117891978808,0 
+					1.843225889018534,27.00675750017097,0 
+					1.793773640758012,27.00904615004384,0 
+					1.766653286803093,27.01619774659791,0 
+					1.738244899629111,27.01565443210222,0 
+					1.704837233527559,27.0033228622273,0 
+					1.666979054245299,27.00196375872967,0 
+					1.615711043413317,26.98142726294029,0  <!--<POI>Siedlung:Ratzingen</POI>-->
+					1.570831157449879,26.98109625844642,0 
+					1.530821951082548,26.96836696225202,0  <!--<POI>Abzweigung:Weg von Endivarol nach Ratzingen</POI>--> <!--<POI>Abzweigung:Straße von Bangour nach Ratzingen</POI>-->
+					1.528697052916286,26.94546407875412,0 
+					1.513745963232205,26.92188518267839,0 
+					1.454452064831522,26.8818258410392,0 
+					1.44321627581204,26.86425069027761,0 
+					1.435351958035405,26.83026656347255,0 
+					1.380124403251928,26.78910458798973,0 
+					1.362707062618744,26.76734478147822,0 
+					1.351843750066812,26.72315998103276,0 
+					1.356459850557064,26.70038030456202,0  <!--<POI>Siedlung:Sherbeth</POI>--> <!--<POI>Abzweigung:Straße von Sherbed nach Omlad</POI>-->
+					1.331079847684451,26.66229004347318,0 
+					1.328107272968635,26.61154797532359,0 
+					1.334920780532947,26.58350140470014,0 
+					1.336415479661695,26.56641792327492,0 
+					1.326240326294339,26.5495122484024,0 
+					1.324504954565942,26.5044845162519,0 
+					1.313063547146653,26.46641002196065,0  <!-- <POI>Siedlung:Veliris</POI> --> <!-- <POI>SOE:Herzogstraße</POI> --> 
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>1.992539</longitude>
+				<latitude>26.846234</latitude>
+				<altitude>165000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Magistrala Askania</name>
+	<open>1</open>
+		<Placemark> 	<!-- Magistrala Askania-->
+			<name>Magistrala Askania</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								<b>Magistrala Askania</b> ist der hochtrabende Name für die "Straße", die von <a href="http://www.wiki-aventurica.de/wiki/Chorhop" title="Chorhop">Chorhop</a> über <a href="http://www.wiki-aventurica.de/wiki/Chabira" title="Chabira">Chabira</a>, <a href="http://www.wiki-aventurica.de/wiki/Vilcomterad&amp;action=edit&amp;redlink=1" class="new" title="Vilcomterad (Seite nicht vorhanden)">Vilcomterad</a> und <a href="http://www.wiki-aventurica.de/wiki/Lhasor" title="Lhasor">Lhasor</a> nach <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">Mengbilla</a> führt. Aufgrund der größeren Wichtigkeit des Seeweges besteht der Weg aus nicht mehr als zwei Karrenfurchen.
+
+
+
+
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-0.9775323199009744,21.7634124395043,0   <!-- <POI>Siedlung:Mengbilla</POI> -->  <!-- <POI>SOE:Küstenstraße nach Aldenia</POI> -->   <!-- <POI>SOE:Drunab-Straße</POI> -->
+						-0.9771828385517944,21.76332304545083,0 
+						-0.9771163517094528,21.76318952501568,0 
+						-0.976473805595347,21.76323603636975,0 
+						-0.9751896133441385,21.76315855098464,0 
+						-0.974538808911174,21.76252664872322,0 
+						-0.9739966081444496,21.76235337415902,0 
+						-0.9738806424831858,21.76246794093518,0 
+						-0.9735630540464169,21.76241415947173,0 
+						-0.973031620889766,21.76266839387468,0 
+						-0.9724343500732413,21.76286042373899,0 
+						-0.972404542422004,21.76281608561316,0 
+						-0.9720225712968944,21.76293901610852,0 
+						-0.9717707633656481,21.7629002108082,0 
+						-0.9715406322453379,21.76308243361154,0 
+						-0.9715065369589138,21.76334898309221,0 
+						-0.9717613881444687,21.76380260388153,0 
+						-0.971600645368349,21.76385926002691,0 
+						-0.9714804957716372,21.76399752982717,0 
+						-0.9714962141021144,21.76414464523847,0 
+						-0.9712537029057,21.76436745890697,0 
+						-0.97062474982894,21.76474125648962,0 
+						-0.9706150864222951,21.76509272637551,0 
+						-0.9703780653797123,21.76513765555868,0 
+						-0.9702118082859101,21.76550538993191,0 
+						-0.9701881988100858,21.76609305792659,0 
+						-0.9700498407575109,21.76642852113599,0 
+						-0.9690115977261926,21.76695876657949,0   <!-- Ende Detailkarte Mengbilla -->
+						-0.9209857730919768,21.78694015169865,0 
+						-0.8948826117582209,21.78918143867312,0 
+						-0.8656787776087316,21.78370911050368,0 
+						-0.8458046100130567,21.79097134742181,0 
+						-0.8189066881543594,21.81829525487489,0 
+						-0.779121106439894,21.83124579678723,0 
+						-0.7659751810553428,21.83942588793809,0    <!-- <POI>Siedlung:El'Halem</POI> -->  <!-- <POI>Flussquerung:Couris</POI> -->
+						-0.7386089260667483,21.83636292475718,0 
+						-0.7011403845289976,21.80170990132844,0   <!-- <POI>SOE:Seidenstraße</POI> -->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-0.7011403845289976,21.80170990132844,0    <!-- <POI>Flussquerung:Nordask</POI> -->
+						-0.7022794283146894,21.78710018281097,0 
+						-0.6865604959453642,21.75520236323772,0 
+						-0.7116009127882905,21.7048999483308,0 
+						-0.7050618333866332,21.65359792721336,0 
+						-0.7171493485140468,21.62060990984528,0 
+						-0.7163585005377005,21.58183095431448,0     <!-- <POI>Siedlung:unbenannt</POI> --> 
+						-0.6791477938455237,21.54713458534777,0 
+						-0.6376560341844728,21.47752592079404,0 
+						-0.6472931918624503,21.43193939292112,0 
+						-0.6458397246943681,21.39969745123542,0     <!-- <POI>Siedlung:Lhasor</POI> --> 
+						-0.6558544511751885,21.37479430595696,0 
+						-0.688776103825397,21.34822996245262,0 
+						-0.6921958903508074,21.32397928873201,0 
+						-0.6705450897255794,21.26452160033006,0 
+						-0.6694088195068437,21.21927515011832,0 
+						-0.686350123611571,21.18157783625036,0 
+						-0.6792933545178892,21.1224424519928,0 
+						-0.7251917503854533,21.08010119227581,0 
+						-0.7365052480413703,21.03353606724419,0 
+						-0.7355495093365227,20.96584098656317,0 
+						-0.7478532563414897,20.91259932389811,0 
+						-0.7651413654676675,20.88498656971419,0     <!-- <POI>Siedlung:Vilcomterad</POI> -->
+						-0.7732831864106593,20.84847750278556,0 
+						-0.7987693708040478,20.82355769260947,0 
+						-0.8298608360649662,20.81045523867573,0 
+						-0.8596778940317407,20.78394965900586,0 
+						-0.8793464583433874,20.74406757311721,0    <!-- <POI>Siedlung:Chabira</POI> --> 
+						-0.8804947083921011,20.69372632717685,0 
+						-0.9108807693669363,20.66774257677673,0 
+						-0.939337752234527,20.62362954620335,0  	<!-- Anfang Detailkarte Chorhop -->
+						-0.9396684306172332,20.62298319318771,0 
+						-0.9397769161277281,20.62213888377474,0 
+						-0.9397003198925735,20.62091276866138,0 
+						-0.9378782093269833,20.62091616886163,0 
+						-0.937791928084033,20.61969057462015,0 
+						-0.9367493468215904,20.61954702647146,0 
+						-0.9371598253985991,20.61800951962057,0   	<!-- <POI>Siedlung:Chorhop</POI> -->  <!-- <POI>SOE:Weg nach Nasha</POI> -->   <!-- <POI>SOE:Rabensteig</POI> -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>-0.807594</longitude>
+				<latitude>21.228717</latitude>
+				<altitude>211860</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

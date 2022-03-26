@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+       <Folder>
+        <open>0</open>
+        <name>Staatliches Gebäude Perainefurten</name>
+        <visibility>1</visibility>
+        <Region>
+          <LatLonAltBox>
+            <north>33.03381746558505</north>
+            <south>33.02788944450911</south>
+            <east>8.09265441476885</east>
+            <west>8.082897651098781</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>256</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>0</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <Placemark>
+          <name>Ebelrieder Tor</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+Das <b>Ebelrieder Tor</b> - früher <b>Ysilisches Tor</b> genannt - ist eine viertürmige Festungsanlage und schützt <a href="http://www.wiki-aventurica.de/wiki/Perainefurten" title="Perainefurten">Perainefurten</a> vor den <a href="http://www.wiki-aventurica.de/wiki/Schwarztobrien" title="Schwarztobrien">feindlichen Landen</a> im Süden.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>8.087196457339498</longitude>
+            <latitude>33.02915831842846</latitude>
+            <altitude>0</altitude>
+            <range>287.993539020128</range>
+            <tilt>0</tilt>
+            <heading>-0.0003159157527984032</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.087522185833976,33.02825344404069,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Offiziersquartiere und Lazarett des I. herzoglichen Landwehrregiments Herzog Firutin</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.087347755563849</longitude>
+            <latitude>33.03080350263326</latitude>
+            <altitude>0</altitude>
+            <range>1279.686709182937</range>
+            <tilt>0</tilt>
+            <heading>0.003555453972682658</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.091204932296881,33.03161002559617,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Garnison mit Exerzierplatz des I. herzoglichen Landwehrregiments Herzog Firutin</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.087347755563849</longitude>
+            <latitude>33.03080350263326</latitude>
+            <altitude>0</altitude>
+            <range>1279.686709182937</range>
+            <tilt>0</tilt>
+            <heading>0.003555453972682658</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.090750956163696,33.02990466894453,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Garnison des herzoglichen Leibgarderegiments Wolfengarde und des Herzog Yerodin Banners</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.087196457339498</longitude>
+            <latitude>33.02915831842846</latitude>
+            <altitude>0</altitude>
+            <range>287.993539020128</range>
+            <tilt>0</tilt>
+            <heading>-0.0003159157527984032</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.086955238338565,33.02981519964767,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Schutztruppen des Konzils</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.088675148104851</longitude>
+            <latitude>33.0305365741782</latitude>
+            <altitude>0</altitude>
+            <range>287.9935390224461</range>
+            <tilt>0</tilt>
+            <heading>0.0004901946178699392</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.089412882268729,33.03047014040832,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Vallusanisches Tor</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+Das <b>Vallusanische Tor</b> liegt im Osten von <a href="http://www.wiki-aventurica.de/wiki/Perainefurten" title="Perainefurten">Perainefurten</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>8.091260182952333</longitude>
+            <latitude>33.03226729462038</latitude>
+            <altitude>0</altitude>
+            <range>287.9935390205733</range>
+            <tilt>0</tilt>
+            <heading>0.001899239450568348</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.091645786827101,33.03231894816884,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Herzogliche Kanzlei</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+Die <b>Herzogliche Kanzlei zu Perainefurten</b> in <a href="http://www.wiki-aventurica.de/wiki/Perainefurten" title="Perainefurten">Perainefurten</a> war der einstige Gutshof des benachbarten <a href="http://www.wiki-aventurica.de/wiki/Peraine" title="Peraine">Peraineklosters</a>, wo der Herzog von <a href="http://www.wiki-aventurica.de/wiki/Tobrien" title="Tobrien" class="mw-redirect">Tobrien</a> Zuflucht fand. In den folgenden Jahren wurde der Gutshof mehrfach umgebaut und befestigt. In heutiger Zeit befindet sich hier die herzogliche Kanzlei, die Stadtverwaltung und die Garnison. Kanzler ist <a href="http://www.wiki-aventurica.de/wiki/Delo_von_Gernotsborn" title="Delo von Gernotsborn">Delo von Gernotsborn</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>8.085235359511628</longitude>
+            <latitude>33.03068552755111</latitude>
+            <altitude>0</altitude>
+            <range>1279.686709183811</range>
+            <tilt>0</tilt>
+            <heading>0.002404083493866541</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Herzogliche Kanzlei zu Perainefurten</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.086980025213677,33.03062642154053,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Drachensteintor</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+Das <b>Drachensteintor</b> (auch Tralloper Tor genannt) liegt im Norden von <a href="http://www.wiki-aventurica.de/wiki/Perainefurten" title="Perainefurten">Perainefurten</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>8.085235359511628</longitude>
+            <latitude>33.03068552755111</latitude>
+            <altitude>0</altitude>
+            <range>1279.686709183811</range>
+            <tilt>0</tilt>
+            <heading>0.002404083493866541</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.086557691917502,33.03276473521403,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

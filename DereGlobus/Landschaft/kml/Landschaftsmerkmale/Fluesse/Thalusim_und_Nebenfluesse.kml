@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Thalusim und Nebenfluss</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Thalusim</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Thalusim</b> (<a href="http://www.wiki-aventurica.de/wiki/Tulamidya" title="Tulamidya">Tulamidya</a> für "Auen" oder "Marschland) ist ein Fluss im Süden der <a href="http://www.wiki-aventurica.de/wiki/Tulamidenlande" title="Tulamidenlande">Tulamidenlande</a>, der aus zwei Quellflüssen in den <a href="http://www.wiki-aventurica.de/wiki/Unauer_Berge" title="Unauer Berge">Unauer Bergen</a> entspringt und nach etwa 150 Meilen bei <a href="http://www.wiki-aventurica.de/wiki/Thalusa" title="Thalusa">Thalusa</a> in den <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Tuzak" title="Golf von Tuzak">Golf von Tuzak</a> mündet. Das fruchtbare Tal des Flusses trennt dabei die Gebirge des <a href="http://www.wiki-aventurica.de/wiki/Thalus-Massiv" title="Thalus-Massiv">Thalus-Massivs</a> und des <a href="http://www.wiki-aventurica.de/wiki/Stierbuckel" title="Stierbuckel">Stierbuckels</a> voneinander. Kurz vor der Mündung ist der Thalusim etwa 40 Schritt breit, hier existert mit der Brücke der drei Schwestern in <a href="http://www.wiki-aventurica.de/wiki/Thalusa" title="Thalusa">Thalusa</a> auch ein Übergang. Die Mündung selbst ist schließlich etwa 200 Schritt breit. Der sumpfige Unterlauf des Flusses ist schiffbar.
+
+</p><p>Am Thalusim wird hauptsächlich Reis angebaut, außerdem Tee, Gewürznelken und Pfeffer. Die sich an den Bergen sammelnden Ostwinde sorgen für fruchtbaren und morastigen Boden. In alten Zeiten siedelten die <a href="http://www.wiki-aventurica.de/wiki/Echsenrasse" title="Echsenrasse">Echsenrassen</a> am Thalusim, bevor sie von den Menschen vertrieben wurden. Es heißt, der Fluss selbst habe an der Stelle <a href="http://www.wiki-aventurica.de/wiki/Thalusa" title="Thalusa">Thalusas</a> eine große Echsenstadt in einer gewaltigen Flut mit Schlamm bedeckt. Heute siedeln hier <a href="http://www.wiki-aventurica.de/wiki/Tulamide" title="Tulamide">Tulamiden</a>, die meist in unterschiedlichsten Kleinststaaten leben.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+4.787923364109899,22.76416854050161,0 4.804999548180621,22.75760969483511,0 4.831064440038739,22.75405189038875,0 4.858463800074217,22.76399953240195,0 4.874652676349582,22.76460955272722,0 4.889740956037261,22.75978509178616,0 4.917067033992975,22.74480865859629,0 4.989336608685495,22.74415579199292,0 5.058795511411807,22.71904050995709,0 5.105374088644892,22.71705136474476,0 5.141942365331316,22.7412582793084,0 5.175085155970105,22.74302164239715,0 5.212575637588288,22.72312856591119,0 5.27883107284241,22.69909657642855,0 5.309203304783656,22.70165464751534,0 5.328024424541242,22.71370118608292,0 5.422598428088692,22.71949525348163,0 5.474031621184221,22.74102355334645,0 5.496735962763106,22.74405643513891,0 5.519524265880533,22.75258697541534,0 5.527997362817432,22.76659937529989,0 5.556637545785693,22.76891410486201,0 5.57835362390545,22.77687005872274,0 5.601243045618594,22.77729681620888,0 5.612183854296182,22.77333052020885,0 5.628438781352212,22.78748454821751,0 5.666940986887019,22.78711456588278,0 5.679748748948077,22.76260779165881,0 5.696709864390295,22.75499119852421,0 5.737651216919584,22.75709916579097,0 5.769242437991167,22.7737708314699,0 5.771954378089454,22.78938094090101,0 5.802910472809087,22.80314438853909,0 5.838357044917409,22.81141931253286,0 5.860423519466798,22.80181742321736,0 5.879612028470749,22.80439462302775,0 5.891051679708377,22.81106438475988,0 5.922957950775951,22.80985562898923,0 5.936987513321754,22.80500689673432,0 5.94644896172722,22.78297139233886,0 5.961215935480919,22.77417949509859,0 5.982312345148106,22.7824507261445,0 6.008983227371292,22.78411876366782,0 6.050742856964808,22.79222869883296,0 6.082703300535526,22.8049047518709,0 6.114491757449527,22.81953867921457,0 6.164896462719232,22.82509932960697,0 6.183841952608072,22.81599648739246,0 6.223924915452428,22.81604089972844,0 6.266080036952289,22.78796517430467,0 6.270772236744739,22.78745312809051,0 6.274082119241163,22.78804266899082,0 6.275858432345888,22.78823567353529,0 6.278965318646039,22.78812124438027,0 6.283177787910548,22.78742263951339,0 6.291281497321939,22.77772176607883,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Thalus</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD>
+<B>Quellen:<B> <TR><TD>Entsprechende Regionalkarte<TR><TD>
+<HR><BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+5.023146158233969,23.09978943093775,0 5.037083158225711,23.07970284841304,0 5.039212923022611,23.03822582226918,0 5.029352933746861,23.02464946693182,0 5.033806561517893,23.01434094190766,0 5.045488843479154,23.00357038672055,0 5.062782104567798,23.00413960232196,0 5.085843630669002,22.98345426197258,0 5.085082109754175,22.96116164235924,0 5.103115659694939,22.94455766767867,0 5.11301616395214,22.9435070029307,0 5.1329378902399,22.92781477326836,0 5.169037477788243,22.92311768529803,0 5.192435011572845,22.91764541778304,0 5.208717245496562,22.90197427453411,0 5.214407879746443,22.88719094115534,0 5.247568585571647,22.86656128344533,0 5.284083029366846,22.82244080096341,0 5.309078022807123,22.80849497990673,0 5.335512807916509,22.81032051524829,0 5.355697176552578,22.8044040259389,0 5.387176604326943,22.82304915729386,0 5.423907395407827,22.82335221129375,0 5.447620115022625,22.81928432949946,0 5.464281979071717,22.80440822653854,0 5.507450796204871,22.77398080243958,0 5.527286470937669,22.76681024267101,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

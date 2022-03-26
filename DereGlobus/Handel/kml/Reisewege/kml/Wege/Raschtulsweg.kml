@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Raschtulsweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Raschtulsweg-->
+			<name>Raschtulsweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Raschtulsweg</b> (auch <b>Blutpass</b> oder <b>Raschtulspass</b>) ist ein <a href="http://www.wiki-aventurica.de/wiki/Pass" title="Pass">Gebirgspass</a> zwischen südlichem <a href="http://www.wiki-aventurica.de/wiki/Raschtulswall" title="Raschtulswall">Raschtulswall</a> und <a href="http://www.wiki-aventurica.de/wiki/Raschtulsturm" title="Raschtulsturm">Raschtulsturm</a>, der <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">Almada</a> mit <a href="http://www.wiki-aventurica.de/wiki/Mhanadistan" title="Mhanadistan">Mhanadistan</a> verbindet. Er führt von <a href="http://www.wiki-aventurica.de/wiki/Then" title="Then">Then</a> über die <a href="http://www.wiki-aventurica.de/wiki/Zollfeste_Then" title="Zollfeste Then">gleichnamige Zollfeste</a> nach <a href="http://www.wiki-aventurica.de/wiki/Erkenstein" title="Erkenstein">Erkenstein</a>. Während der schneefreien und damit gangbaren Monate <a href="http://www.wiki-aventurica.de/wiki/Ingerimm" title="Ingerimm">Ingerimm</a> bis <a href="http://www.wiki-aventurica.de/wiki/Rondra" title="Rondra">Rondra</a> wird er regelmäßig von Handelszügen frequentiert.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						03.472772,26.159601,0	<!--<POI>Siedlung:Erkenstein</POI>--> <!--<POI>Abzweigung:Zedernstraße</POI>-->
+						03.455170,26.158028,0 	<!--<POI>Flussquerung:Erkin</POI>-->
+						03.449221,26.159402,0 
+						03.447417,26.167794,0 
+						03.448149,26.202868,0 
+						03.442564,26.211522,0 
+						03.436075,26.218875,0 
+						03.428578,26.224111,0 
+						03.414779,26.228294,0 
+						03.393261,26.243042,0 
+						03.385396,26.250178,0 
+						03.359198,26.263596,0 
+						03.329091,26.281092,0 
+						03.307144,26.292733,0 
+						03.278090,26.305047,0 
+						03.246166,26.313020,0 
+						03.226524,26.310917,0 
+						03.208591,26.299523,0 
+						03.190595,26.297927,0 
+						03.174943,26.295242,0 
+						03.154960,26.289657,0 
+						03.133350,26.299111,0 
+						03.117595,26.308693,0 
+						03.100552,26.319531,0 
+						03.087544,26.334135,0 
+						03.086385,26.356544,0 
+						03.080539,26.365628,0 
+						03.074660,26.374199,0 
+						03.065340,26.377860,0 
+						03.054627,26.399946,0 
+						03.045557,26.403897,0 
+						03.033720,26.402373,0 
+						03.019703,26.394519,0 
+						02.998983,26.405958,0 
+						02.981795,26.423412,0 
+						02.955192,26.447691,0 
+						02.953312,26.486814,0 
+						02.925045,26.513115,0 
+						02.917545,26.525583,0 
+						02.906386,26.538485,0 
+						02.884559,26.540306,0 
+						02.858923,26.573664,0 
+						02.828865,26.606075,0 
+						02.796647,26.621958,0 
+						02.764302,26.635096,0 
+						02.751941,26.644955,0 
+						02.743686,26.664101,0  <!--<POI>Station:Landgasthof Zum Königsaar</POI>-->
+						02.712676,26.683361,0 
+						02.705363,26.690661,0 
+						02.693749,26.694849,0 
+						02.681521,26.702743,0 
+						02.675528,26.719615,0 
+						02.673211,26.725044,0 
+						02.658860,26.737411,0 
+						02.650983,26.749861,0 
+						02.652299,26.772497,0 
+						02.650181,26.787191,0 
+						02.637814,26.797653,0 
+						02.626531,26.806641,0 
+						02.615091,26.815841,0 
+						02.606940,26.820792,0 	<!--<POI>Flussquerung:Yaquir</POI>-->
+						02.588141,26.826757,0 	<!--<POI>Siedlung:Erkenstein</POI>--> <!--<POI>SOE:Yaquirstieg</POI>--> <!--<POI>SOE:Straße von Madasee nach Then</POI>-->
+					</coordinates>
+				</LineString>
+				</MultiGeometry>
+			<Camera>
+				<longitude>3.044443</longitude>
+				<latitude>26.693203</latitude>
+				<altitude>207100</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

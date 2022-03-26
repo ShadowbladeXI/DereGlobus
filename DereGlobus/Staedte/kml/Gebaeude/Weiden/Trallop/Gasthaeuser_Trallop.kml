@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<Folder>
+		<name>Gasthäuser Trallop</name>
+		<Region>
+		<LatLonAltBox>
+			<north>33.65273612972145</north>
+			<south>33.64472693665064</south>
+			<east>5.064291725862548</east>
+			<west>5.049143744397889</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+		</Region>
+		<Placemark>
+			<name>Bordell Mayenhaus</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 4<TR><TD><I>Stadtteil:</I> Neuentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>5.059484</longitude>
+				<latitude>33.647028</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.059484,33.647028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gasthaus Bärenschenke</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 48<TR><TD><I>Stadtteil:</I> Altentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>5.062185</longitude>
+				<latitude>33.648938</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.062185,33.648938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Herberge Zum Füllhorn</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil:</I> Niederufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>5.054385</longitude>
+				<latitude>33.647853</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.054385,33.647853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schenke Bei Gorge</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 15<TR><TD><I>Stadtteil:</I> Hohenufern<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>5.056998</longitude>
+				<latitude>33.650271</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.056998,33.650271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schenke Heller und Kreuzer</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan:</I> 5<TR><TD><I>Stadtteil:</I> Neuentrallop<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>5.058857</longitude>
+				<latitude>33.647544</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.058857,33.647544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Schenke Norderwacht</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Die <b>Norderwacht</b> ist eine gemütliche <a href="http://www.wiki-aventurica.de/wiki/Sch%C3%A4nke" title="Schänke" class="mw-redirect">Schänke</a> in <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a>, in der zuweilen sogar der Landesherr anzutreffen ist.
+			<hr>
+			<div id="wiki">
+				<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>5.058290</longitude>
+				<latitude>33.650698</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.058290,33.650698,0</coordinates>
+			</Point>
+		</Placemark>
+		<!--<Placemark>
+			<name>Schenke Schwarzer Stier</name>
+			<description><![CDATA[<style type="text/css">--><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--><!--</style><table><TR><TD><I>Stadtteil:</I> Niederufern<TR><TD><I>Besitzer/Vorsteher:</I> Thonderun von Alfenau<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 98<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 255<TR><TD>Das Herzogtum Weiden, S. 52<TR><TD>Das Große Donnersturmrennen, S. 47<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Die Welt des Schwarzen Auges, S. 58<TR><TD>Unsterbliche Gier, S. 17<TR><TD>Geographia Aventurica, S. 53<TR><TD>Rückkehr der Finsternis, S. 98<TR><TD>Schild des Reiches, S. 72<TR><TD>Wetterleuchten, S. 32<TR><TD>Im Bann des Diamanten, S. 36<TR><TD>Schatten über Bosparan, S. 136<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1, S. 48<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+			<LookAt>
+				<longitude>5.058857</longitude>
+				<latitude>33.647544</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.058857,33.647544,0</coordinates>
+			</Point>
+		</Placemark>-->
+		<Placemark>
+			<name>Wirtshaus Kaiserstolz und Orkentod</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			<b>Kaiserstolz und Orkentod</b> ist eine durchschnittliche <a href="http://www.wiki-aventurica.de/wiki/Sch%C3%A4nke" title="Schänke" class="mw-redirect">Schänke</a> in <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a>, mit ordentlichem Essen und guten Getränken. Auf ausgefallene Gerichte und Getränke kann man nicht hoffen, aber wer Arbeit sucht, der ist hier richtig.
+			<hr>
+			<div id="wiki">
+				<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>5.054443</longitude>
+				<latitude>33.647115</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.054443,33.647115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wirtshaus Kreuzergrab</name>
+			<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+			Das <b>Wirtshaus Kreuzergrab</b> ist eine üble Kaschemme in einer ehemaligen Tempelgruft des <a href="http://www.wiki-aventurica.de/wiki/Tempel_des_Todes_und_der_Wacht" title="Tempel des Todes und der Wacht">Boron-Tempels</a> von <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a>, in der allerlei <a href="/index.php?title=Gl%C3%BCcksspiel&amp;action=edit&amp;redlink=1" class="new" title="Glücksspiel (Seite nicht vorhanden)">Glücksspiele</a> gespielt werden.
+			<hr>
+			<div id="wiki">
+				<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+			<LookAt>
+				<longitude>5.061459</longitude>
+				<latitude>33.649997</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>260</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.061459,33.649997,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

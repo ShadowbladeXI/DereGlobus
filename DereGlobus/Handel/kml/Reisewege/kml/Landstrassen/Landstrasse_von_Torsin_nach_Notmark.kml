@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Landstraße von Torsin nach Notmark</name>
+	<open>1</open>
+		<Placemark> 	<!-- Landstraße von Torsin nach Notmark-->
+			<name>Landstraße von Torsin nach Notmark</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						9.387678857766826,36.22480730269309,0  <!-- <POI>Siedlung:Torsin</POI> --> <!--<POI>SOE:Bornstraße</POI>--> <!--<POI>SOE:Straße von Schloss Ilmenstein nach Torsin</POI>-->
+						9.441574788375595,36.23414588760232,0 
+						9.476540622167683,36.25140001719852,0 
+						9.512165955201686,36.25137634299267,0 
+						9.567091944632914,36.27943861652855,0  <!--<POI>Siedlung:Ebrin</POI>-->
+						9.613533638060288,36.28168265936858,0 
+						9.662277447148025,36.26022646139305,0 
+						9.711148529881664,36.27655362232464,0 
+						9.783007093887839,36.27723996541832,0  <!-- <POI>Fluss:Sewerja</POI> -->
+						9.839167001874658,36.28224050426817,0 
+						9.865673659059356,36.29451236135934,0 
+						9.893948186903836,36.29744205478747,0 
+						9.91657239281404,36.3069906236796,0 
+						9.94133686984058,36.30651502282323,0 
+						9.977118348330389,36.3200655294481,0 
+						10.06015739373341,36.3161489553349,0   <!--<POI>Siedlung:Drauhag</POI>--> <!--<POI>Abzweig:Straße von Drauhag nach Eschenfurt</POI>-->
+						10.19057825320961,36.33416168939291,0 
+						10.31252202347602,36.34541509987753,0 
+						10.37831820978045,36.33976049759774,0 
+						10.42411633732128,36.3151330340946,0 
+						10.48171147715429,36.30748807747682,0  <!--<POI>Siedlung:Gorschnitz</POI>-->
+						10.55223753931556,36.30856964265763,0 
+						10.57975942974451,36.31794606505009,0 
+						10.62535304090771,36.31988223142122,0  <!--<POI>Siedlung:unbenannt</POI>-->
+						10.67866368375522,36.32952055504137,0 
+						10.74019573399193,36.32445468613344,0 
+						10.77886350446362,36.31462548475119,0  <!--<POI>Abzweig:Weg von Silling nach Viereichen</POI>-->
+						10.86461883298449,36.32164870937721,0  <!--<POI>Siedlung:Viereichen</POI>--> <!--<POI>Abzweig:Lettastieg</POI>--> <!--<POI>Abzweig:Straße von Viereichen nach Treie</POI>-->
+						10.89615564340394,36.32330733780344,0 
+						10.92683368762307,36.33473809418101,0 
+						10.94713724952318,36.35052658603411,0 
+						10.9761281396449,36.36053729813941,0 
+						11.00832751666732,36.38370346811627,0 
+						11.04120506195439,36.3933971431063,0 
+						11.08471685481308,36.41688889136562,0 
+						11.18869044062679,36.44684992443686,0 
+						11.24017178097744,36.44824296685469,0 
+						11.29305213742032,36.47127987078085,0  <!-- Anfang Detailkarte Ouvenmaas -->
+						11.29545119935459,36.47124161591145,0 
+						11.29718718721544,36.47111527357261,0  <!--<POI>Siedlung:Ouvenmaas</POI>--> <!--<POI>Abzweig:Weg von Ouvenmaas nach Burg Ouvenstam</POI>-->
+						11.2981866096368,36.47065408950545,0 
+						11.29982613718137,36.46985017929733,0  <!-- <POI>Fluss:Ouve</POI> -->
+						11.3003750217757,36.46967159579334,0 
+						11.30078978177673,36.46957207383996,0  <!-- Ende Detailkarte Ouvenmaas -->
+						11.30121775779133,36.46954909056049,0 
+						11.34298653684034,36.45070190044538,0  <!--<POI>Abzweig:unbenannt</POI>-->
+						11.37512502025779,36.45407386273404,0 
+						11.44931712901767,36.49158253765825,0 
+						11.51130835771689,36.51585370617079,0 
+						11.53675916068659,36.54814443715273,0 
+						11.56711415135413,36.56360316769292,0  <!--<POI>Siedlung:Trepelow</POI>-->
+						11.59561939610878,36.59347018769449,0 
+						11.66678199817486,36.63378917044215,0 
+						11.71090164365118,36.65681588070432,0 
+						11.74014494758785,36.66077142323271,0  <!--<POI>Siedlung:Sjepengurken</POI>-->
+						11.77367286763368,36.67092958146719,0 
+						11.80364400425693,36.69316170452179,0 
+						11.82797925952419,36.71293483515813,0 
+						11.88102977638781,36.76800687592696,0 
+						11.91669726829825,36.78332491375629,0 
+						11.94201511580782,36.80377652480543,0 
+						11.96743913497227,36.81561623702358,0  <!--<POI>Siedlung:Einweiler</POI>-->
+						11.98852665263652,36.82258399306198,0 
+						12.00920647325285,36.82506018160941,0 
+						12.05780385342494,36.85589966609648,0 
+						12.13842362723697,36.88506807623323,0 
+						12.16301178974363,36.90375987517086,0  <!--<POI>Siedlung:Quelldunkel</POI>-->
+						12.27431044877912,36.94743408768451,0 
+						12.30427158425048,36.97615598388738,0 
+						12.32650341682216,37.01050637493253,0  <!-- Anfang Detailkarte Notmark -->
+						12.32629396578901,37.01090961000838,0 
+						12.32587952163433,37.01137616711534,0  <!--<POI>Siedlung:Notmark</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>10.803341</longitude>
+				<latitude>36.535790</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

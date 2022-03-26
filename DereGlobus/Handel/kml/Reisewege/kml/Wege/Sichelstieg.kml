@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sichelstieg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Sichelstieg-->
+			<name>Sichelstieg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Sichelstieg</b> ist ein Pass über die <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel" title="Schwarze Sichel">Schwarze Sichel</a>. Er verbindet die Herzogtümer <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Weiden" title="Herzogtum Weiden">Weiden</a> und <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Tobrien" title="Herzogtum Tobrien">Tobrien</a>. In den letzten Jahren waren der Sichelstieg und die an seinem tobrischen Ende liegende Festung <a href="http://www.wiki-aventurica.de/wiki/Kleinwardstein" title="Kleinwardstein">Kleinwardstein</a> heftig umkämpft. In der Nähe hat der <a href="http://www.wiki-aventurica.de/wiki/Kaiserdrache" title="Kaiserdrache">Kaiserdrache</a> <a href="http://www.wiki-aventurica.de/wiki/Lessankan" title="Lessankan">Lessankan</a> seinen Hort. Auf der Passhöhe befindet sich eine Kapelle der heiligen <a href="http://www.wiki-aventurica.de/wiki/Thalionmel" title="Thalionmel">Thalionmel</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					05.835870,33.151313,0  <!--<POI>Siedlung:Salthel</POI>--> <!--<POI>SOE:Tobrische Straße</POI>--> <!--<POI>SOE:Sieben-Baronien-Weg</POI>-->
+					5.86869601209685,33.13813276550061,0 
+					5.905513723875515,33.11252245308664,0 
+					5.960933195104808,33.08936624928335,0 
+					6.027859568426153,33.09112385859419,0 
+					6.04530894184596,33.08097081161255,0 
+					6.074797111750529,33.07979183668477,0 
+					6.108756181545707,33.06554399268936,0 
+					6.166241580829648,33.06402399275086,0 
+					6.231733427674147,33.07759589699516,0 
+					6.266800427788512,33.06892964550376,0 
+					6.294431667526331,33.07899697613599,0 
+					6.3068677220728,33.07884063766981,0 
+					6.334997855001476,33.05898678566822,0 
+					6.356659426027576,33.05480372065558,0 
+					6.391074178223805,33.0400342475319,0 
+					6.435530518049301,33.0355217010591,0 
+					6.47680888223791,33.01529975795368,0 
+					6.484400664390916,33.0069566101508,0 
+					6.549733485946499,32.98998450614367,0 
+					6.591239637942124,32.97072161023517,0 
+					6.670978222613185,32.96216731533332,0 
+					6.731539922533134,32.98940641720534,0 
+					6.752214032648713,32.98907553652112,0 
+					6.784282838241207,32.98165515800848,0  <!--<POI>Siedlung:Feste Leuentrutz</POI>-->
+					6.826539571754631,32.97619008553035,0 
+					6.935437602796588,32.90624556148236,0  <!--<POI>Siedlung:Meilersruh</POI>-->
+					6.970205158211957,32.91169828751423,0 
+					7.008251780909289,32.90276247719945,0 
+					7.046103333536824,32.91337709983499,0 
+					7.097627700116036,32.91453800348523,0 
+					7.122815294810279,32.90972073291025,0 
+					7.15961644314145,32.87648560989742,0   <!--<POI>Siedlung:Spogelsen</POI>-->
+					7.174513223940242,32.85494881412214,0 
+					7.188599993079148,32.80437399388867,0 
+					7.195914755082436,32.78905233531077,0 
+					7.218705993003283,32.77385546614395,0 
+					7.263714846137523,32.75993512088039,0 
+					7.293665212229017,32.76062163002812,0 
+					7.324775576206537,32.77259206512652,0 
+					7.364655639121716,32.77783134177039,0 
+					7.387917094414842,32.76216169977734,0 
+					7.409914555256922,32.73914483105497,0 
+					7.425045797403971,32.71106818297363,0 
+					7.468741840477071,32.690606890967,0   <!--<POI>Siedlung:Salthel</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>6.620679</longitude>
+				<latitude>33.022679</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

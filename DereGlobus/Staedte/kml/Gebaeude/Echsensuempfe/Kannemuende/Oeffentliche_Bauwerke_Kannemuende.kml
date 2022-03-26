@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+            <Folder>
+        <name>Öffentliche Bauwerke Kannemünde</name>
+		<Region>
+		<LatLonAltBox>
+			<north>22.19324091518305</north>
+			<south>22.19118261588732</south>
+			<east>3.886815491363515</east>
+			<west>3.883689172179304</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <Placemark>
+          <name>Brunnen - Wasser in Kannemünde</name>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #814F21; }
+a:hover { text-decoration: underline; color: #814F21; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>Kannemünde ist eine trockene Stadt. Die Wasserversorgung der Stadt stellt trotz der Nähe zum Fluss eine Problem dar. Das Wasser des Chaneb ist brackig und ungenießbar. Die Stadt versorgt sich über zwei Brunnen, die mühsam in den harten Fels gebohrt wurden. Das reicht aus, um die Bewohner zu versorgen, auch wenn tagsüber an den Brunnen ein reges Kommen und Gehen herrscht. Die Haushalte speichern das Wasser in irdenen Behältern, die von den Wasserträgern befüllt werden. Die Novadis speichern das Wasser in Zisternen, doch die wenigen Regenfälle in der Gegend reichen nicht immer aus, so dass man in trockenen Zeiten auch die Novadis zum Brunnen laufen sieht. Dieser Mangel ist auch dafür verantwortlich, dass es praktisch keine Lasttiere in der Stadt gibt und die schwere Arbeit von Menschen erledigt werden muss.
+
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.downloads.orkenspalter.de/"><img src="http://dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/orkenspalter.png" alt="orkenspalter.de" align="left"></a></p>
+
+<p>Dieser Text basiert auf der inoffiziellen Spielhilfe
+<a href="http://www.downloads.orkenspalter.de/archives/4670">Kannemünde</a> 
+
+auf 
+<a href="http://www.downloads.orkenspalter.de/" title="www.downloads.orkenspalter.de/" rel="nofollow">Orkenspalter.de</a>. Mit freundlicher Genehmigung des Autors <a href="http://www.wiki-aventurica.de/wiki/Johannes Heck" title="Johannes Heck">Johannes Heck</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <longitude>3.885409330107441</longitude>
+            <latitude>22.19251469891045</latitude>
+            <altitude>0</altitude>
+            <range>238.3383749241623</range>
+            <tilt>0</tilt>
+            <heading>-5.605267747412142</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-InOff</styleUrl>
+          <Point>
+            <coordinates>3.885297896557753,22.19237345117513,0</coordinates>
+          </Point>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk-InOff</styleUrl>
+      </Folder>
+    </Document>
+</kml>

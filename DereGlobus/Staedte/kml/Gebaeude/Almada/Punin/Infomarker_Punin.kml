@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Infomarker Punin</name>
+	<Region>
+		<LatLonAltBox>
+			<north>27.05629773260329</north>
+			<south>27.03790578131286</south>
+			<east>2.662378418352493</east>
+			<west>2.647486645546109</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Infomarker</name>
+		<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					<br/>
+					<b>Handelsstätten:</b><br/>
+					Handelshaus Mezzeo<br/>
+					Kontor Markwardt<br/>
+					Kuriositätenladen<br/>
+					Tuchhändler<br/><br/>
+					<b>Landschaft:</b><br/>
+					<br/>
+					<b>Öffentliche Bauwerke:</b><br/>
+					<br/>
+					<b>Privathäuser:</b><br/>
+					Haus der weißen Taube<br/>
+					Villa Al'Faran<br/><br/>
+					<b>Sakrale Bauwerke:</b><br/>
+					Madatempel<br/>
+					Marbotempel<br/>
+					Nandustempel<br/>
+					Ordenshaus der Etilianer<br/><br/>
+					<b>Staatliche Bauwerke:</b><br/>
+					<br/>
+					<b>Straßen:</b><br/>
+					<br/>
+					<b>Werkstätten:</b><br/>
+					Geldwechsler<br/><br/>
+					<B>Mögliche Quellen:</B><BR> Das Land des Schwarzen Auges, S. 94<br/>Aventurien - Das Lexikon des Schwarzen Auges, S. 201<br/>Pforte des Grauens, S. 14<br/>Die letzte Bastion, S. 7<br/>Das Königreich Almada, S. 37<br/>Erben des Zorns, S. 16<br/>Die Welt des Schwarzen Auges, S. 16<br/>Das Königreich Almada, S. 37<br/>Geographia Aventurica, S. 52<br/>Aventurischer Bote (105), S. 4<br/>Meister der Dämonen, S. 178<br/>Invasion der Verdammten, S. 169<br/>Ehrenhändel, S. 55<br/>Aus Licht und Traum, S. 103<br/>Im Schatten Simyalas, S. 55<br/>Stein der Mada, S. 19<br/>Das Zepter des Horas, S. 32<<br/>Aventurischer Bote (136), S. 3<br/>Patrizier und Diebesbanden, S. 83<br/>Die Goldene Stadt, S. 3<br/>Donner und Sturm, S. 43<br/>Aventurische Götterdiener, S. 46<br/>Aventurischer Bote (139), S. 14<br/>Mit Mantel Schwert und Zauberstab - Vom Leben in Aventurien, S. 27<br/>Aventurischer Bote (141), S. 7<br/>Aventurisches Archiv 2, S. 42<br/>Der Mondenkaiser, S. 27<br/>Der Mondenkaiser, S. 115<br/>Im Bann des Diamanten, S. 113<br/>Schatten über Bosparan, S. 75<HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]></description>
+		<LookAt>
+			<longitude>2.655896</longitude>
+			<latitude>27.045854</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>3500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+		<Point>
+			<coordinates>2.644931,27.051771,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Saljethweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Saljethweg-->
+			<name>Saljethweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Saljethweg</b> führt über den <a href="http://www.wiki-aventurica.de/wiki/Finsterkamm" title="Finsterkamm">Finsterkamm</a> und verläuft von <a href="http://www.wiki-aventurica.de/wiki/Weihenhorst" title="Weihenhorst">Weihenhorst</a> nach <a href="http://www.wiki-aventurica.de/wiki/Yrramis" title="Yrramis">Yrramis</a>. Er ist mit Wagen und Fuhrwerken passierbar.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.151838051856254,33.30488046541038,0 <!--<POI>Siedlung:Yrramis</POI>--> <!--<POI>SOE:Svelltuferweg</POI>--> <!--<POI>SOE:Thaschweg</POI>--> <!--<POI>SOE:Nôrrnstieg</POI>--> <!--<POI>SOE:Schattenpass</POI>--> <!--<POI>SOE:Schattenbachpass</POI>-->
+					2.133526284901703,33.25669931294884,0 
+					2.137121108642546,33.23495556214181,0 
+					2.165388434651798,33.21510934225029,0 
+					2.152250262964861,33.18877796933585,0 
+					2.163781318506775,33.16373169653051,0 
+					2.159453747000129,33.13828754942438,0 
+					2.16654032359189,33.12242812005461,0 
+					2.191233243292805,33.10662145981492,0 
+					2.189993243998361,33.07639260911861,0 
+					2.184327606907981,33.0564772049224,0 
+					2.201548170826402,33.0287844340868,0 
+					2.191096219725752,32.99079790943087,0 
+					2.218898893653614,32.9399443862971,0 
+					2.214980479121789,32.92519403092056,0 
+					2.187236384489082,32.90224181080775,0 
+					2.183049044180909,32.82376769392872,0 
+					2.18881925984401,32.8063880331385,0 
+					2.175707101006728,32.77158134684328,0 
+					2.175816172727363,32.73259648658409,0 
+					2.202719125187995,32.70284643312981,0 
+					2.201126989449107,32.63660595716425,0 
+					2.210423829396748,32.60702170493088,0 
+					2.193374803252193,32.57541043415322,0 
+					2.180272244263146,32.54948556846286,0 
+					2.153997367366731,32.52685940762017,0 
+					2.135665576124552,32.49128572531255,0 
+					2.130510671937163,32.45852677978992,0 
+					2.143397932283515,32.40711574054611,0 <!--<POI>Siedlung:Arras de Mott</POI>-->
+					2.165126734694873,32.32038819420497,0 
+					2.13635167455644,32.27618561312276,0 
+					2.135137435941426,32.24731272137882,0 
+					2.1607510301397,32.16780756492108,0 
+					2.142906725277125,32.13889633366826,0 
+					2.140355314924054,32.11951986008292,0 
+					2.093700461130961,32.08355171918522,0 
+					2.087779154285454,32.03173429572901,0 
+					2.066117447980507,31.98986019425965,0 
+					2.036576668271883,31.96001649908313,0 
+					2.031400856564258,31.94630918349454,0 
+					2.036358804961551,31.90783872085182,0 
+					2.008216545164885,31.86449580218393,0 
+					2.006447618163967,31.83210302243975,0 
+					1.998052575053031,31.79886081508715,0 
+					2.001392669043201,31.7812274401087,0 
+					2.019382006641697,31.76398924751449,0 
+					2.025232648852959,31.72733357668063,0 
+					2.017642270145532,31.6976845087573,0 
+					2.028321430048894,31.67281034372762,0 
+					2.04068553929021,31.66313314198636,0 <!--<POI>Siedlung:Weihenhorst</POI>--> <!--<POI>SOE:Weg von Greifenfurt nach Weihenhorst</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>2.188672</longitude>
+				<latitude>32.309526</latitude>
+				<altitude>370000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

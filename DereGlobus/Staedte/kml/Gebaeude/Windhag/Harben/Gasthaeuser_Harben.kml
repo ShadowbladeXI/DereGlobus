@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+  	     <Folder>
+        <name>Gasthaeuser_Harben</name>
+        <open>0</open>
+		
+	   <Region>
+          <LatLonAltBox>
+        <north>26.91004053056548</north>
+		<south>26.89436255246099</south>
+		<east>-1.723451988530515</east>
+		<west>-1.735883933842102</west>
+          </LatLonAltBox>
+          <Lod>
+             <minLodPixels>256</minLodPixels>
+             <maxLodPixels>-1</maxLodPixels>
+             <minFadeExtent>0</minFadeExtent>
+             <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+       </Region>
+    <Placemark>
+        <name>Schänke Delphin</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Kriegshafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 50<TR><TD>Drachenodem, S. 67<TR><TD>Am Großen Fluß, S. 104<TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 115<TR><TD>Aventurischer Bote (51), S. 7<TR><TD>Die Welt des Schwarzen Auges, S. 56<TR><TD>Der Alchemist<TR><TD>Hinter dem Thron, S. 85<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+        <LookAt> 
+              <longitude>-1.726779929368036</longitude>
+				<latitude>26.89843421310451</latitude>
+              <altitude>0</altitude>
+              <range>400</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+            <coordinates>-1.727173568864814,26.89853682513739,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Schänke Tiefer Anker</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Unterstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 50<TR><TD>Drachenodem, S. 67<TR><TD>Am Großen Fluß, S. 104<TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 115<TR><TD>Aventurischer Bote (51), S. 7<TR><TD>Die Welt des Schwarzen Auges, S. 56<TR><TD>Der Alchemist<TR><TD>Hinter dem Thron, S. 85<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+        <LookAt> 
+              <longitude>-1.728695519356975</longitude>
+				<latitude>26.90476908326005</latitude>
+              <altitude>0</altitude>
+              <range>400</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>-1.728111687117504,26.9047612275707,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Hotel Zur Admiralität</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Oberstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 50<TR><TD>Drachenodem, S. 67<TR><TD>Am Großen Fluß, S. 104<TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 115<TR><TD>Aventurischer Bote (51), S. 7<TR><TD>Die Welt des Schwarzen Auges, S. 56<TR><TD>Der Alchemist<TR><TD>Hinter dem Thron, S. 85<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+        <LookAt> 
+              <longitude>-1.7265104132658</longitude>
+				<latitude>26.89887614805305</latitude>
+              <altitude>0</altitude>
+              <range>400</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>-1.726546654566334,26.89890583625084,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Gasthaus Mastkorb</name>
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Unterstadt<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 50<TR><TD>Drachenodem, S. 67<TR><TD>Am Großen Fluß, S. 104<TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 115<TR><TD>Aventurischer Bote (51), S. 7<TR><TD>Die Welt des Schwarzen Auges, S. 56<TR><TD>Der Alchemist<TR><TD>Hinter dem Thron, S. 85<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+        <LookAt> 
+              <longitude>-1.731181179718021</longitude>
+				<latitude>26.90650614345561</latitude>
+              <altitude>0</altitude>
+              <range>400</range>
+              <tilt>0</tilt>
+              <heading>0</heading>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+             <coordinates>-1.731466200197446,26.90629722052581,0</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+		<name>Garküche</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Kriegshafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 50<TR><TD>Drachenodem, S. 67<TR><TD>Am Großen Fluß, S. 104<TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 115<TR><TD>Aventurischer Bote (51), S. 7<TR><TD>Die Welt des Schwarzen Auges, S. 56<TR><TD>Der Alchemist<TR><TD>Hinter dem Thron, S. 85<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-1.731285987336662</longitude>
+			<latitude>26.90314172463296</latitude>
+			<altitude>0</altitude>
+			<range>400</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+		<Point>
+			<coordinates>-1.73003017356391,26.90302342097701,0</coordinates>
+		</Point>
+	</Placemark>
+
+	
+	<Placemark>
+		<name>Garküche</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Stadtteil: Kriegshafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Geographia Aventurica, S. 50<TR><TD>Drachenodem, S. 67<TR><TD>Am Großen Fluß, S. 104<TR><TD>Das Land des Schwarzen Auges, S. 81<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 115<TR><TD>Aventurischer Bote (51), S. 7<TR><TD>Die Welt des Schwarzen Auges, S. 56<TR><TD>Der Alchemist<TR><TD>Hinter dem Thron, S. 85<TR><TD>Efferds Wogen, S. 74<TR><TD>Efferds Wogen, S. 85<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>1036</when>
+</gx:TimeStamp>
+			<longitude>-1.729173291586347</longitude>
+			<latitude>26.89826519668076</latitude>
+			<altitude>0</altitude>
+			<range>400</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus-X</styleUrl>
+		<Point>
+			<coordinates>-1.728614859334406,26.89788274118964,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	
+	
+    </Folder>
+    </Document>
+</kml>

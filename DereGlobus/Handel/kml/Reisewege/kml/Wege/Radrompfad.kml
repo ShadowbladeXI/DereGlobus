@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Radrompfad</name>
+	<open>1</open>
+		<Placemark>  <!-- Radrompfad nach 1032 BF-->
+			<name>Radrompfad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Radrompfad</b> läuft am <a href="http://www.wiki-aventurica.de/wiki/Radrom" title="Radrom">Radrom</a> entlang von <a href="http://www.wiki-aventurica.de/wiki/Warunk" title="Warunk">Warunk</a> nach <a href="http://www.wiki-aventurica.de/wiki/Beilunk" title="Beilunk">Beilunk</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.811183831354331,30.55672089019972,0 <!--<POI>Siedlung:Warunk</POI>--> <!--<POI>Stadttor:Warunk</POI>-->
+						7.811221105249202,30.55670306520977,0 
+						7.811246292299807,30.55661629487138,0 
+						7.811302486481395,30.55660628121742,0 
+						7.811428443908004,30.55669721824671,0 
+						7.811531143691342,30.55668052838479,0 
+						7.811624149183709,30.55654369633654,0 
+						7.811729755609913,30.55652784049036,0 
+						7.812034260690304,30.55659920603706,0 <!--Ende Detailkarte Warunk-->
+
+						7.851595794543956,30.60195587747673,0 
+						8.069424675103786,30.60471766492102,0 
+						8.122245132879208,30.59409055360043,0 
+						8.146328929273029,30.57457964154514,0 
+						8.153119002733122,30.51286450355058,0 
+						8.194236064778389,30.44915559851888,0 
+						8.206048802072106,30.3886932595412,0 
+						8.225335469541093,30.35409546767383,0 <!--<POI>Fluss:Aldrom</POI>-->
+						8.225164207960356,30.314150869596,0 
+						8.201617349321692,30.255288723929,0 <!--<POI>Siedlung:Grünau</POI>--> <!--<POI>Abzweig:Straße nach Shamaham</POI>-->
+						8.194069827788974,30.21171831280987,0 
+						8.19108175405483,30.1446539824871,0 
+						8.174963081683055,30.08530677340674,0 
+						8.130996563830522,30.04047984277096,0 
+						8.112573848786875,29.98700433975828,0 
+						8.071072222689587,29.95859356563891,0 
+						8.039654535837757,29.93416834134518,0 
+						7.99663653715625,29.91611188330413,0 
+						7.972180745178013,29.89174323596721,0 <!--<POI>Abzweig:Weg nach Durbosch</POI>-->
+						7.951619156318326,29.85019027783848,0 
+						7.930789552232767,29.83406958517056,0 
+						7.897041965495415,29.79811054544973,0 <!--Anfang Detailkarte Beilunk-->
+						7.89606125469001,29.7982227252181,0 
+						7.89561169734456,29.79820785445369,0 <!--<POI>Siedlung:Beilunk</POI>--> <!--<POI>Brücke:Beilunk</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1036</when>
+				</gx:TimeStamp>
+				<longitude>8.02</longitude>
+				<latitude>30.20</latitude>
+				<altitude>150000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1032</begin>
+				<end></end>
+			</TimeSpan>
+		</Placemark>
+
+		<Placemark>  <!-- Radrompfad 1020 bis 1032 BF-->
+			<name>Radrompfad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Radrompfad</b> läuft <a href="http://www.wiki-aventurica.de/wiki/Radrom" title="Radrom">Radrom</a> entlang von <a href="http://www.wiki-aventurica.de/wiki/Warunk" title="Warunk">Warunk</a> nach <a href="http://www.wiki-aventurica.de/wiki/Beilunk" title="Beilunk">Beilunk</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.811566314552964,30.55699651957239,0 <!--<POI>Siedlung:Warunk</POI>--> <!--<POI>Stadttor:Warunk</POI>-->
+						7.811728876792334,30.55693106461457,0 
+						7.811842876869573,30.55679652607423,0 
+						7.812123666291146,30.55672015827187,0 
+						7.812581802724157,30.55671832180215,0 <!--Ende Detailkarte Warunk-->
+						
+						7.851595794543956,30.60195587747673,0 
+						8.069424675103786,30.60471766492102,0 
+						8.122245132879208,30.59409055360043,0 
+						8.146328929273029,30.57457964154514,0 
+						8.153119002733122,30.51286450355058,0 
+						8.194236064778389,30.44915559851888,0 
+						8.206048802072106,30.3886932595412,0 
+						8.225335469541093,30.35409546767383,0 <!--<POI>Fluss:Aldrom</POI>-->
+						8.225164207960356,30.314150869596,0 
+						8.201617349321692,30.255288723929,0 <!--<POI>Siedlung:Grünau</POI>--> <!--<POI>Abzweig:Straße nach Shamaham</POI>-->
+						8.194069827788974,30.21171831280987,0 
+						8.19108175405483,30.1446539824871,0 
+						8.174963081683055,30.08530677340674,0 
+						8.130996563830522,30.04047984277096,0 
+						8.112573848786875,29.98700433975828,0 
+						8.071072222689587,29.95859356563891,0 
+						8.039654535837757,29.93416834134518,0 
+						7.99663653715625,29.91611188330413,0 
+						7.972180745178013,29.89174323596721,0 <!--<POI>Abzweig:Weg nach Durbosch</POI>-->
+						7.951619156318326,29.85019027783848,0 
+						7.930789552232767,29.83406958517056,0 
+						7.897041965495415,29.79811054544973,0 <!--Anfang Detailkarte Beilunk-->
+						7.89606125469001,29.7982227252181,0 
+						7.89561169734456,29.79820785445369,0 <!--<POI>Siedlung:Beilunk</POI>--> <!--<POI>Brücke:Beilunk</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1021</when>
+				</gx:TimeStamp>
+				<longitude>8.02</longitude>
+				<latitude>30.20</latitude>
+				<altitude>150000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+			<end>1032</end>
+			<begin>1020</begin>
+			</TimeSpan>
+		</Placemark>
+
+		<Placemark>  <!-- Radrompfad vor 1020 BF-->
+			<name>Radrompfad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Radrompfad</b> läuft <a href="http://www.wiki-aventurica.de/wiki/Radrom" title="Radrom">Radrom</a> entlang von <a href="http://www.wiki-aventurica.de/wiki/Warunk" title="Warunk">Warunk</a> nach <a href="http://www.wiki-aventurica.de/wiki/Beilunk" title="Beilunk">Beilunk</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.811576303796577,30.55708148763313,0 <!--<POI>Siedlung:Warunk</POI>--> <!--<POI>Stadttor:Warunk</POI>-->
+						7.811676299448376,30.55702377298606,0 
+						7.811810659643566,30.55689729960301,0 
+						7.811885654827289,30.55690671486633,0 
+						7.811968464013157,30.55695918295314,0 
+						7.812127078896525,30.55719565721917,0 
+						7.812261459267075,30.55748087943302,0 
+						7.812350517710356,30.55751451132088,0 
+						7.8124770695539,30.55746876229759,0 
+						7.812735088268815,30.55714462046456,0 
+						7.812802262085004,30.55698585921633,0 
+						7.8128268316324,30.5566024336709,0 
+						7.812898696036088,30.55651228804533,0 
+						7.813008061587623,30.55649210213903,0 
+						7.813120557090876,30.55655936777611,0 
+						7.813290868441438,30.5567477175973,0 
+						7.813441083239878,30.55686124564262,0 
+						7.813687947442838,30.55696348507312,0 <!--Ende Detailkarte Warunk-->
+
+						7.851595794543956,30.60195587747673,0 
+						8.069424675103786,30.60471766492102,0 
+						8.122245132879208,30.59409055360043,0 
+						8.146328929273029,30.57457964154514,0 
+						8.153119002733122,30.51286450355058,0 
+						8.194236064778389,30.44915559851888,0 
+						8.206048802072106,30.3886932595412,0 
+						8.225335469541093,30.35409546767383,0 <!--<POI>Fluss:Aldrom</POI>-->
+						8.225164207960356,30.314150869596,0 
+						8.201617349321692,30.255288723929,0 <!--<POI>Siedlung:Grünau</POI>--> <!--<POI>Abzweig:Straße nach Shamaham</POI>-->
+						8.194069827788974,30.21171831280987,0 
+						8.19108175405483,30.1446539824871,0 
+						8.174963081683055,30.08530677340674,0 
+						8.130996563830522,30.04047984277096,0 
+						8.112573848786875,29.98700433975828,0 
+						8.071072222689587,29.95859356563891,0 
+						8.039654535837757,29.93416834134518,0 
+						7.99663653715625,29.91611188330413,0 
+						7.972180745178013,29.89174323596721,0 <!--<POI>Abzweig:Weg nach Durbosch</POI>-->
+						7.951619156318326,29.85019027783848,0 
+						7.930789552232767,29.83406958517056,0 
+						7.897041965495415,29.79811054544973,0 <!--Anfang Detailkarte Beilunk-->
+						7.89606125469001,29.7982227252181,0 
+						7.89561169734456,29.79820785445369,0 <!--<POI>Siedlung:Beilunk</POI>--> <!--<POI>Brücke:Beilunk</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1019</when>
+				</gx:TimeStamp>
+				<longitude>8.02</longitude>
+				<latitude>30.20</latitude>
+				<altitude>150000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1020</end>
+			</TimeSpan>
+		</Placemark>
+</Document>
+</kml>

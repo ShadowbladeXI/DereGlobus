@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+	<!-- STYLES -->
+	<Style id="Siedlungen">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png</href>	
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<Style id="Stadtkarten">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Stadtkarte-Listicon.png</href>	
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>	
+
+
+
+	
+	<Style id="Gebaeude">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>	
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>	
+	
+
+
+
+
+
+
+
+	
+	
+	<!-- DOCUMENT -->
+	<name>Städte</name>
+	<open>0</open>
+	
+	
+	
+	
+	
+	<!-- NETWORK LINKS -->
+	
+	<NetworkLink>
+		<name>Siedlungen</name>
+		<open>0</open>
+		<Snippet maxLines="0"></Snippet>
+		<description>
+			<![CDATA[
+		<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+--></style>
+
+In dieser Ebene finden sich 
+Ansieldungen von der Großstadtmetropole bis zur kleinen Schäferhütte 
+(siehe auch 
+<a href="http://www.wiki-aventurica.de/wiki/Kategorie:Siedlung" class="postlink">Siedlungen 
+im Wiki Aventurica</a>). 
+Diese sind unterteilt nach Größe in Metropolen (mehr als 20.000 Einwohner), 
+Großstädte (bis 20.000 Einwohner), Städte (bis 5000 Einwohner), Kleinstädte (bis 1000 Einwoher), 
+Dörfer (unter 500 Einwohner) und Weitere Ansiedlungen. Dabei stellen die "Weiteren Ansiedlungen" 
+eine besondere Klasse dar: Hier sind alle Siedlungen zusammengefaßt, die entweder 
+weniger als 20 Einwohner haben (also meist 
+alleinstehende Gebäude) oder die ausschließlich einen bestimmten Zweck 
+erfüllen, wie Burgen, Wegherbergen oder Klöster.<br>Die verschiedenen Kategorien 
+werden auf der Karte durch folgende Symbole dargestellt:
+<br />
+<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Metropole.png" width="24" height="24" alt="Metropole">
+ Metropolen - über 20.000 Einwohner
+<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Grossstadt.png" width="24" height="24" alt="Großstadt">
+ Großstädte - bis 20.000 Einwohner
+<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png" width="24" height="24" alt="Stadt">
+ Städte - bis 5000 Einwohner
+<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Kleinstadt.png" width="24" height="24" alt="Kleinstadt">
+ Kleinstädte - bis 1000 Einwohner
+<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Dorf.png" width="24" height="24" alt="Dorf">
+ Dörfer - bis 500 Einwohner
+<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Festung.png" width="24" height="24" alt="Dorf">
+ Weitere Ansiedlungen
+<br /><br />
+Wird hinter dem entsprechenden Symbol ein zusammengerolltes Pergament angezeigt, so verdeutlicht das, dass ein Stadtplan existiert. Falls der Link "Stadtplan betrachten" im Beschreibungstext vorhanden ist, ist dieser in DereGlobus integriert oder soll in Zukunft eingefügt werden. In ersterem Fall führt der Link direkt auf die Stadtplanebene hinab.
+<br />
+Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen herauszulesen und seine Lage geschätzt.
+			]]>
+		</description>
+		<styleUrl>#Siedlungen</styleUrl>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Siedlungen.kml</href>
+	</Link>
+</NetworkLink>
+<NetworkLink>
+	<name>Stadtkarten</name>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml</href>
+	</Link>
+		<styleUrl>#Stadtkarten</styleUrl>
+		</NetworkLink>
+		<NetworkLink>
+	<name>Myranische Stadtkarten</name>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</href>
+	</Link>
+		<styleUrl>#Stadtkarten</styleUrl>
+		</NetworkLink>
+<NetworkLink>
+	<name>Gebäude</name>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gebaeude.kml</href>
+	</Link>
+			<styleUrl>#Gebaeude</styleUrl>
+</NetworkLink>
+<NetworkLink>
+	<name>Stadtteile</name>
+	<visibility>0</visibility>
+	<Link>
+		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Stadtteile.kml</href>
+	</Link>
+</NetworkLink>
+
+</Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Schattengrundpass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Schattengrundpass-->
+			<name>Schattengrundpass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der über weite Strecken als tiefe Klamm durch die <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagberge</a> führende <b>Schattengrundpass</b> stellt die einzige größere Verbindung zwischen <a href="http://www.wiki-aventurica.de/wiki/Harben" title="Harben">Harben</a> und dem zentralen <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreich</a> dar. Siedlungen entlang des Schattengrundpasses sind <a href="http://www.wiki-aventurica.de/wiki/Widdernhall" title="Widdernhall" class="mw-redirect">Widdernhall</a>, <a href="http://www.wiki-aventurica.de/wiki/Bruchsee&amp;action=edit&amp;redlink=1" class="new" title="Bruchsee (Seite nicht vorhanden)">Bruchsee</a> und <a href="http://www.wiki-aventurica.de/wiki/Schattengrund_%28Ort%29&amp;action=edit&amp;redlink=1" class="new" title="Schattengrund (Ort) (Seite nicht vorhanden)">Schattengrund</a>. Am Küstenort <a href="http://www.wiki-aventurica.de/wiki/Triveth" title="Triveth">Triveth</a> geht der <a href="http://www.wiki-aventurica.de/wiki/Pass" title="Pass">Pass</a> in die <a href="http://www.wiki-aventurica.de/wiki/Klippenstra%C3%9Fe" title="Klippenstraße">Klippenstraße</a> über.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-1.356680361552007,27.58280904210664,0 <!-- <POI>Siedlung:Zinnen</POI> --> <!-- <POI>SOE:Reichsstraße 3</POI> -->
+					-1.377593895022908,27.57346512824423,0 <!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					-1.39905507854216,27.56211617929371,0 
+					-1.420517028578131,27.55967898628585,0 
+					-1.461735518740273,27.5242203763763,0 
+					-1.483729122106304,27.5244246843308,0 
+					-1.494328800044876,27.52874011323987,0 <!-- <POI>Siedlung:Widdernhall</POI> -->
+					-1.528879308048252,27.50968390107208,0 
+					-1.548679580613792,27.50289960413772,0 
+					-1.568170594123928,27.48310864641044,0 
+					-1.596638673676689,27.46882574543304,0 
+					-1.613969870252555,27.4484412290787,0 
+					-1.631044762946863,27.44261526937414,0 
+					-1.668102652528564,27.40902658238117,0 
+					-1.700174396305583,27.41879445140219,0 
+					-1.744192806403917,27.42342798161294,0 
+					-1.768486156432823,27.39709062893773,0 
+					-1.807532508946935,27.38034195372381,0 <!-- <POI>Siedlung:Schattengrund</POI> -->
+					-1.82351703277062,27.37743512723112,0 
+					-1.854480498947126,27.35457038091186,0 
+					-1.86044575655879,27.3288679549067,0 
+					-1.874508568190717,27.31111628550543,0 
+					-1.879222231111453,27.28641961266421,0 
+					-1.874248150811446,27.26758111428693,0 
+					-1.840742015325637,27.2120030680101,0 <!-- <POI>Siedlung:Triveth</POI> --> <!--<POI>SOE:Klippenstraße</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-1.645263</longitude>
+				<latitude>27.430750</latitude>
+				<altitude>150000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

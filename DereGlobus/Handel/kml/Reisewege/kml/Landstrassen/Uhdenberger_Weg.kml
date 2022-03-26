@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Uhdenberger Weg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Uhdenberger Weg -->
+			<name>Uhdenberger Weg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Uhdenberger Weg</b> führt vom <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> in die <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Rote Sichel</a> und verbindet dabei <a href="http://www.wiki-aventurica.de/wiki/Trallop" title="Trallop">Trallop</a> mit <a href="http://www.wiki-aventurica.de/wiki/Uhdenberg" title="Uhdenberg">Uhdenberg</a>.
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					5.062233571210662,33.65003494894348,0 <!--<POI>Siedlung:Trallop</POI>-->
+					5.062883147869684,33.6505260156941,0 
+					5.063269575957412,33.65087116038742,0 
+					5.063672519987894,33.65119017863965,0 
+					5.063928052858717,33.65146012119443,0 
+					5.064350662222181,33.65181458674369,0 <!--Ende Detailkarte Trallop</POI>-->
+					5.081945818712463,33.64798389774281,0 
+					5.108014639618707,33.65520807717334,0 
+					5.167958724821229,33.65580337143373,0 
+					5.201785921642046,33.68075680609191,0 
+					5.227097498198385,33.72086270085292,0 
+					5.28019529308728,33.76021935081372,0 
+					5.308465209439013,33.79599139875064,0 
+					5.331902127559247,33.81392067724332,0 
+					5.359182401681855,33.82922673238199,0 <!--<POI>Abzweig:nach Beonspfort</POI>-->
+					5.38127475929012,33.84968741563195,0 
+					5.396019406585538,33.86937020932934,0
+					5.466434530996862,33.91352688203713,0 
+					5.508809640809949,33.9345639436748,0 
+					5.541586468995217,33.98228847308577,0 
+					5.573895149838773,34.00304319341761,0 
+					5.587408242858269,34.02418060256473,0 
+					5.618726271310086,34.05101310229025,0 
+					5.620323217221415,34.08030206084855,0 
+					5.609811135176082,34.10521261583141,0 
+					5.610328605943038,34.13102279538977,0 
+					5.625798643334785,34.15596458081784,0 
+					5.629566644184781,34.19538991396296,0 
+					5.636894564345711,34.22379512313741,0 <!--Anfang Detailkarte Rathila</POI>-->
+					5.637087347607965,34.22429077901463,0 
+					5.637323315102609,34.22502166244041,0 
+					5.637423714154202,34.22551774892676,0 
+					5.637458610463924,34.2258925459719,0 
+					5.637442636217019,34.22625930734557,0
+					5.637352253666855,34.22655384317294,0 
+					5.636897763301891,34.22697299514566,0 
+					5.636542774268822,34.22834283104508,0 
+					5.636975671060796,34.22846431125009,0 <!--<POI>Siedlung:Rathila</POI>--> <!--<POI>Station:Anleger</POI>-->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					5.635960826399209,34.22927221556633,0 <!--<POI>Siedlung:Rathila</POI>--> <!--<POI>Station:Anleger</POI>-->
+					5.635845288885593,34.22938816757296,0 
+					5.635726209087071,34.22996029669406,0 <!--Ende Detailkarte Rathila</POI>-->
+					5.63375831899565,34.24225138382485,0 <!--<POI>Abzweig:Straße von Hadorp nach Rathila</POI>-->
+					5.657224201425994,34.2462196097585,0 
+					5.671627297259059,34.25879582676073,0 
+					5.747123623661308,34.25810482001128,0 
+					5.784880797180813,34.28461746481777,0 
+					5.818958574334953,34.29450287614679,0 
+					5.871397818632149,34.29554513328539,0 
+					5.917813823497566,34.27529088895254,0 
+					5.945703940897191,34.27474809337343,0 
+					5.984020206468033,34.28787933601564,0 
+					6.048902978962037,34.28428286817388,0 
+					6.11283273818648,34.30609829021205,0 
+					6.140746513119357,34.30860747440627,0 
+					6.198574640382056,34.3369718492137,0 <!--<POI>Abzweig:Weg von Donnerbach nach Sinopje</POI>-->
+					6.248992507140518,34.37792510007617,0 
+					6.259463424215578,34.41855844192065,0 
+					6.318080555826413,34.4712151767088,0 
+					6.352105574667255,34.48133855167381,0 
+					6.388184159417218,34.48620023729288,0 
+					6.450086382999103,34.51231103533428,0 
+					6.477782333609021,34.51899800181476,0 
+					6.495783189298878,34.53627105324801,0 
+					6.500674172832377,34.57394687389738,0 
+					6.518004915653918,34.5946862146765,0 
+					6.559373777528732,34.61340295625553,0 
+					6.572953258222107,34.65039910307328,0 
+					6.608559692823592,34.67528414281487,0 <!--Anfang Detailkarte Uhdenberg</POI>-->
+					6.609827561897421,34.67639656416294,0 <!--<POI>Siedlung:Uhdenberg</POI>-->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>5.843517</longitude>
+				<latitude>34.167763</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+       	<Folder>
+		<name>Landmarken Anchopal</name>
+	<Region>
+      <LatLonAltBox>
+			<north>25.52146813100769</north>
+			<south>25.49415259521553</south>
+			<east>6.12567503533441</east>
+			<west>6.104396479180085</west>
+      </LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+
+        <Placemark>
+          <name>Heiliger Hain der Peraine</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Der <b>Heilige Hain der Peraine</b> zieht sich in einem weiten Bogen um die Stadt <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopal</a> und schützt sie vor dem roten Staub aus der <a title="Gorische Wüste" href="http://www.wiki-aventurica.de/wiki/Gorische_W%C3%BCste">Gorischen Wüste</a>. Der <a title="Tamariske" href="http://www.wiki-aventurica.de/wiki/Tamariske">Tamariskenwald</a> entstand in der Nacht vom 26. auf den 27. <a title="Peraine" href="http://www.wiki-aventurica.de/wiki/Peraine">Peraine</a> <a class="mw-redirect" title="Chronik:223" href="http://www.wiki-aventurica.de/wiki/Chronik:223">223 BF</a> durch ein direktes Eingreifen der <a title="Gott" href="http://www.wiki-aventurica.de/wiki/Gott">Göttin</a> <a title="Peraine" href="http://www.wiki-aventurica.de/wiki/Peraine">Peraine</a>. An seinem Nordrand steht der <a title="Tamarisken-Tempel" href="http://www.wiki-aventurica.de/wiki/Tamarisken-Tempel">Tamarisken-Tempel</a>.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+			<longitude>6.112175070942675</longitude>
+			<latitude>25.50042912982003</latitude>
+            <altitude>0</altitude>
+			<range>2297.794839530964</range>
+            <tilt>0</tilt>
+			<heading>-0.0008486015272500141</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#vegetation</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_64">
+			<coordinates>6.112175070942676,25.50042912982003,0</coordinates>
+            <altitudeMode>clampToGround</altitudeMode>
+          </Point>
+    </Placemark>
+
+	</Folder>
+    </Document>
+</kml>

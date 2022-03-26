@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+    <name>Gebäude</name>
+    <visibility>1</visibility>
+    <open>0</open>
+
+	
+	<Style id="Privathaus">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+ 	<Style id="Gasthaus">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Gasthaus.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+ 	<Style id="Handelsstaette">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Handelsstaette.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+ 	<Style id="Werkstaette">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Werkstaette.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+ 	<Style id="Sakralbauwerk">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Sakralbauwerk.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+ 	<Style id="Oeffentliches_Bauwerk">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Oeffentliches_Bauwerk.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+ 	<Style id="Staatliches_Bauwerk">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Staatliches_Bauwerk.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	 <Style id="Strassen">
+    		<ListStyle>
+  			<ItemIcon>
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/reisewege/Reichsstrasse.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	 <Style id="Landschaft">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/media/icons/Wald.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	 <Style id="Infomarker">
+    		<ListStyle>
+  			<ItemIcon>     
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+ 			</ItemIcon>     
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>FF1C1A1A</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Calibri" color="#366698" size="+3">$[name]</font>
+				<br/><br/>
+				<font color="#bbbbbb">$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>	
+	
+	
+	
+	
+      <Folder>
+        <open>0</open>
+        <name>Privathäuser</name>
+        <visibility>1</visibility>
+        <styleUrl>#Privathaus</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Ahabad</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/AlAhabad/Privathaeuser_AlAhabad.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Privathaeuser_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Amhallah</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Amhallah/Privathaeuser_Amhallah.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Privathaeuser_Baburin.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Privathaeuser_Birscha.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Privathaeuser_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Privathaeuser_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Privathaeuser_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+		
+	 	<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Privathaeuser_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hoheneych</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Nostragast/Hoheneych/Privathaeuser_Hoheneych.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Privathaeuser_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Privathaeuser_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>
+ 		
+		<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Privathaeuser_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Privathaeuser_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+         
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Privathaeuser_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Privathaeuser_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Privathaeuser_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Privathaeuser_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Privathaeuser_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+ 
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Privathaeuser_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Privathaeuser_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Privathaeuser_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Trutzbach_am_Erlbach_InOff</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Trutzbach/Pirvathaeuser_Trutzbach_InOff.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Privathaeuser_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>		
+
+	</Folder>
+     
+	<Folder>
+      <name>Gasthäuser</name>
+      <visibility>1</visibility>
+      <open>0</open>
+     <styleUrl>#Gasthaus</styleUrl>
+ 
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Gasthaeuser_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>		
+    		
+		<NetworkLink>
+			<name>Anchopal</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Anchopal/Gasthaeuser_Anchopal.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Gasthaeuser_Baburin.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Gasthaeuser_Birscha.kml</href>
+			</Link>
+		</NetworkLink>	 
+	 
+    	<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Gasthaeuser_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Elburum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Elburum/Gasthaeuser_Elburum.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Gasthaeuser_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Gasthaeuser_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Harben</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Windhag/Harben/Gasthaeuser_Harben.kml</href>
+			</Link>
+		</NetworkLink>	 
+ 		     
+   		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Gasthaeuser_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hoheneych</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Nostragast/Hoheneych/Gasthaeuser_Hoheneych.kml</href>
+			</Link>
+		</NetworkLink>
+
+	 	<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Gasthaeuser_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+
+      	<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Gasthaeuser_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>
+ 		
+      	<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Gasthaeuser_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>
+      		     		
+      	<NetworkLink>
+			<name>Keft</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Keft/Gasthaeuser_Keft.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Gasthaeuser_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+ 		
+      	<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Gasthaeuser_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Gasthaeuser_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Gasthaeuser_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+     
+      	<NetworkLink>
+			<name>Mherwed</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Gasthaeuser_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Gasthaeuser_Notmark.kml</href>
+			</Link>
+		</NetworkLink>	
+     		
+      	<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Gasthaeuser_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>
+	 
+	 	<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Gasthaeuser_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+ 
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Gasthaeuser_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+      
+ 	   	<NetworkLink>
+			<name>Rashdul</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Rashdul/Gasthaeuser_Rashdul.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Gasthaeuser_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Gasthaeuser_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+    
+	 	<NetworkLink>
+			<name>Trutzbach_am_Erlbach_InOff</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Trutzbach/Gasthaeuser_Trutzbach_InOff.kml</href>
+			</Link>
+		</NetworkLink>
+      
+	    <NetworkLink>
+			<name>Unau</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Unau/Gasthaeuser_Unau.kml</href>
+			</Link>
+		</NetworkLink>
+	
+      	<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Gasthaeuser_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>
+		
+	</Folder>
+
+	
+	<Folder>
+      <name>Werkstätten</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Werkstaette</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Werkstaetten_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Werkstaetten_Baburin.kml</href>
+			</Link>
+		</NetworkLink>
+			
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Werkstaetten_Birscha.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+				<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Werkstaetten_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Werkstaetten_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Werkstaetten_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+     	
+		<NetworkLink>
+			<name>Harben</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Windhag/Harben/Werkstaetten_Harben.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Werkstaetten_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Werkstaetten_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Werkstaetten_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>	
+								
+		<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Werkstaetten_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Werkstaetten_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+			
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Werkstaetten_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Werkstaetten_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Werkstaetten_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+				
+		<NetworkLink>
+			<name>Mherwed</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Werkstaetten_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Werkstaetten_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>	
+	  
+      	<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Werkstaetten_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+			
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Werkstaetten_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Werkstaetten_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Werkstaetten_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+      
+      	<NetworkLink>
+			<name>Trutzbach_am_Erlbach_InOff</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Trutzbach/Werkstaetten_Trutzbach_InOff.kml</href>
+			</Link>
+		</NetworkLink>
+								
+		<NetworkLink>
+			<name>Unau</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Unau/Werkstaetten_Unau.kml</href>
+			</Link>
+		</NetworkLink>	
+												
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Werkstaetten_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Werkstaetten_Zorgan.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+	</Folder>
+
+    <Folder>
+      <name>Handelsstätten</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Handelsstaette</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Ahabad</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/AlAhabad/Handelsstaetten_AlAhabad.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Handelsstaetten_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Amhallah</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Amhallah/Handelsstaetten_Amhallah.kml</href>
+			</Link>
+		</NetworkLink>	
+			
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Handelsstaetten_Baburin.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Handelsstaetten_Birscha.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Handelsstaetten_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Elburum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Elburum/Handelsstaetten_Elburum.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Handelsstaetten_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Handelsstaetten_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+     	
+		<NetworkLink>
+			<name>Harben</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Windhag/Harben/Handelsstaetten_Harben.kml</href>
+			</Link>
+		</NetworkLink>	
+	  
+		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Handelsstaetten_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Handelsstaetten_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+				
+		<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Handelsstaetten_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Handelsstaetten_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>	
+										
+		<NetworkLink>
+			<name>Keft</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Keft/Handelsstaetten_Keft.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Handelsstaetten_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+					
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Handelsstaetten_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Handelsstaetten_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Handelsstaetten_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+						
+		<NetworkLink>
+			<name>Mherwed</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Handelsstaetten_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Handelsstaetten_Notmark.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Handelsstaetten_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>	
+
+      	<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Handelsstaetten_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+	  		
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Handelsstaetten_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+					
+		<NetworkLink>
+			<name>Rashdul</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Rashdul/Handelsstaetten_Rashdul.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Handelsstaetten_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Handelsstaetten_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+      
+      	<NetworkLink>
+			<name>Trutzbach_am_Erlbach_InOff</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Trutzbach/Handelsstaetten_Trutzbach_InOff.kml</href>
+			</Link>
+		</NetworkLink>
+	  						
+		<NetworkLink>
+			<name>Unau</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Unau/Handelsstaetten_Unau.kml</href>
+			</Link>
+		</NetworkLink>	
+												
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Handelsstaetten_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Handelsstaetten_Zorgan.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+	</Folder>				
+     
+    <Folder>
+      <name>Sakrale Bauwerke</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Sakralbauwerk</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Ahabad</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/AlAhabad/Sakrale_Bauwerke_AlAhabad.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Sakrale_Bauwerke_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Amhallah</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Amhallah/Sakrale_Bauwerke_Amhallah.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Anchopal</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Anchopal/Sakrale_Bauwerke_Anchopal.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Sakrale_Bauwerke_Baburin.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Sakrale_Bauwerke_Birscha.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Sakrale_Bauwerke_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Elburum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Elburum/Sakrale_Bauwerke_Elburum.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Sakrale_Bauwerke_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Sakrale_Bauwerke_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Harben</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Windhag/Harben/Sakrale_Bauwerke_Harben.kml</href>
+			</Link>
+		</NetworkLink>	
+	     	
+		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Sakrale_Bauwerke_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hoheneych</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Nostragast/Hoheneych/Sakrale_Bauwerke_Hoheneych.kml</href>
+			</Link>
+		</NetworkLink>	
+
+ 		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Sakrale_Bauwerke_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+ 
+		<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Sakrale_Bauwerke_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Sakrale_Bauwerke_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>	
+										
+		<NetworkLink>
+			<name>Keft</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Keft/Sakrale_Bauwerke_Keft.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Sakrale_Bauwerke_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+			
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Sakrale_Bauwerke_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Sakrale_Bauwerke_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Sakrale_Bauwerke_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Mherwed</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Sakrale_Bauwerke_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Sakrale_Bauwerke_Notmark.kml</href>
+			</Link>
+		</NetworkLink>	
+							
+		<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Sakrale_Bauwerke_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>	
+ 
+	  	<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Sakrale_Bauwerke_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Sakrale_Bauwerke_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+					
+		<NetworkLink>
+			<name>Rashdul</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Rashdul/Sakrale_Bauwerke_Rashdul.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Sakrale_Bauwerke_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Sakrale_Bauwerke_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+			
+		<NetworkLink>
+			<name>Unau</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Unau/Sakrale_Bauwerke_Unau.kml</href>
+			</Link>
+		</NetworkLink>	
+	  
+	  	<NetworkLink>
+			<name>Trutzbach_am_Erlbach_InOff</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Trutzbach/Sakrale_Bauwerke_Trutzbach_InOff.kml</href>
+			</Link>
+		</NetworkLink>
+										
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Sakrale_Bauwerke_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+		<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Sakrale_Bauwerke_Zorgan.kml</href>
+			</Link>
+		</NetworkLink>	
+					
+	</Folder>
+
+     
+    <Folder>
+      <name>Öffentliche Bauwerke</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Oeffentliches_Bauwerk</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Ahabad</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/AlAhabad/Oeffentliche_Bauwerke_AlAhabad.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Oeffentliche_Bauwerke_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Oeffentliche_Bauwerke_Baburin.kml</href>
+			</Link>
+		</NetworkLink>
+			
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Oeffentliche_Bauwerke_Birscha.kml</href>
+			</Link>
+		</NetworkLink>
+	  	      				
+		<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Oeffentliche_Bauwerke_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Elburum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Elburum/Oeffentliche_Bauwerke_Elburum.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Oeffentliche_Bauwerke_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Oeffentliche_Bauwerke_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+	  	
+		<NetworkLink>
+			<name>Harben</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Windhag/Harben/Oeffentliche_Bauwerke_Harben.kml</href>
+			</Link>
+		</NetworkLink>
+					      			
+		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Oeffentliche_Bauwerke_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hoheneych</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Nostragast/Hoheneych/Oeffentliche_Bauwerke_Hoheneych.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Oeffentliche_Bauwerke_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Oeffentliche_Bauwerke_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>
+				      			
+		<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Oeffentliche_Bauwerke_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>
+				     				      			
+		<NetworkLink>
+			<name>Keft</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Keft/Oeffentliche_Bauwerke_Keft.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Oeffentliche_Bauwerke_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+		      			
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Oeffentliche_Bauwerke_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>
+	  
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Oeffentliche_Bauwerke_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Oeffentliche_Bauwerke_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+		      			
+		<NetworkLink>
+			<name>Mherwed</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Oeffentliche_Bauwerke_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Notmark</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Notmark/Oeffentliche_Bauwerke_Notmark.kml</href>
+			</Link>
+		</NetworkLink>
+				      			
+		<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Oeffentliche_Bauwerke_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>
+	  
+		<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Oeffentliche_Bauwerke_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+ 
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Oeffentliche_Bauwerke_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+				      			
+		<NetworkLink>
+			<name>Rashdul</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Rashdul/Oeffentliche_Bauwerke_Rashdul.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Oeffentliche_Bauwerke_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Oeffentliche_Bauwerke_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+		      			
+		<NetworkLink>
+			<name>Unau</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Unau/Oeffentliche_Bauwerke_Unau.kml</href>
+			</Link>
+		</NetworkLink>
+				      			
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Oeffentliche_Bauwerke_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>
+		      			
+		<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Oeffentliche_Bauwerke_Zorgan.kml</href>
+			</Link>
+		</NetworkLink>
+ 					
+	</Folder>
+
+	
+    <Folder>
+      <name>Staatliche Bauwerke</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Staatliches_Bauwerk</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Ahabad</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/AlAhabad/Staatliche_Bauwerke_AlAhabad.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Staatliche_Bauwerke_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Amhallah</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Amhallah/Staatliche_Bauwerke_Amhallah.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Anchopal</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Anchopal/Staatliche_Bauwerke_Anchopal.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Staatliche_Bauwerke_Baburin.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Staatliche_Bauwerke_Birscha.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Staatliche_Bauwerke_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Elburum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Elburum/Staatliche_Bauwerke_Elburum.kml</href>
+			</Link>
+		</NetworkLink>	
+	
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Staatliche_Bauwerke_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Staatliche_Bauwerke_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Harben</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Windhag/Harben/Staatliche_Bauwerke_Harben.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Staatliche_Bauwerke_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hoheneych</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Nostragast/Hoheneych/Staatliche_Bauwerke_Hoheneych.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Staatliche_Bauwerke_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Ilsur</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Ilsur/Staatliche_Bauwerke_Ilsur.kml</href>
+			</Link>
+		</NetworkLink>	
+						
+		<NetworkLink>
+			<name>Kannemünde</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Echsensuempfe/Kannemuende/Staatliche_Bauwerke_Kannemuende.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Staatliche_Bauwerke_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+	
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Staatliche_Bauwerke_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>	
+	  
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Staatliche_Bauwerke_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Staatliche_Bauwerke_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Mherwed</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Mherwed/Staatliche_Bauwerke_Mherwed.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Perainefurten</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Perainefurten/Staatliche_Bauwerke_Perainefurten.kml</href>
+			</Link>
+		</NetworkLink>	
+	  
+		<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Staatliche_Bauwerke_Perricum.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Staatliche_Bauwerke_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+			  	
+		<NetworkLink>
+			<name>Rashdul</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Rashdul/Staatliche_Bauwerke_Rashdul.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Staatliche_Bauwerke_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Staatliche_Bauwerke_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+      
+		<NetworkLink>
+			<name>Trutzbach_am_Erlbach_InOff</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weisstobrien/Trutzbach/Staatliche_Bauwerke_Trutzbach_InOff.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Unau</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Unau/Staatliche_Bauwerke_Unau.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Staatliche_Bauwerke_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>	
+ 			
+		<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Staatliche_Bauwerke_Zorgan.kml</href>
+			</Link>
+		</NetworkLink>	
+			 
+    </Folder>
+	
+	<Folder>
+      <name>Straßen</name>
+      <visibility>1</visibility>
+      <open>0</open>
+		
+		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Strassen_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+		
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Strassen_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Strassen_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Strassen_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>	
+			  
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Strassen_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Strassen_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Strassen_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>
+	  
+	</Folder>
+	
+
+    <Folder>
+      <name>Landschaft</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Landschaft</styleUrl>
+
+		<NetworkLink>
+			<name>Al'Ahabad</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/AlAhabad/Landschaft_AlAhabad.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Anchopal</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Anchopal/Landschaft_Anchopal.kml</href>
+			</Link>
+		</NetworkLink>
+
+				<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Landschaft_Baburin.kml</href>
+			</Link>
+		</NetworkLink>  
+ 	  
+		<NetworkLink>
+			<name>Birscha</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Kalifat/Birscha/Landschaft_Birscha.kml</href>
+			</Link>
+		</NetworkLink>
+		 
+  		<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Landschaft_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Landschaft_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Landschaft_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Hôt-Alem</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/Hot-Alem/Landschaft_Hot-Alem.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Landschaft_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Landschaft_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>  
+
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Landschaft_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Landschaft_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Landschaft_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+				
+	  	<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Landschaft_Zorgan.kml</href>
+			</Link>
+		</NetworkLink> 
+	  
+	</Folder>
+	<Folder>
+      <name>Infomarker</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <styleUrl>#Infomarker</styleUrl>
+
+	  	<NetworkLink>
+			<name>Al'Anfa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Meridiana/AlAnfa/Infomarker_Alanfa.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Baburin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Baburin/Infomarker_Baburin.kml</href>
+			</Link>
+		</NetworkLink>
+
+		<NetworkLink>
+			<name>Brig-Lo</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Brig-Lo/Infomarker_Brig-Lo.kml</href>
+			</Link>
+		</NetworkLink>	
+			
+		<NetworkLink>
+			<name>Elburum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Elburum/Infomarker_Elburum.kml</href>
+			</Link>
+		</NetworkLink>
+	  
+	  	<NetworkLink>
+			<name>Festum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Festum/Infomarker_Festum.kml</href>
+			</Link>
+		</NetworkLink>	
+
+		<NetworkLink>
+			<name>Greifenfurt</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Greifenfurt/Infomarker_Greifenfurt.kml</href>
+			</Link>
+		</NetworkLink>
+	  
+	  	<NetworkLink>
+			<name>Havena</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Albernia/Havena/Infomarker_Havena.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khezzara</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Orkland/Khezzara/Infomarker_Khezzara.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Khunchom</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gorien/Khunchom/Infomarker_Khunchom.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Lowangen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Lowangen/Infomarker_Lowangen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Methumis</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Horasreich/Methumis/Infomarker_Methumis.kml</href>
+			</Link>
+		</NetworkLink>
+
+	  	<NetworkLink>
+			<name>Perricum</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Garetien/Perricum/Infomarker_Perricum.kml</href>
+			</Link>
+		</NetworkLink>	
+	  		
+		<NetworkLink>
+			<name>Punin</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Almada/Punin/Infomarker_Punin.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Tiefhusen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Svelltland/Tiefhusen/Infomarker_Tiefhusen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		<NetworkLink>
+			<name>Trallop</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Weiden/Trallop/Infomarker_Trallop.kml</href>
+			</Link>
+		</NetworkLink>	
+				
+		<NetworkLink>
+			<name>Vallusa</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Bornland/Vallusa/Infomarker_Vallusa.kml</href>
+			</Link>
+		</NetworkLink>		
+					
+		<NetworkLink>
+			<name>Zorgan</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Aranien/Zorgan/Infomarker_Zorgan.kml</href>
+			</Link>
+		</NetworkLink>
+		
+	</Folder>
+ </Document>
+</kml>
+

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kanopenstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Kanopenstraße-->
+			<name>Kanopenstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Kanopenstraße</b> verläuft an der <a href="http://www.wiki-aventurica.de/wiki/Perlenmeer" title="Perlenmeer">Perlenmeerküste</a> von <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> über <a href="http://www.wiki-aventurica.de/wiki/Yaisir" title="Yaisir">Yaisir</a>, <a href="http://www.wiki-aventurica.de/wiki/Aimar_Novad" title="Aimar Novad">Aimar Novad</a>, <a href="http://www.wiki-aventurica.de/wiki/Bandur" title="Bandur">Bandur</a> und <a href="http://www.wiki-aventurica.de/wiki/Thalusa" title="Thalusa">Thalusa</a> nach <a href="http://www.wiki-aventurica.de/wiki/Ronishagen" title="Ronishagen">Ronishagen</a>. Da der Seeweg in der Gegend wichtiger für Handel und Reisen ist, ist die Straße kaum ausgebaut und wird kaum gepflegt.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						07.475088773358354,25.00513128166647,0 <!-- <POI>Siedlung:Khunchom</POI> --><!-- Ende Detailkarte Khunchom -->		
+						07.475088,25.005137,0 
+						07.474889602837578,25.00358781761052,0
+						07.474788,25.003386,0 
+						07.473652,25.001601,0 <!-- Ende Detailkarte Khunchom-Region -->
+						07.457356,24.991263,0 
+						07.450685,24.980764,0 
+						07.443282,24.965926,0 <!-- <POI>Fluss:Nebenfluss des Mhanadi</POI> -->
+						07.443233,24.941429,0 <!-- <POI>Fluss:Weißer Mhanadi</POI> -->
+						07.454196,24.930846,0 
+						07.471107,24.921777,0 
+						07.484441,24.909252,0 
+						07.490861,24.903269,0 
+						07.506099,24.898300,0 
+						07.518240,24.895705,0 
+						07.532521,24.888143,0 
+						07.552982,24.867835,0 
+						07.567713,24.851048,0 
+						07.578992,24.829346,0 
+						07.593302,24.804914,0 
+						07.606938,24.781762,0 
+						07.610581,24.760324,0 
+						07.612229,24.745095,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						07.617988,24.724655,0 
+						07.632478,24.693310,0 
+						07.635579,24.671063,0 
+						07.634431,24.646651,0 <!-- <POI>Siedlung:Yaisir</POI> -->
+						07.631992,24.620814,0 
+						07.614731,24.595287,0 
+						07.608767,24.575835,0 
+						07.574280,24.524542,0 
+						07.573078,24.507460,0 
+						07.556443,24.482084,0 
+						07.554640,24.451313,0 
+						07.548099,24.439891,0 
+						07.552238,24.402610,0 
+						07.559916,24.372026,0 
+						07.559314,24.349866,0 
+						07.551597,24.328258,0 
+						07.547431,24.315026,0 
+						07.547425,24.292869,0 
+						07.538814,24.271316,0 
+						07.532290,24.252401,0 
+						07.533471,24.235109,0 
+						07.535242,24.218361,0 
+						07.539973,24.205743,0 
+						07.537595,24.189369,0 
+						07.539957,24.172621,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						07.548198,24.149632,0 
+						07.546645,24.127505,0 
+						07.554321,24.096001,0 
+						07.540070,24.063059,0 
+						07.536983,24.045054,0 
+						07.535435,24.022970,0 
+						07.526586,24.009275,0 
+						07.526240,23.960423,0 
+						07.506248,23.931936,0 <!-- <POI>Abzweig:Weg</POI> -->
+						07.495866,23.898184,0 
+						07.450616,23.869378,0 
+						07.439448,23.858135,0 
+						07.409505,23.819486,0 <!-- <POI>Fluss:unbenannt</POI> -->
+						07.404902,23.811407,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						07.374077,23.761478,0 
+						07.361596,23.745518,0 
+						07.357003,23.721975,0 
+						07.345509,23.700540,0 
+						07.334164,23.669401,0 
+						07.327657,23.647959,0 
+						07.310612,23.631920,0 
+						07.278689,23.609308,0 
+						07.248972,23.590866,0 
+						07.226938,23.582761,0 <!-- <POI>Abzweig:Weg</POI> -->
+						07.213954,23.574071,0 
+						07.200953,23.558593,0 
+						07.181840,23.538892,0 
+						07.153245,23.523387,0 <!-- <POI>Siedlung:Aimar Novad</POI> -->
+						07.090678,23.499389,0 
+						07.057215,23.481769,0 
+						07.016801,23.456295,0 
+						06.978745,23.432395,0 
+						06.937777,23.411595,0 
+						06.916149,23.393614,0 <!-- <POI>Siedlung:Ban-dur</POI> --> <!-- <POI>Abzweig:Straße nach Brucken</POI> -->
+						06.910853,23.382383,0 <!-- <POI>Fluss:Ongalo</POI> -->
+						06.906940,23.377152,0 
+						06.904158,23.363298,0 
+						06.896331,23.354040,0 
+						06.877175,23.337112,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						06.869211,23.325943,0 
+						06.847813,23.306622,0 
+						06.834576,23.286001,0 
+						06.827896,23.271788,0 
+						06.831165,23.261687,0 
+						06.830997,23.241289,0 
+						06.827326,23.223879,0 
+						06.820281,23.202586,0 
+						06.809141,23.184781,0 
+						06.799327,23.167557,0 
+						06.797252,23.154139,0 
+						06.802823,23.140876,0 
+						06.806155,23.118705,0 
+						06.802781,23.096196,0 
+						06.793275,23.083157,0 
+						06.776571,23.068633,0 
+						06.753364,23.050857,0 
+						06.733138,23.034693,0 
+						06.713740,23.021829,0 
+						06.691675,23.003598,0 
+						06.675346,22.987663,0 
+						06.652068,22.980181,0 
+						06.625291,22.972633,0 
+						06.611465,22.972559,0 
+						06.587959,22.963591,0 
+						06.571046,22.955645,0 
+						06.537784,22.943613,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						06.488918,22.926720,0 
+						06.459983,22.921892,0 
+						06.440756,22.910937,0 
+						06.422840,22.894191,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						06.408510,22.878900,0 
+						06.392372,22.869277,0 
+						06.374685,22.854482,0 
+						06.349660,22.844254,0 
+						06.331325,22.842493,0 
+						06.310628,22.838810,0 
+						06.297672,22.836541,0 
+						06.284821,22.823954,0 <!-- <POI>Abzweig:Strasse nach Thalusfurt</POI> -->
+						06.279121,22.807643,0 
+						06.280613,22.798545,0 
+						06.281869,22.795322,0 
+						06.281973,22.792145,0  <!-- Anfang Detailkarte Thalusa -->
+						06.281929,22.791774,0 
+						06.281875,22.791271,0 
+						06.281880,22.790733,0 
+						06.281826,22.790248,0 
+						06.281664,22.789860,0 
+						06.281537,22.789719,0  <!-- <POI>Station:Thalusa Stadt tor</POI> -->
+						06.281454,22.789680,0 
+						06.281140,22.789549,0 
+						06.280978,22.789471,0 
+						06.280834,22.789451,0 
+						06.280578,22.789853,0 
+						06.280402,22.789828,0 
+						06.280132,22.789830,0 
+						06.279434,22.789829,0 
+						06.279209,22.789831,0 
+						06.278965,22.789833,0 
+						06.278483,22.789857,0 
+						06.278209,22.789835,0 
+						06.277788,22.789760,0 
+						06.277586,22.789624,0 
+						06.277339,22.789486,0 
+						06.276966,22.789395,0 
+						06.276588,22.789412,0 
+						06.275950,22.789367,0 
+						06.275711,22.789289,0 
+						06.275081,22.788976,0 <!-- <POI>Abzweig:Strasse nach Thabuleth</POI> -->
+						06.275110,22.788697,0 
+						06.275166,22.788407,0 
+						06.275214,22.788146,0 <!-- <POI>Fluss:Thalusim</POI> -->
+						06.275252,22.787833,0 
+						06.275443,22.787471,0 
+						06.275430,22.787301,0 
+						06.275524,22.786924,0 
+						06.275641,22.786761,0 
+						06.275658,22.786531,0 
+						06.275807,22.786414,0 
+						06.275864,22.786396,0 
+						06.275955,22.786282,0 
+						06.276059,22.786291,0 
+						06.276298,22.786227,0 
+						06.276450,22.786221,0 
+						06.276742,22.786139,0 
+						06.277013,22.786082,0 
+						06.277322,22.786016,0 
+						06.277521,22.785958,0 
+						06.277790,22.785918,0 
+						06.277802,22.785730,0 
+						06.277792,22.785575,0 
+						06.277793,22.785360,0 
+						06.277788,22.785258,0 <!-- <POI>Station:Stadttor</POI> --> <!-- Ende Detailkarte Thalusa -->
+						06.277836,22.782666,0 
+						06.272444,22.772084,0 
+						06.274963,22.754073,0 
+						06.279374,22.740371,0 
+						06.293813,22.718096,0 
+						06.328462,22.683728,0 
+						06.331602,22.671455,0 
+						06.329460,22.654234,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						06.324964,22.645849,0 
+						06.325277,22.630792,0 
+						06.330994,22.626436,0 
+						06.333145,22.589053,0 
+						06.321529,22.562740,0 
+						06.306320,22.525275,0 
+						06.284016,22.497223,0 
+						06.261976,22.467367,0 
+						06.247693,22.448559,0 
+						06.244311,22.429360,0 
+						06.209948,22.402214,0 
+						06.184495,22.363498,0 
+						06.168608,22.352138,0 
+						06.158631,22.345338,0 
+						06.121002,22.346390,0 
+						06.085246,22.337314,0 
+						06.011735,22.340211,0 
+						05.987373,22.329847,0 
+						05.975643,22.319329,0 
+						05.961899,22.308239,0 
+						05.935721,22.300314,0 
+						05.900999,22.299427,0 
+						05.871945,22.284425,0 
+						05.849274,22.272429,0 
+						05.827196,22.250144,0 
+						05.822392,22.241316,0 <!-- <POI>Siedlung:Ronishagen</POI> --> <!-- <POI>SOE:Pass ins Thalus-Massiv</POI> -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>6.684227797388155</longitude>
+				<latitude>23.643071</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

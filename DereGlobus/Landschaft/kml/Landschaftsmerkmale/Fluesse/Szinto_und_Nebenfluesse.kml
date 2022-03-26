@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Szinto und Nebenflüsse</name>
+<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Szinto</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Szinto</b>, auch <b>Schlangenfluss</b> genannt, entspringt in zwei Quellflüssen am Rande der <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a> und durchfließt das <a href="http://www.wiki-aventurica.de/wiki/Shadif" title="Shadif">Shadif</a>. Mithilfe seines Wassers, das in Bewässerungsanlagen geleitet wird, kann das Flusstal des Szintos ackerbaulich genutzt werden.
+
+</p><p>Am Szinto fand während des <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4mkrieg" title="Khômkrieg">Khômkriegs</a> die erste große <a href="http://www.wiki-aventurica.de/wiki/Schlacht_am_Szinto" title="Schlacht am Szinto">Schlacht</a> zwischen <a href="http://www.wiki-aventurica.de/wiki/Novadi" title="Novadi">Novadis</a> und <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al&#39;Anfa">Al'Anfanern</a> statt.
+</p><p>Der <a href="http://www.wiki-aventurica.de/wiki/Nagwa&amp;action=edit&amp;redlink=1" class="new" title="Nagwa (Seite nicht vorhanden)">Nagwa</a> fließt bei <a href="http://www.wiki-aventurica.de/wiki/Abszint" title="Abszint">Abszint</a> zu. Hinter <a href="http://www.wiki-aventurica.de/wiki/Selem" title="Selem">Selem</a> mündet der Szinto breit gefächert in den <a href="http://www.wiki-aventurica.de/wiki/Selemgrund" title="Selemgrund">Selemgrund</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+1.613834423568477,22.66668760236965,0 1.658009970539984,22.70481716310867,0 1.719173398971152,22.74219075251146,0 1.744120324683411,22.75782038506096,0 1.742374140864551,22.78827127890289,0 1.74335049353838,22.80746819259458,0 1.754380832133689,22.8191435745427,0 1.778233365796924,22.82368139465141,0 1.809880264263502,22.77673617222888,0 1.833526508352434,22.75595709643149,0 1.923083179614404,22.71351758118022,0 1.942617489662855,22.70859405794251,0 1.955283326428237,22.69840133684063,0 2.025489957490816,22.68357795843358,0 2.048699663366371,22.68505698192447,0 2.057530236828411,22.69580939837275,0 2.054711889889684,22.7050640184873,0 2.03108950152247,22.71678049477512,0 1.986389421032462,22.74615656835347,0 1.981015218963038,22.75906401346608,0 1.992920755333998,22.76562697806945,0 2.012200630444849,22.76577938880284,0 2.036139660646816,22.76014527102258,0 2.074063797571644,22.72700158333898,0 2.102261490739563,22.72978791754153,0 2.11722950606891,22.74277694784954,0 2.135693676945003,22.77990936565271,0 2.137164613718727,22.79705892893994,0 2.152254404089604,22.81206888526132,0 2.173517349150986,22.80907055373521,0 2.198944879112503,22.79169834436839,0 2.209161981241763,22.76742708462179,0 2.212090893192535,22.74045366352888,0 2.22548253339369,22.71400905627224,0 2.249419292493711,22.69973149099923,0 2.287108752421103,22.67568571785266,0 2.32919830255119,22.66154594794317,0 2.344523258430074,22.66031430891186,0 2.373987821229913,22.62596512299284,0 2.409326507759264,22.56394730702806,0 2.408689428405653,22.53306144611198,0 2.425777215152436,22.50489309819895,0 2.423560686353092,22.47510363586711,0 2.419499018213871,22.45148407702203,0 2.429362467885732,22.42162903928314,0 2.419513615549611,22.40233871649947,0 2.419026692578408,22.38361411993821,0 2.411189911656808,22.37081410871685,0 2.417595678656708,22.34726619972681,0 2.431138839360947,22.31519794908352,0 2.438293286410462,22.28648229003866,0 2.477520858483604,22.24408776337409,0 2.483610240433205,22.20631452565144,0 2.510014826196227,22.15996755958093,0 2.512589344360703,22.13755538969199,0 2.530445586862196,22.11439991447045,0 2.527698043727868,22.07500982340625,0 2.525441708795015,22.06396996889376,0 2.502762182373959,22.03973102623218,0 2.508872180672468,22.02168895789284,0 2.513067489941872,21.99866305211668,0 2.534343302719866,21.97783253761926,0 2.529582752497879,21.94653283174263,0 2.513239668433096,21.90927826597259,0 2.483270527469546,21.87218771983878,0 2.478809189824913,21.85112042054653,0 2.464304123151897,21.81635333687124,0 2.468508644115348,21.79386456381637,0 2.48188460303447,21.76941406576489,0 2.479429761378778,21.73508473900203,0 2.453807868211271,21.70592428788632,0 2.441785404720904,21.68573073713063,0 2.411434163258632,21.65932145371759,0 2.385234289880593,21.63878469340654,0 2.336397962055405,21.58186704589054,0 2.322323689321191,21.57391958432649,0 2.305292131647645,21.57168507317166,0 2.284671591955962,21.55340684760215,0 2.262108171060679,21.55953583828478,0 2.250963659257563,21.55499405729842,0 2.234332883826191,21.53956520080919,0 2.218443486775725,21.51751454330145,0 2.198404645756473,21.49920128234972,0 2.186051660072872,21.49217874163503,0 2.176528465178045,21.47691555048179,0 2.152045850039954,21.46690668889897,0 2.128713885835778,21.44771540335631,0 2.115051730627489,21.43292179439591,0 2.097494947823175,21.39978541202257,0 2.079799685798252,21.38438847479166,0 2.066828924973947,21.37586634722776,0 2.053174646214391,21.35420401688937,0 2.012416809794231,21.33428887461315,0 2.004145770359223,21.33213384775034,0 1.993671056910047,21.31893338843453,0 1.971664003969711,21.28243931018919,0 1.963804099047797,21.26708445639402,0 1.96281357539148,21.24786434693283,0 1.942453302316336,21.22191132977009,0 1.945829313945768,21.20298617514218,0 1.911942007500254,21.16802896574515,0 1.89259576971011,21.16179357458932,0 1.876168526159507,21.14884350553524,0 1.87336283105582,21.11553842664294,0 1.815968773285173,21.07605672831435,0 1.795600292224997,21.08100795224327,0 1.774208496422958,21.06575113953813,0 1.760144841223694,21.04510782062568,0 1.740291923812152,21.01712345772612,0 1.715581981567422,21.00771394110004,0 1.713577083774098,21.00578310023008,0 1.711303185814952,21.0022909364109,0 1.709539045816129,21.0000825743011,0 1.708614676312668,20.99813432953407,0 1.707318449775621,20.99567205342382,0 1.706513937419367,20.99428578199955,0 1.703605962360435,20.99178234966613,0 1.701012989769613,20.98945953248543,0 1.698975204674227,20.97499717437934,0 1.68753058264582,20.96001557918062,0 1.669584642897257,20.94893892391228,0 1.648905099733387,20.92066571922933,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Linke Szintoquelle</name>
+<ExtendedData>
+<Data name="Link">
+ <value>Szinto</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Szinto</b>, auch <b>Schlangenfluss</b> genannt, entspringt in zwei Quellflüssen am Rande der <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a> und durchfließt das <a href="http://www.wiki-aventurica.de/wiki/Shadif" title="Shadif">Shadif</a>. Mithilfe seines Wassers, das in Bewässerungsanlagen geleitet wird, kann das Flusstal des Szintos ackerbaulich genutzt werden.
+
+</p><p>Am Szinto fand während des <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4mkrieg" title="Khômkrieg">Khômkriegs</a> die erste große <a href="http://www.wiki-aventurica.de/wiki/Schlacht_am_Szinto" title="Schlacht am Szinto">Schlacht</a> zwischen <a href="http://www.wiki-aventurica.de/wiki/Novadi" title="Novadi">Novadis</a> und <a href="http://www.wiki-aventurica.de/wiki/Al%27Anfa" title="Al&#39;Anfa">Al'Anfanern</a> statt.
+</p><p>Der <a href="http://www.wiki-aventurica.de/wiki/Nagwa&amp;action=edit&amp;redlink=1" class="new" title="Nagwa (Seite nicht vorhanden)">Nagwa</a> fließt bei <a href="http://www.wiki-aventurica.de/wiki/Abszint" title="Abszint">Abszint</a> zu. Hinter <a href="http://www.wiki-aventurica.de/wiki/Selem" title="Selem">Selem</a> mündet der Szinto breit gefächert in den <a href="http://www.wiki-aventurica.de/wiki/Selemgrund" title="Selemgrund">Selemgrund</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+2.719991813820679,22.62468590268863,0 2.709560375381579,22.60775310057358,0 2.709856370383907,22.59362747310703,0 2.698310643845876,22.58136790785855,0 2.681893488192431,22.56164920138295,0 2.675453988648533,22.54143613988621,0 2.676871335499698,22.51287314655201,0 2.697716970377571,22.47472161829701,0 2.700659505746836,22.45353828161892,0 2.697312449850775,22.43882254393079,0 2.687206134056661,22.4223871314143,0 2.68378920227754,22.40639137255063,0 2.670354732077058,22.39473604143282,0 2.644295712760854,22.38061767910324,0 2.633852179429226,22.37265931870288,0 2.618249292025408,22.34445221157504,0 2.601808826954966,22.32857125539254,0 2.590513778425705,22.30064129173591,0 2.582673982890207,22.26998163385476,0 2.576714870804482,22.2382034663864,0 2.564313587351437,22.21006738730065,0 2.544656632145077,22.18098782559824,0 2.529372493289634,22.17042717910666,0 2.510770179608066,22.16002008961993,0 </coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Nagwa</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Nagwa</b> ist ein <a href="www.wiki-aventurica.de/index.php/Fluss" title="Fluss">Fluss</a> im <a href="www.wiki-aventurica.de/index.php/Szintotal" title="Szintotal">Szintotal</a>.
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+1.74846058772554,21.5601990100411,0 1.760505608473928,21.54980696233242,0 1.767384142000974,21.53050604341168,0 1.789973852058404,21.51124306809557,0 1.809460831707415,21.50051612620814,0 1.83860588264023,21.46340093824096,0 1.861043892574477,21.45654807047565,0 1.886229926169689,21.45724513644708,0 1.896761441045627,21.4633530578465,0 1.918281626530931,21.45360258946072,0 1.932482098991235,21.42939074250863,0 1.938012628499852,21.41489140820947,0 1.955292543811014,21.39986175142837,0 1.973577684366978,21.38149270785135,0 1.987252797383774,21.35747733274074,0 2.009700232346099,21.33597707159375,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

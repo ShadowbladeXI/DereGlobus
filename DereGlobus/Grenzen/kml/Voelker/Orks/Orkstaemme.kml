@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Orks.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Orkstämme</name>
+		<open>1</open>
+		<Placemark>
+			<name>Burrkuzk</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Burrkuzks</b> sind ein <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orkstamm</a> in dem Gebirge um <a href="http://www.wiki-aventurica.de/wiki/Lowangen" title="Lowangen">Lowangen</a> unter dem Oberhäuptling <a href="http://www.wiki-aventurica.de/wiki/Urgruuzak" title="Urgruuzak">Urgruuzak</a>. Sie gelten als friedlich und überwachen die Tributzahlungen von <a href="http://www.wiki-aventurica.de/wiki/Lowangen" title="Lowangen">Lowangen</a> an <a href="http://www.wiki-aventurica.de/wiki/Khezzara" title="Khezzara">Khezzara</a>.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.436259626310262,33.88736104287617,1500 2.403133829237907,33.80217978672187,1500 2.365173954929647,33.74369364857844,1500 2.284491920780325,33.6895981639713,1500 2.251744034742795,33.66999983615536,1500 2.244939223694791,33.65260414395343,1500 2.197111496186408,33.61369420979133,1500 2.189030631313897,33.56689294430962,1500 2.190818745840764,33.53928417688241,1500 2.176617894380228,33.48715141483584,1500 2.202179464144782,33.42370541784744,1500 2.23099483855042,33.351645332007,1500 2.269100388897611,33.3204112804315,1500 2.354485805507876,33.30221606701599,1500 2.454541454234938,33.31535869322475,1500 2.500811077131468,33.32657055694017,1500 2.530224434345176,33.35128982564097,1500 2.612802233851674,33.40191843858927,1500 2.688943893307378,33.46441196943124,1500 2.716555153918663,33.52608191174843,1500 2.773273714565174,33.63212142605653,1500 2.806162469432565,33.72066115602232,1500 2.823571783415104,33.77396016166919,1500 2.857093510839663,33.84628308355863,1500 2.888471699984887,33.87408430611511,1500 2.952893906971859,33.90060719953338,1500 2.983298178655764,33.92923423305924,1500 2.975584475227422,33.95565480654474,1500 2.954565135116891,33.97591057678976,1500 2.924398810760027,33.98833911470388,1500 2.876992611337002,33.98512290537718,1500 2.850811361917238,34.00443366416029,1500 2.824322878555228,34.03828241499082,1500 2.823642892021507,34.07164904351586,1500 2.784617357884487,34.11046428752716,1500 2.758864580343781,34.10666236200908,1500 2.728629637560736,34.11905850193988,1500 2.701539809462819,34.12892956834566,1500 2.667731328237635,34.11557269568682,1500 2.62757578996625,34.10896251235533,1500 2.59785614131399,34.09822514868748,1500 2.572811573924867,34.10810742642097,1500 2.505280940100947,34.12073469538119,1500 2.474321348642337,34.11766309987196,1500 2.478918914317645,34.09974964029175,1500 2.487133554659278,34.0613487710301,1500 2.483562909846735,34.039031242095,1500 2.46486956083839,34.00191474207416,1500 2.447783234294565,33.96360524091455,1500 2.436259626310262,33.88736104287617,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Drughash</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Thasch-Orks</b> sind vom <a href="http://www.wiki-aventurica.de/wiki/Orkensturm" title="Orkensturm">Orkensturm</a> zurückgebliebene <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svellttal</a> unter dem damaligen Oberhäuptling <a href="http://www.wiki-aventurica.de/wiki/Harkhash_Drugh" title="Harkhash Drugh">Harkhash Drugh</a>. Sie selbst nennen sich daher auch <b>Drughash</b> und sind einer von drei <i>Svellttalorkstämmen</i>.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.001233770269602,33.29655667937457,1500 2.020938672056767,33.37780533107264,1500 2.008431381811038,33.42768833865556,1500 2.004502434330939,33.47878927537832,1500 1.989895649800306,33.51635869322968,1500 1.938033740636231,33.56539538046264,1500 1.850821507418521,33.60233833016591,1500 1.715796436752612,33.5961000474795,1500 1.594898244115139,33.57578099534534,1500 1.462678754124671,33.56636841643343,1500 1.413657022315837,33.53135569981185,1500 1.382021197323278,33.49166883922484,1500 1.41051681463735,33.45046059264826,1500 1.443092971463629,33.39709664262367,1500 1.453248486546825,33.35339829704005,1500 1.458356876890978,33.31366624972628,1500 1.447914881041472,33.23061741645753,1500 1.460962762020159,33.17370731040565,1500 1.485603889994707,33.13343407398504,1500 1.524277294551673,33.10985662688061,1500 1.598244595042258,33.0533560122927,1500 1.657424426439658,33.03531504309407,1500 1.719215659238158,33.08932182077901,1500 1.762689380076177,33.10463741212164,1500 1.809430993133243,33.16918453394997,1500 1.879942311532863,33.22086428872407,1500 1.947721686204023,33.2468372439036,1500 2.001233770269602,33.29655667937457,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gharrachai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Gharrachai</b> sind ein Stammesverband der <a title="Ork" href="http://www.wiki-aventurica.de/wiki/Ork">Orks</a>, der sich im <a title="Erster Orkensturm" href="http://www.wiki-aventurica.de/wiki/Erster_Orkensturm">Ersten Orkensturm</a> in der <a title="Finstermark (Seite nicht vorhanden)" class="new" href="/index.php?title=Finstermark&amp;action=edit&amp;redlink=1">Finstermark</a> zusammen geschlossen hat. Er besteht aus zurückgelassenen <a title="Korogai" href="http://www.wiki-aventurica.de/wiki/Korogai">Korogai</a>, nachgezogenen <a title="Ork" href="http://www.wiki-aventurica.de/wiki/Ork">Orks</a> aus dem <a class="mw-redirect" title="Svellttal" href="http://www.wiki-aventurica.de/wiki/Svellttal">Svellttal</a> und Veteranen aus der Hauptarmee.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							3.515857199164756,33.4678862634208,1500 3.356828178582436,33.49913724906516,1500 3.111866882187531,33.49806973692856,1500 3.012975533831803,33.44639235903532,1500 2.838880594210478,33.28754345351092,1500 2.736602033411801,33.14154647465662,1500 2.655817554793631,33.06812110818882,1500 2.594688643210064,32.95817629880804,1500 2.514154767112329,32.86655944015725,1500 2.268729686576851,32.79999210269198,1500 2.157193888960709,32.76186225585968,1500 2.059322986064813,32.68062569480514,1500 1.967573593313343,32.54465840669352,1500 1.885904014749258,32.31175626334299,1500 1.74434372790881,32.21713870598363,1500 1.662413854089055,32.09530298302565,1500 1.680967925492352,32.01716753899444,1500 1.790164779009373,31.97717610721274,1500 1.906947867608639,31.98169685502284,1500 2.108410394584637,32.00654403275381,1500 2.264327495450902,32.042168905543,1500 2.484271268881664,32.06035296966633,1500 2.664916777556476,32.08146368883711,1500 2.856750655415312,32.09984340123623,1500 2.97950950659079,32.12314317540218,1500 3.083671151278806,32.1236036446702,1500 3.266484196479944,32.11990206596456,1500 3.432938310818565,32.11604645496834,1500 3.639357273345587,32.14157932561563,1500 3.774592031124868,32.18166027996367,1500 3.859265057491037,32.27112013760215,1500 3.898359403040126,32.39470113217314,1500 3.917910317545426,32.52156284166491,1500 3.933244357726859,32.68777090517353,1500 3.91420825310792,32.76536508347856,1500 3.921425644136145,32.90192066633584,1500 3.951313724637793,33.005960213687,1500 3.951351020837361,33.20438881754198,1500 3.89735385342757,33.28113243388057,1500 3.785185643192075,33.35285738048465,1500 3.701321100802113,33.4027861474084,1500 3.515857199164756,33.4678862634208,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gorlochai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <a href="http://www.wiki-aventurica.de/wiki/Gravesh" title="Gravesh" class="mw-redirect">Gravesh</a>-Priester <a href="http://www.wiki-aventurica.de/wiki/Gorlogh_Khamram" title="Gorlogh Khamram">Gorlogh Khamram</a> begründete die <b>Gorlochai</b> in <a href="http://www.wiki-aventurica.de/wiki/Transysilien" title="Transysilien" class="mw-redirect">Transysilien</a>, indem er einige <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">orkische</a> Marodeure der Bande <a href="http://www.wiki-aventurica.de/wiki/Graveshs_Gelbauge" title="Graveshs Gelbauge">Graveshs Gelbauge</a> und verschiedene Sippen zu einem Stamm vereinte und mit ihm gegen die <a href="http://www.wiki-aventurica.de/wiki/Schwarzen_Lande" title="Schwarzen Lande" class="mw-redirect">Schwarzen Lande</a> kämpft.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							8.663473199676382,31.66814123503441,1500 8.558139458240486,31.67718313859624,1500 8.520216618837228,31.63780146997369,1500 8.491600108838773,31.584483530443,1500 8.443419586464849,31.49790081952749,1500 8.4224927141231,31.43750160935094,1500 8.502193771650848,31.39893736624962,1500 8.607472967598998,31.39503993159418,1500 8.682691198152897,31.46354513808848,1500 8.682779810818541,31.46524043145957,1500 8.720051904419314,31.53006773886012,1500 8.720409624406287,31.53684917572415,1500 8.741188077487534,31.59041761531555,1500 8.726144793710533,31.64536700508122,1500 8.663473199676382,31.66814123503441,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gravachai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Rorwhed-Orks</b> (<i>Gravachai</i>) sind vom <a href="http://www.wiki-aventurica.de/wiki/Orkensturm" title="Orkensturm">Orkensturm</a> zurückgebliebene <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svellttal</a> unter dem Oberhäuptling <a href="http://www.wiki-aventurica.de/wiki/Morak_Mardugh" title="Morak Mardugh">Morak Mardugh</a>, dem Ziehsohn des <a href="http://www.wiki-aventurica.de/wiki/Chronik:1030" title="Chronik:1030">1030 BF</a> abgetretenen bisherigen Häuptlings <a href="http://www.wiki-aventurica.de/wiki/Mardugh_Orkhan" title="Mardugh Orkhan">Mardugh Orkhan</a>.<br> Sie sind einer der drei <i>Svellttalorkstämme</i>.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							1.498692533378085,34.86983057630368,1500 1.557621998688084,34.83168488766,1500 1.561184187075986,34.80792511023073,1500 1.669178140911205,34.75707645703458,1500 1.934575743921918,34.74215860976091,1500 2.018222873388376,34.78456628141764,1500 2.070446865525855,34.87836001885184,1500 2.117535117566518,35.00269498472574,1500 2.148733853611582,35.14258853868387,1500 2.14253874964518,35.26265931044578,1500 2.094739085713819,35.33501544409351,1500 2.00855516159578,35.37412024091857,1500 2.004495962650448,35.37759446497334,1500 1.960398520822113,35.43612374835117,1500 1.91243460555526,35.50652719175874,1500 1.853925570775692,35.57366804441352,1500 1.778827034034094,35.64611130906327,1500 1.696549840784543,35.68644182303045,1500 1.611504270147941,35.78766816504048,1500 1.554385949875188,35.84271369514843,1500 1.489296296810589,35.82678281818458,1500 1.407993996961006,35.83304841176873,1500 1.377603575291855,35.87748489756547,1500 1.334618469683193,35.92209661258672,1500 1.300036944502241,35.97167138779256,1500 1.267355686545724,36.01445305161657,1500 1.23233354099608,36.04710849757682,1500 1.201643093317693,36.08987730746369,1500 1.179476116050255,36.14271835887517,1500 1.146769116172923,36.19742078490307,1500 1.10283640960642,36.21326619145417,1500 1.056779979418916,36.23083080452484,1500 0.9896613182499858,36.25374833101748,1500 0.9052708014678235,36.2547767654384,1500 0.875528094476985,36.23983890096594,1500 0.8917577667920362,36.18700393091576,1500 0.9352741715533308,36.13049175325423,1500 1.030538210297842,36.029322846219,1500 1.085949535868107,35.95240770137998,1500 1.165299447479071,35.86991216230916,1500 1.170771784794464,35.81880535992876,1500 1.120034062458317,35.78890969941531,1500 1.071562369834183,35.76917056277559,1500 1.010573524284846,35.75298006755391,1500 0.9850635039967992,35.72611781392595,1500 0.9529887101373835,35.67725422167592,1500 0.9434297732399988,35.58908552513135,1500 0.9344603630678305,35.54507392887382,1500 0.986374948008486,35.52240602973982,1500 1.044344558353554,35.49118124080328,1500 1.079158244794123,35.45176755541627,1500 1.12004085026957,35.40550975078474,1500 1.148245840807438,35.35264587330175,1500 1.174156446501911,35.29135501260289,1500 1.208369039054076,35.23335327744899,1500 1.205153214557782,35.17413523946618,1500 1.204264175758962,35.12842884750389,1500 1.165547169595251,35.05607456065076,1500 1.22827859408859,34.98246908097797,1500 1.291293542945615,34.92914907144643,1500 1.377517641319996,34.90258956853836,1500 1.424553488621332,34.88160042146355,1500 1.498692533378085,34.86983057630368,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Keschuwai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Keschuwai</b> sind ein relativ unbedeutender <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orkstamm</a>, der hauptsächlich vom Ackerbau lebt.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.709494070919765,33.59096506951123,1500 -0.708537999341099,33.54980371342546,1500 -0.6807923255463111,33.49436979804805,1500 -0.5945853944436941,33.42367069880126,1500 -0.5219909055039362,33.40712957791848,1500 -0.425048985794827,33.40412496141145,1500 -0.3164074675333262,33.43354536305886,1500 -0.2853603811545069,33.4692429898134,1500 -0.2509772069495686,33.51673127091484,1500 -0.2621499621955292,33.54893676110973,1500 -0.3192522946825771,33.58348526600101,1500 -0.5493098392712992,33.61406130195207,1500 -0.6887468840566824,33.61041896204009,1500 -0.709494070919765,33.59096506951123,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Korogai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vom Stamm der <b>Korogai</b> gelten als die besten Schmiede unter den Schwarzpelzen.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.0583486106760267,35.61309390155868,1000 -0.1059097679369037,35.71628333112348,1000 -0.142694691513785,35.76610027188284,1000 -0.2419026100100641,35.83620046017067,1000 -0.3428028266991623,35.88350636694376,1000 -0.5155597706602311,35.91834720876984,1000 -0.5657576319432967,35.92732751705757,1000 -0.6997047341821239,35.92525476901773,1000 -0.7437904685170238,35.92941339278814,1000 -0.8263809257015875,35.87457034868264,1000 -0.8730003794079788,35.82356408726005,1000 -0.9353692892111309,35.76743218338424,1000 -0.9690057146923525,35.68428290333104,1000 -0.9809576514843177,35.61124813607197,1000 -1.03310959552293,35.48248254224382,1000 -1.063084423243615,35.41720185300465,1000 -1.071744845093625,35.37172530223405,1000 -1.047782838392635,35.29447952656835,1000 -1.01484262936707,35.24975844040439,1000 -0.9335310337512293,35.17187035956477,1000 -0.7981405833394817,35.14178378949269,1000 -0.6598082826803975,35.15206227077428,1000 -0.5290623537571659,35.15069548881333,1000 -0.4175187775248224,35.16481378140349,1000 -0.3867108604378444,35.16712475027834,1000 -0.3082271306585105,35.21019889787402,1000 -0.2413175978124493,35.2417446324831,1000 -0.1784199557507415,35.27211910100866,1000 -0.1104935746859936,35.37924184879985,1000 -0.0583486106760267,35.61309390155868,1000 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Marrykai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Hilval-Orks</b> (<i>Marrykai</i>) sind vom <a href="http://www.wiki-aventurica.de/wiki/Orkensturm" title="Orkensturm">Orkensturm</a> zurückgebliebene <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svellttal</a> unter dem Oberhäuptling <a href="http://www.wiki-aventurica.de/wiki/Gurukh_Goldzahn&amp;action=edit&amp;redlink=1" class="new" title="Gurukh Goldzahn (Seite nicht vorhanden)">Gurukh Goldzahn</a>. Sie sind zahlenmäßig der größte unter den drei <i>Svellttalorkstämmen</i>.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.607112689586502,35.51212261135712,1500 0.5383152985297923,35.48857770417344,1500 0.358455841963643,35.45956686827566,1500 0.2234357775109785,35.45144511903411,1500 0.0898709731020042,35.45570690323247,1500 0.06242935573944841,35.39776777391041,1500 0.1183092727324575,35.33389425738405,1500 0.2119341844906275,35.29624512941948,1500 0.5038314375862574,35.25449161419249,1500 0.5927729456175723,35.17683328750591,1500 0.5753585523236815,35.10509156334874,1500 0.4530984078389677,35.04316528365453,1500 0.3432009584849816,34.94653024787427,1500 0.3495544246730997,34.86746476968745,1500 0.414319510543657,34.83636241663982,1500 0.5363312212999616,34.85308851816389,1500 0.7087482817292212,34.8643842501545,1500 0.7573045604561579,34.84319256440352,1500 0.813349771864742,34.78784286358359,1500 0.805784657857227,34.63854748062067,1500 0.8780556310804388,34.55137589636574,1500 0.9384866427718497,34.52357810078869,1500 0.9771092729754538,34.57624030912775,1500 1.003088999990334,34.59347156082004,1500 1.030814442885286,34.58944079170507,1500 1.064088324682424,34.60136124012762,1500 1.119008119948231,34.58572191998609,1500 1.147920427514366,34.59339536953581,1500 1.180908224548984,34.62453073100075,1500 1.16247939868247,34.68860289369812,1500 1.152028713728548,34.74052388670631,1500 1.125062974002868,34.7865056020962,1500 1.076761671594191,34.84085015282928,1500 1.082509063816055,34.90357951482477,1500 1.102985302041222,34.95766503250992,1500 1.084531070625383,35.01898850408727,1500 1.095835018215032,35.05021671109968,1500 1.093976150341045,35.07489741800408,1500 1.114316730782445,35.11118022676477,1500 1.119105231943216,35.15803455444792,1500 1.102188686064298,35.20087729175342,1500 1.071380888572844,35.23304495466725,1500 1.037559682478462,35.27546560180354,1500 1.050095497899612,35.38075465609163,1500 1.00153138023146,35.45222649431921,1500 0.9910602047068573,35.4601754004949,1500 0.9894177981498409,35.49861209080964,1500 0.9735754152448517,35.51328211950386,1500 0.9557559957080364,35.5148372295135,1500 0.9322030738442111,35.53134855675065,1500 0.9075477993969505,35.53407837324253,1500 0.8917019641766477,35.52880858710929,1500 0.8820770196208239,35.51684119642949,1500 0.84493749699315,35.51438114986582,1500 0.8308779733164307,35.5256596488151,1500 0.8097547694019225,35.52434911983632,1500 0.7756319592078054,35.54741718205959,1500 0.7631491400275903,35.57870199183529,1500 0.7151996311236797,35.60481820647453,1500 0.7030304298045853,35.60462951982244,1500 0.607112689586502,35.51212261135712,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mokolash</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vom Stamm der <b>Mokolash</b> werden auch <i>Sumpforks</i> genannt, weil sie im <a href="http://www.wiki-aventurica.de/wiki/M%27Okool" title="M'Okool">M'Okool</a>, den Quellsümpfen des <a href="http://www.wiki-aventurica.de/wiki/Bodir" title="Bodir">Bodir</a>, sesshaft sind. Vereinzelt sind die Mokolash auch in den <a href="http://www.wiki-aventurica.de/wiki/Svellts%C3%BCmpfe" title="Svelltsümpfe" class="mw-redirect">Svelltsümpfen</a> und im <a href="http://www.wiki-aventurica.de/wiki/Nebelmoor" title="Nebelmoor">Nebelmoor</a> anzutreffen. Sie verehren einen Wassergott namens <a href="http://www.wiki-aventurica.de/wiki/Ranagh" title="Ranagh" class="mw-redirect">Ranagh</a>.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-2.331693583575276,34.29224090745254,1500 -2.35471471638393,34.23388925132225,1500 -2.342816404604085,34.14861750620127,1500 -2.316344215077906,34.0672247415105,1500 -2.24778973916012,33.98707152149088,1500 -2.209651096616465,33.92690343090886,1500 -2.172939824312325,33.90347988848648,1500 -2.124147512169865,33.8944388468496,1500 -2.093496387892543,33.91991228324432,1500 -2.084596316699133,33.9639953401656,1500 -2.086895272333854,33.96918367473912,1500 -2.120296047940722,34.01723265486491,1500 -2.171860715913226,34.09793195448276,1500 -2.199790479642591,34.16527056311742,1500 -2.206330583420602,34.22446753579793,1500 -2.231619780764808,34.2760864484713,1500 -2.270405863656157,34.29411742696502,1500 -2.331693583575276,34.29224090745254,1500 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-1.418956304345429,34.64177664861838,1500 -1.498749227848594,34.6243518077365,1500 -1.571093518073985,34.57572414274157,1500 -1.626351985026007,34.5239670068144,1500 -1.696992045167544,34.49094644037031,1500 -1.76374931554643,34.46841472326882,1500 -1.80262448739534,34.43435470468841,1500 -1.769926471675836,34.40557076037348,1500 -1.718840449535051,34.39290347912809,1500 -1.646759765030871,34.38245560223864,1500 -1.604386968581625,34.31550829135085,1500 -1.583350209519243,34.25498472102809,1500 -1.533055630354224,34.20032294917677,1500 -1.420210237222042,34.16267584930203,1500 -1.34821413657467,34.15022531642303,1500 -1.272553639646947,34.1552497112482,1500 -1.220187558597272,34.16500427173984,1500 -1.22581997740182,34.21028452898185,1500 -1.284293502968578,34.25972530954994,1500 -1.350660337871035,34.29149826125497,1500 -1.406565617389743,34.32517804955358,1500 -1.441648463573946,34.36623757511926,1500 -1.476201522361386,34.45429640022368,1500 -1.449810647494821,34.48621550549882,1500 -1.405075676675508,34.53940748875068,1500 -1.370454792283116,34.58017807586928,1500 -1.377959056366261,34.61656164813441,1500 -1.418956304345429,34.64177664861838,1500 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								2.094624060648866,34.13397633076841,1500 2.104996083552995,34.0844429989565,1500 2.144106226598335,34.05944837371435,1500 2.206375096327922,34.04551602262643,1500 2.256369588005072,34.02827016161089,1500 2.298248265846388,34.01443981046931,1500 2.348348324123659,34.00839261537966,1500 2.398327426963325,33.99332313381188,1500 2.433549113591929,33.99074270402404,1500 2.455745910953979,34.02764470951154,1500 2.46983580417214,34.06573899797553,1500 2.466260729981034,34.10175020579163,1500 2.45166749519047,34.12662141607081,1500 2.396298422111092,34.14961733957657,1500 2.288245988225011,34.19887255727492,1500 2.258407716459439,34.20360740225259,1500 2.205252940197664,34.18940603858243,1500 2.138472959316728,34.1707782770168,1500 2.103019927163967,34.15865215644056,1500 2.094624060648866,34.13397633076841,1500 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								2.962542646442101,33.87635998797185,1500 2.940616299919474,33.8654074079849,1500 2.915493472289303,33.82974137976608,1500 2.921364532585549,33.78353789468068,1500 2.951095586424384,33.71226343776691,1500 2.97721158267326,33.66577765734073,1500 3.043358830607339,33.59622026980536,1500 3.09190562938477,33.59104844781159,1500 3.135359510429741,33.60056380482352,1500 3.153045268540329,33.66558524483358,1500 3.151354917844653,33.71060981492438,1500 3.11719409936132,33.75610068228776,1500 3.074454300575293,33.78258334056652,1500 3.052083626965962,33.81326453148748,1500 3.03270297512577,33.85851933583092,1500 2.991000960503627,33.87484553122933,1500 2.962542646442101,33.87635998797185,1500 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<tessellate>1</tessellate>
+								<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								4.421283745811593,34.07567998002758,1500 4.436494461662798,34.11916269714499,1500 4.459678228617523,34.15682275879914,1500 4.44038224882804,34.18656189057011,1500 4.444292121936257,34.2179678074282,1500 4.433831870075908,34.22948212456209,1500 4.401374611089963,34.27192484864867,1500 4.398255578713208,34.33391434414968,1500 4.431275665825478,34.37703027495159,1500 4.383982378296127,34.38944813920875,1500 4.329664494263897,34.39638759979367,1500 4.270307203314143,34.41469378619743,1500 4.211011628684585,34.43523334923366,1500 4.145889397974925,34.44574794184851,1500 4.079016762924992,34.44501214871127,1500 4.047626114925899,34.44458994572739,1500 3.997977105248458,34.42766757581968,1500 3.962989593167348,34.39915224881447,1500 3.9081723131147,34.34517451802268,1500 3.859437364515146,34.31019970514225,1500 3.82968967564344,34.27144354766561,1500 3.818643925144678,34.21992798835597,1500 3.837803556934749,34.17791925747692,1500 3.865899185465886,34.16271516648089,1500 3.892311414285896,34.1374235848562,1500 3.947926866675988,34.09126854843063,1500 3.983414864917474,34.05452631153498,1500 4.019085531711504,34.02451470673543,1500 4.074363191865533,34.01428771904197,1500 4.177897191859172,34.02764721116427,1500 4.274351261346432,34.0309689852572,1500 4.339974711378418,34.04397853033197,1500 4.422715691392442,34.04077406632411,1500 4.421283745811593,34.07567998002758,1500 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Olochtai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Olochtai</b> bewohnen das <a href="http://www.wiki-aventurica.de/wiki/Olochtai_%28Gebirge%29" title="Olochtai (Gebirge)">gleichnamige Gebirge</a> und gelten auch unter anderen <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> als Barbaren, da ihre Kultur selbst für hiesige Verhältnisse primitiv ist.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-2.670291428154465,34.83548737077089,1500 -2.684060211018159,34.89445184215975,1500 -2.732201521194773,34.94067917667831,1500 -2.822124307636856,35.00985579867006,1500 -2.910314699042854,35.08442307538002,1500 -3.001058828056512,35.16234835731861,1500 -3.01734986792829,35.1975358448976,1500 -3.105188476017611,35.29178430507875,1500 -3.118006953849559,35.36330812142543,1500 -3.029396242092207,35.41730306972858,1500 -2.917959635643035,35.46717636276244,1500 -2.805179544541455,35.5044179331741,1500 -2.587338337042444,35.54092934727044,1500 -2.413818421660473,35.56468469513872,1500 -2.262690381667165,35.59433670919578,1500 -2.036243652978952,35.60418442222854,1500 -1.893423404981447,35.63674059670729,1500 -1.731690185042537,35.6610792791758,1500 -1.678285430654783,35.70180261662636,1500 -1.685092241096698,35.77228272511237,1500 -1.681194487505322,35.7815596541121,1500 -1.737066520286318,35.81148703424655,1500 -1.855890403973055,35.80914396984007,1500 -2.030335435997128,35.77302057773742,1500 -2.202635953067265,35.74596191027759,1500 -2.31285875733653,35.75830009827052,1500 -2.484580196821034,35.73103294160329,1500 -2.622919196665064,35.70725454700397,1500 -2.811551087558367,35.67516963086696,1500 -2.891414130731083,35.68564795575225,1500 -2.917926919432314,35.72012885094933,1500 -2.91647227954569,35.80658166417337,1500 -2.846748807811557,35.88971717977465,1500 -2.769745859534469,35.95887772651342,1500 -2.725785057699854,36.03588880370026,1500 -2.644307863565686,36.09092767091912,1500 -2.643249171925282,36.15125994512042,1500 -2.726421373152054,36.18773088259945,1500 -2.818911818955986,36.19229071884324,1500 -3.024242579794279,36.09398918707606,1500 -3.167331078268585,36.03528126459853,1500 -3.303938690041453,35.94076111379752,1500 -3.376318293705687,35.89084760502082,1500 -3.479185418979041,35.78864311384695,1500 -3.573473652901487,35.69175003237807,1500 -3.669684613562017,35.61632070287205,1500 -3.771084819924588,35.56451350748015,1500 -3.868568380615094,35.50326024294959,1500 -3.848426864299057,35.44931245903928,1500 -3.826453742724668,35.4362875963931,1500 -3.750128820578331,35.44102980930285,1500 -3.636006713551634,35.48161295025869,1500 -3.535195039875267,35.50690273433747,1500 -3.459850637874318,35.55217319669541,1500 -3.372440763566573,35.62688938721818,1500 -3.264262971999996,35.60445243562346,1500 -3.257014515111237,35.55694314377191,1500 -3.331085345281212,35.4974970090398,1500 -3.430026837015689,35.45329855578796,1500 -3.540426836546178,35.37478553147547,1500 -3.67978595201689,35.32311811712086,1500 -3.77241498419276,35.21428976457796,1500 -3.906465768668284,35.04751311417667,1500 -3.960907543358657,34.94082324798053,1500 -4.009899726139526,34.80797269729901,1500 -4.075760978718257,34.66657731194901,1500 -4.131778654247275,34.51353600749822,1500 -4.172616701899042,34.41668598727632,1500 -4.191732585984234,34.30673677522164,1500 -4.168467934592681,34.2456038555061,1500 -4.107773541544287,34.22338237117417,1500 -4.04257238934791,34.24734734171539,1500 -4.010374614243387,34.34371569156445,1500 -3.94729966127793,34.45407526950086,1500 -3.855482866498301,34.66460654846169,1500 -3.789087640508603,34.76977465631894,1500 -3.717508180097363,34.88229906234967,1500 -3.637177615915151,34.96407436698984,1500 -3.578851456220339,34.99886517272575,1500 -3.445972252478883,35.0190439374564,1500 -3.268853676948927,35.00103976951639,1500 -3.097000520614667,34.93943240164604,1500 -2.898190770099848,34.86477564867963,1500 -2.796032327782303,34.82747006699729,1500 -2.707105075828117,34.80847557093966,1500 -2.670291428154465,34.83548737077089,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Orichai und Tscharshai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<p>Die <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vom Stamm der <b>Orichai</b> leben überall im <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a> und sind zahlreicher als alle anderen Orkstämme.</p>
+								<p<Die <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vom Stamm der <b>Tscharshai</b> führen ein Nomadenleben und ziehen als Händler, Diebe und Räuber im gesamten <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a> umher.</p>
+								<!-- END EDIT -->
+								
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.7009282502769831,35.09120413746529,1500 -0.7944685941613394,35.0138978230984,1500 -0.9158098340280763,34.93702042183431,1500 -1.079983359355649,34.91063041197316,1500 -1.193709047858999,34.94023013921292,1500 -1.221245726595147,34.99639375307771,1500 -1.24219571009889,35.07411901715147,1500 -1.239648427397769,35.12827549158099,1500 -1.162080447203857,35.20035026326976,1500 -1.086261327245613,35.23790537102208,1500 -0.9729658235320038,35.28676241770794,1500 -0.8635868322665485,35.30261658666461,1500 -0.8575818619642095,35.30285508994736,1500 -0.6684570760583319,35.32988143552376,1500 -0.5871763725032408,35.34935124440683,1500 -0.5224004851034825,35.37799589293351,1500 -0.3937543695841261,35.38109675883715,1500 -0.2974709346579774,35.38948520765351,1500 -0.2684453460645231,35.41347849704363,1500 -0.2930204590681607,35.4601679243337,1500 -0.3527811221544064,35.48425364650809,1500 -0.4516594218718739,35.52326722719229,1500 -0.6161255374897723,35.58104150599542,1500 -0.7854222898857566,35.61548517519644,1500 -0.9319873324259309,35.63919292846455,1500 -1.195568565175236,35.63002833154892,1500 -1.381476206147879,35.60410541972644,1500 -1.691474532188451,35.58726688959992,1500 -1.913402250793617,35.57393370536295,1500 -2.198750679766919,35.52928525023967,1500 -2.469781436876395,35.44645834127717,1500 -2.600106795634563,35.41483801050822,1500 -2.687560253184043,35.3772635704585,1500 -2.691429677828551,35.3754112871274,1500 -2.77555183723805,35.3232137645755,1500 -2.775280140588581,35.31994866472703,1500 -2.778116057065581,35.25748013454289,1500 -2.777708852603482,35.2525841570966,1500 -2.739426420045792,35.20224218077835,1500 -2.68629235706192,35.14124143101456,1500 -2.679639636372563,35.13341124597274,1500 -2.607080795606478,35.02919805520636,1500 -2.535756672514147,35.01336955619978,1500 -2.412164214385504,34.96910008411299,1500 -2.40354989637534,34.96135412397497,1500 -2.401561508414507,34.91063266040253,1500 -2.438863514241706,34.85128249793854,1500 -2.44472013715744,34.80315919608587,1500 -2.428223735739485,34.7447822927648,1500 -2.515275150335675,34.65785541984864,1500 -2.649902718143704,34.59629201030657,1500 -2.753847281834543,34.60040911969853,1500 -2.885552618488845,34.6259173879101,1500 -2.982123658992747,34.61224540719209,1500 -3.016731820397156,34.57411888683173,1500 -3.013624576345957,34.53815046101553,1500 -3.013201443349076,34.53324667135255,1500 -3.064899243882706,34.48593957828582,1500 -3.069847406270646,34.45117319329051,1500 -3.057535746828504,34.42397605619411,1500 -3.056128644934112,34.38466869100795,1500 -3.066317760406379,34.34141774048626,1500 -3.062520051028816,34.29734375316651,1500 -3.0505319759348,34.27343505003263,1500 -3.033324178071363,34.25803141978096,1500 -3.025167856743658,34.23226422028969,1500 -3.039601555206083,34.19206839077598,1500 -3.022866863009358,34.15860437387942,1500 -2.976289094237731,34.1235915665477,1500 -2.929702866019181,34.11152195216356,1500 -2.871449981281749,34.10174209308597,1500 -2.819181284929511,34.04405787743208,1500 -2.721924289876227,34.03953324887998,1500 -2.65026120594237,33.93686184175044,1500 -2.570781485579439,33.90846020115049,1500 -2.562769620713007,33.90726244300416,1500 -2.552660355455459,33.90453859401981,1500 -2.431863760513383,33.90293948645612,1500 -2.242038334937764,33.92779588688621,1500 -2.166963310767216,33.9808760578978,1500 -2.074743609075943,34.01671957800344,1500 -1.899653378801524,34.0008404545308,1500 -1.689877409279156,33.96990410335418,1500 -1.497480248151142,33.93444810299325,1500 -1.232946857940921,33.9115291867921,1500 -1.118466040065769,33.85422765770498,1500 -0.9991096494936547,33.81016893715722,1500 -0.8223050191742776,33.7585185826409,1500 -0.633675751489815,33.70042906991267,1500 -0.4156211360643836,33.67590121466538,1500 -0.4097234566460817,33.67611952078794,1500 -0.2449681302743678,33.65245075929526,1500 -0.0688325157355052,33.67653377863618,1500 0.08670204494737988,33.72264140673188,1500 0.2420995807216153,33.77833922905464,1500 0.2544791040044347,33.84936886502042,1500 0.2696093126078925,33.9466926300479,1500 0.2553826848018392,33.99548926973778,1500 0.2059612898953289,34.11694865130831,1500 0.1526809612549807,34.19392413890873,1500 0.04332382530039647,34.2395160596393,1500 0.02983750693938969,34.31276395447457,1500 -0.04767984238320699,34.39530902620591,1500 -0.2191667643971174,34.44830101007303,1500 -0.378257354152427,34.49006424332833,1500 -0.421930399439272,34.59986789216453,1500 -0.3951085561676349,34.73041655010862,1500 -0.3306338038582402,34.8313053505388,1500 -0.3522111817097573,34.89957001582245,1500 -0.429902887688397,35.00537782000836,1500 -0.6077403503418921,35.10267739518062,1500 -0.7009282502769831,35.09120413746529,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ramuchai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<b>Ramuchai</b> ist ein in die <a href="http://www.wiki-aventurica.de/wiki/Windhagberge" title="Windhagberge">Windhagberge</a> vertriebener <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orkstamm</a>. Die Kultur dieser Orks ähnelt nur noch in Grundzügen der Lebensweise der Stämme aus dem <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a>. So verehren sie beispielsweise einen Gott in Gestalt eines Widders namens <a href="http://www.wiki-aventurica.de/wiki/Brass%27aragh" title="Brass'aragh" class="mw-redirect">Brass'aragh</a>, der nur noch wenig mit dem Orkgötzen <a href="http://www.wiki-aventurica.de/wiki/Brazoragh" title="Brazoragh">Brazoragh</a> gemein hat.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-2.27145841378709,28.34820614474176,1500 -2.306753095426699,28.36414016034123,1500 -2.338948651240191,28.35376452136168,1500 -2.350655260494172,28.2914916026364,1500 -2.30547690973025,28.2320292892298,1500 -2.275377177178726,28.16182387215216,1500 -2.238166125455925,28.09075194590178,1500 -2.219145346324265,28.01381203160306,1500 -2.164129124561721,27.92858563266052,1500 -2.0878980187439,27.84310448355535,1500 -1.99897242719096,27.78075798650112,1500 -1.930427743627992,27.70230898919309,1500 -1.914924445295393,27.63265586824019,1500 -1.912986566227438,27.62394597515115,1500 -1.898755847382767,27.57556069676664,1500 -1.859144268166971,27.50563829373362,1500 -1.83122618975554,27.46533769704616,1500 -1.821254313344193,27.46452325622687,1500 -1.757162267849617,27.45979854325738,1500 -1.699511454752449,27.4686084426068,1500 -1.693996974252914,27.47136674381082,1500 -1.681920754512566,27.48322690477745,1500 -1.706658250007367,27.61432331165696,1500 -1.726055271992779,27.67885483792757,1500 -1.726494412765475,27.68637721358319,1500 -1.758141178755682,27.79051343492788,1500 -1.761122347143692,27.79289219718151,1500 -1.871125038836762,27.89966332974842,1500 -1.961600604966258,27.93941844161969,1500 -2.043692949971069,28.00461250808232,1500 -2.104016818894612,28.08462495095785,1500 -2.107007264446029,28.08699443859471,1500 -2.168648583677999,28.20970057631715,1500 -2.187132163415071,28.2779875022203,1500 -2.27145841378709,28.34820614474176,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ruazash</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Ruazash</b> sind eine archaische <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Ork</a>-Sippe, bei der das Recht des Stärkeren so hoch steht, dass sogar Menschen aufgenommen werden, sollten sie sich als würdig erweisen. Die <b>Ruazash</b> treiben Handel mit den Bewohnern <a href="http://www.wiki-aventurica.de/wiki/Thuranien" title="Thuranien">Thuraniens</a>.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-1.038853435384258,31.84950318759119,1500 -1.13898009933793,31.82114915344128,1500 -1.201587831752778,31.75481244260477,1500 -1.214097739786594,31.70174807500696,1500 -1.153130382877224,31.67602781258212,1500 -0.998858381189871,31.67831460204454,1500 -0.9878500296310844,31.67873906134746,1500 -0.900342044044169,31.69334564975468,1500 -0.9020111222508442,31.76838380152775,1500 -0.9023012415546849,31.77400628131823,1500 -0.9505007907510865,31.85104678712644,1500 -1.038853435384258,31.84950318759119,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Schurachai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <b>Shurachai</b> sind ein <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Ork</a>-Stamm, dessen Kultur sich völlig getrennt von der des <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orklandes</a> entwickelt hat. Der Stamm der Shurachai unterscheidet sich von den <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a>-<a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vor allem durch ihr weißes Fell, das sie kälteunempfindlich macht.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							7.529826834110443,40.36931750700027,1500 7.412596327350016,40.33033986209316,1500 7.317040494785758,40.27122219172087,1500 7.333913350711461,40.17640955778769,1500 7.415560840061728,40.12971857130666,1500 7.435858865303664,40.12545315566224,1500 7.593544488398651,40.12624883157352,1500 7.763736481423464,40.14546663275588,1500 7.932950716396494,40.15227363351941,1500 8.077493851899432,40.16514772488891,1500 8.242088805719297,40.17171105194484,1500 8.255715745163181,40.17109081616585,1500 8.353864508573194,40.20141491902784,1500 8.383729070874635,40.26100160822865,1500 8.383868395077309,40.26273742878871,1500 8.365288784464386,40.31587378898536,1500 8.33390537086839,40.35217809783358,1500 8.166809022669616,40.37893466981612,1500 8.162251201152472,40.37913861665626,1500 7.828023232453305,40.40762097758392,1500 7.529826834110443,40.36931750700027,1500 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Truanzhai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vom Stamm der <b>Truanzhai</b>, wohnhaft im westlichen <a href="http://www.wiki-aventurica.de/wiki/Orkland" title="Orkland">Orkland</a> und in der Stadt <a href="http://www.wiki-aventurica.de/wiki/Thorwal_%28Stadt%29" title="Thorwal (Stadt)">Thorwal</a>, sind vor allem als Handwerker und Händler bekannt.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-3.938863924720921,33.52930465701192,1000 -3.883048003188213,33.5699125252198,1000 -3.823630093734054,33.60914222021461,1000 -3.742008520925309,33.63016091134762,1000 -3.670783238827048,33.64774796353807,1000 -3.637061207948575,33.64324716288665,1000 -3.563489462510643,33.68137038980121,1000 -3.497453602600759,33.69715027887611,1000 -3.423264810807225,33.72491883304267,1000 -3.36790078214594,33.74313292596208,1000 -3.296770267202052,33.76336567002379,1000 -3.222161366657831,33.78514224655752,1000 -3.165176502279563,33.80770398610351,1000 -3.098187131120092,33.84230916462871,1000 -3.045418202786245,33.84562292767805,1000 -3.000267105716754,33.86037075619233,1000 -2.972053520430063,33.89649966891992,1000 -2.95122724359424,33.9396986444496,1000 -2.910220798092759,33.96893442637342,1000 -2.876732084512818,34.00816903837075,1000 -2.867747243936075,34.04218191597949,1000 -2.855098850576583,34.07679739637256,1000 -2.836860351422929,34.10232350312855,1000 -2.767703109025134,34.13973737271281,1000 -2.734777485742792,34.19357987615942,1000 -2.729874898657604,34.20253417803696,1000 -2.707808411502458,34.26189059512623,1000 -2.677043440457483,34.40364409974929,1000 -2.688641822116618,34.5396843059598,1000 -2.74049228577461,34.61868554638728,1000 -2.740760389071503,34.62454756577376,1000 -2.784335212121864,34.71705124404714,1000 -2.957476777698159,34.78599054870972,1000 -3.109092486334165,34.85113818144813,1000 -3.265474477344491,34.86749145945203,1000 -3.41019761792773,34.86652072729237,1000 -3.576652933647335,34.83962277915177,1000 -3.7050794325864,34.77586406162574,1000 -3.767604753788815,34.68822194417172,1000 -3.849191417100946,34.56462548545682,1000 -3.928749478948856,34.43963818339496,1000 -4.004188420468929,34.30742073044428,1000 -4.04199345767521,34.2001815838123,1000 -3.97288799316766,34.11660362812417,1000 -3.967131375640736,34.1095150706104,1000 -3.820733535465765,34.03357504139413,1000 -3.794284502577852,34.00533304514339,1000 -3.803912782439107,33.95795259247048,1000 -3.895759183208106,33.89379814493782,1000 -3.971809911595805,33.85756228300694,1000 -4.107151136410065,33.76529331688198,1000 -4.231760554642705,33.67332415419386,1000 -4.288279622975199,33.5930711502269,1000 -4.27005516216818,33.50150605008155,1000 -4.148899142494016,33.44977244668427,1000 -4.036497677809635,33.47966145902305,1000 -3.938863924720921,33.52930465701192,1000 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zholochai</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[name]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Die <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> vom Stamm der <b>Zholochai</b> sind als die kampfstärksten und gefährlichsten <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> auch bei anderen Völkern bekannt.
+								<!-- END EDIT -->
+							 
+							<hr><div id="wiki">
+							<a href="http://www.wiki-aventurica.de"><img src="http://dereglobus.orkenspalter.de/public/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+							<p>Dieser Text basiert auf dem Artikel
+							<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+
+							aus der freien Website
+							<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+							und steht unter der
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+							Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">Liste der Autoren</a>
+
+							verfügbar, dort kann man den
+							<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">Artikel bearbeiten</a>.</div>
+							</td>
+							</tr>
+							</table>]]></description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Grenzen/style/Voelker.kml#Stamm</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>2</gx:drawOrder>
+							<altitudeMode>relativeToGround</altitudeMode> 
+			<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.1515227367460992,34.8406336146436,1000 -0.3851110207774555,34.78258450676444,1000 -0.7904185440394962,34.66009826359518,1000 -1.003820426208616,34.5246479501342,1000 -1.055909421824623,34.35598399910888,1000 -1.029990022147859,34.16880276427585,1000 -0.9831535086081999,33.90708843397721,1000 -0.9293179457497791,33.80418161873122,1000 -0.7687025978376949,33.66584931608308,1000 -0.6024711059034049,33.63275066724952,1000 -0.2889271667044602,33.58813060815088,1000 -0.07646608735054294,33.58405877518408,1000 0.1146896766730188,33.62252914130556,1000 0.4283680037580728,33.74375984196281,1000 0.5321233332107922,33.82421029899352,1000 0.6087463821740524,33.92950397729155,1000 0.6471157966312857,34.03955126119507,1000 0.6640899444163484,34.14893375159024,1000 0.6769974343031437,34.24233137471389,1000 0.6473966494234684,34.43745532110814,1000 0.6453987651622395,34.6037400507611,1000 0.6056728450535598,34.69177347190213,1000 0.5230059539853138,34.76669076499059,1000 0.4242563793880594,34.81930012007921,1000 0.2727646594023003,34.86033149955954,1000 -0.1515227367460992,34.8406336146436,1000 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

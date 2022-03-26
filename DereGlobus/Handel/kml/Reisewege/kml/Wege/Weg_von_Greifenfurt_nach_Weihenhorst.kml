@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Greifenfurt nach Weihenhorst</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Greifenfurt nach Weihenhorst-->
+			<name>Weg von Greifenfurt nach Weihenhorst</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					2.268023367022027,31.32761656679696,0 <!--<POI>Siedlung:Greifenfurt</POI>--> <!--<POI>Station:Stadttor</POI>-->
+					2.267837390542171,31.32795002704969,0 
+					2.285011044167822,31.36049875336407,0 
+					2.326166947491741,31.39163228881775,0 
+					2.33750355054948,31.42280414089938,0 
+					2.333200952802994,31.47403407445823,0 
+					2.30614709534914,31.49629607498609,0 
+					2.25472691592693,31.50258136045017,0 
+					2.218620582332724,31.53967695474946,0 <!--<POI>Siedlung:Greifenberg</POI>-->
+					2.14520651131707,31.55720043417085,0 
+					2.130945399791098,31.57656767026078,0 
+					2.114234210949695,31.62457060840691,0 
+					2.076113936571289,31.64159179508329,0 
+					2.04068553929021,31.66313314198636,0 <!--<POI>Siedlung:Weihenhorst</POI>--> <!--<POI>SOE:Saljethweg</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>2.225779</longitude>
+				<latitude>31.502343</latitude>
+				<altitude>100000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

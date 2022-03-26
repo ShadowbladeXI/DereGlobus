@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Reichsstraßen</name>
+	<visibility>1</visibility>
+	<open>1</open>
+
+	<NetworkLink> 
+		<name>Palaststraße</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Palaststrasse.kml</href>
+		</Link>
+	</NetworkLink>	
+	
+	<NetworkLink> 
+		<name>Reichsstraße 1</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Reichsstrasse_1.kml</href>
+		</Link>
+	</NetworkLink>
+	
+	<NetworkLink> 
+		<name>Reichsstraße 2</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Reichsstrasse_2.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink> 
+		<name>Reichsstraße 3</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Reichsstrasse_3.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink> 
+		<name>Reichsstraße 6</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Reichsstrasse_6.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink> 
+		<name>Seneb-Horas-Straße</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Seneb-Horas-Strasse.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink> 
+		<name>Transaranica</name>
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Transaranica.kml</href>
+		</Link>
+	</NetworkLink>
+	
+	<NetworkLink> 
+		<name>Yaquirstieg</name> <!--Teil der Belen-Horas-Straße in Almada-->
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Yaquirstieg.kml</href>
+		</Link>
+	</NetworkLink>
+
+	<NetworkLink> 
+		<name>Yaquirstraße</name> <!--Teil der Belen-Horas-Straße im Horasreich-->
+		<visibility>1</visibility>
+		<Snippet maxLines="0"></Snippet>
+		<Link>
+			<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/kml/Reichsstrassen/Yaquirstrasse.kml</href>
+		</Link>
+	</NetworkLink>
+	
+</Document>
+</kml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+            <Folder>
+        <name>Sakrale Bauwerke Unau</name>
+		<Region>
+      <LatLonAltBox>
+         <north>22.54930733346729</north>
+			<south>22.54389861405931</south>
+			<east>3.500683301590294</east>
+			<west>3.492824491738181</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Bethaus der Kasimiten</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 99<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 260<TR><TD>Die Wüste Khom und die Echsensümpfe S. 100<TR><TD>Wie Sand in Rastullahs Hand S. 22<TR><TD>Die Welt des Schwarzen Auges S. 76<TR><TD>Der Löwe und der Rabe II S. 15<TR><TD>Die Welt des Schwarzen Auges S. 76<TR><TD>Raschtuls Atem S. 39<TR><TD>Geographia Aventurica S. 73<TR><TD>Wie Wasser im Sand S. 25<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 48<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 45<TR><TD>Der Tanz der Rose S. 1<TR><TD>Aventurischer Atlas S. 114<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>3.49671364770755</longitude>
+            <latitude>22.54782580989582</latitude>
+            <altitude>0</altitude>
+            <range>368.4187458056055</range>
+            <tilt>1.720549236859177</tilt>
+            <heading>0.04832653378216052</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>3.496378674500578,22.54767386160111,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Erstes Bethaus des Rastullah</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Das <b>Erste Bethaus des Rastullah</b> ist das wichtigste von drei <a href="http://www.wiki-aventurica.de/wiki/Bethaus_des_Rastullah" title="Bethaus des Rastullah">Bethäusern des Rastullah</a> in der <a href="http://www.wiki-aventurica.de/wiki/Kalif" title="Kalif" class="mw-redirect">Kalifenstadt</a> <a href="http://www.wiki-aventurica.de/wiki/Unau" title="Unau">Unau</a>.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+		  <longitude>3.497474676608788</longitude>
+            <latitude>22.54638247018229</latitude>
+            <altitude>0</altitude>
+            <range>368.678562001452</range>
+            <tilt>1.719692103496265</tilt>
+            <heading>0.04858813554811054</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>3.497025260979036,22.54634245788332,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

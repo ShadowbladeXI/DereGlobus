@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Gauweg</name>
+	<open>1</open>
+		<Placemark> 	<!-- Gauweg seit ? BF-->
+			<name>Gauweg</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Gauweg</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Ilsur" title="Ilsur">Ilsur</a> nach <a href="http://www.wiki-aventurica.de/wiki/Yol-Ghurmak" title="Yol-Ghurmak">Yol-Ghurmak</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						7.699947343690252,32.24924183251009,0 <!--<POI>Siedlung:Yol-Ghurmak</POI>--> <!--Ende Detailkarte Yol-Ghurmak--> <!--<POI>Stadttor:Yol-Ghurmak</POI>-->
+						7.701186603589791,32.25008667101448,0 
+						7.708733444006586,32.28054585492068,0 
+						7.734620807148036,32.28311820936982,0 
+						7.772778894172916,32.28167679728908,0 
+						7.797294071980668,32.28984612151997,0 
+						7.818013771652317,32.30626981061845,0 <!--<POI>Siedlung:Altdorf</POI>-->
+						7.884733075124855,32.32158674856916,0 
+						7.906025134948978,32.3348024360855,0 
+						7.933360074630624,32.33755145517957,0 
+						7.966568420349597,32.36851034375493,0 
+						7.979502410694542,32.39716845708588,0 
+						7.992307800449428,32.47607228551841,0 <!--<POI>Abzweig:Weg nach Ebelried</POI>-->
+						8.037258707293422,32.46937824480641,0 <!--<POI>Fluss:Tobimora</POI>-->
+						8.060689349748309,32.47396314563299,0 
+						8.093161233532825,32.49354019713043,0 
+						8.134565356963414,32.51275923793043,0 <!--<POI>Siedlung:Arnlan</POI>-->
+						8.174535256536085,32.51648847075508,0 
+						8.232758324678844,32.49651144329661,0 
+						8.266467893335792,32.49286770922474,0 
+						8.352062535401156,32.46147884681421,0 
+						8.395188807866303,32.4596956430607,0 
+						8.423517786458115,32.44288244246844,0 
+						8.442078106692563,32.41453892357267,0 
+						8.474542252553119,32.40388947344107,0 
+						8.555573769775741,32.38980835971155,0 
+						8.593477241105854,32.3725013911656,0 
+						8.606200336910526,32.36001400253141,0 
+						8.626809248919152,32.35598365126435,0 
+						8.66415886596403,32.31658247583386,0 <!--<POI>Siedlung:Burg Windgau</POI>-->
+						8.737852221600772,32.31057020005279,0 
+						8.804002078586027,32.2836614166202,0 
+						8.836736249953457,32.23939439139108,0 
+						8.847591272207581,32.19361507010875,0 
+						8.863652257682315,32.16210442291089,0 
+						8.889119610708377,32.1510191596639,0 
+						8.939701807030257,32.13657217699112,0 
+						8.987126282859892,32.13180992912921,0 
+						9.034745194012468,32.13673253381992,0 
+						9.095600979942283,32.10973331639106,0 
+						9.133032593888149,32.10542920170824,0 <!--<POI>Fluss:Dogul</POI>-->
+						9.164343749270991,32.07276787851698,0 
+						9.199708192788684,32.05647634307582,0 <!--<POI>Kreuzung:Misamunder Straße</POI>-->
+						9.24535952260732,32.03320832835605,0 
+						9.307877507018588,32.00493366719748,0 
+						9.342095671987403,31.9781545255066,0 <!--<POI>Siedlung:Milastein</POI>-->
+						9.347625557155359,31.95872698779533,0 <!--<POI>Fluss:Alst</POI>-->
+						9.342593956819218,31.9080737606108,0 
+						9.35011811476743,31.87046415704539,0 
+						9.339360137936144,31.83034150319241,0 
+						9.342284168051441,31.79080968078746,0 
+						9.363895545450564,31.75572040933242,0 
+						9.389967313308871,31.7371738582379,0 
+						9.420621327839001,31.67135241167237,0 <!--<POI>Siedlung:Isoldern</POI>-->
+						9.433743095110931,31.62157175220855,0 
+						9.467210115268674,31.58690204424801,0 
+						9.496557579363081,31.57315203377959,0 
+						9.530391413253911,31.53887123331169,0 
+						9.587154210659998,31.51041563654566,0 
+						9.60745786547896,31.49124358920903,0 <!--<POI>Abzweig:Straße nach Hugesweiher</POI>-->
+						9.657826925548891,31.50784303689379,0 
+						9.669603781674832,31.50844777590161,0 <!--Anfang Detailkarte Ilsur-->	
+						9.672803289904907,31.50854052860963,0 <!--<POI>Siedlung:Ilsur</POI>--> <!--<POI>Stadttor:Ilsur</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when></when>
+				</gx:TimeStamp>
+				<longitude>8.68</longitude>
+				<latitude>32</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1020</begin>
+				<end></end>
+			</TimeSpan>
+			</Placemark>
+</Document>
+</kml>

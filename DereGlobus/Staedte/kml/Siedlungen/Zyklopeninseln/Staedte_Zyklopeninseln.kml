@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Staedte_Zyklopeninseln.kml</name>
+
+	<Folder>
+		<name>Garetien</name>
+		<open>1</open>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+    <Placemark>
+        <name>Rethis</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">
+<img src="http://www.wiki-aventurica.de/images/6/6e/Rethiswappenklein1.gif" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Rethis</b> ist die Hauptstadt des zum <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a> zählenden <a href="http://www.wiki-aventurica.de/wiki/Seek%C3%B6nigreich_beider_Hyla%C3%AFlos" title="Seekönigreich beider Hylaïlos" class="mw-redirect">Seekönigreichs beider Hylaîlos</a>, liegt inmitten von Olivenhainen an der Westküste der Insel <a href="http://www.wiki-aventurica.de/wiki/Hylailos" title="Hylailos" class="mw-redirect">Hylailos</a> und ist der Haupthafen der <a href="http://www.wiki-aventurica.de/wiki/Zyklopenflotte" title="Zyklopenflotte">Zyklopenflotte</a>. Die Stadt blühte in den letzten Jahrzehnten auf Grund des intensivierten Handels mit den Städten <a href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld" title="Liebliches Feld">Yaquiriens</a> auf.<br />
+
+Das <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a> hat sich angewöhnt, unliebsame Adlige hierher zu verbannen, die hier im luxuriösen <a href="http://www.wiki-aventurica.de/wiki/Merymakon" title="Merymakon">Merymakon</a>-Komplex wohnen. Weniger Glückliche kommen in die Blei- und Silberminen.<br />
+Rethis ist das Ziel der <a href="http://www.wiki-aventurica.de/wiki/Regatta_der_Sieben_Winde&amp;action=edit&amp;redlink=1" class="new" title="Regatta der Sieben Winde (Seite nicht vorhanden)">Peraine-Regatta</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Rethis-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+		<Camera>
+			<longitude>-1.928797805895828</longitude>
+			<latitude>23.49058548315676</latitude>
+			<altitude>270895.812994029</altitude>
+			<heading>2.407776985075097</heading>
+			<tilt>0.3161801738065815</tilt>
+			<roll>-0.01299957060326389</roll>
+		</Camera>
+		<TimeSpan>
+			<begin>-856</begin>
+		</TimeSpan>
+		<Point>
+			<coordinates>-1.703535,23.429080,0</coordinates>
+		</Point>
+    </Placemark>
+    <Placemark>
+        <name>Teremon</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">
+<img src="http://www.wiki-aventurica.de/images/5/5f/Teremon-200.gif" alt="Wappen" width="100" height="122" align="right"></a>
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Teremon</b> ist die größte Stadt auf der <a href="http://www.wiki-aventurica.de/wiki/Zyklopeninseln" title="Zyklopeninseln">Zyklopeninsel</a> <a href="http://www.wiki-aventurica.de/wiki/Pailos_(Insel)" title="Pailos (Insel)">Pailos</a> und Hauptstadt des <a href="http://www.wiki-aventurica.de/wiki/Herzogtum_Pailos&amp;action=edit&amp;redlink=1" class="new" title="Herzogtum Pailos (Seite nicht vorhanden)">Herzogtums Pailos</a>. Sie lebt teils von Fischfang, teils von der Herstellung schneller und wendiger <a href="http://www.wiki-aventurica.de/wiki/Karavelle" title="Karavelle">Karavellen</a>, die als erste wieder das <a href="http://www.wiki-aventurica.de/wiki/G%C3%BCldenland" title="Güldenland" class="mw-redirect">Güldenland</a> erreichten. Auch die <a href="http://www.wiki-aventurica.de/wiki/Peraine-Regatta&amp;action=edit&amp;redlink=1" class="new" title="Peraine-Regatta (Seite nicht vorhanden)">Peraine-Regatta</a> von Teremon nach <a href="http://www.wiki-aventurica.de/wiki/Rethis" title="Rethis">Rethis</a> wird häufig von diesen Schiffen gewonnen.
+
+</p><p>Wichtigste Gebäude der Stadt sind der Palast des Seeherzogs sowie die Tempel der <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a> (der Schutzgöttin der Stadt) mit den <a href="http://www.wiki-aventurica.de/wiki/Liebesgrotten_von_Teremon&amp;action=edit&amp;redlink=1" class="new" title="Liebesgrotten von Teremon (Seite nicht vorhanden)">Liebesgrotten</a> und das Haus der <a href="http://www.wiki-aventurica.de/wiki/Hesinde" title="Hesinde">Hesinde</a>, das eine der besten Kartotheken der Westküste beherbergt. Auch der Leuchtturm von Teremon, der von den <a href="http://www.wiki-aventurica.de/wiki/Efferdbr%C3%BCder" title="Efferdbrüder">Efferdbrüdern</a> unterhalten wird, ist erwähnenswert. Mächtige Wallanlagen schützen die Stadt gegen Angriffe von See.
+</p><p>Jedes Jahr rückt die Stadt in den Fokus der <a href="http://www.wiki-aventurica.de/wiki/Rahja" title="Rahja">Rahja</a>-Gläubigen auf Pailos, wenn die Prunkgaleere <a href="http://www.wiki-aventurica.de/wiki/Seestute&amp;action=edit&amp;redlink=1" class="new" title="Seestute (Seite nicht vorhanden)">Seestute</a> den <a href="http://www.wiki-aventurica.de/wiki/Kelch_der_Rahja" title="Kelch der Rahja">Kelch der Rahja</a> von <a href="http://www.wiki-aventurica.de/wiki/Belhanka" title="Belhanka">Belhanka</a> auf die Insel bringt. Damit erinnert die Kirche an eine Begebenheit nach der <a href="http://www.wiki-aventurica.de/wiki/Zweite_D%C3%A4monenschlacht" title="Zweite Dämonenschlacht">Zweiten Dämonenschlacht</a>, als eine Geweihte den Kelch vor den <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Garethern</a> nach <a href="http://www.wiki-aventurica.de/wiki/Pailos_(Insel)" title="Pailos (Insel)">Pailos</a> in Sicherheit brachte.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Teremon-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+        <Camera> 
+              <longitude>-3.798866</longitude>
+              <latitude> 23.704326</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when>-850</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin>-850</begin>
+        </TimeSpan>
+        <Point>
+             <coordinates>-3.798866,23.704326,0</coordinates>
+        </Point>
+    </Placemark>
+	   <Placemark>
+        <name>Garén</name>
+<ExtendedData>
+<Data name=" Link ">
+<value>$[name]</value>
+</Data>
+</ExtendedData>
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: LINK DES WAPPENS -->
+
+<!-- END EDIT -->
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Garèn</b>, eine der wichtigsten Städte der <a href="http://www.wiki-aventurica.de/wiki/Zyklopeninseln" title="Zyklopeninseln">Zyklopeninseln</a>, liegt auf <a href="http://www.wiki-aventurica.de/wiki/Hylailos" title="Hylailos" class="mw-redirect">Hylailos</a> an der <a href="http://www.wiki-aventurica.de/wiki/Meerenge_von_Gar%C3%A8n" title="Meerenge von Garèn">Meerenge von Garèn</a>. Hier sind die <a href="http://www.wiki-aventurica.de/wiki/Hylailer_Sees%C3%B6ldner" title="Hylailer Seesöldner">Hylailer Seesöldner</a> stationiert. Viele Einwohner versorgen die Söldner oder sind Fischer oder Töpfer.
+
+
+
+<!-- END EDIT -->
+
+</p>
+<!-- FlyToLink BEGIN-->
+
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt</styleUrl>
+       <Camera> 
+              <longitude>-1.776504</longitude>
+              <latitude> 23.553110</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+             <coordinates>-1.764634, 23.552477,0</coordinates>
+        </Point>
+    </Placemark>
+	</Folder>
+</Document>
+</kml>

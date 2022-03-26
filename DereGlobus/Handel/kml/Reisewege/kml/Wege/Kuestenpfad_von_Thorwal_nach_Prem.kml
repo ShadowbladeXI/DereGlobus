@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Küstenpfad von Thorwal nach Prem</name>
+	<open>1</open>
+		<Placemark> 	<!-- Küstenpfad von Thorwal nach Prem-->
+			<name>Küstenpfad von Thorwal nach Prem</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Küstenpfad von Thorwal nach Prem</b> ist die Verlängerung der <a href="http://www.wiki-aventurica.de/wiki/K%C3%BCstenstra%C3%9Fe_von_Thorwal_nach_Nostria" title="Küstenstraße von Thorwal nach Nostria">Küstenstraße</a> von <a href="http://www.wiki-aventurica.de/wiki/Thorwal_%28Stadt%29" title="Thorwal (Stadt)">Thorwal</a> nach <a href="http://www.wiki-aventurica.de/wiki/Nostria" title="Nostria">Nostria</a>. Der Weg ist holprig und mit einem Karren oder Tragtier nur schwer zu schaffen. Dennoch ist es die einzige Landstrecke am <a href="http://www.wiki-aventurica.de/wiki/Golf_von_Prem" title="Golf von Prem">Golf von Prem</a>.
+							</p>
+							<p>
+							Die wichtigsten Orte auf diesem Pfad sind <a href="http://www.wiki-aventurica.de/wiki/Thorwal_%28Stadt%29" title="Thorwal (Stadt)">Thorwal</a>, <a href="http://www.wiki-aventurica.de/wiki/Varnheim" title="Varnheim">Varnheim</a>, <a href="http://www.wiki-aventurica.de/wiki/Daspota" title="Daspota">Daspota</a> und <a href="http://www.wiki-aventurica.de/wiki/Prem" title="Prem">Prem</a>.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.135959197342764,32.71948848871114,0  <!-- <POI>Siedlung:Thorwal</POI> --> <!-- <POI>SOE:Bodirstieg </POI> --> 
+						-4.137675129234971,32.71937449492611,0 
+						-4.139591369013965,32.7199760774535,0 
+						-4.139590850850563,32.7206359960397,0 
+						-4.139440717904618,32.72238102459316,0 
+						-4.139674054893828,32.72422270321565,0 
+						-4.13999060705701,32.72545236092834,0 
+						-4.139971583241778,32.72557430591407,0  
+						-4.139377365978683,32.72669916216578,0 <!-- Ende Detailkarte Thorwal</POI> -->
+						-4.135919201011538,32.76305911695292,0 
+						-4.145084208208523,32.83710303999171,0 
+						-4.156998892126782,32.86863791589271,0 
+						-4.17838226629581,32.91232495267817,0 	<!-- <POI>Siedlung:Njalsklint</POI> -->
+						-4.193584834131814,32.9275321515144,0 
+						-4.230492250232889,32.95543168457058,0 
+						-4.24912379743677,32.97769919429205,0 
+						-4.274782212396867,33.01921401079002,0 	<!-- <POI>Siedlung:Vaermhag</POI> -->
+						-4.300310679032673,33.06876402125014,0 
+						-4.320678896711772,33.10002455325625,0 
+						-4.352768350625357,33.15018147542271,0 	<!-- <POI>Station:Herberge Golfblick</POI> -->
+						-4.386715359858586,33.18456525434272,0 
+						-4.41256937244278,33.20540331895717,0 
+						-4.449711659689807,33.21922581877271,0 
+						-4.529353751154623,33.24839376610446,0 
+						-4.558455880095568,33.24931273466697,0 
+						-4.577557511001063,33.25335754417919,0 	<!-- <POI>Siedlung:Varnheim</POI> -->
+						-4.576332999228853,33.26825493493541,0 
+						-4.622845890685411,33.3351844943366,0 
+						-4.641198223381558,33.35212228571633,0 
+						-4.662355221175311,33.36672373507678,0 
+						-4.680608714062419,33.38697231254501,0 
+						-4.702724278040032,33.41242085051384,0  
+						-4.702808710908548,33.41276807344442,0  <!-- Anfang Detailkarte Daspota</POI> -->
+						-4.702776151590697,33.41298646155701,0  <!-- <POI>Siedlung:Daspota</POI> -->
+						-4.702824167132139,33.41313045791237,0 
+						-4.7030623017059,33.4132855031509,0 
+						-4.703097115174387,33.41487272890455,0 
+						-4.702053261697121,33.42497233428694,0  <!-- Ende Detailkarte Daspota</POI> -->
+						-4.706351634545756,33.44938202229468,0 
+						-4.706471712577524,33.44919695499275,0 
+						-4.73067641449116,33.46781584039395,0 
+						-4.744912498416442,33.47378198790443,0 
+						-4.771812303782399,33.47320796787091,0 
+						-4.792766586453644,33.46294161570589,0 
+						-4.819404121516566,33.43882161472524,0 
+						-4.831310717543769,33.41950062122997,0 
+						-4.858102688229511,33.39905838342349,0 
+						-4.873327373596431,33.38236222302963,0 
+						-4.878695753704841,33.35533786907336,0 
+						-4.905331051473664,33.3221610036469,0 
+						-4.959563240860005,33.2618760720999,0 	<!-- <POI>Siedlung:Qutarje</POI> -->
+						-4.984883654434922,33.23392306722855,0 
+						-5.019207399305437,33.1864019360584,0 
+						-5.134542371471485,33.16394848955795,0 
+						-5.210982324120506,33.13036911932277,0 
+						-5.248161662412345,33.10413264662607,0 
+						-5.29314063109724,33.09385208000109,0 
+						-5.359004799369638,33.08067751764605,0 	<!-- <POI>Siedlung:Skjal</POI> -->
+						-5.384358623621509,33.07478260076886,0 
+						-5.403119887022284,33.06456878170712,0 
+						-5.413042422011573,33.04189001285685,0 
+						-5.411121861857352,33.01848600583547,0 
+						-5.403339621113337,33.00165129641235,0 
+						-5.393936038637259,32.97694923125502,0 	<!-- <POI>Station:Herberge Langschiff</POI> -->
+						-5.402360543578761,32.92954486867168,0 
+						-5.416122663597499,32.88441630814184,0 
+						-5.418067881162943,32.87888083240542,0 
+						-5.423433427132361,32.83747781562915,0  <!-- Anfang Detailkarte Prem</POI> -->
+						-5.423941538331666,32.8367427974277,0 
+						-5.424489035269851,32.83614663397912,0 
+						-5.424743989327557,32.83599215205753,0 
+						-5.425067818791681,32.83590903336299,0 
+						-5.426290396685344,32.83587351354598,0 
+						-5.426785720041185,32.83588031303022,0 
+						-5.427772826136398,32.83609482023181,0 
+						-5.428314869193857,32.83624963201321,0 
+						-5.428576841614293,32.83626251477771,0  <!-- <POI>Siedlung:Prem</POI> --> <!-- <POI>SOE:Weg von Kord nach Prem</POI> --> <!-- <POI>SOE:Weg von Guddasunden nach Prem</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-4.807480</longitude>
+				<latitude>33.082754</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

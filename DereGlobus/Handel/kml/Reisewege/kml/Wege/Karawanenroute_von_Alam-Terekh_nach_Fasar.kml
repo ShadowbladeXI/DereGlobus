@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Alam-Terekh nach Fasar</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Alam-Terekh nach Fasar-->
+			<name>Karawanenroute von Alam-Terekh nach Fasar</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Alam-Terekh nach Fasar</b> beginnt eigentlich auch am Knotenpunkt aller <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a>, in <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a>. Da sie aber bis <a href="http://www.wiki-aventurica.de/wiki/Alam-Terekh" title="Alam-Terekh">Alam-Terekh</a> der gleichen Route folgt, wird sie erst ab dort genauer beschrieben.<br>Kurz hinter <a href="http://www.wiki-aventurica.de/wiki/Alam-Terekh" title="Alam-Terekh">Alam-Terekh</a> trennen sich die zwei <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a>. Die Route nach <a href="http://www.wiki-aventurica.de/wiki/Omlad" title="Omlad">Omlad</a> verläuft Richtung Westen, während die Route Richtung <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> Richtung Norden läuft. Sie führt durch die Ausläufer des <a href="http://www.wiki-aventurica.de/wiki/Khoram-Gebirge" title="Khoram-Gebirge" class="mw-redirect">Khoram-Gebirges</a>  nach <a href="http://www.wiki-aventurica.de/wiki/Mirina" title="Mirina">Mirina</a>. Von dort folgt sie dem Verlauf des <a href="http://www.wiki-aventurica.de/wiki/Mhanadi" title="Mhanadi">Mhanadi</a> über <a href="http://www.wiki-aventurica.de/wiki/Hainesh&amp;action=edit&amp;redlink=1" class="new" title="Hainesh (Seite nicht vorhanden)">Hainesh</a> und <a href="http://www.wiki-aventurica.de/wiki/Buqtah&amp;action=edit&amp;redlink=1" class="new" title="Buqtah (Seite nicht vorhanden)">Buqtah</a> bis sie sich kurz vor <a href="http://www.wiki-aventurica.de/wiki/Selicum" title="Selicum">Selicum</a> mit der <a href="http://www.wiki-aventurica.de/wiki/Zedernstra%C3%9Fe" title="Zedernstraße">Zedernstraße</a> vereint und auf ihr bis nach <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> führt.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					2.564766726259793,25.69121410434012,0 	<!-- <POI>Alam-Terekh</POI> --> <!-- Anfang Gebirge -->
+					2.568767983096314,25.71696001219367,0 
+					2.573654676128838,25.75889491098393,0 	<!-- <POI>AbzweigLinks:Karawanenroute von Keft nach Omlad</POI> -->
+					2.576156019692915,25.79727147008514,0 
+					2.569059557520039,25.80152585773679,0 
+					2.569703286532095,25.82901643459956,0 
+					2.59763736534391,25.8483560894382,0 
+					2.599241168527908,25.8637434940078,0 
+					2.650111838860467,25.90551903862818,0 
+					2.678658182739089,25.8961045825727,0 
+					2.717433503298912,25.90846285441961,0 
+					2.716757649628143,25.92421828539219,0 	<!-- Ende Gebirge -->
+					2.729865148803989,25.93968589497293,0 
+					2.748834583040314,25.94294193980389,0 	<!-- <POI>Siedlung:Mirina</POI> -->
+					2.758148138832344,25.92626914671151,0 
+					2.772321288426138,25.90970067522289,0 
+					2.785418678649829,25.90805590068928,0 
+					2.791672000709977,25.91014292871612,0 	<!-- <POI>Flussquerung:Mhanadi</POI> -->
+					2.798365455004523,25.91263047042738,0 
+					2.806066539415455,25.91126056491986,0 
+					2.825057478203639,25.88920681437414,0 
+					2.826244822799902,25.87199937407934,0 
+					2.866175539191034,25.83420685095323,0 
+					2.870590102835673,25.82202347662274,0 
+					2.91243223888048,25.77597851037622,0 
+					2.951213572172116,25.77468010715337,0 	<!-- <POI>Siedlung:Hainesh</POI> -->
+					2.971898973740248,25.77574419755524,0 
+					2.998716732984599,25.79153865789209,0 
+					3.025668236407222,25.79163499182689,0 
+					3.051965803565386,25.80084284693371,0 
+					3.062902238093952,25.80149988263841,0 
+					3.102169780634489,25.77214239917914,0 
+					3.208404244028165,25.76063400677402,0 
+					3.261724443926468,25.79042513411081,0 
+					3.330729543812614,25.79127487610332,0 	<!-- <POI>Siedlung:Buqtah</POI> -->
+					3.351219343100114,25.7992964525001,0 
+					3.364725089612828,25.82354611309568,0 
+					3.391822240820004,25.85505176233201,0 
+					3.39562892892278,25.86963808757798,0 
+					3.41269527350436,25.89704787231642,0 
+					3.461614276255873,25.92630850483348,0 
+					3.502632452588541,25.9264678214598,0 
+					03.526418,25.922516,0 				<!--<POI>AbzweigungLinks:Zedernstraße</POI>--> <!--Ab hier über Zedernweg bis nach Fasar-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>3.569334662303569</longitude>
+				<latitude>26.11343613473532</latitude>
+				<altitude>210000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>Städte Weiden</name>
+    <Folder>
+        <name>Städte</name>
+        <open>0</open>
+    <Region>
+      <LatLonAltBox>
+        <north>44.68523182173993</north>
+        <south>13.83211470255367</south>
+        <east>13.82951187257615</east>
+        <west>-8.928795211729799</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>1800</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+    </Region>
+    <Placemark>
+	<name>Baliho</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/1/1f/Baliho_Wappen.png" width="100" height="122" align="right"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Baliho</b> ist Zentrum der <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weidener</a> <a href="http://www.wiki-aventurica.de/wiki/Vieh&amp;action=edit&amp;redlink=1" class="new" title="Vieh (Seite nicht vorhanden)">Viehzucht</a> und Sitz des Grafen von Baliho. Die Stadt gliedert sich in zwei voneinander abgeschottete Teile. Dies sind die befestigte <i>Grafenstadt</i> und die <i>Südstadt</i>, in der die Rinderbarone das Sagen haben. Als älteste Stadt Weidens war Baliho zur Zeit des <a href="http://www.wiki-aventurica.de/wiki/Bosparanisches_Reich" title="Bosparanisches Reich">Bosparanischen Reiches</a> Hauptstadt eines <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Baliho" title="Königreich Baliho">Königreichs Baliho</a>, das den Norden zwischen <a href="http://www.wiki-aventurica.de/wiki/Wehrheim" title="Wehrheim">Wehrheim</a> und dem <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> beherrschte und dem <a href="http://www.wiki-aventurica.de/wiki/Horaskaiser" title="Horaskaiser" class="mw-redirect">Horaskaiser</a> untertan war.
+
+
+
+<!-- END EDIT -->
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Baliho-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 4.91937961456237</longitude>
+              <latitude> 32.8595486770338</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when>-526</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin>-526</begin>
+        </TimeSpan>
+        <Point>
+			<coordinates>4.91916270125466,32.85225976359557,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Uhdenberg</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/d/d9/Uhdenbergwappenklein1.gif" width="100" height="122" align="right"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Uhdenberg</b> liegt am <a href="http://www.wiki-aventurica.de/wiki/Uhdenfluss" title="Uhdenfluss" class="mw-redirect">Uhdenfluss</a> im Nordwesten der <a href="http://www.wiki-aventurica.de/wiki/Rote_Sichel" title="Rote Sichel">Roten Sichel</a> und ist die höchstgelegene Stadt <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventuriens</a>. Die unabhängige Stadt wird von einem Konsortium der reichsten Minenbesitzer, der <a href="http://www.wiki-aventurica.de/wiki/Minenloge&amp;action=edit&amp;redlink=1" class="new" title="Minenloge (Seite nicht vorhanden)">Minenloge</a>, beherrscht und lebt vom Handel mit <a href="http://www.wiki-aventurica.de/wiki/Eisen_%28Metall%29" title="Eisen (Metall)">Eisen</a> und anderen Metallen. Aus <a href="http://www.wiki-aventurica.de/wiki/Eisen_%28Metall%29" title="Eisen (Metall)">Eisen</a> wird in Uhdenberg der sogenannte <a href="http://www.wiki-aventurica.de/wiki/Goblinstahl&amp;action=edit&amp;redlink=1" class="new" title="Goblinstahl (Seite nicht vorhanden)">Goblinstahl</a> gefertigt, der im ganzen <a href="http://www.wiki-aventurica.de/wiki/Hoher_Norden" title="Hoher Norden">Hohen Norden</a> verbreitet ist.
+
+</p><p>In Uhdenberg leben <a href="http://www.wiki-aventurica.de/wiki/Mensch" title="Mensch">Menschen</a>, <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwerge</a>, <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfen</a>, <a href="http://www.wiki-aventurica.de/wiki/Goblin" title="Goblin">Goblins</a> und <a href="http://www.wiki-aventurica.de/wiki/Ork" title="Ork">Orks</a> relativ friedlich beisammen, da die verschiedenen <a href="http://www.wiki-aventurica.de/wiki/Rasse" title="Rasse">Rassen</a> unterschiedliche Stadtteile bewohnen und in den Tempeln der Stadt <a href="http://www.wiki-aventurica.de/wiki/Geweihte" title="Geweihte">Geweihte</a> aller <a href="http://www.wiki-aventurica.de/wiki/Rasse" title="Rasse">Rassen</a> Dienst tun. So wird im  <a href="http://www.wiki-aventurica.de/wiki/Ingerimm" title="Ingerimm">Ingerimm</a>-Tempel sowohl <a href="http://www.wiki-aventurica.de/wiki/Ingerimm" title="Ingerimm">Ingerimm</a> als auch <a href="http://www.wiki-aventurica.de/wiki/Gravesh" title="Gravesh" class="mw-redirect">Gravesh</a> und <a href="http://www.wiki-aventurica.de/wiki/Angrosch" title="Angrosch" class="mw-redirect">Angrosch</a> verehrt, im <a href="http://www.wiki-aventurica.de/wiki/Firun" title="Firun">Firun</a>-Tempel neben <a href="http://www.wiki-aventurica.de/wiki/Firun" title="Firun">Firun</a> auch zu <a href="http://www.wiki-aventurica.de/wiki/Brazoragh" title="Brazoragh">Brazoragh</a> und <a href="http://www.wiki-aventurica.de/wiki/Orvai_Kurim" title="Orvai Kurim">Orvai Kurim</a> gebetet, und im <a href="http://www.wiki-aventurica.de/wiki/Peraine" title="Peraine">Peraine</a>-Tempel wird sowohl <a href="http://www.wiki-aventurica.de/wiki/Peraine" title="Peraine">Peraine</a> als auch <a href="http://www.wiki-aventurica.de/wiki/Mailam_Rekdai" title="Mailam Rekdai">Mailam Rekdai</a> verehrt.
+
+</p><p>Einzig die Elfen halten sich meist aus den Stadtgeschäften heraus. Die <a href="http://www.wiki-aventurica.de/wiki/Tiljaniel-Sippe" title="Tiljaniel-Sippe" class="mw-redirect">Tiljaniel-Sippe</a> lebt sogar außerhalb der Stadt, im östlichen gelegenen Wald <a href="http://www.wiki-aventurica.de/wiki/Tiljaniel&amp;action=edit&amp;redlink=1" class="new" title="Tiljaniel (Seite nicht vorhanden)">Tiljaniel</a>.
+
+<!-- END EDIT -->
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Uhdenberg-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 6.59352132758678</longitude>
+              <latitude> 34.6773348192883</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <gx:TimeStamp>
+                 <when>-31</when>
+              </gx:TimeStamp>
+        </Camera>
+        <TimeSpan>
+          <begin>-31</begin>
+        </TimeSpan>
+        <Point>
+			<coordinates>6.574091295734075,34.68711709888257,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Auen</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+<b>Auen</b> ist eine Stadt im südlichen <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> ein wenig abseits der <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_2" title="Reichsstraße 2">Reichsstraße 2</a>. Direkt an der Abzweigung nach Auen liegt ein sumpfiger Weiher mit dem <a href="http://www.wiki-aventurica.de/wiki/Nebliger_Turm&amp;action=edit&amp;redlink=1" class="new" title="Nebliger Turm (Seite nicht vorhanden)">Nebligen Turm</a>. Das verschlafene Städtchen ist geprägt von einer Holzburg und eng zusammen liegenden Spitzgiebelbauten. Die Stadt besitzt viele Brunnen und Wasserspeier, von denen die meisten aber trocken liegen. Unweit südlich der Stadt liegt die Grenze zum Königreich <a href="http://www.wiki-aventurica.de/wiki/Darpatien" title="Darpatien" class="mw-redirect">Darpatien</a>.
+
+<!-- END EDIT -->
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Auen-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+        <Camera> 
+              <longitude> 4.63193840508135</longitude>
+              <latitude> 31.8828007833342</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+        <Point>
+			<coordinates>4.637120250654836,31.89476045852036,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+	<name>Donnerbach</name>
+	<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+            <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"><img src="http://www.wiki-aventurica.de/images/7/7b/Donnerbachwappenklein1.gif" width="100" height="122" align="right"></a>
+
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Das südlich der <a href="http://www.wiki-aventurica.de/wiki/Salamandersteine" title="Salamandersteine">Salamandersteine</a> am <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a> gelegene <b>Donnerbach</b>, die Hauptstadt des <a href="http://www.wiki-aventurica.de/wiki/Dominium_Donnerbach" title="Dominium Donnerbach">gleichnamigen Dominiums</a>, ist eine <a href="http://www.wiki-aventurica.de/wiki/Rondrakratie" title="Rondrakratie">Rondrakratie</a> unter der <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrst-Erzgeweihte" title="Fürst-Erzgeweihte" class="mw-redirect">Fürst-Erzgeweihten</a> <a href="http://www.wiki-aventurica.de/wiki/Aldare_VIII._Donnerhall" title="Aldare VIII. Donnerhall">Aldare VIII.</a> aus dem <a href="http://www.wiki-aventurica.de/wiki/Haus_Donnerhall" title="Haus Donnerhall">Hause Donnerhall</a>. In der Stadt befindet sich neben dem <a href="http://www.wiki-aventurica.de/wiki/Seminar_der_elfischen_Verst%C3%A4ndigung_und_nat%C3%BCrlichen_Heilung" title="Seminar der elfischen Verständigung und natürlichen Heilung">Seminar der elfischen Verständigung und natürlichen Heilung</a> noch ein Hauptkloster des Heilerordens der <a href="http://www.wiki-aventurica.de/wiki/Anconiten" title="Anconiten" class="mw-redirect">Anconiten</a>. Es herrscht ein friedliches Miteinander der vielen Rondrianer und <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfen</a> in der <a href="http://www.wiki-aventurica.de/wiki/Stadt" title="Stadt">Stadt</a> und auch die Zusammenarbeit zwischen <a href="http://www.wiki-aventurica.de/wiki/Magierakademie" title="Magierakademie">Magierakademie</a> und <a href="http://www.wiki-aventurica.de/wiki/Geweihte" title="Geweihte">Geweihten</a> ist vorbildlich.<br>
+
+Hier mündet auch der <a href="http://www.wiki-aventurica.de/wiki/Donnerbach_%28Fluss%29" title="Donnerbach (Fluss)">Donnerbach</a> in den <a href="http://www.wiki-aventurica.de/wiki/Neunaugensee" title="Neunaugensee">Neunaugensee</a>.<br>
+Südlich von Donnerbach stehen die Ruinen einer schwarzen <a href="http://www.wiki-aventurica.de/wiki/Magierakademie" title="Magierakademie">Magierakademie</a>, die aber schon vor der Gründung des <a href="http://www.wiki-aventurica.de/wiki/Seminar_der_elfischen_Verst%C3%A4ndigung_und_nat%C3%BCrlichen_Heilung" title="Seminar der elfischen Verständigung und natürlichen Heilung">Seminares der elfischen Verständigung und natürlichen Heilung</a> verlassen wurde. Die Akademie trug den Namen <a href="http://www.wiki-aventurica.de/wiki/Akademie_der_Geisteskraft_und_Hellseherei" title="Akademie der Geisteskraft und Hellseherei">Akademie der Geisteskraft und Hellseherei</a>, <a href="http://www.wiki-aventurica.de/wiki/Spezialgebiet" title="Spezialgebiet">Spezialgebiete</a> waren <a href="http://www.wiki-aventurica.de/wiki/Beherrschung" title="Beherrschung" class="mw-redirect">Beherrschung</a> und <a href="http://www.wiki-aventurica.de/wiki/Hellsicht" title="Hellsicht">Hellsicht</a>.
+
+
+
+
+<!-- END EDIT -->
+</p>
+<!-- FlyToLink BEGIN-->
+<div style="text-align: right"><a title="Zum Stadtplan zoomen" href="http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml#Donnerbach-Plan;flyto">Stadtplan betrachten</a></div>
+<!--FlyToLink END -->
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Staedte.kml#Stadt</styleUrl>
+        <Camera> 
+			<longitude>4.559507754443941</longitude>
+			<latitude>34.61135243442176</latitude>
+              <altitude>200000</altitude>
+              <altitudeMode>relativeToGround</altitudeMode>
+        </Camera>
+		 <TimeSpan>
+          <begin>343</begin>
+        </TimeSpan>
+        <Point>
+			<coordinates>4.572577096686034,34.61126827962677,0</coordinates>
+        </Point>
+    </Placemark>
+	</Folder>
+</Document>
+</kml>

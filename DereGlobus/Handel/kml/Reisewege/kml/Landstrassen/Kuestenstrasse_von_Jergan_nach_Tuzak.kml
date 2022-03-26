@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Küstenstraße von Jergan nach Tuzak</name>
+	<open>1</open>
+		<Placemark>
+			<name>Küstenstraße von Jergan nach Tuzak</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Küstenstraße von Jergan nach Tuzak</b> ist die längste Straße <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">Maraskans</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Tuzak" title="Tuzak">Tuzak</a> mit <a href="http://www.wiki-aventurica.de/wiki/Jergan" title="Jergan">Jergan</a>. Einige Burgen der <a href="http://www.wiki-aventurica.de/wiki/F%C3%BCrstkomturei" title="Fürstkomturei" class="mw-redirect">Fürstkomturei</a> liegen an der Straße.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						10.83040916465774,27.35513710249039,0 <!--<POI>Siedlung:Jergan</POI>--> <!--<POI>Stadttor:Jergan</POI>-->
+						10.83094310595528,27.35457242052341,0 
+						10.83140038084389,27.35392207243673,0 <!--Ende Detailkarte Jergan-->
+						10.81363073758578,27.31652795760278,0 
+						10.78343366341314,27.28402056834883,0 <!--<POI>Siedlung:Nuran</POI>-->
+						10.74006668961653,27.25477981750379,0 
+						10.72623899686666,27.225375322052,0 
+						10.68884271382876,27.1866788077486,0 
+						10.65468942379309,27.14346101553374,0 
+						10.6298107770548,27.12296197997219,0 
+						10.61902189519388,27.10295272272095,0 
+						10.58910510588976,27.07928753447247,0 <!--<POI>Siedlung:Gerbalgan</POI>-->
+						10.54413649726882,27.03332377856833,0 
+						10.45892761651321,26.98901446177082,0 
+						10.40443748818575,26.93822845506927,0 
+						10.34829355563237,26.91472087503634,0 
+						10.28950760669622,26.89589369492488,0 
+						10.27055989522784,26.88042871482965,0 <!--<POI>Siedlung:Feqabab</POI>-->
+						10.21690750335273,26.83870700318458,0 
+						10.17253675504916,26.8196157106051,0 
+						10.12368912503231,26.78575024352199,0 
+						10.03800850047558,26.75798982074366,0 
+						9.946062936165589,26.73518160257479,0 
+						9.914721940907835,26.71966359949952,0 
+						9.87535815710422,26.68201080873045,0 
+						9.857936837675062,26.6555938287455,0 
+						9.822864165653053,26.63005102527742,0 
+						9.753999549133987,26.61916245895077,0 
+						9.729958498361969,26.6045716386693,0 
+						9.662133995499305,26.54674871929931,0 
+						9.637958418267774,26.51031115409967,0 
+						9.601719034142116,26.47825033828473,0 
+						9.532786741502841,26.42970243670834,0 
+						9.503169448470221,26.40042878810131,0 
+						9.48379901606061,26.37745525246688,0 
+						9.448307245165495,26.28996277554336,0 
+						9.41072236960445,26.24604319582849,0 
+						9.381312869150133,26.19509484887217,0 
+						9.36523638883247,26.15278928657133,0 
+						9.339393229320256,26.11745053221842,0 
+						9.314854398628734,26.06999806319307,0 
+						9.31624736735532,26.02659286277079,0 
+						9.32638166426106,25.97625516672452,0 
+						9.321768281653789,25.92110804457124,0 <!--<POI>Siedlung:As'Far</POI>-->
+						9.310244319582665,25.86675548285156,0 
+						9.319146077348497,25.78831458155831,0 
+						9.357046979693664,25.71856656474881,0 
+						9.376653884462689,25.62786543538827,0 
+						9.426115814643737,25.59211868490941,0 
+						9.427718358285425,25.53874386172881,0 
+						9.437045343319053,25.49529287719232,0 
+						9.434307336332896,25.44833587564484,0 
+						9.418533997636757,25.39827515353534,0 
+						9.425831603890044,25.26670915987699,0 
+						9.415840338422797,25.23365133081303,0 <!--<POI>Fluss:Obogyn</POI>-->
+						9.382064293288266,25.19387490759624,0 
+						9.328933981537148,25.12523108028431,0 
+						9.314979620624746,25.08522572785583,0 
+						9.2879143080769,25.04182737291986,0 
+						9.270411913250127,24.99431761457421,0 
+						9.217618799482406,24.91640333343359,0 
+						9.207324702111123,24.8797138279519,0 
+						9.173028730410833,24.84060821830074,0 
+						9.158142619100493,24.81080904988844,0 <!--<POI>Fluss:unbenannt</POI>-->
+						9.127092610506164,24.73670503388458,0 
+						9.126176991623771,24.70209237327419,0 
+						9.141141767038981,24.66437629187532,0 
+						9.137586440416873,24.64178703151365,0 <!--<POI>Siedlung:Alrurdan</POI>-->
+						9.138262123232732,24.61132426649312,0 
+						9.153463744277211,24.57314430979358,0 
+						9.147985883258723,24.53996918933244,0 
+						9.139994392104258,24.51916249556854,0 
+						9.142616843350478,24.4492785429128,0 
+						9.173221360049613,24.39568089133216,0 
+						9.177669243741873,24.33815134014566,0 
+						9.195575093656903,24.29715545189158,0 
+						9.224518109083233,24.25612232950667,0 <!--<POI>Fluss:unbenannt</POI>-->
+						9.228075139884638,24.2321259793452,0 
+						9.226885278417402,24.16577983960861,0 
+						9.248121763343102,24.11983478609474,0 
+						9.248546128402895,24.07546593948263,0 
+						9.282395369849477,24.02926089572181,0 
+						9.29863135600206,23.97634257470286,0 
+						9.334750167970281,23.94191402204926,0 
+						9.351714846983096,23.89651140933322,0 
+						9.34722134950375,23.82209509150258,0 
+						9.374961144911699,23.74955165537289,0 <!--<POI>Siedlung:Geran</POI>-->
+						9.382718203008459,23.70012888602249,0 
+						9.367047005342933,23.64152085219032,0 
+						9.369371940890774,23.57727319147213,0 
+						9.336727871098605,23.53559008622234,0 <!--Anfang Detailkarte Tuzak-->
+						9.335928816747698,23.53393633240013,0 
+						9.335967651433046,23.53318762565426,0 <!--<POI>Siedlung:Tuzak</POI>--> <!--<POI>Stadttor:Tuzak</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.98</longitude>
+				<latitude>25.44</latitude>
+				<altitude>700000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			</Placemark>
+</Document>
+</kml>

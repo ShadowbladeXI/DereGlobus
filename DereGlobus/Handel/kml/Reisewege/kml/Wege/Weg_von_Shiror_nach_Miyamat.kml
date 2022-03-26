@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Shiror nach Miyamat</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Shiror nach Miyamat-->
+			<name>Weg von Shiror nach Miyamat</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						0.4290375304044169,20.57969535895528,0   <!-- <POI>Siedlung:Shiror</POI> -->  <!-- <POI>SOE:Karawanenroute von Mirham nach Selem</POI> -->
+						0.4429746366697285,20.57235886123754,0 
+						0.4948009518964858,20.5357514217414,0 
+						0.5164526084401899,20.53487421268713,0 
+						0.5377972962392708,20.52293575474301,0 
+						0.5577998210724044,20.52481413826197,0 
+						0.6279582087128266,20.5550234787928,0 
+						0.6653900932255219,20.5553778075633,0 
+						0.7099676953746203,20.57831971419956,0 
+						0.7463902171819181,20.58633291734713,0 
+						0.790230279646551,20.58973418610182,0 
+						0.8112272236922791,20.59864864413208,0 
+						0.8381371657945569,20.6198506847344,0 
+						0.8737369590543653,20.62292052133569,0  <!-- <POI>Siedlung:unbenannt</POI> --> 
+						0.956118841327307,20.62381740700005,0 
+						0.9975623455163496,20.64226655556528,0 
+						1.019571479343349,20.65729926567273,0 
+						1.077765501722032,20.71589959823981,0 
+						1.099093034225109,20.72432180838735,0 
+						1.173998205875368,20.73618297370701,0 
+						1.206199773953887,20.7370466643244,0   <!-- <POI>Siedlung:Miyamat</POI> --> 
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>0.812629</longitude>
+				<latitude>20.629498</latitude>
+				<altitude>129660</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

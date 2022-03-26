@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>Kraftlinien-Pfad-Styles</name>
+
+
+<!-- Zuerst definieren wir alle Stylemaps der Ortsmarken -->
+
+	<StyleMap id="staerke_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#staerke_1-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#staerke_1-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="staerke_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#staerke_2-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#staerke_2-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="staerke_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#staerke_3-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#staerke_3-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="staerke_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#staerke_4-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#staerke_4-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+<!-- So, ab hier werden die einzelnen Styles definiert -->
+	<!-- Mögliche Styles sind 
+		<IconStyle>...</IconStyle>
+		<LabelStyle>...</LabelStyle>
+		<LineStyle>...</LineStyle>
+		<PolyStyle>...</PolyStyle>
+		<BalloonStyle>...</BalloonStyle>
+		<ListStyle>...</ListStyle>
+	 -->
+
+	<Style id="staerke_1-n">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+	          <scale>1.1</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FFA51CD6</color>
+		  <width>1</width>
+		</LineStyle>
+	</Style>
+	<Style id="staerke_1-h">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.3</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FF000000</color>
+		  <width>1</width>
+		</LineStyle>
+	</Style>
+
+	<Style id="staerke_2-n">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.1</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FFA51CD6</color>
+		  <width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="staerke_2-h">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.3</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+	          <color>FF000000</color>
+		  <width>2</width>
+		</LineStyle>
+	</Style>
+
+	<Style id="staerke_3-n">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.1</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FFA51CD6</color>
+		  <width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="staerke_3-h">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.3</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FF000000</color>
+		  <width>3</width>
+		</LineStyle>
+	</Style>
+
+	<Style id="staerke_4-n">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.1</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FFA51CD6</color>
+		  <width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="staerke_4-h">
+		<BalloonStyle>
+                  <!-- a background color for the balloon -->
+                  <bgColor>FFD5FCFD</bgColor>
+                  <!-- styling of the balloon text -->
+                  <text><![CDATA[
+                    <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+                    <br/><br/>
+                    $[description]
+                    ]]></text>
+                  <textColor>FF000000</textColor>
+                </BalloonStyle>
+                <ListStyle>
+                  <maxSnippetLines>0</maxSnippetLines>
+                </ListStyle>
+		<IconStyle>
+		  <scale>1.3</scale>
+		  <Icon>
+		    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		  </Icon>
+		  <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		  <color>FF000000</color>
+		  <width>4</width>
+		</LineStyle>
+	</Style>
+
+
+</Document>
+</kml>

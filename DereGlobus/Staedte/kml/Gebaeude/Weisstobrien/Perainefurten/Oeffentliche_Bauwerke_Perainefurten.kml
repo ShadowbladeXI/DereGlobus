@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+      <Folder>
+        <open>0</open>
+        <name>Öffentliches Gebäude Perainefurten</name>
+        <visibility>1</visibility>
+        <Region>
+          <LatLonAltBox>
+            <north>33.03381746558505</north>
+            <south>33.02788944450911</south>
+            <east>8.09265441476885</east>
+            <west>8.082897651098781</west>
+            <minAltitude>0</minAltitude>
+            <maxAltitude>0</maxAltitude>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>256</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+            <minFadeExtent>0</minFadeExtent>
+            <maxFadeExtent>0</maxFadeExtent>
+          </Lod>
+        </Region>
+        <Placemark>
+          <name>Ordenshaus des ODL</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+Das <b>Ordenshaus des ODL in Perainefurten</b> beifndet sich im ehemaliegen Gutshof der <a href="http://www.wiki-aventurica.de/wiki/Familie_Siebenr%C3%BCb&amp;action=edit&amp;redlink=1">Familie Siebenrüb</a>.
+.
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+
+          <LookAt>
+            <longitude>8.088210321296128</longitude>
+            <latitude>33.03123922306766</latitude>
+            <altitude>0</altitude>
+            <range>287.9935390228561</range>
+            <tilt>0</tilt>
+            <heading>0.0002368175178255105</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Ordenshaus des ODL in Perainefurten</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.088634657957176,33.03160382734544,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+
+        <Placemark>
+          <name>Weide der Rahja-Stuten</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.085235359511628</longitude>
+            <latitude>33.03068552755111</latitude>
+            <altitude>0</altitude>
+            <range>1279.686709183811</range>
+            <tilt>0</tilt>
+            <heading>0.002404083493866541</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.085837765984035,33.03046905272073,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+
+        <Placemark>
+          <name>Fester Galgen</name>
+          <visibility>1</visibility>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.dasschwarzeauge.de/index.php?id=408" title="Bonus-Stadtplan zu Kreise der Verdammnis auf www.DasSchwarzeAuge.de  herunterladen">KdV</a></p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.<br>]]></description>
+          <LookAt>
+            <longitude>8.089478010895681</longitude>
+            <latitude>33.02948259944252</latitude>
+            <altitude>0</altitude>
+            <range>287.9935390178904</range>
+            <tilt>0</tilt>
+            <heading>0.0009278130907417152</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Oeffentliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>8.089701617073075,33.02946340640783,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

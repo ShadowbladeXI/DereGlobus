@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+    <Folder>
+   <name>Frisund und Nebenflüsse</name>
+   <open>0</open>
+   <Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+	<Placemark>
+		<name>Frisund</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Frisund</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Fluss" title="Fluss">Fluss</a> in <a href="http://www.wiki-aventurica.de/wiki/Nordaventurien" title="Nordaventurien">Nordaventurien</a>, der in der <a href="http://www.wiki-aventurica.de/wiki/Gelbe_Sichel" title="Gelbe Sichel">Gelben Sichel</a> entspringt. Bis zur Einmündung in den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a> liegen am linken Ufer der <a href="http://www.wiki-aventurica.de/wiki/Jonsu" title="Jonsu">Jonsu</a> und am rechten Ufer die <a href="http://www.wiki-aventurica.de/wiki/Brydia" title="Brydia">Brydia</a>, zwei ausgedehnte Steppengebiete. Der Frisund verlässt den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a> an der Westspitze und fließt in einem großen Bogen Richtung Nordwesten, bevor er bei <a href="http://www.wiki-aventurica.de/wiki/Frigorn" title="Frigorn">Frigorn</a> in die <a href="http://www.wiki-aventurica.de/wiki/Bernsteinbucht" title="Bernsteinbucht">Bernsteinbucht</a> mündet.
+</p><p>Manchmal wird der Frisund in den <b>Oberen Frisund</b> (von der Quelle bis zur Einmündung in den See) und den <b>Unteren Frisund</b> (vom See bis zur Mündung ins Meer) geteilt.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				7.575201267333885,37.60594692638556,0 7.539855038104808,37.63500373643628,0 7.53890341700205,37.64953750788349,0 7.548108680031183,37.66852041208485,0 7.537333227783163,37.68616499310921,0 7.532357858198438,37.69986478382614,0 7.523467591061454,37.71525052874795,0 7.505424314492768,37.72205533285512,0 7.483780168110896,37.71949240324128,0 7.464276665189775,37.72033838770373,0 7.447389610443094,37.72647453373143,0 7.428927416454574,37.72381750841787,0 7.405971235353213,37.73768643581263,0 7.386129503768595,37.75968004020272,0 7.385593053865057,37.76600824797647,0 7.370768648701689,37.77461419407597,0 7.364898731622884,37.79463557782002,0 7.338522986298299,37.81298243614772,0 7.338555230386419,37.84262764078193,0 7.338455748939818,37.8691275409589,0 7.314769509401053,37.89561514285297,0 7.310521939979164,37.9210461679579,0 7.313931591572731,37.93578842714002,0 7.333913950980355,37.95452832322548,0 7.326539823545517,37.97970348497385,0 7.304367122257382,37.99509479883691,0 7.288055401535882,38.01695445524186,0 7.262607421163121,38.05071266335158,0 7.261821700326088,38.08069930667624,0 7.245886089659548,38.10287205304265,0 7.245235978498723,38.12656105522511,0 7.254294548453588,38.14203008209347,0 7.277071527303651,38.15974636977097,0 7.287760074665903,38.18565052265297,0 7.28838165109519,38.21055146573701,0 7.295745113724649,38.23339375072679,0 7.314673536102245,38.25405432375824,0 7.319977656606238,38.275585544811,0 7.312268534585888,38.29312713120633,0 7.297419054619788,38.30328114190329,0 7.299664191819339,38.32845324846552,0 7.302879362823454,38.33814867656919,0 7.305415980591807,38.37025950452679,0 7.312033762792782,38.3842897319143,0 7.344399954090576,38.40745035877779,0 7.35436102012679,38.42456584294443,0 7.353878953964701,38.45138513201618,0 7.363809413329056,38.47667408775768,0 7.262458605894353,38.59168634049593,0 7.051329063410609,38.69315641526009,0 6.861035922066745,38.68731988070764,0 6.834960510250743,38.69015997173121,0 6.805486848347153,38.70709981523504,0 6.780410279186158,38.72663902142131,0 6.763855999655799,38.72779302875541,0 6.728239965125782,38.7564111423736,0 6.715247540838034,38.76085537145534,0 6.703546361847672,38.76257554482177,0 6.68769655489143,38.77489712866011,0 6.681950252231685,38.78957979613507,0 6.680968537538188,38.80210405508097,0 6.656815335566861,38.81933522603521,0 6.645521848598022,38.83589428555128,0 6.633528078055293,38.84232823502519,0 6.610637844085128,38.840680529277,0 6.592692555416035,38.8508613815621,0 6.580098447100933,38.85193969565734,0 6.566658333527482,38.86893768486507,0 6.544159655062596,38.89762323996689,0 6.532147725596862,38.9005720100713,0 6.520493352428498,38.8976507106223,0 6.509683546426636,38.89596909763462,0 6.495684504640154,38.90460677661478,0 6.479900266442593,38.91402205694557,0 6.466924382500398,38.91174710003033,0 6.449306477923942,38.90704359786596,0 6.431081467620075,38.90904374893677,0 6.412408261811457,38.91418766922663,0 6.393373448289248,38.92561296736276,0 6.3786380212116,38.92775412419602,0 6.339857411365887,38.92675050712896,0 6.323651989271529,38.93456262055684,0 6.309917400112941,38.95426587823977,0 6.30948488144422,38.96809276327166,0 6.317660578001396,38.98135480575007,0 6.3140675365626,38.99776118605339,0 6.291872461374992,39.0129869227881,0 6.286536107049868,39.03441683125996,0 6.27712845869012,39.04503474994799,0 6.260887263839983,39.05220774989799,0 6.253569569747224,39.07074542971147,0 6.249032010784614,39.08254249145905,0 6.2384616008785,39.09184469982403,0 6.222082855191601,39.09440935960019,0 6.206266199339781,39.10805163393058,0 6.175566217603629,39.1407572650526,0 6.162233421147811,39.14682418504306,0 6.143292507877995,39.1483157495089,0 6.130506443999508,39.16545742251618,0 6.137929132415283,39.18145492463988,0 6.135258685702143,39.19321318283328,0 6.121077049667997,39.19824094214838,0 6.11294387660255,39.19689875606954,0 6.103498637671107,39.2079225397771,0 6.101074369781734,39.21905149038342,0 6.105784746370652,39.23468090618126,0 6.108320145726016,39.25663023952487,0 6.102769909260593,39.28349777925698,0 6.114075341841511,39.3029971525381,0 6.123852304798383,39.31519652110597,0 6.127090913367026,39.33607594424215,0 6.142293528616102,39.348198005538,0 6.16774859644059,39.35828331459155,0 6.179733222330704,39.37037227487209,0 6.180446778550515,39.38752358566342,0 6.196763091413322,39.40045063383159,0 6.199749186470784,39.42132973702417,0 6.206996633976695,39.42895788539051,0 6.210449545105037,39.44669087390949,0 6.208717104932457,39.46304168263061,0 6.217357132915343,39.47169666915536,0 6.214312319753961,39.48953690661828,0 6.192668543617583,39.50118494243289,0 6.173777522215984,39.51529262880544,0 6.158330922882631,39.53687347944155,0 6.144902458205348,39.55277046914102,0 6.130133170191245,39.5588526935348,0 6.11130763238781,39.56562159390455,0 6.099652142793914,39.57709383408995,0 6.100434569916827,39.59758877684442,0 6.095619602213478,39.6114734647492,0 6.076365141462623,39.62390027240724,0 6.078920854638971,39.64710571332849,0 6.089878507464636,39.66159021887687,0 6.093477529295615,39.67513602852058,0 6.090172923642195,39.69526986662893,0 6.07658483485686,39.71764960694254,0 6.080630816111849,39.73830966646155,0 6.06822941927798,39.75889657963601,0 6.069258887718974,39.77854944908146,0 6.083123395724382,39.79948397578067,0 6.094540856166288,39.82214070819653,0 6.091755498762465,39.88515771632523,0 6.10201188085111,39.91337167768675,0 6.093034494897087,39.93631177212167,0 6.090905964733042,39.94952665375481,0 6.101421342112601,39.9661127452634,0 6.110297909153966,39.98806836583157,0 6.113646447694594,40.01229730011089,0 6.100777390207162,40.03278457781122,0 6.098787908427024,40.05143531313378,0 6.112858326177526,40.06733718129322,0 6.152862181873331,40.09184304003615,0 6.195222793939655,40.11107377637558,0 6.21682584503673,40.13245017383077,0 6.22799810267006,40.15089469318318,0 6.263044768571893,40.17084187944505,0 6.278881343733276,40.18858540763722,0 6.296555949258009,40.22996506145962,0 6.304180527624101,40.24762430676295,0 6.351942643919961,40.2782145935488,0 6.368787772990931,40.31016280879933,0 6.393027663178863,40.33175417183182,0 6.396916258661937,40.34256851468717,0 6.441486157168992,40.37276963169961,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Frylinnen</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Frylinnen</b> entspringt im Hügelland südlich der <a href="http://www.wiki-aventurica.de/wiki/Farlornschwelle" title="Farlornschwelle">Farlornschwelle</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a>.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				7.540185471888323,39.05691127191643,0 7.528875653627405,39.04708001637949,0 7.494249225688161,39.01211094859531,0 7.47093502152832,38.9825905664915,0 7.437806314127586,38.96511600701331,0 7.40752522111994,38.96131226975238,0 7.381438597668197,38.93614460948927,0 7.350771869751725,38.91852294785871,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Sileri</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Sileri</b> ist ein Zufluss des <a href="http://www.wiki-aventurica.de/wiki/Frisund" title="Frisund">Frisund</a>.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				5.523229099435973,39.88250338711629,0 5.524345865545881,39.86474633130714,0 5.525846550979821,39.84191885745933,0 5.529538507419427,39.83717444294199,0 5.526885444135443,39.81982295682438,0 5.519924004057772,39.79853295221985,0 5.511686657208186,39.78521968962374,0 5.524964535340895,39.76264005047636,0 5.519046163224449,39.74712970610472,0 5.504300186053901,39.73858423209628,0 5.500360912866073,39.72848254068869,0 5.481789585890626,39.71634621512689,0 5.478249716154231,39.70188967307485,0 5.482302759083925,39.69098249223178,0 5.486831006622124,39.68043170043376,0 5.483295468267261,39.66633080807842,0 5.484514987239688,39.65508227251248,0 5.497991217082214,39.64516662030401,0 5.521092640442276,39.64784458863165,0 5.542953442138677,39.6603149832159,0 5.558012046594203,39.66052461788414,0 5.571967169862044,39.65168151731413,0 5.586899363579175,39.64499971523392,0 5.609472265844746,39.64475776692066,0 5.627105162207576,39.65725171260256,0 5.637666611077417,39.66873170821194,0 5.651758116113877,39.66748584430753,0 5.666137154101126,39.65644827599543,0 5.690182583853582,39.65906738981275,0 5.709812983343296,39.64268146312134,0 5.723279009266832,39.63346625449457,0 5.743639741943114,39.64010167865649,0 5.757219606222033,39.63703900612573,0 5.796021337663397,39.6485083147487,0 5.811232099526638,39.63383258285379,0 5.822828797006457,39.62644407865598,0 5.832864972420746,39.61219601263291,0 5.85002836665526,39.60183849106397,0 5.874270647891271,39.59319636571429,0 5.892919912949905,39.58679581597203,0 5.912890570026765,39.59739008099045,0 5.928095935049031,39.60478781995995,0 5.945663845925308,39.59223856184199,0 5.960696198818091,39.59203139738261,0 5.973047282716884,39.5976529948239,0 5.987963047221023,39.59237493368437,0 6.005932573072177,39.59682814811647,0 6.017928420699031,39.6067967817873,0 6.034028664999516,39.61127402329309,0 6.052576082782037,39.61933636102855,0 6.077158714882261,39.623686911199,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+		<Placemark>
+		<name>Tylsen</name>
+<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Tylsen</b> entspringt in der <a href="http://www.wiki-aventurica.de/wiki/Brydia" title="Brydia">Brydia</a> und mündet in den <a href="http://www.wiki-aventurica.de/wiki/Alavi-See" title="Alavi-See">Alavi-See</a>.
+</p>
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+ <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				8.058445633315701,38.94213848577103,0 8.023856161763847,38.93020228413693,0 7.989221997644087,38.93762193412479,0 7.970665709295004,38.93313083128339,0 7.955576613824005,38.92473000143049,0 7.935663578495458,38.92534576788284,0 7.914948103873398,38.91014887364342,0 7.898090579492569,38.89863295373077,0 7.880258722737539,38.89189502833238,0 7.862804445934932,38.88451019726967,0 7.851753229377345,38.86679791552013,0 7.845999739386271,38.84924171300217,0 7.832818365021039,38.83760721589773,0 7.8219810348929,38.82400041500026,0 7.813111699024955,38.80083228371959,0 7.80015608070602,38.78538143025706,0 7.781255646157399,38.77295136521713,0 7.759997934092933,38.76216700495489,0 7.727958313888026,38.76372720194604,0 7.714862068533495,38.75697089884407,0 7.681998542148927,38.75760146085516,0 7.671185062615747,38.76076142755088,0 7.649861709853703,38.7563041056634,0 7.638728121681487,38.74395611671658,0 7.632226474626012,38.7264117413424,0 7.612364105263307,38.71811011597824,0 7.60150354896618,38.70258820621083,0 7.597737224242582,38.6912980000744,0 7.583124027929824,38.68221088640761,0 7.559414976870007,38.67812296569015,0 7.54738039927604,38.67212454509432,0 7.527654290160761,38.65747029346956,0 7.503241915624786,38.64673695049178,0 7.459856402831515,38.63808645791801,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	  </Folder>
+
+    </Document>
+</kml>

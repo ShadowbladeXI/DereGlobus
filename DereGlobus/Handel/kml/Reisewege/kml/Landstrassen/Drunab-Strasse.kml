@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Drunab-Straße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Drunab-Straße-->
+			<name>Drunab-Straße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Drunab-Straße</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Drunidet" title="Drunidet">Drunidet</a> über <a href="http://www.wiki-aventurica.de/wiki/Dujar" title="Dujar">Dujar</a> nach <a href="http://www.wiki-aventurica.de/wiki/Mengbilla" title="Mengbilla">Mengbilla</a>.
+
+
+
+
+
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-0.9775323199009744,21.7634124395043,0   <!-- <POI>Siedlung:Mengbilla</POI> --> <!-- <POI>SOE:Küstenstraße nach Aldenia</POI> -->   <!-- <POI>SOE:Seidenstraße</POI> -->
+						-0.9775303427351534,21.76353556445402,0 
+						-0.9774354529556295,21.76372992219637,0 
+						-0.9776689738994415,21.76380240541466,0 
+						-0.9779344716415128,21.76401009879921,0 
+						-0.9784150325309549,21.76509474813201,0 
+						-0.9786665025505525,21.76548044514862,0 
+						-0.9789536549730227,21.76638582762083,0   <!-- Ende Detailkarte Mengbilla -->
+						-0.9790028910868387,21.76695699980498,0 
+						-0.975767238487415,21.77860354955028,0 
+						-0.898179001824071,21.82778097903441,0 
+						-0.8852006898863019,21.89170094303294,0 
+						-0.8938007811233362,21.93338765829608,0 
+						-0.8920415621572742,21.97014361192074,0 
+						-0.87720070601226,21.99146159480899,0 
+						-0.8468170541890729,22.01837009772469,0 
+						-0.8354817102772016,22.08337334770146,0   <!-- <POI>Siedlung:Dujar</POI> -->
+						-0.8013449947210227,22.112988986167,0 
+						-0.7783081423559324,22.12283139851058,0 
+						-0.741869058855158,22.16541608580141,0 
+						-0.7233658320284009,22.21920572270707,0   <!-- <POI>Siedlung:Feste Ambarnis</POI> --> <!-- <POI>Kreuzung:Straße von Theniran nach Winneb</POI> --> 
+						-0.7037457473050779,22.23771470243479,0 
+						-0.6674821248991669,22.25963339462085,0 
+						-0.6563869616710472,22.27959110446902,0 
+						-0.6378353331782549,22.29178344932379,0 
+						-0.6158228071847582,22.33443812370275,0 
+						-0.612706875440604,22.36094028569497,0 
+						-0.5911899868867576,22.38757561122206,0 
+						-0.5861248264810637,22.40778175067824,0 
+						-0.5692805113632882,22.4320179688226,0    <!-- <POI>Siedlung:Drunidet</POI> -->
+						-0.5423403120252535,22.45126913920558,0 
+						-0.5191463306158173,22.48504823569597,0 
+						-0.5238247360161596,22.50681923921446,0 
+						-0.5163930789352744,22.52453218835448,0 
+						-0.52140337874786,22.55034724341836,0 
+						-0.5163962556466584,22.56951715400104,0 
+						-0.5030956642229711,22.57817182597337,0   <!-- <POI>Siedlung:Mikram</POI> --> <!-- <POI>SOE:Knüppeldamm von Drôl nach Port Corrad</POI> --> 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>-0.741649</longitude>
+				<latitude>22.174096</latitude>
+				<altitude>142470</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

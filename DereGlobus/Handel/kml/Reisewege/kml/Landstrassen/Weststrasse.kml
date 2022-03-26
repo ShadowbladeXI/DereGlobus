@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weststraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weststraße-->
+			<name>Weststraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Weststraße</b> verbindet den <a href="http://www.wiki-aventurica.de/wiki/Sieben-Baronien-Weg" title="Sieben-Baronien-Weg">Sieben-Baronien-Weg</a> und die <a href="http://www.wiki-aventurica.de/wiki/Bornstra%C3%9Fe" title="Bornstraße">Bornstraße</a> und stellt somit eine wichtige Verbindung zwischen <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">Mittelreich</a> und <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> dar. Sie führt in ziemlich geradem Ost-West-Verlauf von <a href="http://www.wiki-aventurica.de/wiki/Irberod" title="Irberod">Irberod</a> über <a href="http://www.wiki-aventurica.de/wiki/Drachenzwinge" title="Drachenzwinge">Drachenzwinge</a> und <a href="http://www.wiki-aventurica.de/wiki/Salderkeim" title="Salderkeim">Salderkeim</a> nach <a href="http://www.wiki-aventurica.de/wiki/Hulga" title="Hulga">Hulga</a>, von wo auch der <a href="http://www.wiki-aventurica.de/wiki/Born" title="Born">Born</a> als Transportmöglichkeit genutzt werden kann.
+							</p>
+							<p>
+							Derzeit wird die Weststraße ausgebaut, da sie durch die Bedrohung der <a href="http://www.wiki-aventurica.de/wiki/Schwarze_Lande" title="Schwarze Lande">Schwarzen Lande</a> zu einer der wichtigsten Landverbindungen der Bornländer ins übrige Aventurien wurde.
+							</p>
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					9.859313134503127,34.42299454993612,0  <!--<POI>Siedlung:Hulga</POI>--> <!--<POI>SOE:Weg von Harden nach Hulga </POI>--> 
+					9.789004061767543,34.41470778228054,0 
+					9.776862961121458,34.40340856397337,0 
+					9.665600373733396,34.39952418220402,0 
+					9.620060349190078,34.37491357497484,0 
+					9.579245285470698,34.37182571554683,0 
+					9.541661167558637,34.35582443893116,0 
+					9.503226306600066,34.36873479360852,0 
+					9.479307486300609,34.37062871328326,0 
+					9.458079546454654,34.37949943584626,0 
+					9.397079882124986,34.37336525423901,0 
+					9.352138977325863,34.36799470782926,0 
+					9.3139957766218,34.35146721639941,0 
+					9.290100998157806,34.33391152913701,0  <!--<POI>Siedlung:Salderkeim</POI>--> <!--<POI>Abzweig:Raulsjoch</POI>--> 
+					9.270894945670689,34.32947768657017,0 
+					9.211605624193787,34.33263418763917,0 
+					9.163967386742808,34.3296613574859,0 
+					9.115434845922971,34.32816128637712,0
+					9.09303680754457,34.33700907406633,0 
+					9.003387016727093,34.33881991925259,0 
+					8.986018745015656,34.34557340667654,0 
+					8.949106309621261,34.3393162986378,0 
+					8.918044240520818,34.33567473265029,0  <!-- <POI>Abzweig:Weg nach Larsach</POI> -->
+					8.865202991693877,34.34790537706121,0 
+					8.820451367643528,34.35605058412433,0 
+					8.766827807682535,34.35833540212105,0 
+					8.733813898046616,34.3613250391404,0 
+					8.711664000904793,34.36441816060576,0 
+					8.686270199864252,34.38319107772518,0 
+					8.645821863419581,34.3868680934623,0 
+					8.629001435948915,34.39923725809463,0 
+					8.604145785715872,34.4057064364265,0 
+					8.578954392708004,34.40510191074004,0 
+					8.54818228881247,34.39523080656527,0 
+					8.502873501897117,34.39241358243439,0 
+					8.497555757818136,34.4010750303063,0 
+					8.478657441914594,34.4129910664272,0 
+					8.446198057400775,34.41635660259896,0 
+					8.429524539629917,34.42631907733467,0 
+					8.402195079392087,34.45452442147355,0 
+					8.374087602550377,34.47849886495623,0 
+					8.372219438298403,34.50072918582923,0 
+					8.358214867580166,34.52049775011769,0 
+					8.330296520283223,34.52369937107065,0 
+					8.280838612879705,34.57189979212935,0  <!--<POI>Siedlung:Drachenzwinge</POI>--> <!--<POI>SOE:Weg von Harden nach Hulga </POI>--> 
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>9.065816</longitude>
+				<latitude>34.512599</latitude>
+				<altitude>220000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

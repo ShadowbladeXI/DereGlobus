@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+             <Folder>
+        <name>Staatliches Bauwerk Rashdul</name>
+		<Region>
+      <LatLonAltBox>
+         <north>24.24816262826509</north>
+			<south>24.23520578742035</south>
+			<east>6.276232769565437</east>
+			<west>6.266455384534377</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+        <Placemark>
+          <name>Rashduls Wehrhaus</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.273388946401834</longitude>
+            <latitude>24.24184815200676</latitude>
+            <altitude>0</altitude>
+            <range>430.7041298584818</range>
+            <tilt>0</tilt>
+            <heading>0.0008395866640456876</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point>
+            <coordinates>6.273679575845246,24.2418233634607,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Palast des Sultans</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 94<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 207<TR><TD>Die Wüste Khom und die Echsensümpfe S. 94<TR><TD>Die Welt des Schwarzen Auges S. 81<TR><TD>Geographia Aventurica S. 77<TR><TD>Verwunschen und Verzaubert S. 39<TR><TD>Das Land der ersten Sonne S. 83<TR><TD>Meister der Dämonen S. 207<TR><TD>Aventurischer Bote (116) S. 13<TR><TD>Der Göttergleiche S. 149<TR><TD>Sphärenkräfte S. 74, 80<TR><TD>Wege der Helden S. 111<TR><TD>Aventurien S. 34<TR><TD>Katakomben und Kavernen S. 155<TR><TD>Hallen Arkaner Macht S. 173<TR><TD>Im Bann des Diamanten S. 14<TR><TD>Helden der Geschichte S. 38<TR><TD>Aventurisches Archiv 7 S. 94<TR><TD>Aventurischer Bote (73) S. 7<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 47<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 44<TR><TD>Aventurischer Almanach 28 Hal S. 53<TR><TD>Die Sieben Gezeichneten S. 433<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+            <longitude>6.274814913911007</longitude>
+            <latitude>24.241871006604</latitude>
+            <altitude>0</altitude>
+            <range>430.7041298554992</range>
+            <tilt>0</tilt>
+            <heading>0.001424989054396884</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point>
+            <coordinates>6.275323003357023,24.2421741265159,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Madamaltor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Das <b>Madamaltor</b> ist ist ein fünf <a href="http://www.wiki-aventurica.de/wiki/Schritt" title="Schritt">Schritt</a> hohes Tor aus rotem <a href="/index.php?title=Rashdulstein&amp;action=edit&amp;redlink=1" class="new" title="Rashdulstein (Seite nicht vorhanden)">Rashdulstein</a>. Es bildet den Eingang zur Oberstadt <a href="http://www.wiki-aventurica.de/wiki/Rashdul" title="Rashdul">Rashduls</a>. Über der Tormitte ragt der <i>Bastrabunspfeiler</i> empor, einer der <a href="http://www.wiki-aventurica.de/wiki/Mondsteinobelisk" title="Mondsteinobelisk">Mondsteinobelisken</a> von <a href="http://www.wiki-aventurica.de/wiki/Bastrabuns_Bann_%28Schutzwall%29" title="Bastrabuns Bann (Schutzwall)">Bastrabuns Bann</a>.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+            <longitude>6.271915686448402</longitude>
+            <latitude>24.24166564430465</latitude>
+            <altitude>0</altitude>
+            <range>495.4763310917198</range>
+            <tilt>0</tilt>
+            <heading>0.0002344560567380544</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+          <Point>
+            <coordinates>6.271581350390743,24.24181258975455,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

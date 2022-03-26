@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Fürstenstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Fürstenstraße-->
+			<name>Fürstenstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Fürstenstraße</b> verbindet das <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Andergast" title="Königreich Andergast">Königreich Andergast</a> mit der <a href="http://www.wiki-aventurica.de/wiki/Markgrafschaft_Greifenfurt" title="Markgrafschaft Greifenfurt">Markgrafschaft Greifenfurt</a>. Sie bildet die Verlängerung der <a href="http://www.wiki-aventurica.de/wiki/Reichsstra%C3%9Fe_1" title="Reichsstraße 1">Reichsstraße 1</a> westlich von <a href="http://www.wiki-aventurica.de/wiki/Greifenfurt" title="Greifenfurt">Greifenfurt</a> und stellt eine der wichtigsten Handelsrouten der Region dar.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://dereglobus.googlecode.com/svn/Release/wiki/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.266184221655607,31.32535795881369,0  <!-- <POI>Siedlung:Greifenfurt</POI> -->
+						2.26598229536412,31.32534534123157,0 
+						2.265342041553831,31.32538742205501,0 
+						2.252451662817692,31.30983981625003,0 
+						2.189606763628633,31.30737605330934,0 
+						2.18832485445722,31.30744711369646,0 
+						2.148515098114705,31.31551800199924,0 
+						2.130004779657955,31.31583580697343,0 <!-- <POI>Siedlung:Breitenbruck</POI> --> <!--<POI>Abzweigung:Breitenstieg</POI>-->
+						2.081868036718648,31.31449315887295,0 
+						2.026753274717166,31.31529507222298,0 
+						1.98960158753309,31.31209222918737,0 
+						1.895064312356125,31.2957641379226,0 
+						1.78057310360904,31.28823325017614,0 
+						1.707808798386596,31.27408404513349,0 
+						1.648239690894817,31.26889509980651,0 <!-- <POI>Siedlung:Donfanger</POI> -->
+						1.599106533189194,31.25524099945379,0 
+						1.57838519991681,31.2477152239354,0 
+						1.533640590780871,31.25432712381252,0 
+						1.49359283006135,31.24723513755893,0 
+						1.471731328330119,31.24955040185217,0 
+						1.425133862840056,31.27080538811923,0 
+						1.372975314477476,31.27143352626511,0 
+						1.33197083818559,31.28240738668854,0 
+						1.275760270328492,31.28002847457253,0 
+						1.249995115791278,31.27737767479446,0 <!-- <POI>Siedlung:Hexenhain</POI> -->
+						1.219738001096806,31.26684914866885,0 
+						1.190948191455814,31.25597979397509,0 
+						1.126955377946597,31.25682938782688,0 
+						1.090150587438465,31.24295944236076,0 
+						1.03956204789142,31.24178685369044,0 
+						1.000318239630285,31.22459650467748,0 
+						0.9388756160463996,31.22520257869561,0 
+						0.9051624469038822,31.21772417946561,0 
+						0.8449905992001416,31.21819912361287,0 
+						0.8049941202085442,31.23350322255273,0 
+						0.7752728782112484,31.24666221847442,0 <!--<POI>Abzweigung:Weg von Hesindelburg nach Angenburg</POI>-->
+						0.7348983021738587,31.25324324363301,0 <!-- <POI>Siedlung:Hesindelburg</POI> -->
+						0.7251777114369995,31.25793639068055,0 
+						0.6632118644624208,31.28823907564852,0 
+						0.6263224979999293,31.28966495837919,0 
+						0.5715209999539828,31.30859659841761,0 
+						0.5358819263654646,31.29943243883018,0 
+						0.505844400611104,31.29864779936489,0 
+						0.4627126970529227,31.3128328236327,0 
+						0.4349449274314465,31.31716038217036,0 
+						0.3946680280584536,31.32067524767504,0 
+						0.3755142474845941,31.32794801539836,0 
+						0.3424154097410881,31.34671984369135,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						0.3121980277709868,31.35455947109714,0 
+						0.2851079227848574,31.36433057748564,0 
+						0.2270831482280911,31.35932860712379,0 
+						0.1909123617470576,31.36694008811847,0 
+						0.1475026718827821,31.37033310907471,0 
+						0.0978150246493259,31.36490167956433,0 
+						0.05293804317453743,31.36106948765519,0 <!-- <POI>Siedlung:Albumin</POI> -->
+						0.005911593424199335,31.37253161278195,0 
+						-0.04220748470413316,31.38408258378673,0 
+						-0.07450058058772635,31.40051203201547,0 
+						-0.1162158675938707,31.41463619951547,0 
+						-0.1486537505419616,31.43530997020356,0 <!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.1844375987058378,31.449118214883,0 
+						-0.2156671427066481,31.47209735413739,0 
+						-0.2499442333577151,31.48295945129687,0 
+						-0.2766287347038399,31.50421453681296,0 
+						-0.3064695467530954,31.51385191120959,0 
+						-0.3237077665689503,31.52125190634351,0 
+						-0.357657869313236,31.53750461304733,0 
+						-0.3928716248556219,31.55127983415146,0 
+						-0.4182186037788194,31.56382252888927,0 
+						-0.4555030439492291,31.5704175950319,0 <!-- <POI>Siedlung:Thurana</POI> --> <!--<POI>Abzweigung:Straße von Thurana nach Bockshag</POI>-->
+						-0.4897986965933288,31.57128743649314,0 
+						-0.5593713897921548,31.5753233517449,0 
+						-0.5779600122932138,31.58231105765808,0 
+						-0.6264445930089124,31.61314939334481,0 
+						-0.6804740028684542,31.62401436767118,0 <!-- <POI>Siedlung:Egelingsfenn</POI> --> <!--<POI>Abzweigung:Weg von Joborn nach Egelingsfenn</POI>-->
+						-0.6787349406051391,31.62724270593349,0 
+						-0.7024389327011382,31.63488547972456,0 
+						-0.735121104174068,31.63482542394152,0 
+						-0.7501462409248971,31.64281454158292,0 
+						-0.7783439041195328,31.66485407257128,0 
+						-0.7977360296068781,31.68688251626141,0 
+						-0.8089686679489405,31.70064234692385,0 
+						-0.8132106000137185,31.71041423403753,0 
+						-0.81630769781178,31.73003006386626,0 
+						-0.8198049050741219,31.74523497833399,0 
+						-0.8507062847394065,31.7912675541626,0 
+						-0.8575213151770356,31.82914838159358,0 
+						-0.8661291283207739,31.83913315648461,0 
+						-0.8709591117250648,31.89672722254235,0 
+						-0.8991044344681176,31.92117561019319,0 
+						-0.9240340333625863,31.9500424495043,0 
+						-0.9629887129897574,31.96722733206921,0 
+						-0.9866700608246204,31.9836256810439,0 
+						-1.029279943558061,31.98973825329458,0 
+						-1.059630089547921,31.99811146813776,0 
+						-1.084595443590342,32.00661808163418,0 
+						-1.106955501831758,32.02381704389544,0 
+						-1.135465524480046,32.04463817502807,0 
+						-1.145267901590729,32.05873760783122,0 
+						-1.148702543381317,32.07460781410176,0  <!--<POI>Abzweig:Sâlweg</POI>-->
+						-1.14432624513177,32.08643529387518,0 
+						-1.143522889698854,32.08886901012738,0 
+						-1.143413919328247,32.08933944094122,0  <!--Anfang Detailkarte Andergast</POI>-->
+						-1.143518407507376,32.08948545025767,0 
+						-1.143523285183998,32.08959708625397,0 
+						-1.143629169685555,32.08981646191168,0 
+						-1.14373750751856,32.0899959829377,0    <!--<POI>Flussquerung:Ingval</POI>-->
+						-1.143800638968627,32.09011701784538,0 
+						-1.143897500772355,32.09030346329482,0 
+						-1.143990806167246,32.09049996014852,0 
+						-1.144140917257793,32.09075133369781,0 
+						-1.144223308723973,32.09090729649702,0 
+						-1.144275357519217,32.09097822207366,0 
+						-1.144356562026205,32.09106349644171,0 
+						-1.144471352370955,32.09122821026133,0 
+						-1.14456203933897,32.09134394665506,0 
+						-1.144724345729627,32.09158773350429,0 
+						-1.144565846403653,32.09182814995538,0  <!--<POI>Siedlung:Andergast</POI>--> <!--<POI>SOE:Weg von Andergast nach Anderstein</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>0.7348983021738587</longitude>
+				<latitude>31.25324324363301</latitude>
+				<altitude>350000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

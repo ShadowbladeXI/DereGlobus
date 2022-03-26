@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Ornaldsjoch</name>
+	<open>1</open>
+		<Placemark> 	<!-- Ornaldsjoch-->
+			<name>Ornaldsjoch</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Das <b>Ornaldsjoch</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Pass" title="Pass">Pass</a> über die <a href="http://www.wiki-aventurica.de/wiki/Drachensteine" title="Drachensteine">Drachensteine</a>, der das <a href="http://www.wiki-aventurica.de/wiki/Wei%C3%9Ftobrien" title="Weißtobrien" class="mw-redirect">weißtobrische</a> <a href="http://www.wiki-aventurica.de/wiki/Perainefurten" title="Perainefurten">Perainefurten</a> mit dem <a href="http://www.wiki-aventurica.de/wiki/Sieben-Baronien-Weg" title="Sieben-Baronien-Weg">Sieben-Baronien-Weg</a> verbindet. Im Zuge der <a href="http://www.wiki-aventurica.de/wiki/Borbaradkrise" title="Borbaradkrise" class="mw-redirect">Borbarad-Invasion</a> wurde der Pass ausgebaut.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					07.480892,34.171751,0  <!-- <POI>Station:Drakensteen</POI> --> <!-- <POI>SOE:Goblinstieg</POI> -->
+
+					7.514922541707232,34.16020465930156,0 
+					7.530638625532246,34.13076377593141,0 <!-- <POI>Abzweig:Sieben-Baronien-Weg</POI> -->
+					7.528566253177084,34.08122423849541,0 
+					7.558438063189376,34.06814228663485,0 
+					7.580908031062639,34.02804628819362,0 
+					7.631713803610971,33.9967984598612,0 
+					7.678075206691815,33.95489414614431,0 <!--<POI>Siedlung:Ornaldsruh</POI>-->
+					7.731048427991885,33.90308400948111,0 
+					7.78560232743637,33.87916515433803,0 
+					7.823880507954919,33.84231537018881,0 
+					7.849776288389972,33.84431387524145,0 
+					7.895070590430404,33.86068362945903,0 
+					7.940384471862744,33.82763173659936,0
+					7.953752533099159,33.79682714504729,0 <!--<POI>Siedlung:Burg Drachenhaupt</POI>--> <!--<POI>SOE:Raulsjoch</POI>-->
+					7.957714367707178,33.74434600934772,0 
+					7.968638059427935,33.72937779798783,0 
+					7.972042440918008,33.6807593269594,0 
+					8.008695580798385,33.63681875962304,0 
+					8.006967532690876,33.59849709281821,0 
+					7.98564667327658,33.56549914342321,0 
+					8.015416562548106,33.49840386740529,0 
+					8.0102867913563,33.46824098031318,0 
+					8.018771768253913,33.4327892899556,0 
+					8.012797931288013,33.40156716477347,0 
+					8.021841207657001,33.37077179997405,0 
+					8.030981219304616,33.3310824754468,0 
+					8.027549319662345,33.29378882443105,0 
+					7.998200998914252,33.2463595658138,0 
+					7.972705090615701,33.22434175490045,0 <!--<POI>Fluss:Tizam</POI>-->
+					7.958683562329676,33.1699709676282,0 
+					7.971411282694902,33.13975289442239,0 
+					7.997286021738366,33.11772023797493,0 
+					8.008287559026574,33.07793242736664,0 
+					8.039541034036779,33.03530248698232,0 <!--<POI>Siedlung:Tizamsauen</POI>-->
+					8.085473009234569,33.03388123814701,0 <!--Anfang Detailkarte Perainefurten</POI>-->
+					8.085743851176343,33.03340691773514,0 
+					8.086145060358021,33.03304784875873,0 
+					8.086559887619483,33.03271534882512,0 <!--<POI>Siedlung:Perainefurten</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>7.957649</longitude>
+				<latitude>33.643682</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

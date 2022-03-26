@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Sultansstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Sultansstraße-->
+			<name>Sultansstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Sultansstraße</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchom</a> mit <a href="http://www.wiki-aventurica.de/wiki/Mherwed" title="Mherwed">Mherwed</a> und passiert dabei <a href="http://www.wiki-aventurica.de/wiki/Chefe" title="Chefe">Chefe</a>, <a href="http://www.wiki-aventurica.de/wiki/Qashuk" title="Qashuk">Qashuk</a>, <a href="http://www.wiki-aventurica.de/wiki/Rashdul" title="Rashdul">Rashdul</a> und <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%A2nuba" title="Khânuba">Khânuba</a>. Zwischen den beiden Großstädten <a href="http://www.wiki-aventurica.de/wiki/Rashdul" title="Rashdul">Rashdul</a> und <a href="http://www.wiki-aventurica.de/wiki/Mherwed" title="Mherwed">Mherwed</a> begleitet sie den <a href="http://www.wiki-aventurica.de/wiki/Mhanadi" title="Mhanadi">Mhanadi</a>, weiter östlich umgeht sie das <a href="http://www.wiki-aventurica.de/wiki/Mhanadi" title="Mhanadi">Mhanadital</a> jedoch, um nicht durch die zweijährlich stattfindenden Überschwemmungen beeinträchtigt zu werden, dabei verläuft sie an den nördlichen Ausläufern der <a href="http://www.wiki-aventurica.de/wiki/Awalakim" title="Awalakim">Awalakim</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						07.468910596487637,25.01107811200439,0 <!--<POI>Siedlung:Khunchom</POI>--><!-- Ende Detailkarte Khunchom -->
+						07.468432,25.010663,0 
+						07.467962,25.009953,0 
+						07.467192,25.009263,0 
+						07.466259,25.008792,0		
+						07.465441,25.008601,0 <!-- Ende Detailkarte Khunchom-Region -->
+						07.464834,25.008464,0 <!--<POI>AbzweigungLinks:</POI>-->
+						07.463858,25.008269,0 
+						07.463031,25.008198,0 
+						07.462482,25.008237,0 
+						07.462014,25.008310,0 
+						07.461219,25.008416,0 
+						07.460506,25.008626,0 
+						07.459957,25.008606,0 
+						07.459419,25.008585,0 
+						07.458451,25.008210,0 
+						07.453661,25.006594,0 
+						07.442288,25.002625,0 
+						07.399652,24.983032,0 
+						07.388262,24.974462,0 <!--<POI>Flussquerung:Weißer Mhanadi</POI>-->
+						07.372778,24.959998,0 
+						07.351574,24.948940,0 <!--<POI>Siedlung:unbenannt</POI>-->  <!--<POI>Abzweigung:Straße nach Chalukand</POI>-->
+						07.330197,24.928610,0 
+						07.311417,24.911169,0 
+						07.291830,24.901512,0 
+						07.272052,24.886033,0 
+						07.257023,24.868480,0 
+						07.237702,24.850552,0 
+						07.215189,24.833187,0 
+						07.183312,24.807803,0 <!--<POI>Station:Karawanserei "Adamant von Awalkim"</POI>-->
+						07.163152,24.796631,0 
+						07.142234,24.787061,0 
+						07.130720,24.775708,0 
+						07.108083,24.765256,0 <!--<POI>Siedlung:Chefe</POI>--> <!--<POI>Abzweigung:Straße von Temphis nach Chefe</POI>-->
+						07.089678,24.749222,0 
+						07.080767,24.721569,0 
+						07.065985,24.704690,0 
+						07.070128,24.662091,0 
+						07.064184,24.647303,0 
+						07.063651,24.630146,0 
+						07.043679,24.607773,0 
+						07.037619,24.589002,0 
+						07.018601,24.564259,0 
+						07.015901,24.547731,0 
+						07.022336,24.531633,0 
+						07.027831,24.520538,0 
+						07.002011,24.499621,0 
+						07.000661,24.491297,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						07.001055,24.432958,0 
+						06.994857,24.409216,0 
+						06.982135,24.398584,0 
+						06.942011,24.374028,0 
+						06.927204,24.366759,0 
+						06.901230,24.340163,0 <!--<POI>Siedlung:unbenannt</POI>--> <!--<POI>Abzweigung:Straße nach Ghrú</POI>-->
+						06.878954,24.321348,0 
+						06.857678,24.309346,0 
+						06.815688,24.303837,0 
+						06.766637,24.301755,0 
+						06.731230,24.275375,0 
+						06.689700,24.264374,0 <!--<POI>Abzweigung:Weg nach Ghrú</POI>-->
+						06.664927,24.265250,0 
+						06.641367,24.276680,0 <!--<POI>Siedlung:Qashuk</POI>-->
+						06.609297,24.284271,0 
+						06.561084,24.283758,0 
+						06.525838,24.305113,0 
+						06.483435,24.307667,0 
+						06.444752,24.283125,0 
+						06.428724,24.279042,0 
+						06.403592,24.265077,0 
+						06.366580,24.265065,0 
+						06.336640,24.270136,0 
+						06.311310,24.265432,0 
+						06.290683,24.256921,0 
+						06.279186,24.254142,0 
+						06.274342,24.252467,0 
+						06.272310,24.250652,0 
+						06.271656,24.249428,0 
+						06.271526,24.248127,0 
+						06.271521,24.247902,0 <!-- Anfang Detailkarte Rashdul -->
+						06.271394,24.247458,0 
+						06.271303,24.247161,0 
+						06.271107,24.246780,0 
+						06.270916,24.246433,0 
+						06.270800,24.246252,0 
+						06.270773,24.246212,0 
+						06.270733,24.246182,0 
+						06.270629,24.246054,0 
+						06.270583,24.245972,0 
+						06.270532,24.245905,0 
+						06.270468,24.245793,0 
+						06.270381,24.245638,0 
+						06.270307,24.245493,0 
+						06.270256,24.245413,0 
+						06.270180,24.245270,0 
+						06.270131,24.245178,0 
+						06.270072,24.245097,0 
+						06.270025,24.244963,0 
+						06.269910,24.244759,0 
+						06.269868,24.244608,0 
+						06.269868,24.244502,0 
+						06.269866,24.244343,0 
+						06.269727,24.244176,0 
+						06.269254,24.244172,0 
+						06.269081,24.244123,0 
+						06.268974,24.244088,0 
+						06.268857,24.244088,0 
+						06.268674,24.244134,0 
+						06.268588,24.244143,0 
+						06.268536,24.243996,0 
+						06.268419,24.243804,0 
+						06.268062,24.243153,0 
+						06.267984,24.242926,0 
+						06.267982,24.242765,0 
+						06.267630,24.242029,0 
+						06.267573,24.241947,0 
+						06.267557,24.241841,0 
+						06.267490,24.241650,0 
+						06.267468,24.241492,0 
+						06.267454,24.241338,0 
+						06.267401,24.241188,0 
+						06.267335,24.241073,0 <!--<POI>Abzweigung:Karawanenroute von Keft nach Rashdul</POI>--><!--<POI>Abzweigung:Karawanenroute von Rashdul nach Unau</POI>-->
+						06.266943,24.241214,0 <!-- Ende Detailkarte Rashdul -->
+						06.266815,24.241263,0 <!--<POI>Flussquerung:Mhanadi</POI>-->
+						06.266688,24.241299,0 
+						06.266452,24.241383,0 
+						06.256216,24.244295,0 
+						06.247185,24.248161,0 
+						06.231616,24.247706,0
+						06.214937,24.234803,0 
+						06.205334,24.226750,0 
+						06.184062,24.220771,0 <!--<POI>Siedlung:Khânuba</POI>-->
+						06.166685,24.215586,0 
+						06.116831,24.214829,0 
+						06.097926,24.212577,0 
+						06.085012,24.207001,0 
+						06.065042,24.200393,0 
+						06.046797,24.199285,0 
+						06.034089,24.203186,0 
+						06.021531,24.212752,0 
+						06.004048,24.216580,0 
+						05.988885,24.224151,0 
+						05.969133,24.226852,0 
+						05.945275,24.231958,0 <!--<POI>Siedlung:unbenannt</POI>-->
+						05.928605,24.244213,0 
+						05.909564,24.279827,0 
+						05.901421,24.294230,0 
+						05.899073,24.300267,0 
+						05.897378,24.304040,0 
+						05.896263,24.304896,0 
+						05.894897,24.305409,0 
+						05.893460,24.305719,0   <!-- Anfang Detailkarte Mherwed -->
+						05.892745,24.305966,0 
+						05.892119,24.306325,0 
+						05.891611,24.306766,0 
+						05.891163,24.307198,0 
+						05.890876,24.307444,0
+						5.889761583598316,24.30863344007679,0 
+						5.888416247559825,24.31061185365301,0  <!--<POI>Siedlung:Mherwed</POI>--> <!-- <POI>SOE:Karawanenroute von Kireh nach Mherwed</POI> --> <!-- <POI>SOE:Straße von Al'Ahabad nach Mherwed</POI> --> <!-- <POI>SOE:Straße von Mherwed nach Ulahbar</POI> --> 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>6.686818</longitude>
+				<latitude>24.550409</latitude>
+				<altitude>187670</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

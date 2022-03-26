@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		<!-- STYLES -->
+		
+	<Style id="Antimon">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Antimon.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Blei">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Blei.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Eisen">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Eisen.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Gold">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Gold.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	
+	<Style id="Kupfer">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Kupfer.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Meteoreisen">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Meteoreisen.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Mondsilber">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Mondsilber.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Quecksilber">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Quecksilber.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+		
+		
+	<Style id="Silber">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Silber.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="SonstigeMetalle">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/SonstigeMetalle.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Wismut">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Wismut.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Zink">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Zink.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	
+	<Style id="Zinn">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Zinn.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Zwergengold">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Zwergengold.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+	<Style id="Zwergensilber">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType><maxSnippetLines>0</maxSnippetLines>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/media/icons/bodenschaetze/Zwergensilber.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<BalloonStyle>
+			<!-- a background color for the balloon -->
+			<bgColor>ffd5fcfd</bgColor>
+			<!-- styling of the balloon text -->
+			<text>
+				<![CDATA[
+				<font face="Mason" color="#CC0000" size="+3">$[name]</font>
+				<br/><br/>
+				<font>$[description]</font>
+				]]>
+			</text>
+			<textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	
+
+	
+	
+	
+
+
+	<Folder>
+		<name>Bodenschätze</name>
+		<Style>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		</Style>
+		<open>0</open>
+		<Folder>
+			<name>Metalle und Erze</name>
+			<open>0</open>
+			<description>Unter diese Kategorie fallen alle Metalle und deren Erze.</description>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+			<Folder>
+				<name>Eisen</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Eisen</b> ist ein unedles <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, das in <a href="http://www.wiki-aventurica.de/wiki/M%C3%BCnze" title="Münze" class="mw-redirect">Münzform</a> im <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">mittelreichischen</a> Kreuzer verwendet wird. Es ist Bestandteil bestimmter <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistischer</a> Rezepte, wird aber fast nie zur Herstellung von magischen <a href="http://www.wiki-aventurica.de/wiki/Artefakt" title="Artefakt">Artefakten</a> verwendet, da es den Fluss ungeformter <a href="http://www.wiki-aventurica.de/wiki/Astralenergie" title="Astralenergie">Astralenergie</a> stört. Aus diesem Grund werden eiserne Fesselungen oft bei <a href="http://www.wiki-aventurica.de/wiki/Magiebegabte" title="Magiebegabte" class="mw-redirect">magiebegabten</a> Gefangenen genutzt. Wichtige Eisenminen finden sich in den von <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwergen</a> bewohnten Gebirgen wie <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Amboss</a> oder <a href="http://www.wiki-aventurica.de/wiki/Eisenwald" title="Eisenwald">Eisenwald</a>.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Eisen_(Metall)">
+												Eisen (Metall)
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Eisen_(Metall)&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Eisen_(Metall)&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Eisen</styleUrl>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Das Lexikon des Schwarzen Auges S.294</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-3.235855100383172,22.63430108247859,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Die Einsiedlerin, S. 25</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.191344827025266,27.9337532766443,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-4.817714690282737,35.17122327508206,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Reich des Horas S.187</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-2.105837073401915,23.71169388084027,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Die Schicksalsklinge</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-5.46193964564163,32.82477678433693,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>7.186744468096505,24.18055227536426,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-0.7507395074003131,19.31716788777198,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-4.266092219159149,33.82466987264645,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>6.798367024118348,34.73256306008928,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167
+Das Lexikon des Schwarzen Auges S.74</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.8958778518274779,27.78877614203924,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167
+Das Lexikon des Schwarzen Auges S.74</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-0.02863254746527044,27.76123103282202,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167
+Das Lexikon des Schwarzen Auges S.20</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>1.912149223785005,28.19476320425774,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.9426891452531194,29.03765654636977,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.9998407569986112,29.78196830424703,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Stein - Isenborn I</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>5.99733553342954,31.52639260579079,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Reich des Roten Mondes S.41</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.415287640771842,35.262135955762,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Grassodenerz
+Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-1.969428279902822,34.55909423984716,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Grassodenerz
+Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>-1.493813007080427,38.34004637330074,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.674765501228185,30.57172001858832,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>10.13668588507681,24.36038821675398,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Grassodenerz
+Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>12.38351272469915,39.44630595331265,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Im Bann des Nornlichtes S.46</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>10.00800561593597,37.85701448642018,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Reich des Roten Mondes S.42</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.4463572197937094,34.62397507147615,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Das Lexikon des Schwarzen Auges S.25</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>1.404798228838093,29.89768829742484,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Das Lexikon des Schwarzen Auges S.62</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>4.618060807633406,34.77049575928309,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Schild des Reiches S.28</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>2.979595025993009,33.26153582477256,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Eisen</name>
+					<description>Das Lexikon des Schwarzen Auges S.104</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Eisen</styleUrl>
+					<Point>
+						<coordinates>0.1014809960991925,25.44549816873733,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Meteoreisen</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Meteoreisen</b> ist ein meist schwarzes, selten tiefblaues oder dunkelrotes <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, das nach <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">zwergischer</a> Qualifizierung zwar als Edelmetall gilt, dem die <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwerge</a> aber misstrauisch begegnen. In allen Fällen ist es magnetisch. Ein jedes <a href="http://www.wiki-aventurica.de/wiki/Schwarzes_Auge" title="Schwarzes Auge">Schwarzes Auge</a> besteht aus Meteoreisen.
+								</p>
+								<p>
+								Meteoreisen gilt als das <a href="http://www.wiki-aventurica.de/wiki/Progenitor-Metall" title="Progenitor-Metall">Progenitor-Metall</a> von <a href="http://www.wiki-aventurica.de/wiki/Endurium" title="Endurium">Endurium</a>. Gelegentlich ist das Metall von <a href="http://www.wiki-aventurica.de/wiki/Sph%C3%A4re" title="Sphäre">Sphärenwesen</a> bewohnt.
+								</p>
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Meteoreisen">
+												Meteoreisen
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Meteoreisen&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Meteoreisen&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Meteoreisen</styleUrl>
+				<Placemark>
+					<name>Meteoreisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Meteoreisen</styleUrl>
+					<Point>
+						<coordinates>1.705623201347286,20.92334230345628,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Meteoreisen</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Meteoreisen</styleUrl>
+					<Point>
+						<coordinates>2.123236762647227,34.87415161125531,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Blei</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Blei</b> ist ein unedles <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, das für Dächer, Glasfenster und die <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">Alchimie</a> von Bedeutung ist.
+								</p>
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Blei">
+												Blei
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Blei&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Blei&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Blei</styleUrl>
+				<Placemark>
+					<name>Blei</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>-1.679541234186067,23.35018958015049,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>1.341398064874095,33.14328689910782,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>1.523161300981197,35.24488980678687,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>0.5996273462694202,34.30037143448371,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>1.834577317046833,32.25995092657418,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Das Lexikon des Schwarzen Auges S.34</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>-2.59915987432429,23.61631948372017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Das Lexikon des Schwarzen Auges S.105</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>0.06040347319202999,25.57548002148425,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Blei</name>
+					<description>Das Lexikon des Schwarzen Auges S.163</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Blei</styleUrl>
+					<Point>
+						<coordinates>10.35265338769144,26.17463490616184,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kupfer</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Kupfer</b> ist ein unedles <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, das in <a href="http://www.wiki-aventurica.de/wiki/M%C3%BCnze" title="Münze" class="mw-redirect">Münzform</a> beispielsweise im <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">mittelreichischen</a> Heller verwendet wird. Es ist Bestandteil bestimmter <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistischer</a> Rezepte, und wird aufgrund des niedrigen Preises und geringen Komplikationen häufig zur Herstellung von magischen <a href="http://www.wiki-aventurica.de/wiki/Artefakt" title="Artefakt">Artefakten</a> verwendet. Die halbedlen Metalllegierungen <a href="/index.php?title=Bronze&amp;action=edit&amp;redlink=1" class="new" title="Bronze (Seite nicht vorhanden)">Bronze</a> und <a href="/index.php?title=Messing&amp;action=edit&amp;redlink=1" class="new" title="Messing (Seite nicht vorhanden)">Messing</a> bestehen zu großen Teilen aus Kupfer.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Kupfer">
+												Kupfer
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Kupfer&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Kupfer&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Kupfer</styleUrl>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Hinter dem Thron S.62</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>-0.1510155552705617,26.00552360015385,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Von Orks und Menschen S.57</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>1.72478785975404,35.01297113764723,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Drachenerbe - Auf dem Weltenwall S.50
+Das Lexikon des Schwarzen Auges S.74</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>12.57309174665497,37.12432871047612,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Von Orks und Menschen</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>1.660358911582198,35.48033863441246,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>8.392704167056067,33.86638519982218,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Im Bann des Nornlichtes S.46</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>10.16910303943252,37.81264408273045,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Reich des Roten Mondes S.41</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>-0.1223477088184677,35.57479109148586,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Reich des Roten Mondes S.45</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>-0.6272881043046041,35.205911038766,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Das Lexikon des Schwarzen Auges S.17</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>3.740665838870161,16.95408246574625,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Das Lexikon des Schwarzen Auges S.20</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>1.833581564446518,28.20903013340653,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Das Lexikon des Schwarzen Auges S.62</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>6.554492234582545,34.72911641344093,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Das Lexikon des Schwarzen Auges S.74</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>0.1498765998852369,27.79349506156974,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kupfer</name>
+					<description>Das Lexikon des Schwarzen Auges S.163</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Kupfer</styleUrl>
+					<Point>
+						<coordinates>10.68696812684491,26.61514919205986,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Zink</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+									<p>
+									<b>Zink</b> ist Teil von Messing.
+									</p>
+									</p>
+									<hr>
+										<div id="wiki">
+											<p>
+												<a href="http://www.wiki-aventurica.de">
+													<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+												</a>
+											</p>
+											<p>
+											Ein <a href="http://www.wiki-aventurica.de">Wiki Aventurica Artikel</a> existiert bisher noch nicht. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und den Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> zu schreiben sowie in DereGlobus einzufügen.
+											</p>
+										</div>
+									</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Zink</styleUrl>
+				<Placemark>
+					<name>Zink</name>
+					<description>Handelsherr und Kiepenkerl S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zink</styleUrl>
+					<Point>
+						<coordinates>0.8027710904594421,23.87254256858235,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Zinn</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Zinn</b> ist ein unedles <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Zinn">
+												Zinn
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Zinn&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Zinn&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Zinn</styleUrl>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Reich des Roten Mondes S.45</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>-0.9848380595956219,35.11613278017352,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>-1.612259388845392,23.38528266501139,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>0.9192954423194744,29.34517238052851,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>1.824529833398214,28.11662708386741,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Handelsherr und Kiepenkerl, S.167</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>0.4939448484700559,27.86335960067408,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Im Bann des Nordlichts S.54
+Das Lexikon des Schwarzen Auges S.74</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>12.50977655545485,36.99041585382294,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Das Lexikon des Schwarzen Auges S.17</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>3.369959104278346,16.92468545250419,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Das Lexikon des Schwarzen Auges S.25</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>1.377676339946197,29.86786502330579,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Das Lexikon des Schwarzen Auges S.34</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>-2.554254038597323,23.56657800945289,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Das Lexikon des Schwarzen Auges S.62</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>6.533301992821503,34.67965410198463,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Das Lexikon des Schwarzen Auges S.146</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>0.8134718726689894,30.26163797236959,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zinn</name>
+					<description>Das Lexikon des Schwarzen Auges S.163</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zinn</styleUrl>
+					<Point>
+						<coordinates>10.23104107103283,25.66667145366478,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Silber</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Silber</b> ist ein wertvolles <a href="http://www.wiki-aventurica.de/wiki/Edelmetall" title="Edelmetall" class="mw-redirect">Edelmetall</a>, das eine besondere Wirkung gegen magische Wesen besitzt. So wird es in Waffenform gegen <a href="http://www.wiki-aventurica.de/wiki/Werwesen" title="Werwesen">Werwesen</a> eingesetzt und auch für magische <a href="http://www.wiki-aventurica.de/wiki/Artefakt" title="Artefakt">Artefakte</a> verwendet. Außerdem ist es Bestandteil für bestimmte <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistische</a> Rezepte und wird in <a href="http://www.wiki-aventurica.de/wiki/M%C3%BCnze" title="Münze" class="mw-redirect">Münzform</a> in ganz <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventurien</a> und in <a href="http://www.wiki-aventurica.de/wiki/Myranor" title="Myranor">Myranor</a> verwendet.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Silber">
+												Silber
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Silber&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Silber&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Silber</styleUrl>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>5.663514111968626,30.43187767020846,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Feenflügel S.15</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>6.616359167030814,34.74011958515923,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Herz des Reichs S.140</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>2.085153850215558,28.18544762525028,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Katakomben und Kavernen S.30</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>1.018132084353849,29.52834618432347,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>2.393856287877054,32.6077369401837,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>6.680881787891742,32.90262838340588,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Hinter dem Thron S.62</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>-0.03048954953504657,25.68282150121516,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>-1.672304487441892,23.46291982568303,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>3.759367064549162,26.98253058541219,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Reich des Roten Mondes S.84</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>2.167898909836674,34.92983003215105,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Im Bann des Nornlichtes S.46</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>10.27031157901646,37.86660622657917,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Im Bann des Nornlichtes S.46</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>11.09179743487301,37.8390968907292,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Das Lexikon des Schwarzen Auges S.25</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>1.391089120517446,29.8469728468262,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Das Lexikon des Schwarzen Auges S.34</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>-2.646025259180985,23.54709467547664,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Silber</name>
+					<description>Das Lexikon des Schwarzen Auges S.59</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Silber</styleUrl>
+					<Point>
+						<coordinates>4.936940782965094,30.09248556715566,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mondsilber</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Mondsilber</b> ist ein hellsilbernes, in <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventurien</a> primär von <a href="http://www.wiki-aventurica.de/wiki/Magier" title="Magier">Magiern</a> geschätztes <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, dessen feine Fäden man in den seltenen "natürlich gewachsenen" <a href="http://www.wiki-aventurica.de/wiki/Kristallkugel" title="Kristallkugel">Kristallkugeln</a> findet, wo es <a href="http://www.wiki-aventurica.de/wiki/Hellsicht" title="Hellsicht">Hellsichtzauber</a> erleichtert. Es wird auch <b>Madasilber</b> genannt. Bei den Zwergen heißt es <b>Platin</b>.
+								</p>
+								<p>
+								Die <a href="http://www.wiki-aventurica.de/wiki/Hochelf" title="Hochelf">Hochelfen</a> nutzten es schon beinahe verschwenderisch als <a href="http://www.wiki-aventurica.de/wiki/R%C3%BCstung" title="Rüstung">Rüstungsmaterial</a>, sowohl rein als auch häufiger in <a href="/index.php?title=Legierung&amp;action=edit&amp;redlink=1" class="new" title="Legierung (Seite nicht vorhanden)">Legierung</a> mit <a href="http://www.wiki-aventurica.de/wiki/Stahl_%28Metall%29" title="Stahl (Metall)">Stahl</a> und <a href="http://www.wiki-aventurica.de/wiki/Mindorium" title="Mindorium">Mindorium</a>, da es die astralen Strömungen nicht behindert und somit <a href="http://www.wiki-aventurica.de/wiki/Elf" title="Elf">Elfen</a> (und theoretisch allen anderen Magiewirkern) das uneingeschränkte Tragen von Metallrüstungen erlaubt.
+								</p>
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Mondsilber">
+												Mondsilber
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Mondsilber&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Mondsilber&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Mondsilber</styleUrl>
+				<Placemark>
+					<name>Mondsilber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Mondsilber</styleUrl>
+					<Point>
+						<coordinates>0.8470183644208573,28.9064422151344,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mondsilber</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Mondsilber</styleUrl>
+					<Point>
+						<coordinates>0.9798184259935949,29.65314771692892,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mondsilber</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Reich des Roten Mondes S.84</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Mondsilber</styleUrl>
+					<Point>
+						<coordinates>2.108342599405906,34.91539422401765,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Zwergensilber</name>
+				<description>Seltenes metall, daß vor allem von Zwergen gefördert wird.</description>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Zwergensilber</b> oder <b>Toschkril</b> ist ein sehr hartes <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, das als Legierung für <a href="http://www.wiki-aventurica.de/wiki/Eisen_%28Metall%29" title="Eisen (Metall)">Eisen</a> und <a href="http://www.wiki-aventurica.de/wiki/Stahl_%28Metall%29" title="Stahl (Metall)">Stahl</a> verwendet wird. Es soll das <a href="http://www.wiki-aventurica.de/wiki/Progenitor-Metall" title="Progenitor-Metall">Progenitor-Metall</a> für <a href="http://www.wiki-aventurica.de/wiki/Titanium" title="Titanium">Titanium</a> sein. Aus ihm schmieden die <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwerge</a> besonders wertvolle <a href="http://www.wiki-aventurica.de/wiki/R%C3%BCstung" title="Rüstung">Rüstungen</a>. In <a href="http://www.wiki-aventurica.de/wiki/Myranor" title="Myranor">Myranor</a> wird das Metall <b>Schneesilber</b> genannt.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Zwergensilber">
+												Zwergensilber
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Zwergensilber&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Zwergensilber&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Zwergensilber</styleUrl>
+				<Placemark>
+					<name>Zwergensilber</name>
+					<description>Reich des Roten Mondes S.41</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zwergensilber</styleUrl>
+					<Point>
+						<coordinates>-0.4774898712073361,35.73481745915098,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Gold</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Gold</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Edelmetall" title="Edelmetall" class="mw-redirect">Edelmetall</a>, das in <a href="http://www.wiki-aventurica.de/wiki/M%C3%BCnze" title="Münze" class="mw-redirect">Münzform</a> in ganz <a href="http://www.wiki-aventurica.de/wiki/Aventurien" title="Aventurien">Aventurien</a> und in <a href="http://www.wiki-aventurica.de/wiki/Myranor" title="Myranor">Myranor</a> verwendet wird. Es ist Bestandteil bestimmter <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">alchimistischer</a> Rezepte und kann nur bedingt zur Herstellung von magischen <a href="http://www.wiki-aventurica.de/wiki/Artefakt" title="Artefakt">Artefakten</a> verwendet werden. Gold wird von der <a href="http://www.wiki-aventurica.de/wiki/Praios-Kirche" title="Praios-Kirche">Praios-Kirche</a> verwendet, um die Zuordnung zu Feuer und Licht zu unterstreichen. Das meiste Gold in Aventurien wird im <a href="http://www.wiki-aventurica.de/wiki/Hoher_Norden" title="Hoher Norden">Hohen Norden</a> gewonnen, da die <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a> bald erschöpft sein werden.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Gold">
+												Gold
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Gold&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Gold&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Gold</styleUrl>
+				<Placemark>
+					<name>Gold</name>
+					<description>Hinter dem Thron S.62</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>-0.05004532730230937,25.75279570773472,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Das Wirtshaus zum Schwarzen Keiler S.20</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>0.4855970077634253,29.89367911890214,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Reich des Roten Mondes S.84</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>2.203844787515086,34.89627977644017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Im Bann des Nornlichtes S.46</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>11.12347927016095,37.86400097693279,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Im Bann des Nornlichtes S.122</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>3.162512234307962,41.04746054953174,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Rotgold</name>
+					<description>Im Bann des Nordlichts S.59</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>3.63561952741684,41.02324348827118,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Reich des Roten Mondes S.41</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>-0.6867358059556727,35.78488046073687,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Reich des Roten Mondes S.42</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>0.6531900683186254,34.66907782177477,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Reich des Roten Mondes S.51</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>0.9694735352894135,33.1253412114103,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Das Lexikon des Schwarzen Auges S.25</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>1.414831788840896,29.87646199946451,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Im Bann des Nordlichts</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>6.227488726086527,37.95729303850083,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gold</name>
+					<description>Das Lexikon des Schwarzen Auges S.267</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Gold</styleUrl>
+					<Point>
+						<coordinates>11.46324735632284,15.88539084944279,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Zwergengold</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Zwergengold</b> (<a href="http://www.wiki-aventurica.de/wiki/Rogolan" title="Rogolan">rog.</a> <i>Angrak</i>) ist ein seltenes <a href="http://www.wiki-aventurica.de/wiki/Edelmetall" title="Edelmetall" class="mw-redirect">Edelmetall</a> von rotgoldener Farbe, das wesentlich härter und schwerer als normales <a href="http://www.wiki-aventurica.de/wiki/Gold" title="Gold">Gold</a> ist. Es besitzt darüber hinaus einen nie vergehenden Glanz und widersteht fast allen äußeren Effekten wie Korrosion oder Säuren. Die wenigen Fundstellen in den <a href="http://www.wiki-aventurica.de/wiki/Goldfelsen" title="Goldfelsen">Goldfelsen</a>, im <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Amboss</a> und in den <a href="http://www.wiki-aventurica.de/wiki/Beilunker_Berge" title="Beilunker Berge">Beilunker Bergen</a> werden von <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">Zwergen</a> kontrolliert und nur von ihnen kann das kostbare Metall erworben werden.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Zwergengold">
+												Zwergengold
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Zwergengold&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Zwergengold&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Zwergengold</styleUrl>
+				<Placemark>
+					<name>Zwergengold</name>
+					<description>Katakomben und Kavernen S.36</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zwergengold</styleUrl>
+					<Point>
+						<coordinates>0.1145879531189986,25.31993741114298,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zwergengold</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Katakomben und Kavernen S.36</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zwergengold</styleUrl>
+					<Point>
+						<coordinates>1.719982036351508,28.13452942727345,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Zwergengold</name>
+					<description>Katakomben und Kavernen S.36</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Zwergengold</styleUrl>
+					<Point>
+						<coordinates>8.79159838283568,29.54078946040068,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Quecksilber</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Quecksilber</b> ist ein edles <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>. In der <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">Alchimie</a> gilt es als äußerst "wandelbar".
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Quecksilber">
+												Quecksilber
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Quecksilber&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Quecksilber&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#Quecksilber</styleUrl>
+				<Placemark>
+					<name>Quecksilber</name>
+					<description>Abenteuer im Orkland</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Quecksilber</styleUrl>
+					<Point>
+						<coordinates>-0.009175341007382487,35.60860894991509,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Quecksilber</name>
+					<description>Das Lexikon des Schwarzen Auges S.163</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Quecksilber</styleUrl>
+					<Point>
+						<coordinates>10.09809552676954,25.28949039955839,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Quecksilber</name>
+					<description>Das Lexikon des Schwarzen Auges S.294</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#Quecksilber</styleUrl>
+					<Point>
+						<coordinates>-4.018469293969379,23.48457800009568,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mindorium</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Mindorium</b> gehört zu den fünf <a href="http://www.wiki-aventurica.de/wiki/Magisches_Metall" title="Magisches Metall">magischen Metallen</a>. Der Legende zufolge entsteht es, wenn geballte <a href="http://www.wiki-aventurica.de/wiki/Sph%C3%A4renkraft" title="Sphärenkraft">Sphärenkraft</a> <a href="/index.php?title=Quecksilber&amp;action=edit&amp;redlink=1" class="new" title="Quecksilber (Seite nicht vorhanden)">Quecksilber</a> durchströmt.
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Mindorium">
+												Mindorium
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Mindorium&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Mindorium&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#SonstigeMetalle</styleUrl>
+				<Placemark>
+					<name>Mindorium</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>6.102855452842551,24.96278601239876,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mindorium</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>3.752895308338666,24.91782044652478,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mindorium</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>-5.476450643797981,32.88464137653217,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mindorium</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>12.91457254022468,38.94626594740426,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Arkanium</name>
+				<description><![CDATA[<style type="text/css">
+						<!--
+							a:link, a:visited { text-decoration: none; color: #B21C19; }
+							a:hover { text-decoration: underline; color: #B21C19; }
+							hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+							#wiki { font-size:10px; }
+						-->
+					</style>
+					<table cellpadding="10" cellspacing="0" align="center">
+						<tr>
+							<td>
+								<p>
+								<b>Arkanium</b>, auch bekannt als <b>Marboblei</b>, gehört zu den fünf <a href="http://www.wiki-aventurica.de/wiki/Magisches_Metall" title="Magisches Metall">magischen Metallen</a>. Der Legende nach  entsteht es, wenn geballte <a href="http://www.wiki-aventurica.de/wiki/Sph%C3%A4renkraft" title="Sphärenkraft">Sphärenkraft</a> <a href="/index.php?title=Blei&amp;action=edit&amp;redlink=1" class="new" title="Blei (Seite nicht vorhanden)">Blei</a> durchströmt.
+
+								</p><p>Die <a href="/index.php?title=Siegelstempel&amp;action=edit&amp;redlink=1" class="new" title="Siegelstempel (Seite nicht vorhanden)">Siegelstempel</a> der <a href="http://www.wiki-aventurica.de/wiki/Magierakademie" title="Magierakademie">Magierakademien</a>, mit denen das <a href="http://www.wiki-aventurica.de/wiki/Magiersiegel" title="Magiersiegel">Magiersiegel</a> appliziert wird, bestehen aus Arkanium.
+								</p>
+								</p>
+								<hr>
+									<div id="wiki">
+										<p>
+											<a href="http://www.wiki-aventurica.de">
+												<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+											</a>
+										</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/Arkanium">
+												Arkanium
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0
+											</a>
+											.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/wiki/Arkanium&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/wiki/Arkanium&action=edit">
+												Artikel bearbeiten
+											</a>
+											.
+										</p>
+									</div>
+								</hr>
+							</td>
+						</tr>
+					</table>]]>
+				</description>
+				<styleUrl>#SonstigeMetalle</styleUrl>
+				<Placemark>
+					<name>Arkanium</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Katakomben und Kavernen S.39</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>6.824798883697117,34.81894388067013,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arkanium</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Katakomben und Kavernen S.39</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>0.8351149206629405,28.7563693021651,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arkanium</name>
+					<description>Patrizier und Diebesbanden, S.127
+Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>-0.4532059756010154,21.27601458595881,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arkanium</name>
+					<description>Handelsherr und Kiepenkerl, S.168</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>3.657760491173592,26.8424431527386,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Arkanium</name>
+					<description>Handelsherr und Kiepenkerl, S.168
+Reich des Roten Mondes S.84</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>2.216555989278166,34.9816935754667,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Seltene Metalle</name>
+				<styleUrl>#SonstigeMetalle</styleUrl>
+				<Placemark>
+					<name>Endurium</name>
+					<description><![CDATA[<style type="text/css">
+							<!--
+								a:link, a:visited { text-decoration: none; color: #B21C19; }
+								a:hover { text-decoration: underline; color: #B21C19; }
+								hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+								#wiki { font-size:10px; }
+							-->
+						</style>
+						<table cellpadding="10" cellspacing="0" align="center">
+							<tr>
+								<td>
+									<p>
+									<b>Endurium</b>, auch <b>Schwarzstahl</b> genannt, gehört zu den fünf <a href="http://www.wiki-aventurica.de/wiki/Magisches_Metall" title="Magisches Metall">magischen Metallen</a>. Der Legende nach entsteht es, wenn Meteoritenmetall von geballter <a href="http://www.wiki-aventurica.de/wiki/Sph%C3%A4renkraft" title="Sphärenkraft">Sphärenkraft</a> durchströmt wird.
+									</p>
+									<p>
+									Nur wahren Meistern des Handwerks und der <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">Alchimie</a> gelingt eine Weiterverarbeitung des <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metalls</a> bzw. seiner <a href="/index.php?title=Legierung&amp;action=edit&amp;redlink=1" class="new" title="Legierung (Seite nicht vorhanden)">Legierungen</a>. Hierzu zählen <a href="http://www.wiki-aventurica.de/wiki/Thorn_Eisinger" title="Thorn Eisinger">Thorn Eisinger</a>, <a href="/index.php?title=Ya%27ira_al_Azzim&amp;action=edit&amp;redlink=1" class="new" title="Ya'ira al Azzim (Seite nicht vorhanden)">Ya'ira al Azzim</a> sowie einige <a href="http://www.wiki-aventurica.de/wiki/Maraskan" title="Maraskan">maraskanische</a>, <a href="http://www.wiki-aventurica.de/wiki/Zwerg" title="Zwerg">zwergische</a> und <a href="http://www.wiki-aventurica.de/wiki/Nachtalb" title="Nachtalb">nachtalbische</a> <a href="http://www.wiki-aventurica.de/wiki/Schmied" title="Schmied">Schmiede</a>. Viele <a href="http://www.wiki-aventurica.de/wiki/Liste_ber%C3%BChmter_Waffen" title="Liste berühmter Waffen">berühmte Aventurische Waffen</a> – so auch die Kaiserklingen <a href="http://www.wiki-aventurica.de/wiki/Silpion" title="Silpion">Silpion</a> und <a href="http://www.wiki-aventurica.de/wiki/Alveranstreu" title="Alveranstreu">Alveranstreu</a> – bestehen aus Endurium. (Handelsherr und Kiepenkerl S.169)
+									</p>
+									</p>
+									<hr>
+										<div id="wiki">
+											<p>
+												<a href="http://www.wiki-aventurica.de">
+													<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+												</a>
+											</p>
+											<p>
+												Dieser Text basiert auf dem Artikel
+												<a href="http://www.wiki-aventurica.de/wiki/Endurium">
+													Endurium
+												</a>
+												aus der freien Website
+												<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+													Wiki Aventurica
+												</a>
+												und steht unter der
+												<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+													CC-BY-SA 3.0
+												</a>
+												.
+												Im Wiki Aventurica ist eine
+												<a href="http://www.wiki-aventurica.de/wiki/Endurium&action=history">
+													Liste der Autoren
+												</a>
+												verfügbar, dort kann man den
+												<a href="http://www.wiki-aventurica.de/wiki/Endurium&action=edit">
+													Artikel bearbeiten
+												</a>
+												.
+											</p>
+										</div>
+									</hr>
+								</td>
+							</tr>
+						</table>]]>
+					</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>9.936683780670869,24.82489728908141,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Titanium</name>
+					<description><![CDATA[<style type="text/css">
+							<!--
+								a:link, a:visited { text-decoration: none; color: #B21C19; }
+								a:hover { text-decoration: underline; color: #B21C19; }
+								hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+								#wiki { font-size:10px; }
+							-->
+						</style>
+						<table cellpadding="10" cellspacing="0" align="center">
+							<tr>
+								<td>
+									<p>
+									<b>Titanium</b> gehört zu den fünf <a href="http://www.wiki-aventurica.de/wiki/Magisches_Metall" title="Magisches Metall">magischen Metallen</a> und wird auch <b>Zeitenblende</b> genannt. Es gilt als <a href="http://www.wiki-aventurica.de/wiki/Gott" title="Gott">göttliches</a> <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>. <a href="http://www.wiki-aventurica.de/wiki/Alchimie" title="Alchimie">Alchimisten</a> behaupten, es könne die Eigenschaften jedes Metalls annehmen, und sehen es daher als Urform aller Metalle an. Die Schwerter <a href="http://www.wiki-aventurica.de/wiki/Siebenstreich_%28Waffe%29" title="Siebenstreich (Waffe)">Siebenstreich</a> und <a href="http://www.wiki-aventurica.de/wiki/Armalion_%28Waffe%29" title="Armalion (Waffe)">Armalion</a> bestehen aus Titanium. Es soll auch eine größere Menge in <a href="http://www.wiki-aventurica.de/wiki/Rondra" title="Rondra">Rondras</a> <a href="http://www.wiki-aventurica.de/wiki/Donnersturm" title="Donnersturm">Donnersturmwagen</a> verarbeitet sein. (Angroschs Kinder S.51)
+									</p>
+									<hr>
+										<div id="wiki">
+											<p>
+												<a href="http://www.wiki-aventurica.de">
+													<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+												</a>
+											</p>
+											<p>
+												Dieser Text basiert auf dem Artikel
+												<a href="http://www.wiki-aventurica.de/wiki/Titanium">
+													Titanium
+												</a>
+												aus der freien Website
+												<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+													Wiki Aventurica
+												</a>
+												und steht unter der
+												<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+													CC-BY-SA 3.0
+												</a>
+												.
+												Im Wiki Aventurica ist eine
+												<a href="http://www.wiki-aventurica.de/wiki/Titanium&action=history">
+													Liste der Autoren
+												</a>
+												verfügbar, dort kann man den
+												<a href="http://www.wiki-aventurica.de/wiki/Titanium&action=edit">
+													Artikel bearbeiten
+												</a>
+												.
+											</p>
+										</div>
+									</hr>
+								</td>
+							</tr>
+						</table>]]>
+					</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>1.829272018209909,28.21164201895393,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Cupritan</name>
+					<description><![CDATA[<style type="text/css">
+							<!--
+								a:link, a:visited { text-decoration: none; color: #B21C19; }
+								a:hover { text-decoration: underline; color: #B21C19; }
+								hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+								#wiki { font-size:10px; }
+							-->
+						</style>
+						<table cellpadding="10" cellspacing="0" align="center">
+							<tr>
+								<td>
+									<p>
+									<b>Cupritan</b> ist eine nicht anlaufende <a href="http://www.wiki-aventurica.de/wiki/Kupfer" title="Kupfer">Kupfer</a>-<a href="/index.php?title=Legierung&amp;action=edit&amp;redlink=1" class="new" title="Legierung (Seite nicht vorhanden)">Legierung</a>. Es kann nach dem <a href="http://www.wiki-aventurica.de/wiki/Sternenregen" title="Sternenregen">Sternenregen</a> im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svelltland</a> gefunden werden. (Reich des Roten Mondes S.84)
+									</p>
+									<hr>
+										<div id="wiki">
+											<p>
+												<a href="http://www.wiki-aventurica.de">
+													<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+												</a>
+											</p>
+											<p>
+												Dieser Text basiert auf dem Artikel
+												<a href="http://www.wiki-aventurica.de/wiki/Cupritan">
+													Cupritan
+												</a>
+												aus der freien Website
+												<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+													Wiki Aventurica
+												</a>
+												und steht unter der
+												<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+													CC-BY-SA 3.0
+												</a>
+												.
+												Im Wiki Aventurica ist eine
+												<a href="http://www.wiki-aventurica.de/wiki/Cupritan&action=history">
+													Liste der Autoren
+												</a>
+												verfügbar, dort kann man den
+												<a href="http://www.wiki-aventurica.de/wiki/Cupritan&action=edit">
+													Artikel bearbeiten
+												</a>
+												.
+											</p>
+										</div>
+									</hr>
+								</td>
+							</tr>
+						</table>]]>
+					</description>
+				<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>2.157913595743479,34.97647535464721,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Illuminium</name>
+					<description><![CDATA[<style type="text/css">
+							<!--
+								a:link, a:visited { text-decoration: none; color: #B21C19; }
+								a:hover { text-decoration: underline; color: #B21C19; }
+								hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+								#wiki { font-size:10px; }
+							-->
+						</style>
+						<table cellpadding="10" cellspacing="0" align="center">
+							<tr>
+								<td>
+									<p>
+									<b>Illuminium</b> ist ein in <a href="http://www.wiki-aventurica.de/wiki/Myranor" title="Myranor">Myranor</a> bekanntes <a href="http://www.wiki-aventurica.de/wiki/Metall" title="Metall">Metall</a>, das von innen heraus leuchtet. Nach dem <a href="http://www.wiki-aventurica.de/wiki/Sternenregen" title="Sternenregen">Sternenregen</a> kann es auch im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svelltland</a> gefunden werden.
+									</p>
+									<hr>
+										<div id="wiki">
+											<p>
+												<a href="http://www.wiki-aventurica.de">
+													<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+												</a>
+											</p>
+											<p>
+												Dieser Text basiert auf dem Artikel
+												<a href="http://www.wiki-aventurica.de/wiki/Illuminium">
+													Illuminium
+												</a>
+												aus der freien Website
+												<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+													Wiki Aventurica
+												</a>
+												und steht unter der
+												<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+													CC-BY-SA 3.0
+												</a>
+												.
+												Im Wiki Aventurica ist eine
+												<a href="http://www.wiki-aventurica.de/wiki/Illuminium&action=history">
+													Liste der Autoren
+												</a>
+												verfügbar, dort kann man den
+												<a href="http://www.wiki-aventurica.de/wiki/Illuminium&action=edit">
+													Artikel bearbeiten
+												</a>
+												.
+											</p>
+										</div>
+									</hr>
+								</td>
+							</tr>
+						</table>]]>
+					</description>
+					<styleUrl>http://dereglobus.googlecode.com/svn/Release/Handel/style/Handelswaren.kml#SonstigeMetalle</styleUrl>
+					<Point>
+						<coordinates>2.225795463502935,34.94293570843841,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

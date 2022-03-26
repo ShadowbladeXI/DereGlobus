@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Küstenstraße von Thorwal nach Nostria</name>
+	<open>1</open>
+		<Placemark> 	<!-- Küstenstraße von Thorwal nach Nostria-->
+			<name>Küstenstraße von Thorwal nach Nostria</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Küstenstraße</b> – auf nostrischem Boden <b>Nostrische Küstenstraße</b> genannt – ist neben dem Seeweg die Hauptverbindungsstrecke zwischen dem <a href="http://www.wiki-aventurica.de/wiki/K%C3%B6nigreich_Nostria" title="Königreich Nostria">Königreich Nostria</a> und <a href="http://www.wiki-aventurica.de/wiki/Thorwal" title="Thorwal">Thorwal</a>. Entlang des Küstengebiets des <a href="http://www.wiki-aventurica.de/wiki/Meer_der_Sieben_Winde" title="Meer der Sieben Winde">Meers der Sieben Winde</a> erreicht die gut ausgebaute Straße die wichtigsten Küstenstädte <a href="http://www.wiki-aventurica.de/wiki/Thorwal_%28Stadt%29" title="Thorwal (Stadt)">Thorwal</a>, <a href="http://www.wiki-aventurica.de/wiki/Kendrar" title="Kendrar">Kendrar</a>, <a href="http://www.wiki-aventurica.de/wiki/Salza" title="Salza">Salza</a>/<a href="http://www.wiki-aventurica.de/wiki/Salzerhaven" title="Salzerhaven">Salzerhaven</a>, <a href="http://www.wiki-aventurica.de/wiki/Trontsand" title="Trontsand">Trontsand</a> und <a href="http://www.wiki-aventurica.de/wiki/Nostria" title="Nostria">Nostria</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-4.125668578027336,32.71467267638324,0  <!--<POI>Siedlung:Thorwal</POI>-->
+						-4.125344589649121,32.71423569138093,0 
+						-4.125061055946474,32.71427590951979,0 
+						-4.124609535743447,32.71316962077427,0  <!--Ende Detailkarte Thorwal</POI>-->
+						-4.102391183267443,32.67195402751946,0 
+						-04.104357,32.654720,0	<!--<POI>Siedlung:Serske</POI>--> <!--<POI>Abzweigung:Heidestieg</POI>-->
+						-04.100266,32.587432,0	
+						-04.110403,32.557349,0	
+						-04.138533,32.499085,0	
+						-04.170373,32.442196,0	<!--<POI>Siedlung:Merske</POI>-->
+						-04.182703,32.425482,0	
+						-04.186479,32.414900,0	
+						-04.188825,32.406438,0	
+						-04.195278,32.376264,0	
+						-04.210646,32.350166,0	
+						-04.219721,32.297284,0	<!--<POI>Siedlung:Efferdûn</POI>--> <!--<POI>Abzweigung:Straße von Efferdûn nach Lyckmoor</POI>-->
+						-04.229324,32.236597,0	
+						-04.255799,32.195781,0	
+						-04.258162,32.168240,0	
+						-04.263642,32.150758,0	
+						-04.273300,32.129625,0	
+						-4.343538641525248,32.04168845138929,0  <!--<POI>Siedlung:Svafdûn</POI>-->
+						-4.358321024382629,32.00079687743785,0 
+						-4.381883865232288,31.96427130633926,0 
+						-4.39175917426774,31.91574379802713,0 
+						-4.419174749713733,31.84001424326053,0 
+						-4.43048488463342,31.77392910530211,0  <!--<POI>Siedlung:Lerpin</POI>-->
+						-4.41581063376545,31.7348682013435,0 
+						-4.412309128879771,31.70573239045313,0
+						-4.364389467110384,31.63324399755655,0  <!--<POI>Siedlung:Lervik</POI>-->
+						-4.347096450912897,31.62299477603245,0 
+						-4.29323385775176,31.6216287230571,0 
+						-4.265584354285074,31.61343830012121,0  <!--<POI>Flussquerung:Angra</POI>-->
+						-4.243117662333155,31.5987180529884,0  <!--<POI>Siedlung:Kendrar</POI>--> <!--<POI>Abzweigung:Heidestieg</POI>-->
+						-4.185890512121392,31.55253019833691,0 
+						-4.154825129506846,31.54784656452968,0 
+						-4.127164156219786,31.53256991533743,0 
+						-4.111782725792005,31.51536023889507,0 
+						-4.061096127713185,31.49214477417633,0 
+						-4.044208782431278,31.4745070287029,0 
+						-4.030089111009694,31.4345257895677,0 
+						-4.003219816289566,31.40922540103493,0 
+						-3.986947650691982,31.35424660346497,0 
+						-3.960289941704559,31.3074114008425,0 
+						-3.961843166534792,31.29025293891817,0 
+						-3.984746994554524,31.28207808910881,0  <!--Anfang Detailkarte Salza</POI>-->
+						-3.984376062440409,31.28131572319853,0  <!--<POI>Flussquerung:Ingval</POI>-->
+						-3.984079553519283,31.28043335768304,0 
+						-3.984086648184918,31.27975913558582,0  <!--<POI>Siedlung:Salza</POI>--> <!--<POI>Abzweigung:Sâlweg</POI>-->
+						-3.984117891690051,31.27904142248454,0  
+						-3.983765650715933,31.27816747740181,0 
+						-3.983419318627814,31.27763270715522,0  <!-- Ende Detailkarte Salza</POI> -->
+						-3.952416305863313,31.25957801011901,0 
+						-3.986197741550068,31.22097577265706,0 
+						-03.989770,31.202987,0	
+						-03.991457,31.185374,0	
+						-04.016140,31.158269,0	
+						-04.020735,31.141497,0	
+						-04.019051,31.124991,0	
+						-04.010602,31.106820,0	
+						-03.991443,31.081771,0	
+						-03.953722,31.069267,0	
+						-03.931244,31.077497,0	
+						-03.913922,31.077631,0	
+						-03.889753,31.067611,0	
+						-03.854853,31.065639,0	
+						-03.837474,31.072067,0	
+						-03.822363,31.070876,0	
+						-03.803485,31.064377,0	
+						-03.786601,31.063780,0	
+						-03.766510,31.045075,0	<!--<POI>Abzweigung:Weg nach Yoledamm</POI>-->
+						-03.688771,30.957344,0	
+						-03.663021,30.915855,0	
+						-03.632693,30.880926,0	<!--<POI>Siedlung:unbenannt</POI>-->
+						-03.611693,30.829703,0	
+						-03.595980,30.812446,0	
+						-03.576130,30.789796,0	
+						-03.559129,30.757458,0	
+						-03.536929,30.734661,0	
+						-03.520921,30.713423,0	
+						-03.512955,30.684380,0	
+						-03.495463,30.657813,0	
+						-03.487030,30.649059,0	<!--<POI>Siedlung:Trontsand</POI>--> <!--<POI>Abzweigung:</POI>-->
+						-03.444814,30.614855,0	
+						-03.433647,30.588762,0	
+						-03.432621,30.564683,0	
+						-03.414166,30.521077,0	
+						-03.421468,30.482758,0	
+						-03.423405,30.440670,0	
+						-03.405974,30.409799,0	
+						-03.373823,30.379750,0	
+						-03.357587,30.370318,0	<!--<POI>Siedlung:unbenannt</POI>-->
+						-03.338777,30.352880,0	
+						-03.320082,30.322989,0	
+						-03.291097,30.301191,0	
+						-03.274245,30.292094,0	
+						-03.253540,30.273245,0	<!--<POI>Siedlung:unbenannt</POI>-->
+						-03.239128,30.258090,0	
+						-03.208944,30.242009,0	
+						-03.194827,30.227851,0	
+						-03.189854,30.207722,0	
+						-03.173137,30.190957,0	
+						-03.160798,30.175851,0	
+						-03.157962,30.166821,0	
+						-03.142870,30.156362,0	
+						-03.134210,30.132098,0	
+						-03.121516,30.122077,0	<!--<POI>Siedlung:unbenannt</POI>--> <!--<POI>Abzweigung:</POI>-->
+						-03.110513,30.119336,0	
+						-03.091666,30.117221,0	
+						-03.070627,30.107632,0	
+						-03.051476,30.093865,0	
+						-03.034051,30.078753,0	<!--<POI>Abzweigung:</POI>-->
+						-03.026246,30.064398,0	
+						-03.015652,30.052934,0	
+						-03.012918,30.048668,0	
+						-03.012980,30.047594,0	
+						-03.013210,30.046711,0	
+						-03.013567,30.045919,0	
+						-03.013643,30.045251,0	
+						-03.013476,30.044707,0	
+						-03.012833,30.044044,0	<!--Anfang Detailkarte Nostria</POI>-->
+						-03.012580,30.043869,0	
+						-03.012215,30.043499,0	
+						-03.011923,30.043111,0	
+						-03.011502,30.042731,0	
+						-03.011253,30.042462,0	<!--<POI>Flussquerung:Tommel</POI>-->
+						-03.010944,30.042001,0	
+						-03.010947,30.041837,0	
+						-03.010949,30.041665,0	
+						-03.010956,30.041298,0	
+						-03.010969,30.041178,0	
+						-03.010984,30.040743,0	
+						-03.011001,30.040326,0	
+						-03.011015,30.040263,0	
+						-03.011042,30.039748,0	
+						-03.011080,30.039218,0	
+						-03.010977,30.039115,0	<!--<POI>Siedlung:Nostria</POI>--> <!-- <POI>SOE:Straße von Nostria nach Havena</POI>--> <!--<POI>SOE:Straße von Nostria nach Seshwick</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>-4.041969</longitude>
+				<latitude>31.505055</latitude>
+				<altitude>600000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

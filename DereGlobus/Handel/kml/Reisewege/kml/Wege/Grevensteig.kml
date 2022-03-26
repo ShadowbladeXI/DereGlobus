@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Grevensteig</name>
+	<open>1</open>
+		<Placemark> 	<!-- Grevensteig-->
+			<name>Grevensteig</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Grevensteig</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Angbar" title="Angbar">Angbar</a> aus in südlicher Richtung am <a href="http://www.wiki-aventurica.de/wiki/Angbarer_See" title="Angbarer See">Angbarer See</a> entlang und windet sich anschließend durch die südlichen <a href="http://www.wiki-aventurica.de/wiki/Koschberge" title="Koschberge">Koschberge</a> ins Tal des <a href="http://www.wiki-aventurica.de/wiki/Der_Gro%C3%9Fe_Fluss" title="Der Große Fluss">Großen Flusses</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					1.424059112173493,29.88278783525194,0   <!-- <POI>Siedlung:Angbar</POI> --> <!-- <POI>SOE:Reichsstraße 3</POI> -->
+					1.423644386090177,29.88272815985943,0 
+					1.423427036240919,29.88279882903339,0 
+					1.422336404029976,29.88263729049923,0 
+					1.422028147721637,29.88227633142536,0 
+					1.421958289038419,29.8820845127235,0 
+					1.422012630205065,29.88186240869094,0 
+					1.421469262211146,29.88162010276735,0 
+					1.421294606024193,29.88161673382376,0 
+					1.421116065815136,29.88171095659934,0 
+					1.4208257680862,29.88167403344483,0 
+					1.420666640964321,29.88157643829775,0 
+					1.420565733272599,29.8814485572132,0 
+					1.420534689415234,29.88126346877856,0 
+					1.420561862099696,29.88113222545755,0 
+					1.420693829638953,29.88091685396724,0 
+					1.420728764830073,29.88075868875751,0 
+					1.420728769581792,29.88063017875663,0 
+					1.420550248272037,29.8802229818116,0 
+					1.420523086490193,29.88002106722088,0 
+					1.420546381628511,29.8797484837594,0 
+					1.420604609073077,29.87946777050482,0 
+					1.420612378213209,29.879245665509,0 
+					1.420558048814149,29.87902692383609,0 
+					1.420453262884716,29.87885865884137,0  <!-- Ende Detailkarte Angbar -->
+					1.414640965584879,29.81387472790792,0 
+					1.414337135932542,29.81218447735251,0  <!--<POI>Siedlung:Stippwitz</POI>-->
+					1.414708382123771,29.78315475519612,0 
+					1.434563432108771,29.75093602988054,0 
+					1.436935130410182,29.72611904272551,0 
+					1.431612240914229,29.71661717852458,0 
+					1.428918274054818,29.68351030811381,0  <!--<POI>Flussquerung:Sindel</POI>-->
+					1.424183732734303,29.6581448868797,0 
+					1.414256010578008,29.6442048389752,0 
+					1.409238428407376,29.62743492713361,0 
+					1.377871975313403,29.59067106449968,0 
+					1.372351223534871,29.5676148356608,0 
+					1.368592442507441,29.5572476091551,0 
+					1.354482113385691,29.53853490497376,0 
+					1.349693729232684,29.51957777492611,0 
+					1.349972265228472,29.4989848774716,0 
+					1.356858631420754,29.47741360070776,0 <!--<POI>Siedlung:Rohalssteg</POI>-->
+					1.362839186963409,29.45266533046543,0 
+					1.366389086748616,29.43037627902668,0 
+					1.35365988214162,29.40863328850685,0 
+					1.334745322390651,29.39355793318319,0 
+					1.321503368488652,29.38030959671923,0 <!--<POI>Flussquerung:Hils</POI>-->
+					1.307717858560364,29.36584118308003,0 
+					1.300631583411873,29.34764727697878,0 
+
+				1.30216652903336,29.32253838300915,0 
+				1.301865204815742,29.31541286146763,0 <!-- Anfang Detailkarte Rhôndur</POI> --> 	
+				1.301740986444173,29.3152443845882,0 
+				1.301604652630755,29.31497901884264,0 
+				1.301186927079625,29.31482549996638,0 
+				1.300713939183196,29.31422593765291,0 
+				1.300638231127431,29.31383351662755,0 
+				1.300809125758777,29.31306662147618,0 
+				1.300658151762073,29.3128920694713,0 
+				1.300318638184321,29.31282584315709,0 <!--<POI>Siedlung:Rhôndur</POI>--> <!--<POI>Abzweig:Rittersteig</POI>-->
+				1.300500895334893,29.31207335847492,0 
+				1.300840320887757,29.31148723467767,0 
+				1.300720089435683,29.31082268880661,0 
+				1.300915521126773,29.31005389757548,0 
+				1.301038534224521,29.30975037053979,0 
+				1.301113121834929,29.30942782531007,0 
+				1.301320667670487,29.30914060330185,0 
+				1.301702550015513,29.30895359863451,0 
+				1.301978682547293,29.3086601389552,0 <!-- Ende Detailkarte Rhôndur</POI> --> 	
+				1.286241252022291,29.28820694760801,0 
+				
+					1.259752223907618,29.27799496558454,0 
+					1.218397482541047,29.2567321621562,0 
+					1.189896239691497,29.25734473148304,0 
+					1.158567126764902,29.2482871860883,0 
+
+				1.127745219168284,29.24315180182119,0 
+				1.111000864036387,29.22660793275747,0 
+				1.110604712244296,29.22638153056994,0 
+				1.110287969911235,29.22632470874315,0 
+				1.10977656488171,29.22656477076107,0 <!--<POI>Siedlung:Koschtal</POI>-->
+				1.109299333720462,29.22665414815493,0 
+				1.098265671473759,29.22924035250229,0 
+				
+					1.06668559183883,29.21109871684951,0 
+					1.060909166988144,29.20277560804648,0 
+					1.062239061219363,29.19350872975861,0 <!--<POI>Flussquerung:</POI>-->
+					1.065661175512103,29.18498251683476,0 
+					1.087674396262142,29.15790571307024,0 
+					1.073958179668844,29.13264507998595,0 
+					1.059886045365281,29.11343856769807,0 
+					1.047973738291104,29.09186240848224,0 
+					1.031041081266748,29.06726679174665,0 
+					1.025879789667299,29.0468806766586,0 
+					1.02630258902974,29.02102087880448,0 
+					1.039753240453902,28.99938817528567,0 
+					1.051434959388198,28.98142540190301,0 
+					1.059395547623498,28.95935167820209,0 
+					1.07492928055251,28.93884933900974,0 
+					1.084609992528596,28.91491383692124,0 
+					1.09297926423694,28.89284591211603,0 <!--<POI>Siedlung:Koschgau</POI>-->
+					1.107815249183519,28.87410085708359,0 
+					1.124508076618327,28.85820886729782,0 
+					1.144621555048551,28.83939254513809,0 
+					1.166757908089013,28.80611311153194,0 
+					1.197549593636429,28.78232305565116,0 
+					1.247340502357746,28.74731116721215,0 
+					1.305983100387573,28.69963865758863,0 
+					1.322670685298306,28.67949036537349,0 
+					1.336908990183523,28.66143185800583,0 
+					1.350480448721658,28.65691453615026,0 
+					1.377078261174649,28.6343037119169,0 
+					1.391683352859039,28.62428774563152,0 
+					1.400105158267493,28.60701132374646,0 
+					1.432678952360982,28.58783449930235,0 
+					1.466002128556283,28.58604081685083,0 
+					1.505378762848912,28.56015332699246,0 <!--<POI>Siedlung:Uztrutz</POI>-->
+					1.556525438957406,28.51359632853943,0 <!--<POI>Flussquerung:Der Große Fluss</POI>-->
+					1.566753199673239,28.50394056246115,0 <!--<POI>Ende:Grevensteig</POI>--> <!--<POI>SOE:Straße von Twergenhausen nach Bragahn</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>1.443788</longitude>
+				<latitude>29.201083</latitude>
+				<altitude>300000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

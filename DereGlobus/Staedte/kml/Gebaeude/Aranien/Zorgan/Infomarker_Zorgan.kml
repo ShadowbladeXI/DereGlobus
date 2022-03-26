@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+       <Folder>
+        <name>Infomarker Zorgan</name>
+		<Region>
+      <LatLonAltBox>
+         <north>27.18345584486184</north>
+			<south>27.14599929213049</south>
+			<east>6.982196534288823</east>
+			<west>6.952597196188759</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+    <Placemark>
+			<name>Infomarker</name>
+			<description><![CDATA[<style type="text/css"><!--
+				a:link, a:visited { text-decoration: none; color: #d5ac00; }
+				a:hover { text-decoration: underline; color: #d5ac00; }
+				hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+				#footnote { font-size:10px; }
+				--></style>
+				<p><table>
+					<b>Bei folgenden Bauwerken fehlen uns bislang noch Daten zur Positionierung. Wir freuen uns über Hinweise, welche sich in untenstehenden Publikationen finden lassen könnten. Dein DereGlobus-Team.</b><br/><br/> 
+					<b>Gasthäuser:</b><br/>
+					Teehaus Lotosblüte<br/> 
+					Taverne Pfauenauge<br/> 
+					Herberge Abu Radjinas Kajüte<br/> 
+					Hotel Altzorgan<br/> 
+					Taverne Madala<br/> 
+					Taverne Rüffeltopf<br/> 
+					Herberge Alt Zorrigan<br/>
+					<b>Handelsstätten:</b><br/>
+					Pfandleiherin<br/> 
+					<b>Privathäuser:</b><br/>
+					Wohnaus<br/> 
+					Stadtvilla<br/> 
+					<b>Sakrale Bauwerke:</b><br/>
+					Boronkloster<br/> 
+					Tsa-Tempel<br/> 
+					Firun-Tempel<br/> 
+					Boron-Tempel<br/> 
+					Travia-Tempel<br/> 
+					Efferd-Tempel<br/> 
+					Rahja-Hain<br/>
+					Ordenshaus Yppolitaner<br/> 
+					<b>Werkstätten:</b><br/>
+					Botenhaus Beilunker Reiter<br/> 
+					Fürstlich Aranische Stellmacherei<br/> 
+					Stellmacherei Serai al'Perphi<br/> 
+					Näherin<br/> 
+					Tuchhändler<br/> 
+					Kontor El-Nabab<br/> 
+					Kontor Perisunya<br/>
+					Wahrsagerin<br/> 
+					<br/>
+					<br/><B>Mögliche Quellen:</B><br/>
+					Das Land des Schwarzen Auges, S. 102<br/>
+					Aventurien - Das Lexikon des Schwarzen Auges, S. 287<br/>
+					Blutrosen und Marasken, S. 52<br/>
+					Die Welt des Schwarzen Auges, S. 71<br/>
+					Geographia Aventurica, S. 67<br/>
+					Basargeschichten, S. 96<br/>
+					Efferds Wogen, S. 85<br/>
+					Die Legende von Assarbad, S. 138<br/>
+					Handelsherr und Kiepenkerl, S. 48<br/>
+					<HR><font size=-1> Diese Quellen stammen von gnom und wurden <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke.</TR></TABLE></p>]]>
+					</description>
+			<LookAt>
+				<longitude>6.950243</longitude>
+				<latitude>27.166340</latitude>
+				<altitude>0</altitude>
+				<range>400</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Menue/style/menue.kml#menue</styleUrl>
+			<Point>
+				<coordinates>6.950243,27.166340,0</coordinates>
+			</Point>
+		</Placemark>
+		</Folder>
+    </Document>
+</kml>

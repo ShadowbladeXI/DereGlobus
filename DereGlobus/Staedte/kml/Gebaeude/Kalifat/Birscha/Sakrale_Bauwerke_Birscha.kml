@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+             <Folder>
+        <name>Sakrale Bauwerke Birscha</name>
+	<Region>
+		<LatLonAltBox>
+			<north>23.81298014153157</north>
+			<south>23.80869217165211</south>
+			<east>2.327067021500694</east>
+			<west>2.320435406253254</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+        <Placemark>
+          <name>Rastullah-Bethaus</name>
+          <LookAt>
+            <longitude>2.323492158148666</longitude>
+            <latitude>23.81059265191499</latitude>
+            <altitude>1000</altitude>
+            <range>536.408823051166</range>
+            <tilt>0</tilt>
+            <heading>-0.8799815576699255</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Sakralbauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Bethaus des Rastullah in Birscha</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_97">
+            <coordinates>2.322465980958564,23.81023029041784,0</coordinates>
+          </Point>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>
+			Das <b>Rastullah-Bethaus</b> liegt direkt am See der Oase. Es ist ein kleines Geb&auml;ude, dessen T&uuml;r immer offen steht, aber von den Einheimischen nur selten besucht wird. Zu den <a href="http://www.wiki-aventurica.de/wiki/Rastullahellah">Festtagen</a>, werden gro&szlig;e Feiern im Bethaus veranstaltet.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" /></a>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

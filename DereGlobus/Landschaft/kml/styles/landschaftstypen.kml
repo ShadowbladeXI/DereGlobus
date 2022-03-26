@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+<name>Landschaftstypen-Styles</name>
+
+				<!-- Zuerst definieren wir alle Stylemaps der verschiedenen Landschaftstypen -->
+	<StyleMap id="ewiges-eis">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ewiges-eis-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ewiges-eis-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliche-tundra">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliche-tundra-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliche-tundra-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliche-graslaender-steppen">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliche-graslaender-steppen-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliche-graslaender-steppen-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliches-hochland">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliches-hochland-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliches-hochland-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="kalkgebirge">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#kalkgebirge-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#kalkgebirge-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="andere-mittellaendische-gebirge">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#andere-mittellaendische-gebirge-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#andere-mittellaendische-gebirge-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliche-waelder-westkueste">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliche-waelder-westkueste-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliche-waelder-westkueste-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliche-waelder-taiga">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliche-waelder-taiga-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliche-waelder-taiga-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliche-waelder-bornland">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliche-waelder-bornland-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliche-waelder-bornland-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="noerdliche-suempfe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#noerdliche-suempfe-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#noerdliche-suempfe-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="mittellaendische-graslaender-steppen">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mittellaendische-graslaender-steppen-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mittellaendische-graslaender-steppen-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="mittellaendische-waelder-gemaessigt">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mittellaendische-waelder-gemaessigt-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mittellaendische-waelder-gemaessigt-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="mittellaendische-waelder-yaquirisch">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mittellaendische-waelder-yaquirisch-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mittellaendische-waelder-yaquirisch-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="mittellaendische-waelder-tobrisch">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mittellaendische-waelder-tobrisch-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mittellaendische-waelder-tobrisch-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="immergruene-waelder">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#immergruene-waelder-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#immergruene-waelder-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="suedlaendische-graslaender-steppen">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#suedlaendische-graslaender-steppen-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#suedlaendische-graslaender-steppen-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="wuestenrandgebiete">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wuestenrandgebiete-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wuestenrandgebiete-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="wueste">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#wueste-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#wueste-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="suedlaendische-gebirge">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#suedlaendische-gebirge-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#suedlaendische-gebirge-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="maraskan">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#maraskan-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#maraskan-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="suedliche-suempfe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#suedliche-suempfe-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#suedliche-suempfe-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="regenwald">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#regenwald-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#regenwald-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="suedliche-regengebirge">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#suedliche-regengebirge-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#suedliche-regengebirge-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="ifirns-ozean">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ifirns-ozean-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ifirns-ozean-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="meer-der-sieben-winde">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#meer-der-sieben-winde-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#meer-der-sieben-winde-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="suedmeer">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#suedmeer-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#suedmeer-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="perlenmeer">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#perlenmeer-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#perlenmeer-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+
+
+
+				<!-- So, ab hier werden die einzelnen Styles definiert -->
+				<!-- M�gliche Styles sind 
+					<IconStyle>...</IconStyle>
+					<LabelStyle>...</LabelStyle>
+					<LineStyle>...</LineStyle>
+					<PolyStyle>...</PolyStyle>
+					<BalloonStyle>...</BalloonStyle>
+					<ListStyle>...</ListStyle>
+
+					Davon brauchen wir f�r die Landschaftstypen nur LineStyle und Polystyle -->
+
+
+
+
+
+	<Style id="mittellaendische-waelder-tobrisch-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600aa00</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+		
+	</Style>
+	<Style id="mittellaendische-waelder-tobrisch-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>7f005500</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9000aa00</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+	<Style id="mittellaendische-graslaender-steppen-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	<Style id="mittellaendische-graslaender-steppen-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>7f00f9f9</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9000ffff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="noerdliche-suempfe-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>99005555</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	<Style id="noerdliche-suempfe-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>7f005555</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc005555</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+<Style id="andere-mittellaendische-gebirge-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>99000000</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	<Style id="andere-mittellaendische-gebirge-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>99000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>cc000000</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	<Style id="wueste-n">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+	<Style id="wueste-h">
+		<ListStyle><maxSnippetLines>0</maxSnippetLines></ListStyle>
+		<LineStyle>
+			<color>7f00f9f9</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9000ffff</color>
+		</PolyStyle>
+		<BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FFD5FCFD</bgColor>
+        <!-- styling of the balloon text -->
+<text><![CDATA[<font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+<br/><br/>
+$[description]]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+</Document>
+</kml>

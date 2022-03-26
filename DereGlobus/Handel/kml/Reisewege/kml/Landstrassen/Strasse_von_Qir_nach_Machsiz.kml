@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Straße von Qir nach Machsiz</name>
+	<open>1</open>
+		<Placemark> 	<!-- Straße von Qir nach Machsiz-->
+			<name>Straße von Qir nach Machsiz</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.461405037660707,22.29324175540133,0   <!-- <POI>Siedlung:Qir</POI> -->
+						2.465278254324523,22.2779634034546,0 
+						2.483116786811821,22.25837143153558,0 
+						2.510811423392414,22.18081891107384,0   <!-- <POI>Abzweig:Karawanenroute von Keft nach Machsiz</POI> -->
+						2.496660865126348,22.16857919074881,0   <!-- <POI>Flussquerung:Szinto</POI> -->
+						2.490046393062058,22.14543002168803,0 	<!-- <POI>Siedlung:Machsiz</POI> --> <!-- <POI>SOE:Karawanenroute von Keft nach Machsiz</POI> -->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>2.517383</longitude>
+				<latitude>22.259507</latitude>
+				<altitude>64900</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Knüppeldamm von Drôl nach Port Corrad</name>
+	<open>1</open>
+		<Placemark> 	<!-- Knüppeldamm von Drôl nach Port Corrad-->
+			<name>Knüppeldamm von Drôl nach Port Corrad</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Der <b>Knüppeldamm</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Verkehrsweg" title="Verkehrsweg">Verkehrsweg</a>, der <a href="http://www.wiki-aventurica.de/wiki/Drôl" title="Drôl">Drôl</a> mit <a href="http://www.wiki-aventurica.de/wiki/Port_Corrad" title="Port Corrad">Port Corrad</a> verbindet und durch die <a href="http://www.wiki-aventurica.de/wiki/Sumpf" title="Sumpf">Sümpfe</a> und <a href="http://www.wiki-aventurica.de/wiki/Gewässer&amp;action=edit&amp;redlink=1" class="new" title="Gewässer (Seite nicht vorhanden)">Gewässer</a> des <a href="http://www.wiki-aventurica.de/wiki/Loch_Harodrôl" title="Loch Harodrôl">Loch Harodrôl</a> führt. Einmal jährlich zieht hier die <a href="http://www.wiki-aventurica.de/wiki/Seidenkarawane" title="Seidenkarawane">Seidenkarawane</a> vorbei.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+						-0.533811066311527,22.7289099578323,0    <!-- <POI>Siedlung:Drôl</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> --> <!-- <POI>SOE:Straße von Aldenia nach Drôl</POI> --> 
+						-0.5314702183372089,22.72588496931209,0  <!-- Ende Detailkarte Drôl -->
+						-0.5314970801428087,22.72414434354404,0 
+						-0.5377467314416817,22.71968388914708,0 
+						-0.5415843913295848,22.69868019765436,0 
+						-0.5030956642229711,22.57817182597337,0   <!-- <POI>Siedlung:Mikram</POI> -->	 <!-- <POI>Abzweig:Drunab-Straße</POI> --> 
+						-0.4562400553580914,22.53667558975869,0 
+						-0.400395589196253,22.53086316906768,0 
+						-0.3444795245751731,22.49824103387212,0 
+						-0.2995736183745901,22.45703552951206,0 
+						-0.292329503666886,22.43683784497911,0   <!-- <POI>Siedlung:Chaleba</POI> --> <!-- <POI>Abzweig:Straße nach Gravina</POI> --> 
+						-0.2979452118314219,22.40940179867021,0 
+						-0.2868704150701051,22.37494715808502,0 
+						-0.3161874648607466,22.24637921681524,0  <!-- <POI>Siedlung:Morbal</POI> -->	 
+						-0.3483304757156347,22.21315951004211,0 
+						-0.3573787558155617,22.17791844348209,0  <!-- <POI>Siedlung:Winneb</POI> --> <!-- <POI>Abzweig:Straße von Theniran nach Winneb</POI> --> 	
+						-0.3135492228708048,22.10804252325875,0 
+						-0.2820296406765521,22.07396667091561,0 
+						-0.2381079799365127,22.05328963905291,0 
+						-0.1966755058936665,22.04151217495604,0
+						-0.1528015653214743,22.00739527625752,0 
+						-0.0541004767781017,21.90625950441456,0 
+						-0.03769934467592218,21.87458671915449,0 
+						-0.04167607362641101,21.85677128126298,0 
+						-0.06256178584545968,21.84519252248818,0 
+						-0.06109329032097821,21.83125680099717,0 
+						-0.02350946915216645,21.8120708911927,0 
+						-0.0162184697446599,21.79736496141877,0 
+						-0.03284843974522,21.77611147152404,0 
+						-0.02894790206378506,21.75437554130436,0  <!-- <POI>Siedlung:Lorfas</POI> --> <!-- <POI>Abzweig:Seidenstraße</POI> --> 					
+						0.01160698095469037,21.72872385163485,0 
+						0.07449585356071653,21.70598472276546,0 
+						0.09811131273615104,21.68085672557953,0 
+						0.1047731906195115,21.6640611567944,0 
+						0.1254266975578267,21.64464459451704,0 
+						0.1435805239256682,21.56898859925779,0 
+						0.1592226110204797,21.55093719468032,0 
+						0.1615255236210356,21.53019905462919,0 
+						0.1727131445145491,21.51537695563724,0   <!-- <POI>Siedlung:Heldenrain</POI> -->
+						0.2613920990654872,21.46060911138098,0 
+						0.392703202419824,21.45945330799806,0 
+						0.4418647233311313,21.46957253234381,0 
+						0.4776521645357423,21.46819157480493,0 
+						0.515212555080693,21.48602206719808,0 
+						0.5598556294353485,21.48450341782944,0 
+						0.5965562603203134,21.44786324344104,0 
+						0.6302789343049642,21.43899478591232,0 
+						0.6496057217009921,21.41905688956022,0 
+						0.663383643262605,21.37467295400564,0 
+						0.6882975201321817,21.3525579853109,0 
+						0.7139273577567806,21.33952852284324,0   <!-- <POI>Siedlung:El Arrat</POI> --> <!-- <POI>Abzweig:Straße nach Vishia</POI> --> 
+						0.7352691106750831,21.31700938712214,0 
+						0.7828898034956522,21.24339641243962,0 
+						0.7990960495949762,21.18942894194996,0 
+						0.8075363665807811,21.17431675436298,0 
+						0.8105435786299386,21.16990079038871,0   <!-- Anfang Detailkarte Kannemünde -->
+						0.8124819576430187,21.16825856826613,0   <!-- <POI>Siedlung:Kannemünde</POI> --> <!-- <POI>SOE:Karawanenroute von Mirham nach Selem</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-0.135435</longitude>
+				<latitude>21.948581</latitude>
+				<altitude>270700</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

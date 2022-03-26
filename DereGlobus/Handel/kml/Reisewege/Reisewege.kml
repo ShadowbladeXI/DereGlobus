@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		
+		<NetworkLink> <!-- Reichsstraßen -->
+			<name>Reichsstraßen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1200</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Reichsstrassen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		
+		
+		
+		
+		<NetworkLink> <!-- Reichslandstraßen -->
+			<name>Reichslandstraßen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>1800</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>			
+			
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Reichslandstrassen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		
+		
+		
+		
+		
+		<NetworkLink> <!-- Landstraßen -->
+			<name>Landstraßen</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			
+		<Region>
+         <LatLonAltBox>
+            <north>44.68523182173993</north>
+            <south>13.83211470255367</south>
+            <east>13.82951187257615</east>
+            <west>-8.928795211729799</west>
+         </LatLonAltBox>
+         <Lod>
+           <minLodPixels>3000</minLodPixels>
+           <maxLodPixels>-1</maxLodPixels>
+           <minFadeExtent>0</minFadeExtent>
+           <maxFadeExtent>0</maxFadeExtent>
+         </Lod>
+        </Region>			
+			
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Landstrassen.kml</href>
+			</Link>
+		</NetworkLink>
+		
+		
+		
+		
+		
+		
+		<NetworkLink> <!-- Wege -->
+			<name>Wege</name>
+			<visibility>1</visibility>
+			<Snippet maxLines="0"></Snippet>
+			
+				<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>			
+			
+			<Link>
+				<href>http://dereglobus.googlecode.com/svn/Release/Handel/kml/Reisewege/Wege.kml</href>
+			</Link>
+		</NetworkLink>
+		
+	
+</Document>
+</kml>

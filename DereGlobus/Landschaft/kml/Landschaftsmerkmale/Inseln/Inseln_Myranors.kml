@@ -1,0 +1,2695 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+
+	<Region>
+		<Lod>
+			<minLodPixels>10000</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+
+    <Folder>
+      <open>0</open>
+      <name>Inseln Myranors</name>
+      <Placemark>
+        <name>Eikey</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>Eikey ist eine Insel im <a href="http://www.wiki-aventurica.de/wiki/Odalwik&action=edit&redlink=1">Odalwik</a>.<br>
+Quelle: Roman <a href="http://www.wiki-aventurica.de/wiki/Sturm">Sturm</a> S. 7 (Karte von Hjaldingard)</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+          <longitude>-46.11017628501776</longitude>
+          <latitude>29.61614050725504</latitude>
+          <altitude>0</altitude>
+          <range>543922.805394836</range>
+          <tilt>1.973421962424903</tilt>
+          <heading>-0.9408929347353359</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+        <Point>
+          <coordinates>-45.86587337313057,29.74188551288073,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Archipel von Serovia</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+          <longitude>-43.39605518477809</longitude>
+          <latitude>22.7166818977178</latitude>
+          <altitude>0</altitude>
+          <range>1207697.972068157</range>
+          <tilt>0.1398226486603913</tilt>
+          <heading>-11.40254149538037</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+        <Point>
+          <coordinates>-43.32947240380288,22.54907304328191,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Folder>
+        <name>Inseln der Galeerenbucht</name>
+        <open>0</open>
+        <Placemark>
+          <name>Era´Sumu</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-46.13757617837903</longitude>
+            <latitude>9.939811702801032</latitude>
+            <altitude>0</altitude>
+            <range>828617.05426466</range>
+            <tilt>1.93280736717045</tilt>
+            <heading>-3.602480978762022</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-46.13757617837904,9.939811702801032,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Lev´tasu</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-43.01400632430343</longitude>
+            <latitude>10.80647184217168</latitude>
+            <altitude>0</altitude>
+            <range>86670.2560225591</range>
+            <tilt>1.933678448951046</tilt>
+            <heading>-3.087869046228233</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-43.00842870982278,10.7378730505589,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Nimoras</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-50.20071833585896</longitude>
+            <latitude>8.605653562487841</latitude>
+            <altitude>0</altitude>
+            <range>139242.2392376762</range>
+            <tilt>1.934332013427567</tilt>
+            <heading>-4.409670820891755</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-50.26601782767903,8.683288795400264,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Asucar</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-51.2956290564563</longitude>
+            <latitude>10.81270512890762</latitude>
+            <altitude>0</altitude>
+            <range>314798.2443872546</range>
+            <tilt>1.934549916483983</tilt>
+            <heading>-4.588611891479784</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-51.2956290564563,10.81270512890762,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Arathax</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-50.71679914596005</longitude>
+            <latitude>13.0844073843281</latitude>
+            <altitude>0</altitude>
+            <range>145718.4977273885</range>
+            <tilt>1.936075913371191</tilt>
+            <heading>-4.467628600203815</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-50.71679914596005,13.0844073843281,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+      </Folder>
+      <Folder>
+        <open>0</open>
+        <name>Archipel von Shindrabar</name>
+        <Placemark>
+          <name>Archipel von Shindrabar</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<b>Shindrabar</b> ist eine Inselgruppe vor der Ostküste <a href="http://www.wiki-aventurica.de/wiki/Makshapuram" title="Makshapuram">Makshapurams</a>, die auch <b>Archipel der Schlangen</b> genannt wird. Die Inseln sind meist gebirgig und nur an den Küsten spärlich besiedelt. Im Landesinnern befinden sich Vulkane und Dschungel. Fast jede Insel wird autonom von <a href="http://www.wiki-aventurica.de/wiki/Schlangenpriester&amp;action=edit&amp;redlink=1" class="new" title="Schlangenpriester (Seite nicht vorhanden)">Schlangenpriestern</a> regiert, auf einigen befinden sich Handelskolonien anderer Völker, was erklärt, dass es fünf verschiedene shindrabarische Dialekte gibt. Haupthandelswaren sind <a href="http://www.wiki-aventurica.de/wiki/Reis" title="Reis">Reis</a>, <a href="http://www.wiki-aventurica.de/wiki/Kokospalme&amp;action=edit&amp;redlink=1" class="new" title="Kokospalme (Seite nicht vorhanden)">Kokosnüsse</a>, <a href="http://www.wiki-aventurica.de/wiki/Palme&amp;action=edit&amp;redlink=1" class="new" title="Palme (Seite nicht vorhanden)">Palmen</a>, <a href="http://www.wiki-aventurica.de/wiki/Pelz" title="Pelz">Pelze</a>, <a href="http://www.wiki-aventurica.de/wiki/Edelholz&amp;action=edit&amp;redlink=1" class="new" title="Edelholz (Seite nicht vorhanden)">Edelhölzer</a>, Gewürze, Farbstoffe, <a href="http://www.wiki-aventurica.de/wiki/Heilpflanze" title="Heilpflanze">Heil-</a> und <a href="http://www.wiki-aventurica.de/wiki/Giftpflanze" title="Giftpflanze" class="mw-redirect">Giftpflanzen</a> sowie <a href="http://www.wiki-aventurica.de/wiki/Schlangengift&amp;action=edit&amp;redlink=1" class="new" title="Schlangengift (Seite nicht vorhanden)">Schlangengifte</a>.
+
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-37.07985885563564</longitude>
+            <latitude>2.519411702590534</latitude>
+            <altitude>0</altitude>
+            <range>672760.4915410011</range>
+            <tilt>0</tilt>
+            <heading>5.789843636519268</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-37.59577035622866,3.323209244574286,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Uchabaja</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Uchabaja
+ "> Uchabaja </a> ist eine mittelgroße Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  An der Südküste der Insel liegen die verlassenen Ruinen der alten imperialen Metropole <a href="http://www.wiki-aventurica.de/wiki/Sidor Sindara"> Sidor Sindara </a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/ Uchabaja "> Uchabaja </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-35.99838191198503</longitude>
+            <latitude>4.040356200733392</latitude>
+            <altitude>0</altitude>
+            <range>77912.05332203272</range>
+            <tilt>0.1362420223538249</tilt>
+            <heading>-10.02873714607638</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-35.99838191198503,4.040356200733392,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Murakam</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Murakam "> Murakam </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  
+Das Innere der Insel wird von einem gewaltigen Vulkan bestimmt, dessen Ascheablagerungen  die schwarzen Strände der Insel hervorgebracht haben.<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/ Murakam "> Murakam </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-37.56319800846338</longitude>
+            <latitude>5.877699409180622</latitude>
+            <altitude>0</altitude>
+            <range>43578.33617612716</range>
+            <tilt>0.2857931929320426</tilt>
+            <heading>-64.82694934383177</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-37.58482588718482,5.862385252729841,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Djanar</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<a href="http://www.wiki-aventurica.de/wiki/Djanar">Djanar</a> ist die größte Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>, und schon immer eine der reichsten und für das Archipel kulturell bedeutensten gewesen, so steht hier z.B. das berühmte <a href="http://www.wiki-aventurica.de/wiki/Observatorium von Semparang">Observatorium von Semparang </a>. Sie ist, wie alle Inseln des Archipels an den Küsten mit Dschungel bedeckt, jedoch erheben sich in ihrem Inneren auch hohe Berge, auf denen ein tropischem Hochwald wächst. 
+
+
+Die Insel wurde in den Jahren 4620 bis 4668 IZ von den <a href="http://www.wiki-aventurica.de/wiki/ Kerrishiter "> Kerrishiter</a>n vom Bund von Talaminas (<a href="http://www.wiki-aventurica.de/wiki/Kerrish-Thalam ">Kerrish-Thalam</a>) erobert, die seit dem die Einheimischen <a href="http://www.wiki-aventurica.de/wiki/ Shindrabarim"> Shindrabarim</a> ausbeuten.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Djanar">Djanar</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-36.6855648241621</longitude>
+            <latitude>1.129633224105269</latitude>
+            <altitude>0</altitude>
+            <range>616056.9448600793</range>
+            <tilt>0</tilt>
+            <heading>-2.897575540001469</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-36.9920506799798,1.123593727280746,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Alampang</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Alampang "> Alampang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Alampang">Alampang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <Camera>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.45504529530739</longitude>
+            <latitude>6.593913600311926</latitude>
+            <altitude>46047.17338364438</altitude>
+            <heading>-10.51525674747716</heading>
+            <tilt>0.4895531604547225</tilt>
+            <roll>6.193457956515971</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </Camera>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-34.40086454069535,6.67000811696786,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Attawak</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Attawak "> Attawak </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Attawak">Attawak</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.75214269652854</longitude>
+            <latitude>2.23490115563704</latitude>
+            <altitude>0</altitude>
+            <range>616056.9448600762</range>
+            <tilt>0</tilt>
+            <heading>-2.84022294173386</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-35.39125561066637,2.788644885951196,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Lalewar</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<a href="http://www.wiki-aventurica.de/wiki/ Lalewar "> Lalewar </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/ Lalewar "> Lalewar </a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-35.7666444851012</longitude>
+            <latitude>0.5021767014759445</latitude>
+            <altitude>0</altitude>
+            <range>121871.5629851543</range>
+            <tilt>0.285176976832617</tilt>
+            <heading>0.1247866022787852</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-35.75863825164806,0.4503225377016596,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Djolopandang</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Djolopandang "> Djolopandang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie liegt gegenüber von Melakkam im Archipel von Shindrabar und ist seit etwa 4700 IZ Mittelpunkt des Reiches des Kriegerfürsten <a href="http://www.wiki-aventurica.de/wiki/Padjang Pandang">Padjang Pandang </a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Djolopandang">Djolopandang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-39.63229193209284</longitude>
+            <latitude>2.548290979634624</latitude>
+            <altitude>0</altitude>
+            <range>206184.7174804832</range>
+            <tilt>0</tilt>
+            <heading>-14.63199187746819</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-39.6492593489857,2.600663069466392,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Hemutra</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Hemutra "> Hemutra </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Hemutra">Hemutra</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-36.29829913344521</longitude>
+            <latitude>7.187586355275746</latitude>
+            <altitude>0</altitude>
+            <range>46718.76989053065</range>
+            <tilt>2.36190985925137</tilt>
+            <heading>-4.458630439009538</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-36.29829913344521,7.187586355275746,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Lakabajanga</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Lakabajanga "> Lakabajanga </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Lakabajanga">Lakabajanga</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <Camera>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-32.83864106787602</longitude>
+            <latitude>3.886048623710383</latitude>
+            <altitude>105078.1062214145</altitude>
+            <heading>115.589820811069</heading>
+            <tilt>0.05524014065969292</tilt>
+            <roll>120.6672448693601</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </Camera>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-33.18449419497302,3.923036505569324,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Brahamagun</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Brahamagun "> Brahamagun </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Brahamagun">Brahamagun</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-33.84768712914103</longitude>
+            <latitude>7.128577416575801</latitude>
+            <altitude>0</altitude>
+            <range>63336.80627013723</range>
+            <tilt>2.361380076993889</tilt>
+            <heading>-4.175673343807584</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-33.7784814808433,7.166900137641682,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Ilambajan</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Ilambajan "> Ilambajan </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Außerdem ist sie eine der beiden Heimatinseln der <a href="http://www.wiki-aventurica.de/wiki/Nyamaunir">Nyamaunir</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Ilambajan">Ilambajan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.97161641412703</longitude>
+            <latitude>8.334053560190899</latitude>
+            <altitude>0</altitude>
+            <range>296852.5876723997</range>
+            <tilt>0</tilt>
+            <heading>-14.58826834265327</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-34.97161641412703,8.334053560190899,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Manwantang</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Manwantang "> Manwantang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Manwantang">Manwantang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <Camera>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.90480959231314</longitude>
+            <latitude>5.873185568914029</latitude>
+            <altitude>72779.90223712746</altitude>
+            <heading>-12.88693131480864</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </Camera>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-34.81167356377791,5.965182892994842,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Doluwan</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Doluwan "> Doluwan </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Außerdem ist sie eine der beiden Heimatinseln der <a href="http://www.wiki-aventurica.de/wiki/Nyamaunir">Nyamaunir</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Doluwan">Doluwan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-33.43714476643319</longitude>
+            <latitude>6.279432943978469</latitude>
+            <altitude>0</altitude>
+            <range>106658.6447423146</range>
+            <tilt>0</tilt>
+            <heading>-14.44271310014506</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-33.43714476643319,6.279432943978469,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Sarilau</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Sarilau "> Sarilau </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Sarilau">Sarilau</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <Camera>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.26517086743231</longitude>
+            <latitude>5.424528249799042</latitude>
+            <altitude>614936.9311186252</altitude>
+            <heading>53.15380303743815</heading>
+            <tilt>0.04644118064112809</tilt>
+            <roll>71.10786311797946</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </Camera>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-35.36098473981907,5.004964223004915,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Lodalungun</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Lodalungun "> Lodalungun </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. 
+Der hiesige Hohepriester der <a href="http://www.wiki-aventurica.de/wiki/Shindrabarim">Shindrabarim</a> hat sich mit den <a href="http://www.wiki-aventurica.de/wiki/Serover">Serover</a>n verbündet. Diese unterhalten hier einen Handelsstützpunkt.
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Lodalungun">Lodalungun</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-37.29851875156482</longitude>
+            <latitude>7.460992126158772</latitude>
+            <altitude>0</altitude>
+            <range>162815.2182138058</range>
+            <tilt>3.711441709016044</tilt>
+            <heading>-9.809773884013641</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-37.29851875156482,7.460992126158772,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Gurjamang</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Gurjamang "> Gurjamang </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Gurjamang">Gurjamang</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-39.21012259330346</longitude>
+            <latitude>1.802581826697696</latitude>
+            <altitude>0</altitude>
+            <range>66308.55039348583</range>
+            <tilt>0</tilt>
+            <heading>-14.61323732121758</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-39.37987451135296,1.780824943816138,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Barawan</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Barawan "> Barawan </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Mit <a href="http://www.wiki-aventurica.de/wiki/Sengabaru">Sengabaru</a> gehört sie zu den letzten zwei Inseln, die dem Imperium noch im Archipel geblieben sind. 
+Sie gehört offiziell zum <a href="http://www.wiki-aventurica.de/wiki/Horasiat Cantera">Horasiat Cantera</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Barawan">Barawan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-39.28310355682069</longitude>
+            <latitude>7.057070830895979</latitude>
+            <altitude>0</altitude>
+            <range>123766.4174637157</range>
+            <tilt>3.712258548593838</tilt>
+            <heading>-10.05088187157362</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-39.2967447611632,6.927759868812569,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Bahari</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Bahari "> Bahari </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Auf ihr gibt es die Stadt <a href="http://www.wiki-aventurica.de/wiki/Alonka">Alonka </a>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Bahari">Bahari</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-35.46695485113069</longitude>
+            <latitude>6.024014818248791</latitude>
+            <altitude>0</altitude>
+            <range>54723.59884468218</range>
+            <tilt>12.16847232751999</tilt>
+            <heading>4.141259727639931</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-35.56615541491436,6.035202525650838,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Sengabaru</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Sengabaru "> Sengabaru </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt. Mit <a href="http://www.wiki-aventurica.de/wiki/Barawan">Barawan</a> gehört sie zu den letzten zwei Inseln, die dem Imperium noch im Archipel geblieben sind. Sie gehört offiziell zum <a href="http://www.wiki-aventurica.de/wiki/Horasiat Cantera">Horasiat Cantera</a>.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Sengabaru">Sengabaru</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-40.10601133221045</longitude>
+            <latitude>6.182835519129568</latitude>
+            <altitude>0</altitude>
+            <range>57327.03910401299</range>
+            <tilt>12.16467607561157</tilt>
+            <heading>3.711430774519135</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-40.14327586218229,6.131042991291333,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Maryakatra</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Maryakatra "> Maryakatra </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Maryakatra">Maryakatra</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-38.59366270950177</longitude>
+            <latitude>4.992987413773719</latitude>
+            <altitude>0</altitude>
+            <range>68973.61831096571</range>
+            <tilt>12.17037052862475</tilt>
+            <heading>3.82481541099936</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-38.69404856489184,5.016456019627762,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Durdawan</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Durdawan "> Durdawan </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Durdawan">Durdawan</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-40.40772841192413</longitude>
+            <latitude>5.067268207237906</latitude>
+            <altitude>0</altitude>
+            <range>209176.1075879878</range>
+            <tilt>0.05612571070041247</tilt>
+            <heading>115.2496672642237</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-40.40772841192413,5.067268207237906,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Andamutra</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Andamutra "> Andamutra </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>. Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Andamutra">Andamutra</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <Camera>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-39.12748631378666</longitude>
+            <latitude>3.521939750180878</latitude>
+            <altitude>139195.6429526724</altitude>
+            <heading>52.7585579062931</heading>
+            <tilt>0.0498689146683797</tilt>
+            <roll>70.88311957765312</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </Camera>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-39.19107102669839,3.602143452632875,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Chawak</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Chawak "> Chawak </a> ist eine kleine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Chawak">Chawak</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <Camera>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.02365426059467</longitude>
+            <latitude>2.66340088085721</latitude>
+            <altitude>134290.4067621092</altitude>
+            <heading>115.5560279261205</heading>
+            <tilt>0.05501708221250286</tilt>
+            <roll>120.5386482405306</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </Camera>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-34.10142142408391,2.622869076971045,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Anawak</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<a href="http://www.wiki-aventurica.de/wiki/ Anawak "> Anawak </a> ist eine Insel im Archipel von <a href="http://www.wiki-aventurica.de/wiki/Shindrabar">Shindrabar </a>.  Sie ist, wie alle Inseln des Archipels mit tropischem Dschungel bedeckt.
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/Anawak">Anawak</a>
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+</div>
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-34.5652275015844</longitude>
+            <latitude>3.43619143919863</latitude>
+            <altitude>0</altitude>
+            <range>137377.7921326271</range>
+            <tilt>0.05619590472906454</tilt>
+            <heading>115.521133898102</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-34.5652275015844,3.43619143919863,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+      </Folder>
+      <Placemark>
+        <name>Makalimat</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+          <longitude>-42.65937409772287</longitude>
+          <latitude>-7.81184247101289</latitude>
+          <altitude>0</altitude>
+          <range>561805.9022638593</range>
+          <tilt>24.75400003621917</tilt>
+          <heading>1.259646073501244</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+        <Point>
+          <coordinates>-42.67641307839524,-7.650659339568911,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Yil´Aparu</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+          <longitude>-45.61350900592637</longitude>
+          <latitude>-11.60934294596955</latitude>
+          <altitude>0</altitude>
+          <range>126188.2529296312</range>
+          <tilt>2.355031711359991</tilt>
+          <heading>-3.110162677624676</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+        <Point>
+          <coordinates>-45.61350900592637,-11.60934294596955,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Placemark>
+        <name>Yil´Ashada</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+          <longitude>-44.91368213562805</longitude>
+          <latitude>-13.48320066751624</latitude>
+          <altitude>0</altitude>
+          <range>147394.037317108</range>
+          <tilt>2.358468342896564</tilt>
+          <heading>-3.382442796049032</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+        <Point>
+          <coordinates>-45.01268246107977,-13.5055234122501,0</coordinates>
+        </Point>
+        <Snippet maxLines="0">
+        </Snippet>
+      </Placemark>
+      <Folder>
+        <open>0</open>
+        <name>Archipel von Talaminas</name>
+        <Placemark>
+          <name>Archipel von Talaminas</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-46.2983627617346</longitude>
+            <latitude>-20.5899344159704</latitude>
+            <altitude>0</altitude>
+            <range>569056.7484252609</range>
+            <tilt>0.05628536954619139</tilt>
+            <heading>113.7850613319536</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-46.2983627617346,-20.5899344159704,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Illishtu</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-50.5289926419637</longitude>
+            <latitude>-30.066362652007</latitude>
+            <altitude>0</altitude>
+            <range>160123.3654370558</range>
+            <tilt>4.289894929574429</tilt>
+            <heading>-5.300160906929896</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-50.49679414112731,-30.17163153533173,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Amazida</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-44.86329476589861</longitude>
+            <latitude>-15.24722542040785</latitude>
+            <altitude>0</altitude>
+            <range>255948.1749318561</range>
+            <tilt>9.457359957789459</tilt>
+            <heading>-3.24553058539537</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-44.74773214164896,-15.48651084644946,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Thalame</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-44.86932933925505</longitude>
+            <latitude>-21.69909050650568</latitude>
+            <altitude>0</altitude>
+            <range>255851.6461710463</range>
+            <tilt>9.477235730248045</tilt>
+            <heading>-5.14558795917697</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-44.86932933925505,-21.69909050650568,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Khapas</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-42.80317058064878</longitude>
+            <latitude>-16.43341193606523</latitude>
+            <altitude>0</altitude>
+            <range>202613.2362974659</range>
+            <tilt>9.459087396076756</tilt>
+            <heading>-3.807515374016638</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-42.6247196229385,-16.50113333797897,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Alillu</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-44.88771192912834</longitude>
+            <latitude>-17.08865257082891</latitude>
+            <altitude>0</altitude>
+            <range>149350.7935232976</range>
+            <tilt>9.462542781569111</tilt>
+            <heading>-3.181728744668301</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-44.88771192912834,-17.08865257082891,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Ildragush</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-41.64533691943772</longitude>
+            <latitude>-19.24151681346123</latitude>
+            <altitude>0</altitude>
+            <range>267831.1434756343</range>
+            <tilt>9.465134765765349</tilt>
+            <heading>-4.260503725184559</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-41.64533691943772,-19.24151681346123,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Dabuu</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-42.88952968063759</longitude>
+            <latitude>-22.78275038337541</latitude>
+            <altitude>0</altitude>
+            <range>168883.0625478708</range>
+            <tilt>9.467727131241759</tilt>
+            <heading>-3.746373492994839</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-43.06230008992881,-22.56222493000829,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Kanish</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-48.45019209871818</longitude>
+            <latitude>-16.80599754156037</latitude>
+            <altitude>0</altitude>
+            <range>261982.578045808</range>
+            <tilt>0.2982620916246581</tilt>
+            <heading>-1.872577186300744</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-48.41971795925534,-16.96437373415664,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Ninshinaa</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-50.14248194220315</longitude>
+            <latitude>-18.21434130093764</latitude>
+            <altitude>0</altitude>
+            <range>137314.8054559201</range>
+            <tilt>15.9779345005967</tilt>
+            <heading>0.8693174656617438</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-50.04546180391001,-18.00213337446421,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Medak</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-50.20881255037034</longitude>
+            <latitude>-19.95685248486761</latitude>
+            <altitude>0</altitude>
+            <range>281602.8424706701</range>
+            <tilt>15.97972842206485</tilt>
+            <heading>0.9017749135887535</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-50.05603183598215,-19.76739032614231,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Shewash</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-49.69147897546009</longitude>
+            <latitude>-21.33085516498285</latitude>
+            <altitude>0</altitude>
+            <range>251266.1652396208</range>
+            <tilt>15.98241903201675</tilt>
+            <heading>0.739263437433215</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-49.61965005934529,-21.29921339026426,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Umesh</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-50.90032705843058</longitude>
+            <latitude>-23.49910508727833</latitude>
+            <altitude>0</altitude>
+            <range>347789.1423701649</range>
+            <tilt>15.98510931503793</tilt>
+            <heading>1.214279452808935</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-50.88465559958925,-23.09349388634453,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Teshid´il</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-51.87452508862417</longitude>
+            <latitude>-26.41372371631529</latitude>
+            <altitude>0</altitude>
+            <range>231947.8371946738</range>
+            <tilt>4.287560998186069</tilt>
+            <heading>-4.715323099204525</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-52.16123223116123,-26.58322607729711,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Shikaar</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-57.43276577668903</longitude>
+            <latitude>-26.42721055377981</latitude>
+            <altitude>0</altitude>
+            <range>729699.54244541</range>
+            <tilt>3.690827383104586</tilt>
+            <heading>-1.353974950759687</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-57.19166356339608,-27.40879690887481,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <Placemark>
+          <name>Yil´Araphaar</name>
+		  <ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Karte Myranor HC)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+          <LookAt>
+            <gx:TimeStamp>
+              <when>1036</when>
+            </gx:TimeStamp>
+            <longitude>-53.50824566590991</longitude>
+            <latitude>-20.66727312705496</latitude>
+            <altitude>0</altitude>
+            <range>1742459.563054444</range>
+            <tilt>3.652130748783567</tilt>
+            <heading>2.230909789165447</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+          <Point>
+            <coordinates>-53.08971733624852,-19.99326543211152,0</coordinates>
+          </Point>
+          <Snippet maxLines="0">
+          </Snippet>
+        </Placemark>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+      </Folder>
+      <Placemark>
+        <name>Dracheninsel</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+
+<p>
+(Quelle: Geographia Aventurica S. 104)
+</p>
+
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+
+
+
+<!-- END EDIT -->
+</p>
+
+<hr> Eine Kurzbeschreibung der Insel mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.
+</td>
+</tr>
+</table>]]></description>
+        <LookAt>
+          <gx:TimeStamp>
+            <when>1036</when>
+          </gx:TimeStamp>
+          <longitude>-30.58493994360919</longitude>
+          <latitude>-15.74773119026169</latitude>
+          <altitude>1000</altitude>
+          <range>2104484.169488707</range>
+          <tilt>0</tilt>
+          <heading>-1.917313243233955</heading>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel-X</styleUrl>
+        <Point id="KMLe_248">
+          <coordinates>-31.65048446576569,-16.32402465674247,0</coordinates>
+        </Point>
+      </Placemark>
+      <styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#insel</styleUrl>
+    </Folder>
+	
+  </Document>
+</kml>

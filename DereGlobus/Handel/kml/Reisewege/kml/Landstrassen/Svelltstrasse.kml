@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Svelltstraße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Svelltstraße-->
+			<name>Svelltstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Svelltstraße</b> ist ein Handelsweg im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svelltland</a> von <a href="http://www.wiki-aventurica.de/wiki/Lowangen" title="Lowangen">Lowangen</a> über <a href="http://www.wiki-aventurica.de/wiki/Tiefhusen" title="Tiefhusen">Tiefhusen</a> nach <a href="http://www.wiki-aventurica.de/wiki/Tjolmar" title="Tjolmar">Tjolmar</a>. Die <a href="http://www.wiki-aventurica.de/wiki/Stra%C3%9Fe" title="Straße">Straße</a> begleitet für einen weiten Teil der Strecke den Verlauf des <a href="http://www.wiki-aventurica.de/wiki/Svellt" title="Svellt">Svellt</a>. Die Strecke ist im Winter und Frühjahr meist nicht mit Fuhrwerken befahrbar, so dass auf andere Strecken ausgewichen werden muss. Im Süden schließt der <a href="http://www.wiki-aventurica.de/wiki/Svelltuferweg" title="Svelltuferweg">Svelltuferweg</a> nach <a href="http://www.wiki-aventurica.de/wiki/Yrramis" title="Yrramis">Yrramis</a> an.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+					<coordinates>
+						00.633196,35.673359,0 	<!--<POI>Siedlung:Tjolmar</POI>--> <!--<POI>Abzweigung:ins Nichts</POI>-->
+						00.643040,35.660619,0 
+						00.654401,35.656421,0 
+						00.670729,35.650930,0 
+						00.704910,35.633348,0 	<!--<POI>Abzweigung:Weg zum Tal der tausend Blumen</POI>-->
+						00.726392,35.617712,0 
+						00.750484,35.607033,0 
+						00.766408,35.596350,0 
+						00.780140,35.583561,0 
+						00.792673,35.562837,0 
+						00.813684,35.542543,0 
+						00.839349,35.542526,0 
+						00.853878,35.535880,0 
+						00.870771,35.534106,0 	<!--<POI>Siedlung:Norhus</POI>--> <!--<POI>Abzweigung:Weg von Norhus nach Riva</POI>-->
+						00.888731,35.539532,0 
+						00.904771,35.543369,0 
+						00.922685,35.545916,0 
+						00.937950,35.542467,0 
+						00.963893,35.532140,0 
+						00.987553,35.519243,0 
+						01.003300,35.504215,0 
+						01.012727,35.489625,0 
+						01.020058,35.478896,0 
+						01.036355,35.474574,0 
+						01.053366,35.463079,0 
+						01.059107,35.451066,0 
+						01.063264,35.438198,0 
+						01.068466,35.424041,0 
+						01.082059,35.405146,0 
+						01.090904,35.380189,0 
+						01.084518,35.361352,0 
+						01.073416,35.345095,0 
+						01.057562,35.319047,0 
+						01.058980,35.277908,0 	<!--<POI>Siedlung:Hilvalla</POI>-->
+						01.068415,35.259397,0 
+						01.083606,35.247345,0 
+						01.094556,35.227162,0 
+						01.109188,35.211257,0 
+						01.118038,35.194943,0 
+						01.120598,35.180793,0 
+						01.128418,35.170484,0 
+						01.129207,35.115203,0 
+						01.119653,35.089516,0 
+						1.106418200574042,35.07310038846288,0 
+						1.100016778962032,35.00388852192617,0 <!--Anfang Detailkarte Tiefhusen-->	
+						1.099941846488866,35.00361237044556,0 
+						1.100278942676549,35.00288106453593,0 <!--<POI>Flussquerung:Ror</POI>-->
+						1.100959349871555,35.0013008286075,0 
+						1.100952157684829,35.00114003744583,0 <!--<POI>Abzweig:Weg nach Osten</POI>-->
+						1.100755718848392,35.00054432907709,0 <!--<POI>Station:Tjolmarer Tor</POI>-->
+						1.100263228854206,34.99958479615386,0 
+						1.099786303556551,34.99778377304163,0 <!--<POI>Siedlung:Tiefhusen</POI>-->
+						1.099748982865514,34.99746290435208,0 
+						1.099625854327309,34.996948007024,0 
+						1.09965567916293,34.99654982081621,0  <!--<POI>Station:Lowanger Tor</POI>-->
+						1.099088606883036,34.99541419062695,0 <!--Ende Detailkarte Tiefhusen-->		
+						1.115119294932963,34.96549916329901,0 		
+						01.117739,34.942336,0 
+						01.114607,34.924804,0 
+						01.099655,34.899077,0 
+						01.091255,34.873331,0 
+						01.091153,34.849350,0 
+						01.111087,34.819942,0 
+						01.132815,34.804485,0 
+						01.160433,34.749971,0 
+						01.175448,34.672708,0 
+						01.197465,34.640412,0 
+						01.258416,34.597297,0 	<!--<POI>Abzweigung:Weg nach Gashok</POI>-->
+						01.283450,34.567219,0 
+						01.302851,34.541712,0 
+						01.318304,34.513363,0 
+						01.348486,34.482438,0 
+						01.376106,34.460468,0 
+						01.399911,34.451752,0 
+						01.428506,34.445510,0 
+						01.455656,34.422442,0 
+						01.482928,34.414399,0 
+						01.508950,34.386130,0 
+						01.509054,34.375059,0 	<!--<POI>Flussquerung:Svellt</POI>-->
+						01.507656,34.362052,0 
+						01.507581,34.353960,0 
+						01.511777,34.346897,0 	<!--<POI>Flussquerung:Svell</POI>-->
+						01.522366,34.335738,0 	<!--<POI>Siedlung:Svellmia</POI>--> <!--<POI>Abzweigung:Weg von Arsingen nach Svellmia</POI>-->
+						01.554794,34.302945,0 
+						01.590923,34.282395,0 
+						01.606079,34.272473,0 
+						01.640347,34.236684,0 
+						01.677064,34.223951,0 
+						01.716995,34.201489,0 
+						01.795509,34.188382,0 
+						01.811006,34.178555,0 	<!--<POI>Siedlung:Ansvell</POI>-->
+						01.849810,34.144185,0 
+						01.888180,34.136448,0 
+						01.918213,34.131088,0 
+						01.937599,34.122132,0 
+						02.002089,34.121209,0 
+						02.034328,34.108707,0 
+						02.054684,34.090952,0 
+						02.088621,34.078583,0 
+						02.141039,34.046614,0 
+						02.194418,34.045066,0 
+						02.274601,34.012248,0 
+						02.369582,33.999945,0 
+						02.383380,33.994420,0 
+						02.402510,33.976162,0 	<!--<POI>Siedlung:Gut Handerthal</POI>-->
+						02.402005,33.957433,0 
+						02.398484,33.946937,0 
+						02.391631,33.935568,0 
+						02.389357,33.903969,0 
+						02.388251,33.875564,0 
+						02.383300,33.848125,0 
+						02.371347,33.829487,0 
+						02.369027,33.794841,0 
+						02.358648,33.771278,0 
+						02.346746,33.754472,0 
+						02.317780,33.727967,0 
+						02.283841,33.706397,0 
+						2.273002844212608,33.695330990994,0 
+						2.270777450812052,33.68787219481605,0 <!--Anfang Detailkarte Lowangen-->	
+						2.270851278121517,33.68621806537139,0 
+						2.270833435168402,33.68589675319613,0 
+						2.270759306218664,33.6856126610494,0 
+						2.270544219036859,33.68520516047104,0 
+						2.270156539020949,33.68457922111112,0 
+						2.26991056259676,33.6842374906586,0 
+						2.26952985835261,33.68383359063875,0 
+						2.268972528505178,33.68314859997908,0 
+						2.268450292187487,33.682842182114,0 <!--<POI>Abzweig:Weg von Arsingen nach Lowangen</POI>-->
+						2.268733879765388,33.68251450894758,0 <!--<POI>Siedlung:Lowangen</POI>-->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>1.377005</longitude>
+				<latitude>34.729182</latitude>
+				<altitude>400000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

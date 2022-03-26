@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Keft nach Kannemünde</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenenroute von Keft nach Kannemünde-->
+			<name>Karawanenenroute von Keft nach Kannemünde</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Keft nach Kannemünde</b> beginnt am Knotenpunkt aller <a href="http://www.wiki-aventurica.de/wiki/Karawanenroute" title="Karawanenroute">Karawanenrouten</a> durch die <a href="http://www.wiki-aventurica.de/wiki/Kh%C3%B4m" title="Khôm">Khôm</a>, der <a href="http://www.wiki-aventurica.de/wiki/Karawanerei&amp;action=edit&amp;redlink=1" class="new" title="Karawanerei (Seite nicht vorhanden)">Karawanerei</a> in <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a>. Sie führt über <a href="http://www.wiki-aventurica.de/wiki/Unau" title="Unau">Unau</a> und die <a href="http://www.wiki-aventurica.de/wiki/Karawanserei" title="Karawanserei">Karawansereien</a> <a href="http://www.wiki-aventurica.de/wiki/Bir-es-Soltan" title="Bir-es-Soltan">Bir-es-Soltan</a> sowie <a href="http://www.wiki-aventurica.de/wiki/Ain-es-Sorbek&amp;action=edit&amp;redlink=1" class="new" title="Ain-es-Sorbek (Seite nicht vorhanden)">Ain-es-Sorbek</a> bis zur <a href="http://www.wiki-aventurica.de/wiki/Karawanserei" title="Karawanserei">Karawanserei</a> in <a href="http://www.wiki-aventurica.de/wiki/Kannem%C3%BCnde" title="Kannemünde">Kannemünde</a>. Die Strecke von <a href="http://www.wiki-aventurica.de/wiki/Keft" title="Keft">Keft</a> nach <a href="http://www.wiki-aventurica.de/wiki/Unau" title="Unau">Unau</a> verläuft am Ufer des <a href="http://www.wiki-aventurica.de/wiki/Cichanebi-Salzsee" title="Cichanebi-Salzsee">Cichanebi-Salzsees</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.187454240589658,23.55705935898839,0 	<!-- <POI>SOE:Karawanenroute nach Unau</POI> -->
+						3.1875117557896,23.55630747387184,0 
+						3.18762315523349,23.55629348014601,0 
+						3.187623958806598,23.55595866553747,0 
+						3.187792502164988,23.55593901046633,0 
+						3.188204007638644,23.55576681532066,0 
+						3.188289107643207,23.55568429506631,0 
+						3.188988643623409,23.55526857163304,0 
+						3.189486973562083,23.55495692256217,0 
+						3.189813021176791,23.55465334110473,0 
+						3.190293879889219,23.55411593064112,0 
+						3.190523870372177,23.55389613023226,0 
+						3.190812383640074,23.55367008484044,0 
+						3.191076646621132,23.55336061872508,0 
+						3.191320664791781,23.55296589054258,0 
+						3.191520598357485,23.55256122201294,0 	
+						3.191655190423477,23.55220245804926,0 	<!-- Ende Detailkarte: Keft -->
+						3.192125256404597,23.5452116114205,0 	
+						3.287084262707263,23.5345808618497,0 
+						3.317030884684917,23.52345149137964,0 
+						3.33453056480467,23.50674418461689,0 
+						3.384774910829971,23.44075862426382,0 
+						3.407249628171631,23.42813653539913,0 
+						3.453069952129528,23.42445687016664,0 
+						3.488782437818085,23.41518434129972,0 
+						3.503094625642649,23.40570939080671,0 
+						3.523511479016899,23.38301231047695,0 
+						3.557713749120628,23.36666600916819,0 
+						3.590826857275207,23.36193856908309,0 	<!-- <POI>AbzweigLinks:Karawanenroute von Keft nach Shobilla</POI> -->
+						3.656284182688692,23.34402173164373,0 
+						3.672048772506729,23.336142414383,0 
+						3.701347504382495,23.29666684262772,0 
+						3.726270002898728,23.27407257176812,0 
+						3.744942782590863,23.26509251985064,0 	<!-- <POI>AbzweigLinks:Karawanenroute von Keft nach Rashdul</POI> -->
+						3.738832833393018,23.20994059929569,0 
+						3.748497351079854,23.15877841158595,0 
+						3.74646064844341,23.13877934700662,0 	
+						3.71240153163324,23.08947340870982,0 	<!-- <POI>Flussquerung:Wadi Dschenna</POI> -->
+						3.706139500405765,23.02646993757434,0 
+						3.66073847607149,22.97795851345745,0 
+						3.654207336060118,22.96050861418277,0 
+						3.650554360045719,22.93578838355407,0 
+						3.655892745371832,22.90161439599847,0 
+						3.650617800683442,22.87282915958125,0 
+						3.628393012486262,22.8159379103117,0 
+						3.623949757443385,22.78728479897322,0 
+						3.627504541364728,22.74773457183704,0 
+						3.576104847842014,22.64838691114617,0 
+						3.568053603732566,22.61559794013806,0 
+						3.572312347153142,22.59478905900509,0 
+						3.537816002749121,22.56894610105577,0 	<!-- <POI>AbzweigLinks:Karawanenroute von Rashdul nach Unau</POI> -->
+						3.498512036187165,22.54905000461286,0 
+						3.498178470406788,22.54889558873594,0 	<!-- Anfang Detailkarte Unau -->
+						3.497731272920046,22.54875019358416,0 
+						3.496808187079521,22.54881811576427,0 
+						3.496362574486016,22.54884132952074,0 
+						3.496057736808516,22.54884047532683,0 
+						3.495810519497973,22.54880949746681,0 
+						3.495631927050202,22.54877396249265,0 
+						3.495457714528314,22.54871279649067,0 
+						3.495335856656201,22.54864337595559,0 
+						3.495216328332123,22.54854314386129,0 
+						3.495117726988892,22.54842942448613,0 
+						3.49502542767546,22.54828944480026,0 
+						3.494999549604674,22.54817499620602,0 
+						3.4949693282193,22.5478206672989,0 
+						3.494945886922636,22.5476414361318,0 
+						3.494970559212567,22.54747246764617,0 
+						3.494957116369049,22.54709105776592,0 
+						3.494939207932255,22.54694074654324,0 
+						3.494966694049717,22.54652356247916,0 
+						3.494956652413155,22.54641233722741,0 
+						3.494939402536967,22.54633642333982,0 
+						3.494935001191919,22.54608473093623,0 
+						3.494947545253189,22.54584697781679,0 
+						3.494949633969429,22.54562809139569,0 
+						3.494970544154672,22.54545079810608,0 
+						3.495001498619004,22.54529095582376,0 
+						3.495054974494491,22.54515833330856,0 
+						3.495120586623182,22.54509197806602,0 
+						3.495302254365891,22.54502683505103,0 
+						3.495361559521937,22.544983333393,0 
+						3.495437505942749,22.54490830826278,0 
+						3.495582931145489,22.54482160300685,0 
+						3.495653483793013,22.54479695169266,0 	<!-- <POI>AbzweigRechts:Route nach Kannemünde</POI> -->
+						3.495870027604076,22.54493069728672,0 	<!-- <POI>Station:Stadtor Unau</POI> -->
+						3.495994731900165,22.54500348202931,0 	
+						3.496267686417793,22.54540855853602,0 	
+						3.496286139603673,22.54614564974271,0 
+						3.49623239009319,22.54624286144346,0 
+						3.49621306091719,22.54666137000144,0 
+						3.495856780762212,22.54667475246753,0 	
+						3.495701285258759,22.54687373285073,0 	<!-- <POI>Siedlung:Unau</POI> --> <!-- <POI>Station:Karawanserei</POI> --> <!-- SOE:Karawanenroute von Keft nach Unau -->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.495653483793013,22.54479695169266,0  	<!-- SOE:Karawanenroute von Unau nach Kannemünde -->	
+						3.49557897422212,22.54469012889815,0 	
+						3.495490859067687,22.54452376920616,0 
+						3.495437042501464,22.5443744277719,0 
+						3.495321191358465,22.54421009368216,0 
+						3.49525070315623,22.54398593852612,0 	<!-- Ende Detailkarte Unau -->
+						3.446879647473975,22.47999999106126,0 	
+						3.429270127865058,22.44054368626896,0 
+						3.398490571553638,22.39656512999422,0 
+						3.394318725220649,22.3160896178936,0 
+						3.375934032369377,22.26689727439462,0 
+						3.380804183980828,22.25258846690299,0 	<!-- <POI>Station:Karawanserei "Bir-es-Soltan"</POI> -->
+						3.350885482066954,22.22190115169335,0 	
+						3.343938260533865,22.22123707976975,0 	<!-- <POI>Flussquerung:Chaneb</POI> -->
+						3.336381327407363,22.22095847639248,0 	
+						3.303595991275528,22.17304752908381,0 
+						3.299724165496818,22.09704432010314,0 
+						3.342893807313574,22.05767817451277,0 
+						3.378653559469251,22.05603468537429,0 
+						3.39234794203878,22.03132243940407,0 
+						3.414264316729587,22.01891617802784,0 
+						3.414692682372464,22.00612729351117,0 
+						3.444693901418205,21.98306763509388,0 
+						3.455644150781747,21.96439035502996,0 
+						3.505297960563922,21.92400879179895,0 
+						3.541611564829474,21.92293893453732,0 
+						3.550833180199429,21.93111696709318,0 	<!-- <POI>Station:Karawanserei "Ain-es-Sobek"</POI> -->
+						3.561368127987961,21.93563828385371,0 	
+						3.574818185016071,21.93649394913747,0 
+						3.614667964086638,21.96825736783743,0 
+						3.625801819885335,22.02384593381645,0 
+						3.637312103607484,22.03386837242538,0 
+						3.647491618648202,22.03594529700985,0 
+						3.683773851167054,22.06707867773849,0 
+						3.687279695719359,22.09466247596093,0 
+						3.697841397932467,22.10403173559079,0 
+						3.69561285778145,22.11498956646619,0 
+						3.686473419083942,22.12324695843691,0 
+						3.694667132780138,22.15063433014752,0 
+						3.714534834457153,22.16447516978486,0 
+						3.772035456482061,22.18360101136201,0 
+						3.815013417911775,22.18121734245565,0 
+						3.84377571653894,22.18377689354404,0 
+						3.8738898580987,22.18631309216053,0 	
+						3.883666775706727,22.19219164818816,0 	<!-- Anfang Detailkarte Kannemünde -->
+						3.884021095617358,22.19222714321402,0 
+						3.884011411091697,22.19229653133564,0 	<!-- <POI>Siedlung:Kannemünde</POI> --> <!-- <POI>Station:Karawanserei</POI> --> <!-- <POI>SOE:Karawanenroute von Unau nach Kannemünde</POI> -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>3.558854767452466</longitude>
+				<latitude>22.74648063727879</latitude>
+				<altitude>270000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

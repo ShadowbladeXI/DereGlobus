@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Radrom und Bendrom und Nebenflüsse</name>
+	<Region>
+					<LatLonAltBox>
+						<north>44.68523182173993</north>
+						<south>13.83211470255367</south>
+						<east>13.82951187257615</east>
+						<west>-8.928795211729799</west>
+						<minAltitude>0</minAltitude>
+						<maxAltitude>0</maxAltitude>
+					</LatLonAltBox>
+					<Lod>
+						<minLodPixels>5000</minLodPixels>
+						<maxLodPixels>-1</maxLodPixels>
+						<minFadeExtent>0</minFadeExtent>
+						<maxFadeExtent>0</maxFadeExtent>
+					</Lod>
+				</Region>
+
+	<Placemark> <!-- Radrom nach 1020 BF -->
+		<name>Radrom</name>
+				<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Radrom</b> (früher: <i>Ras</i>) ist ein <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a> im Osten <a title="Aventurien" href="http://www.wiki-aventurica.de/wiki/Aventurien">Aventuriens</a>. Er entsteht aus drei kleinen Flüssen in der <a title="Schwarze Sichel" href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel">Schwarzen Sichel</a> mit dem <a title="Firdrom" href="http://www.wiki-aventurica.de/wiki/Firdrom">Firdrom</a> und dem <a title="Bendrom" href="http://www.wiki-aventurica.de/wiki/Bendrom">Bendrom</a>. Hinter <a title="Warunk" href="http://www.wiki-aventurica.de/wiki/Warunk">Warunk</a> fließt er durch den <a title="Katarakt des Todes" href="http://www.wiki-aventurica.de/wiki/Katarakt_des_Todes">Katarakt des Todes</a>, durch den die Binnenschifffahrt behindert wird. Bei <a title="Grünau" href="http://www.wiki-aventurica.de/wiki/Gr%C3%BCnau">Grünau</a> fließt der <a title="Aldrom" href="http://www.wiki-aventurica.de/wiki/Aldrom">Aldrom</a> hinzu und der Radrom mündet schließlich bei <a title="Beilunk" href="http://www.wiki-aventurica.de/wiki/Beilunk">Beilunk</a> ins <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeer</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+			7.268774151255533,31.29030637692304,0 7.286164049135307,31.27504734151219,0 7.288766422831503,31.2372018524032,0 7.278523309812122,31.2041717010631,0 7.264420460531058,31.18176285417806,0 7.26096209533446,31.10421584718252,0 7.265054063093435,31.08945298961094,0 7.281577180912821,31.06919393190778,0 7.301649075850197,31.04942438254431,0 7.31003692594417,31.0356464194502,0 7.307868899084951,31.02054897447653,0 7.31093955879903,31.00169441546967,0 7.323616211389227,30.98200125081911,0 7.323280843377686,30.96675034551071,0 7.353928206585463,30.9344066386079,0 7.365935806777298,30.91903261067795,0 7.384672121839058,30.91853011528186,0 7.405833607207453,30.93273495104235,0 7.43500496503427,30.94708007882317,0 7.510093810852365,30.95189230147196,0 7.534475007536701,30.96448047367995,0 7.571933810213094,30.96696371693654,0 7.586290918051725,30.96077669923914,0 7.596702898817673,30.94912231306563,0 7.599304745694702,30.9345808543775,0 7.593894309987547,30.92013229064471,0 7.593168176709161,30.89325464162719,0 7.593910350852545,30.87578373758917,0 7.591510225624201,30.86422242704679,0 7.593209389473503,30.85086221659694,0 7.607913523039769,30.8382037292712,0 7.624971992846756,30.83022415263018,0 7.643558261838228,30.81575502925169,0 7.645863915906396,30.79630848312182,0 7.648477610951632,30.78431824141233,0 7.652897532210403,30.77035201989759,0 7.652293095708833,30.75642504176684,0 7.647557204241724,30.74037175291394,0 7.648185782705403,30.71353003360809,0 7.669801700765675,30.68549395882753,0 7.67616684632922,30.66149737765966,0 7.676209806992227,30.64382889585411,0 7.697753824416753,30.6159051057737,0 7.70103210972607,30.60331592365442,0 7.705923981058323,30.59228519900322,0 7.715210106334693,30.58671427310955,0 7.725226273354822,30.5804032401243,0 7.757821129015161,30.58637430128355,0 7.771380168822912,30.57712919516187,0 
+			
+			7.78748733386278,30.56278566850975,0 7.801455683447943,30.55837711895282,0 7.802887864843459,30.55599561230333,0 7.804192194619565,30.55522165811529,0 7.805458073908678,30.55505690405613,0 7.81225025571379,30.55575221213135,0 7.826982185075442,30.56356906183153,0 
+			
+			7.853226378409466,30.58342076906056,0 7.867891290931979,30.58393604251762,0	7.886761026906077,30.5795925287258,0 7.904934424495183,30.57392495382582,0 7.918222852227526,30.57772942408543,0 7.94004765699313,30.5859929819065,0 7.952981776919719,30.58174120580731,0 7.977483619403905,30.58992899012608,0 7.989735788970052,30.58587761715257,0 8.007108831744315,30.58922934198836,0 8.027623081798225,30.5888175939173,0 8.046238525787675,30.58312424525738,0 8.070037934547834,30.58816848624655,0 8.079995189940526,30.58276021381721,0 8.095697904164155,30.58845854323454,0 8.109042129975833,30.58163626646751,0 8.118367822802961,30.58035333771417,0 8.129601134157349,30.56982487792984,0 8.133513419427295,30.55761375937159,0 8.136123956759519,30.49066383303633,0 8.14120559425122,30.47537070197648,0 8.188577889302396,30.41868744560608,0 8.190940114871747,30.37737327949531,0 8.207575733058278,30.35126487671881,0 8.208060396153874,30.32535203597773,0 8.199648140763536,30.29739005554783,0 8.181543715609454,30.25953350523396,0 8.176093129990225,30.21729128984916,0 8.179433058562015,30.18447996092932,0 8.168682679460096,30.14702831131134,0 8.169139698918752,30.11856791047981,0 8.16057099707942,30.09318762782023,0 8.135150542324862,30.06326180363388,0 8.110914175546476,30.05000145986547,0 8.09179301050645,30.02961503759635,0 8.08292421349992,30.01244489919236,0 8.07787079353044,29.9926762232051,0 8.0553242691799,29.98101798998188,0 8.030006353086085,29.95323548026657,0 8.020616357721384,29.94588045670102,0 7.997902752035837,29.94102009529123,0 7.980519802135335,29.94493008535612,0 7.971505007117886,29.94816303039981,0 7.948540596485147,29.94272136484219,0 7.933521677089159,29.93757515538879,0 7.919258735739014,29.93791432321049,0 7.903715951930437,29.92688428975543,0 7.875525118595719,29.91774120091767,0 7.859317315613232,29.90710422902473,0 7.857796879977139,29.89447151414421,0 7.856017867862077,29.87898155417138,0 7.861901601714846,29.86106636852236,0 7.878339016301363,29.83424183470329,0 7.88599858537161,29.80576924857198,0 7.886687803722221,29.80467880688049,0 7.886255511150642,29.80239188984505,0 7.887201491558889,29.80018899786714,0 7.887309616333182,29.79943374697357,0 7.88885054732273,29.79762361381996,0 7.88886409351152,29.79631161836537,0
+			</coordinates>
+		</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1021</when>
+				</gx:TimeStamp>
+				<longitude>7.76</longitude>
+				<latitude>31.018</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin>1020</begin>
+				<end></end>
+			</TimeSpan>
+	</Placemark>
+
+	<Placemark> <!-- Radrom vor 1020 BF -->
+		<name>Radrom</name>
+				<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Radrom</b> (früher: <i>Ras</i>) ist ein <a title="Fluss" href="http://www.wiki-aventurica.de/wiki/Fluss">Fluss</a> im Osten <a title="Aventurien" href="http://www.wiki-aventurica.de/wiki/Aventurien">Aventuriens</a>. Er entsteht aus drei kleinen Flüssen in der <a title="Schwarze Sichel" href="http://www.wiki-aventurica.de/wiki/Schwarze_Sichel">Schwarzen Sichel</a> mit dem <a title="Firdrom" href="http://www.wiki-aventurica.de/wiki/Firdrom">Firdrom</a> und dem <a title="Bendrom" href="http://www.wiki-aventurica.de/wiki/Bendrom">Bendrom</a>. Hinter <a title="Warunk" href="http://www.wiki-aventurica.de/wiki/Warunk">Warunk</a> fließt er durch den <a title="Katarakt des Todes" href="http://www.wiki-aventurica.de/wiki/Katarakt_des_Todes">Katarakt des Todes</a>, durch den die Binnenschifffahrt behindert wird. Bei <a title="Grünau" href="http://www.wiki-aventurica.de/wiki/Gr%C3%BCnau">Grünau</a> fließt der <a title="Aldrom" href="http://www.wiki-aventurica.de/wiki/Aldrom">Aldrom</a> hinzu und der Radrom mündet schließlich bei <a title="Beilunk" href="http://www.wiki-aventurica.de/wiki/Beilunk">Beilunk</a> ins <a title="Perlenmeer" href="http://www.wiki-aventurica.de/wiki/Perlenmeer">Perlenmeer</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+			7.268774151255533,31.29030637692304,0 7.286164049135307,31.27504734151219,0 7.288766422831503,31.2372018524032,0 7.278523309812122,31.2041717010631,0 7.264420460531058,31.18176285417806,0 7.26096209533446,31.10421584718252,0 7.265054063093435,31.08945298961094,0 7.281577180912821,31.06919393190778,0 7.301649075850197,31.04942438254431,0 7.31003692594417,31.0356464194502,0 7.307868899084951,31.02054897447653,0 7.31093955879903,31.00169441546967,0 7.323616211389227,30.98200125081911,0 7.323280843377686,30.96675034551071,0 7.353928206585463,30.9344066386079,0 7.365935806777298,30.91903261067795,0 7.384672121839058,30.91853011528186,0 7.405833607207453,30.93273495104235,0 7.43500496503427,30.94708007882317,0 7.510093810852365,30.95189230147196,0 7.534475007536701,30.96448047367995,0 7.571933810213094,30.96696371693654,0 7.586290918051725,30.96077669923914,0 7.596702898817673,30.94912231306563,0 7.599304745694702,30.9345808543775,0 7.593894309987547,30.92013229064471,0 7.593168176709161,30.89325464162719,0 7.593910350852545,30.87578373758917,0 7.591510225624201,30.86422242704679,0 7.593209389473503,30.85086221659694,0 7.607913523039769,30.8382037292712,0 7.624971992846756,30.83022415263018,0 7.643558261838228,30.81575502925169,0 7.645863915906396,30.79630848312182,0 7.648477610951632,30.78431824141233,0 7.652897532210403,30.77035201989759,0 7.652293095708833,30.75642504176684,0 7.647557204241724,30.74037175291394,0 7.648185782705403,30.71353003360809,0 7.669801700765675,30.68549395882753,0 7.67616684632922,30.66149737765966,0 7.676209806992227,30.64382889585411,0 7.697753824416753,30.6159051057737,0 7.70103210972607,30.60331592365442,0 7.705923981058323,30.59228519900322,0 7.715210106334693,30.58671427310955,0 7.725226273354822,30.5804032401243,0 7.757821129015161,30.58637430128355,0 7.771380168822912,30.57712919516187,0 
+			
+			7.787505439121452,30.56269926113537,0 7.802307316561612,30.56124908257618,0 7.80230561662502,30.5576246384506,0 7.803264694950897,30.55558187306599,0 7.804425590324908,30.55490095570048,0 7.806326740544081,30.55482852056209,0 7.812059250737296,30.55592951404298,0 7.813887151608721,30.5553644226526,0 7.827025506983222,30.56369791301773,0
+			
+			7.853226378409466,30.58342076906056,0 7.867891290931979,30.58393604251762,0	7.886761026906077,30.5795925287258,0 7.904934424495183,30.57392495382582,0 7.918222852227526,30.57772942408543,0 7.94004765699313,30.5859929819065,0 7.952981776919719,30.58174120580731,0 7.977483619403905,30.58992899012608,0 7.989735788970052,30.58587761715257,0 8.007108831744315,30.58922934198836,0 8.027623081798225,30.5888175939173,0 8.046238525787675,30.58312424525738,0 8.070037934547834,30.58816848624655,0 8.079995189940526,30.58276021381721,0 8.095697904164155,30.58845854323454,0 8.109042129975833,30.58163626646751,0 8.118367822802961,30.58035333771417,0 8.129601134157349,30.56982487792984,0 8.133513419427295,30.55761375937159,0 8.136123956759519,30.49066383303633,0 8.14120559425122,30.47537070197648,0 8.188577889302396,30.41868744560608,0 8.190940114871747,30.37737327949531,0 8.207575733058278,30.35126487671881,0 8.208060396153874,30.32535203597773,0 8.199648140763536,30.29739005554783,0 8.181543715609454,30.25953350523396,0 8.176093129990225,30.21729128984916,0 8.179433058562015,30.18447996092932,0 8.168682679460096,30.14702831131134,0 8.169139698918752,30.11856791047981,0 8.16057099707942,30.09318762782023,0 8.135150542324862,30.06326180363388,0 8.110914175546476,30.05000145986547,0 8.09179301050645,30.02961503759635,0 8.08292421349992,30.01244489919236,0 8.07787079353044,29.9926762232051,0 8.0553242691799,29.98101798998188,0 8.030006353086085,29.95323548026657,0 8.020616357721384,29.94588045670102,0 7.997902752035837,29.94102009529123,0 7.980519802135335,29.94493008535612,0 7.971505007117886,29.94816303039981,0 7.948540596485147,29.94272136484219,0 7.933521677089159,29.93757515538879,0 7.919258735739014,29.93791432321049,0 7.903715951930437,29.92688428975543,0 7.875525118595719,29.91774120091767,0 7.859317315613232,29.90710422902473,0 7.857796879977139,29.89447151414421,0 7.856017867862077,29.87898155417138,0 7.861901601714846,29.86106636852236,0 7.878339016301363,29.83424183470329,0 7.88599858537161,29.80576924857198,0 7.886687803722221,29.80467880688049,0 7.886255511150642,29.80239188984505,0 7.887201491558889,29.80018899786714,0 7.887309616333182,29.79943374697357,0 7.88885054732273,29.79762361381996,0 7.88886409351152,29.79631161836537,0
+			</coordinates>
+		</LineString>
+			<Camera>
+				<gx:TimeStamp>
+					<when>1019</when>
+				</gx:TimeStamp>
+				<longitude>7.76</longitude>
+				<latitude>31.018</latitude>
+				<altitude>500000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<TimeSpan>
+				<begin></begin>
+				<end>1020</end>
+			</TimeSpan>
+			</Placemark>	
+
+	<Placemark>
+		<name>Aldrom</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Aldrom</b> ist ein Zufluss des <a title="Radrom" href="http://www.wiki-aventurica.de/wiki/Radrom">Radrom</a>.
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+8.700309698014994,30.72910910464242,0 8.691500898783193,30.71217411904231,0 8.695855608469023,30.69169322060471,0 8.678548460021156,30.66152960289033,0 8.675151951628257,30.64135269240155,0 8.663103710038136,30.62152227245838,0 8.644472036658774,30.60277590732839,0 8.616794363244713,30.58730410017271,0 8.597907646569249,30.57797258343678,0 8.578412395155207,30.56118648853393,0 8.556056253153573,30.54914203313856,0 8.536311243621121,30.54177278278253,0 8.520254145572467,30.53631269163277,0 8.502108030163857,30.52872278997699,0 8.476538718497643,30.51397556875743,0 8.463077822861763,30.50082071881434,0 8.455473610394718,30.48405019561628,0 8.449023380084665,30.46804786834589,0 8.444644570193942,30.45319302808735,0 8.432931599084139,30.43588471808232,0 8.417863007199689,30.4260945636642,0 8.394390389508395,30.42543065808041,0 8.380106201374238,30.41620185875285,0 8.365324035376275,30.4169877131945,0 8.347419588550151,30.40839393633914,0 8.331006913039023,30.3936958428227,0 8.302883314979493,30.38542582867013,0 8.278676796191265,30.37984642757482,0 8.26318230650247,30.37827424022028,0 8.243322386992366,30.3742017698786,0 8.207418810189477,30.34970257386727,0 </coordinates>
+		</LineString>
+	</Placemark>
+
+	<Placemark>
+		<name>Firdom</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Firdrom</b> ist ein 85 Meilen langer Fluss im Westen <a href="/index.php?title=Tobrien" title="Tobrien" class="mw-redirect">Tobriens</a>, der in den Hügeln zwischen <a href="/index.php?title=Schwarze_Sichel" title="Schwarze Sichel">Schwarzer Sichel</a> und <a href="/index.php?title=Yslisee" title="Yslisee">Yslisee</a> entspringt. Er fließt in den <a href="/index.php?title=Bendrom" title="Bendrom">Bendrom</a>, kurz bevor dieser in den <a href="/index.php?title=Radrom" title="Radrom">Radrom</a> mündet. Der Firdrom wird selten auch <b>Sildrom</b> genannt.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+7.316528518557925,32.00844120986413,0 7.29062660044139,31.98648916493297,0 7.281678128629087,31.97624404333239,0 7.280377581481911,31.95893358588317,0 7.282996247452198,31.95239571534251,0 7.297784217034973,31.95157016599612,0 7.308104048078548,31.94675041845011,0 7.314538877640924,31.93667990188737,0 7.31918096031364,31.92435941219823,0 7.324994659107837,31.91077714265341,0 7.335246075424728,31.89792345215091,0 7.342822939875042,31.88357513761325,0 7.342377838864193,31.8639925450913,0 7.346458522215499,31.85551026656304,0 7.348149411383242,31.84445818664421,0 7.347491623018505,31.83542743590929,0 7.341536279058292,31.82893525472095,0 7.334677310477589,31.81993840215701,0 7.335777710974412,31.80889160341389,0 7.339209736893151,31.7938177866341,0 7.346789581278824,31.78097993948781,0 7.367350940247263,31.76781912155799,0 7.380767287318408,31.747416409162,0 7.380932410084209,31.73084963217602,0 7.412266360507727,31.70129059563146,0 7.408288651982147,31.68473638146195,0 7.396708782658217,31.67476733689898,0 7.369168031462339,31.65911570680935,0 7.355826232739089,31.64915138135157,0 7.353098873705852,31.63937855765389,0 7.355653711046037,31.6265642545381,0 7.364411679224412,31.61572254689282,0 7.36520838342996,31.60442067179185,0 7.373944576056093,31.59106382162322,0 7.381244902405609,31.58269760785965,0 7.381851003207716,31.5473135452622,0 7.362489422475235,31.5180644769445,0 7.362110554872885,31.50702520674925,0 7.325701838699863,31.4645640703478,0 7.325890803613,31.44975223253818,0 7.305390871675501,31.42049576527369,0 7.30002853670642,31.41048542758884,0 7.293666036107023,31.3831655371866,0 7.291175601629901,31.363102759537,0 7.287832684368654,31.34730881905415,0 7.274735944075673,31.32352642281318,0 7.270257891282914,31.31350525696415,0 7.268774151255533,31.29030637692304,0 </coordinates>
+		</LineString>
+	</Placemark>
+
+	<Placemark>
+		<name>Großer Bendrom</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD><HR><B>Quellen:</B><TR><TD><i>Karte:</i> Tobrien<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=23&t=1048">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+6.21723686388163,32.07130307639986,0 6.239271594646398,32.06790724330335,0 6.27247456867342,32.08666648149882,0 6.287302762293816,32.09191548676975,0 6.305222131731227,32.09239926507182,0 6.354302804082089,32.11507916261836,0 6.372730212722447,32.11859092888241,0 6.390152838379828,32.11602501466928,0 6.401443116452579,32.10823914854292,0 6.409164381518238,32.09393813007192,0 6.402551022919926,32.07787440660928,0 6.390309298154444,32.06179892144187,0 6.394454233670539,32.04488604810878,0 6.409847547892069,32.03189647291966,0 6.444222597658476,32.00243574603715,0 6.448859399940227,31.99115431298366,0 6.445953413045269,31.93251590234747,0 6.452581865121387,31.9173810761885,0 6.45158999131368,31.90132374472405,0 6.458766541696079,31.89135593348311,0 6.465431859046591,31.88095306163512,0 6.463406277594141,31.8709704985443,0 6.453206974961399,31.86010778365482,0 6.451190061252852,31.84752280024948,0 6.458375655239377,31.83234862138069,0 6.468608122521307,31.8254210287601,0 6.481401125539876,31.81545772820013,0 6.479402816067261,31.7937585779344,0 6.480452607217191,31.78074055918323,0 6.487112242526665,31.77163331795262,0 6.486618802499606,31.76382005002487,0 6.482523613092043,31.75019257244488,0 6.489379272642237,31.74135080224435,0 6.515297636193386,31.71254867073348,0 6.520969332853133,31.69889453678355,0 6.529310780401261,31.68878179670168,0 6.564711689692016,31.67918521090989,0 </coordinates>
+		</LineString>
+	</Placemark>
+
+	<Placemark>
+		<name>Kleiner Bendrom</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD><HR><B>Quellen:</B><TR><TD><i>Karte:</i> Tobrien<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=23&t=1048">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+6.065292306116337,31.50094094419181,0 6.08275747773787,31.50392962177318,0 6.099285209644989,31.52108274715731,0 6.110746545216985,31.52985282987657,0 6.129497571050306,31.53138454838541,0 6.151246587994872,31.53001855555337,0 6.17088612523766,31.52391780288032,0 6.183297281426134,31.51379113629814,0 6.187632973930814,31.49891039746755,0 6.187715936142615,31.48219609355635,0 6.204399593789494,31.46808320232669,0 6.22019871214518,31.46014166496125,0 6.265740493453751,31.45912423799417,0 6.285381292151959,31.46379148623152,0 6.310469038506006,31.45966314556,0 6.330747269183554,31.4599892987393,0 6.341431292543593,31.46350873364732,0 6.364541799734442,31.46523370327239,0 6.386143103148301,31.479113903098,0 6.39055337458535,31.48499317979554,0 6.399379301647585,31.4959126069598,0 6.413140190123596,31.50432385688569,0 6.417538458234113,31.51649344526632,0 6.426374896533289,31.52783189013566,0 6.438182211825798,31.53498143161606,0 6.451980571045857,31.53542273411289,0 6.466523865659585,31.54207176079688,0 6.472410466707537,31.54609625658704,0 6.483611370717537,31.54636287354193,0 6.524838035868214,31.60843952777288,0 6.553414226296608,31.63479924642371,0 6.555172308490153,31.64408508135185,0 6.559290195363403,31.65261958543206,0 6.56368649305721,31.67972283583922,0 </coordinates>
+		</LineString>
+	</Placemark>
+
+	<Placemark>
+		<name>Bendrom</name>
+		<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+Der <b>Bendrom</b> (früher: <i>Ben</i>) ist ein 165 Meilen langer Fluss im Westen <a href="/index.php?title=Tobrien" title="Tobrien" class="mw-redirect">Tobriens</a>. Er entspringt aus zwei 60 Meilen voneinander entfernten Quellen in der <a href="/index.php?title=Schwarze_Sichel" title="Schwarze Sichel">Schwarzen Sichel</a> und vereinigt sich mit dem <a href="/index.php?title=Firdrom" title="Firdrom">Firdrom</a> (auch Sildrom genannt) bevor er bei <a href="/index.php?title=Radromsprung&amp;action=edit&amp;redlink=1" class="new" title="Radromsprung (Seite nicht vorhanden)">Radromsprung</a> in den <a href="/index.php?title=Radrom" title="Radrom">Radrom</a> mündet. Er wird, genau wie der <a href="/index.php?title=Radrom" title="Radrom">Radrom</a>, von Holzfällern zum Flößen genutzt. Der Bendrom durchfließt die Reichsmark <a href="/index.php?title=Osterfelde" title="Osterfelde" class="mw-redirect">Osterfelde</a> in <a href="/index.php?title=Tobrien" title="Tobrien" class="mw-redirect">Tobrien</a>.
+
+
+<!-- END EDIT -->
+
+</p>
+
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/styles/landschaftsmerkmale.kml#fluss</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+6.565986854223183,31.67889225444312,0 6.587213149913287,31.696219624896,0 6.602548018976904,31.70425567087625,0 6.621424787079921,31.71028283395688,0 6.630567271573804,31.71680893166182,0 6.642071484824328,31.7208250267243,0 6.66331402557347,31.74466873309949,0 6.687218785333233,31.74868142283335,0 6.700206649342446,31.75219297851625,0 6.708180194336613,31.75771427931135,0 6.718226045301163,31.76725312112517,0 6.756136041519724,31.76722816357285,0 6.798602605698731,31.73805868225536,0 6.807446183436488,31.73302809835867,0 6.813039681488005,31.72599359911139,0 6.815971815707968,31.71595125282626,0 6.819198160978934,31.70590924840516,0 6.826256084497162,31.69510989884623,0 6.829761355812929,31.67779171063118,0 6.834159390205981,31.66523983354721,0 6.864453903364058,31.63231985498054,0 6.871807626437576,31.62527961572637,0 6.894503086991126,31.62372946978817,0 6.91601889209879,31.62016856469989,0 6.933104754856904,31.61259641911245,0 6.955221233514289,31.59053847023112,0 6.970783410430226,31.57594714680459,0 7.005464985909304,31.55703755157191,0 7.033097308489658,31.54466219483067,0 7.05544165558416,31.53555800324511,0 7.069530705765201,31.52421709727103,0 7.083613616872013,31.5113660143468,0 7.103932743080264,31.50953322125938,0 7.118658302492687,31.50771827805922,0 7.145762686286911,31.50434195795909,0 7.159858139077315,31.49172141984068,0 7.169958995182109,31.47999461345659,0 7.182559295780697,31.4704013916825,0 7.197494444178767,31.45828873276801,0 7.214753073432751,31.44215083677061,0 7.218510333640371,31.43134285719566,0 7.220938213874049,31.39569958752145,0 7.218428343288103,31.36961511428739,0 7.234711279073649,31.34118450617429,0 7.239919967524542,31.32810887192914,0 7.2527654446131,31.31474292166104,0 7.254758596521141,31.30443942699276,0 7.268774151255533,31.29030637692304,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

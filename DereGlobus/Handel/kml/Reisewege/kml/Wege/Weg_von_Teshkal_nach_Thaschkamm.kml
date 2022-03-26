@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Teshkal nach Thaschkamm</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Teshkal nach Thaschkamm-->
+			<name>Weg von Teshkal nach Thaschkamm</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					0.4972056467901953,33.19904764102088,0 <!--<POI>SOE:Thaschpforte</POI>-->
+					0.4832883141220234,33.09867079988612,0 
+					0.46086923381776,33.08090215944367,0 
+					0.4140664527144455,33.01885764150421,0 
+					0.4118140578702478,32.98499476370951,0 
+					0.389056912882777,32.95202441171131,0 <!--<POI>Abzweig:Weg von Orkenhort nach Teshkal</POI>-->
+					0.346892494797455,32.89107954684994,0 
+					0.3145348269998061,32.8830405684678,0 
+					0.2788028886306826,32.84583353148461,0 
+					0.2604099453898989,32.78139704901279,0 
+					0.2461228528012449,32.74874225738984,0 
+					0.2234971273614583,32.71284155255906,0 
+					0.217078944946163,32.69511646933093,0  <!--<POI>SOE:Thaschweg</POI>-->
+				</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>0.443203</longitude>
+				<latitude>32.959598</latitude>
+				<altitude>150000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

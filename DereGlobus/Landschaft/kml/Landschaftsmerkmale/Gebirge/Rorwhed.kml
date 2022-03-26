@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+<Folder>
+	<name>Rorwhed</name>
+
+		<Placemark>
+			<name>Rorwhed</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Rorwhed</b> (ein <a href="http://www.wiki-aventurica.de/wiki/Alaani" title="Alaani">norbardischer</a> Name) ist ein rundes vulkanisches <a href="http://www.wiki-aventurica.de/wiki/Gebirge" title="Gebirge">Gebirge</a> östlich von <a href="http://www.wiki-aventurica.de/wiki/Tiefhusen" title="Tiefhusen">Tiefhusen</a> im <a href="http://www.wiki-aventurica.de/wiki/Svelltland" title="Svelltland">Svelltland</a> voll steiler Schluchten, das der <a href="http://www.wiki-aventurica.de/wiki/Svellt" title="Svellt">Svellt</a> von seiner Fortsetzung, dem <a href="http://www.wiki-aventurica.de/wiki/Firunswall" title="Firunswall">Firunswall</a> trennt. Seine Berge sind bis zu 2500 Schritt hoch. Aus ihm entspringen der <a href="http://www.wiki-aventurica.de/wiki/Nuran_Rorwhed" title="Nuran Rorwhed">Nuran Rorwhed</a> und bei <a href="http://www.wiki-aventurica.de/wiki/Rorkvell" title="Rorkvell">Rorkvell</a> der <a href="http://www.wiki-aventurica.de/wiki/Ror" title="Ror">Ror</a>.
+</p>
+<p>
+Im Gebirge leben die <a href="http://www.wiki-aventurica.de/wiki/Rorwhed-Ork" title="Rorwhed-Ork">Rorwhed-Orks</a> und <a href="http://www.wiki-aventurica.de/wiki/Hexe" title="Hexe">Hexen</a>, die früher dem <a href="http://www.wiki-aventurica.de/wiki/Zirkel_der_Schwarzen_Kr%C3%B6te" title="Zirkel der Schwarzen Kröte">Zirkel der Schwarzen Kröte</a> angehörten. Hier sollen auch die <a href="http://www.wiki-aventurica.de/wiki/Erzzwerg" title="Erzzwerg">Erzzwergensippe</a> der <a href="/index.php?title=Kagorim&amp;action=edit&amp;redlink=1" class="new" title="Kagorim (Seite nicht vorhanden)">Kagorim</a> und die <a href="http://www.wiki-aventurica.de/wiki/Auelf" title="Auelf">Auelfensippe</a> der <a href="/index.php?title=Alwale%C3%AAza%27a&amp;action=edit&amp;redlink=1" class="new" title="Alwaleêza'a (Seite nicht vorhanden)">Alwaleêza'a</a> leben.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+		<LookAt>
+			<longitude>1.638996818308776</longitude>
+			<latitude>35.20051332053706</latitude>
+			<altitude>400000</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<Region>
+			<Lod>
+				<minLodPixels>10000</minLodPixels>
+				<maxLodPixels>100000</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#gebirge</styleUrl>
+			<Point>
+				<coordinates>1.638996818308796,35.20051332053706,0</coordinates>
+			</Point>
+		</Placemark>
+
+	<Folder>
+		<name>Berge</name>
+		<open>0</open>
+
+		<Placemark>
+			<name>Grimmen</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Der <b>Grimmen</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im südlichen <a href="http://www.wiki-aventurica.de/wiki/Rorwhed" title="Rorwhed">Rorwhed</a>. An seinem Fuß liegt die Siedlung <a href="http://www.wiki-aventurica.de/wiki/Grimmsvell" title="Grimmsvell">Grimmsvell</a>.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>1.80137485294757</longitude>
+				<latitude>34.95406528633466</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg-X</styleUrl>
+			<Point>
+				<coordinates>1.80164875711585,34.9606752876671,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Silberkrone</name>
+		<Region>
+			<Lod>
+				<minLodPixels>100000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+Die <b>Silberkrone</b> ist der höchste <a href="http://www.wiki-aventurica.de/wiki/Berg" title="Berg">Berg</a> im <a href="http://www.wiki-aventurica.de/wiki/Rorwhed" title="Rorwhed">Rorwhed</a> und zieht <a href="http://www.wiki-aventurica.de/wiki/Hexe" title="Hexe">Hexen</a> und <a href="http://www.wiki-aventurica.de/wiki/Silberwolf" title="Silberwolf">Silberwölfe</a> scheinbar magisch an. Den <a href="http://www.wiki-aventurica.de/wiki/Nivese" title="Nivese">Nivesen</a> nach ist dies ein Ort mit kraftvollen Naturgeistern.
+</p>
+
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>1.53857455601319</longitude>
+				<latitude>35.31603525099802</latitude>
+				<altitude>150000</altitude>
+				<range>0</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>http://dereglobus.googlecode.com/svn/Release/Landschaft/kml/styles/landschaftsmerkmale.kml#berg</styleUrl>
+			<Point>
+				<coordinates>1.51720235899259,35.313036148897,0</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Folder>
+	<name>Staatliche Bauwerke Hôt-Alem</name>
+	<open>1</open>
+	<Region>
+		<LatLonAltBox>
+			<north>16.40593866511323</north>
+			<south>16.40042647767344</south>
+			<east>-0.1490680961838435</east>
+			<west>-0.1572203420604919</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<Placemark>
+		<name>Garnisonstor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 15<TR><TD><I>Stadtteil: Alt-Alem<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.153264</longitude>
+			<latitude>16.405513</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.153264,16.405513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jadepalast</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 2<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.156527</longitude>
+			<latitude>16.402840</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-341</begin>
+			<end>-106</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.156527,16.402840,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hafenmeisterei</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 9<TR><TD><I>Stadtteil: Hafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.152017</longitude>
+			<latitude>16.403091</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.152017,16.403091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kaiserliche Garnison</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 13<TR><TD><I>Stadtteil: Hafen<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.150257</longitude>
+			<latitude>16.404653</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.150257,16.404653,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Palast des Fürst-Protektors</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 5<TR><TD><I>Stadtteil: Sonnenstadt<TR><TD><I>Besitzer/Vorsteher:</I> Refardeon II.<TR><TD><I>Bemerkung:</I> Miniaturausgabe der Neuen Residenz<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.156563</longitude>
+			<latitude>16.402799</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.156563,16.402799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Söldnerkaserne</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 14<TR><TD><I>Stadtteil: Hafen<HR><TR><TD><B> Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.151370</longitude>
+			<latitude>16.402204</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.151370,16.402204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stadttor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 13<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<TimeStamp><when>-341</when></TimeStamp>
+			<longitude>-0.155239</longitude>
+			<latitude>16.404482</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-341</begin>
+			<end>-106</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.155239,16.404482,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wachtürme</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 4<HR><TR><TD><B>Quelle:</B><BR><TR><TD>Aventurischer Bote (143), S. 9</TR></TABLE>]]></description>
+		<LookAt>
+			<TimeStamp><when>-341</when></TimeStamp>
+			<longitude>-0.156401</longitude>
+			<latitude>16.403254</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-341</begin>
+			<end>-106</end>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+		<Point>
+			<coordinates>-0.156401,16.403254,0</coordinates>
+		</Point>
+		<Point>
+			<coordinates>-0.153768,16.405126,0</coordinates>
+		</Point>
+		<Point>		
+			<coordinates>-0.151939,16.405532,0</coordinates>
+		</Point>
+		<Point>
+			<coordinates>-0.150119,16.405349,0</coordinates>
+		</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Westtor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><I>Lage auf dem Stadtplan: 16<TR><TD><I>Stadtteil: Alt-Alem<HR><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD>Das Land des Schwarzen Auges, S. 82<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges, S. 23<TR><TD>Der Tiefe Süden, S. 126<TR><TD>Die Welt des Schwarzen Auges, S. 90<TR><TD>In den Dschungeln Meridianas, S. 116<TR><TD>Geographia Aventurica, S. 85<TR><TD>Efferds Wogen, S. 22<TR><TD>Efferds Wogen, S. 85<TR><TD>Die Verdammten des Südmeers, S. 9<TR><TD>Das Letzte Duell, S. 54<TR><TD>Das Letzte Duell, S. 309<TR><TD>Efferds Wogen, S. 174<TR><TD>Aventurischer Bote (143), S. 9<TR><TD>Im Bann des Diamanten, S. 104<TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+		<LookAt>
+			<longitude>-0.156828</longitude>
+			<latitude>16.403626</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>260</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<TimeSpan id="ID">
+			<begin>-106</begin>
+		</TimeSpan>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-0.156828,16.403626,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

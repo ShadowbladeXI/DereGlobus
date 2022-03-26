@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+	<Placemark> 	<!-- Seneb-Horas-Straße -->
+		<name>Seneb-Horas-Straße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+		<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Seneb-Horas-Straße</b> führt von <a href="http://www.wiki-aventurica.de/wiki/Bethana" title="Bethana">Bethana</a> über <a href="http://www.wiki-aventurica.de/wiki/Horasia" title="Horasia">Horasia</a>, <a href="http://www.wiki-aventurica.de/wiki/Pertakis" title="Pertakis">Pertakis</a>, <a href="http://www.wiki-aventurica.de/wiki/Arivor" title="Arivor">Arivor</a>, <a href="http://www.wiki-aventurica.de/wiki/Silas" title="Silas">Silas</a>, <a href="http://www.wiki-aventurica.de/wiki/Methumis" title="Methumis">Methumis</a> und <a href="http://www.wiki-aventurica.de/wiki/Theg%C3%BBn" title="Thegûn">Thegûn</a> nach <a href="http://www.wiki-aventurica.de/wiki/Neetha" title="Neetha">Neetha</a>. In der Zeit, in der das <a href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld" title="Liebliches Feld">Liebliche Feld</a> unter <a href="http://www.wiki-aventurica.de/wiki/Mittelreich" title="Mittelreich" class="mw-redirect">mittelreichischer</a> Verwaltung stand, wurde die Straße <b>Reichsstraße 5</b> genannt. Heute nennt man sie im <a href="http://www.wiki-aventurica.de/wiki/Horasreich" title="Horasreich">Horasreich</a> wieder beim alten Namen.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+		</description>
+		<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+						-1.744878994678908,25.59820495072854,0  <!-- <POI>Siedlung:Bethana</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> --> 
+						-1.693004094917715,25.54041177683196,0 
+						-1.652795787899818,25.50721712396652,0 
+						-1.630331019605513,25.49775073225622,0  <!-- <POI>Siedlung:Horasia</POI> --> <!-- <POI>Abzweig:Straße nach Schelf</POI> --> 
+						-1.579950068843999,25.4998858295826,0 
+						-1.545917283342613,25.48425250414429,0 
+						-1.507142158536483,25.48293269211015,0 
+						-1.48673439564475,25.47284350668546,0   <!-- <POI>Abzweig:Straße nach Süden</POI> --> 
+						-1.45771426542293,25.47377645216099,0 
+						-1.426404523952825,25.48795728313568,0 
+						-1.399117811006673,25.4969649717813,0 
+						-1.398373542111399,25.49688058211158,0 <!-- Anfang Detailkarte Shenilo --> 
+						-1.397207472239208,25.49629589390866,0 
+						-1.396467646702225,25.49590611624983,0 
+						-1.395839938709861,25.49552460028181,0 
+						-1.395185671192907,25.49506742046383,0 
+						-1.394433352596667,25.49442950574415,0 
+						-1.393991425728317,25.49383168524702,0 
+						-1.393655606062112,25.4930465884913,0  <!-- <POI>Abzweig:Straße nach Arinken</POI> -->
+						-1.393574559026779,25.49139817789321,0 
+						-1.39357020182416,25.49074455308251,0  <!-- <POI>Siedlung:Shenilo</POI> -->
+						-1.393522442707209,25.49002989569848,0 
+						-1.393327071064016,25.48946382311648,0 
+						-1.39310048498045,25.48904972808789,0 
+						-1.392783156219831,25.48868812807586,0 
+						-1.391403851781456,25.48796266160569,0 
+						-1.391199407958815,25.48772861188648,0 
+						-1.390423373254748,25.48617448801998,0 <!-- Ende Detailkarte Shenilo --> 
+						-1.352863356690623,25.46887012003541,0   
+						-1.3080787003286,25.42514341073521,0    <!-- <POI>Siedlung:Côntris</POI> --> <!-- <POI>Abzweig:Yaquirstraße</POI> -->
+						-1.288797955358574,25.43347797079424,0 
+						-1.263782187829967,25.43742494597802,0 
+						-1.227536056346896,25.43324905119703,0 
+						-1.193185999048245,25.43763015687257,0 
+						-1.178276336025645,25.44277043805155,0  <!-- <POI>Siedlung:Pertakis</POI> --> <!-- <POI>Abzweig:Yaquirstraße</POI> --> <!-- <POI>Abzweig:Straße nach Arinken</POI> -->
+						-1.173369596037296,25.43476985369484,0  <!-- <POI>Fluss:Yaquir</POI> -->
+						-1.169154341384587,25.38678984750453,0  <!-- <POI>Siedlung:Clameth</POI> --> <!-- <POI>Abzweig:Straße nach Kuslik</POI> -->
+						-1.145950406949258,25.36232451062268,0  <!-- <POI>Siedlung:Castarosa</POI> --> <!-- <POI>Abzweig:Straße nach Westfar </POI> --> <!-- <POI>Abzweig:Straße nach Aldyra </POI> -->
+						-1.13825041254647,25.3316976356189,0 
+						-1.111504043260824,25.29366480280421,0 
+						-1.097695451117426,25.26268030212954,0 
+						-1.053688635338497,25.21450825150959,0 
+						-1.049577572424405,25.20528601039884,0  <!-- <POI>Siedlung:Heroicum</POI> -->
+						-1.018810133081644,25.18162305442155,0 
+						-0.9982591626303894,25.17696922126502,0 <!-- Anfang Detailkarte Arivor -->
+						-0.9972292417589324,25.17545670432594,0 
+						-0.996222364518079,25.17368101912414,0 
+						-0.9958892849749124,25.17290499575845,0 
+						-0.9957630610817048,25.1722499364692,0 
+						-0.9957699944410714,25.1707938009686,0 
+						-0.9959358213363967,25.16879480595222,0 
+						-0.9958820209004504,25.16833601269877,0 
+						-0.9957124752963042,25.16750620106132,0  <!-- <POI>Abzweig:Straße nach Westfar </POI> -->
+						-0.9954847011100521,25.16702726784685,0 
+						-0.9952295185976212,25.16677081006658,0 
+						-0.9947118232092633,25.16658787655029,0 
+						-0.994284491644839,25.16662278971334,0 
+						-0.993258986884189,25.16682666948503,0   <!-- <POI>Station:Stadttor West</POI> -->
+						-0.9922121279200236,25.16693565367938,0 
+						-0.990019737732909,25.166984752199,0 
+						-0.989281186371741,25.16711404481148,0 
+						-0.9886742566269891,25.16699360049079,0 
+						-0.9884505146953471,25.16687304884357,0  <!-- <POI>Siedlung:Arivor</POI> --> <!-- <POI>Abzweig:Straße nach Aldyra</POI> -->
+						-0.9888044400984219,25.16609716750773,0 
+						-0.9885465596572007,25.16564627895216,0 
+						-0.988295108162095,25.1654007867172,0 
+						-0.9878267654980943,25.16525108478413,0 
+						-0.9870293504859928,25.16512432699264,0 
+						-0.986826220198842,25.16500282035541,0 
+						-0.9867975138364049,25.16376178372222,0  <!-- <POI>Station:inneres Stadttor Süd</POI> -->
+						-0.9865976879091198,25.16334197471548,0  <!-- <POI>Station:äußeres Stadttor Süd</POI> -->
+						-0.9854034265533918,25.16160965640003,0  <!-- Ende Detailkarte Arivor -->
+						-0.9821566889834765,25.15402541099465,0 
+						-0.94831504287892,25.12804621494993,0 
+						-0.9379351138810821,25.11345954692752,0 
+						-0.9131215542715743,25.09711028274285,0  <!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.8710509999488447,25.03713539119451,0 
+						-0.8583436224602914,25.00732280032376,0 
+						-0.8324088702604438,24.97806675073757,0 
+						-0.8155491559045136,24.9461036955191,0 
+						-0.7896638460420302,24.92870808537749,0  <!-- <POI>Siedlung:Urbet</POI> --> <!-- <POI>Abzweig:Straße nach Letran</POI> --> <!-- <POI>Abzweig:Straße nach Urbasi</POI> -->
+						-0.7425982884832705,24.88618391113954,0  <!-- <POI>Fluss:Sikram</POI> -->
+						-0.7031600886192901,24.86359911213982,0  <!-- <POI>Siedlung:Silas</POI> --> <!-- <POI>Abzweig:Sikramstieg</POI> -->
+						-0.650087192592238,24.82533536611547,0 
+						-0.6356149446928305,24.80177945071466,0 
+						-0.6320915135259209,24.78237529363519,0  <!-- <POI>Siedlung:Gasthof Zur Weißen Bache</POI> --> 
+						-0.6116805781024404,24.75157483309093,0 
+						-0.610784426873946,24.691534471529,0     <!-- <POI>Siedlung:Gasthof Zum gebrochenen Hof</POI> -->
+						-0.5977846227829697,24.64830311257107,0  <!-- <POI>Siedlung:Parsek</POI> --> <!-- <POI>Abzweig:Straße nach Onjaro</POI> -->
+						-0.5902151589119653,24.61431964800909,0  <!-- <POI>Fluss:Onjet</POI> -->
+						-0.6002637542876843,24.58295527908866,0 
+						-0.5903616445932902,24.53608770948658,0  <!-- <POI>Abzweig:Goldfelser Stieg</POI> -->
+						-0.5916826824570898,24.49394406895194,0 
+						-0.6123098462856713,24.41555272498783,0 
+						-0.6206701756463329,24.41108527996317,0 
+						-0.6212267103891433,24.4100768343667,0   <!-- Anfang Detailkarte Methumis -->
+						-0.6206715826803222,24.40780279954228,0  <!-- <POI>Station:Stadttor Nord</POI> -->
+						-0.620417576346316,24.4056403146968,0    
+						-0.619053160004357,24.40565932966912,0   <!-- <POI>Siedlung:Methumis</POI> --> <!-- <POI>Abzweig:Herzog Thiam-Esplanade</POI> -->
+						-0.6182345949828016,24.40583140867398,0 
+						-0.618229016167442,24.40583226663655,0 
+						-0.6177364295265653,24.40615138341874,0 
+						-0.6170437085322089,24.40680501506573,0 
+						-0.6166883443395765,24.40694998133481,0 
+						-0.616330811470206,24.40698321717785,0   <!-- <POI>Station:Stadttor Ost</POI> --> <!-- <POI>SOE:Silem-Horas-Straße</POI> -->
+						-0.6148328002939019,24.40706135807543,0  <!-- Ende Detailkarte Methumis --> 
+						-0.5753529859232409,24.40728139716369,0 
+						-0.5420608587090159,24.36786476267133,0  <!-- <POI>Siedlung:Olbris</POI> --> <!-- <POI>Abzweig:Silem-Horas-Straße</POI> -->
+						-0.5062648949567672,24.30987727150343,0 
+						-0.4648819911607283,24.28406887095546,0 
+						-0.4448420944384013,24.26590504523908,0 
+						-0.4050948729165482,24.24858266032069,0  <!-- <POI>Fluss:Tovalla</POI> -->
+						-0.377745519179592,24.21146423393827,0   <!-- <POI>Siedlung:Climer</POI> --> 
+						-0.3456688530872476,24.17935183810601,0  <!-- <POI>Siedlung:Tarsis</POI> --> 
+						-0.3299082505899442,24.14649265362727,0  <!-- <POI>Siedlung:Tangor</POI> --> 
+						-0.3154675545254715,24.12610921449765,0 
+						-0.3088284418248199,24.08339003030051,0  <!-- <POI>Siedlung:Thegûn</POI> --> <!-- <POI>Abzweig:Kabashpforte</POI> --> <!-- <POI>Abzweig:Straße nach Gebein</POI> -->
+						-0.2921893620734761,23.98321045349995,0  <!-- <POI>Siedlung:Juldurf</POI> --> 
+						-0.3052341426768068,23.94808416524728,0  <!-- <POI>Siedlung:Trevia</POI> --> <!-- <POI>Abzweig:Straße nach Eldoret</POI> -->
+						-0.3033078048162319,23.92538334014446,0 
+						-0.3339308740857871,23.88638932992418,0  <!-- <POI>Siedlung:Lupalia</POI> --> 
+						-0.3734182884504822,23.85392773439271,0  <!-- <POI>Siedlung:Benderis</POI> --> 
+						-0.3899118677223212,23.81701595977844,0
+						-0.4032300826231761,23.80229355308443,0  <!-- <POI>Siedlung:Viallana</POI> --> 
+						-0.4146143279318693,23.76581532040204,0 
+						-0.4134294723070153,23.74480171317837,0  <!-- <POI>Siedlung:Hadûk</POI> --> <!-- <POI>Abzweig:Straße nach Shilish</POI> -->
+						-0.4238983371100236,23.69710850861232,0  <!-- <POI>Siedlung:Sumpera</POI> --> 
+						-0.4209905032467765,23.58733667024688,0  <!-- <POI>Siedlung:Liddla</POI> --> 
+						-0.4274689454487424,23.55160859248203,0 
+						-0.4224529283957557,23.5229493241831,0   <!-- <POI>Siedlung:Rhûvak</POI> --> <!-- <POI>Siedlung:Nova Rhûvak</POI> --> <!-- <POI>Abzweig:Silem-Horas-Straße</POI> -->
+						-0.4211227202283296,23.49339200057165,0 
+						-0.4308011520251198,23.47009188956783,0  <!-- Anfang Detailkarte Neetha -->
+						-0.4307307069565014,23.4695826735333,0   <!-- <POI>Siedlung:Neetha</POI> --> <!-- <POI>Station:Stadttor Nord</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-0.919870</longitude>
+				<latitude>24.608283</latitude>
+				<altitude>400000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+
+		</Placemark>
+	</Document>
+</kml>
+

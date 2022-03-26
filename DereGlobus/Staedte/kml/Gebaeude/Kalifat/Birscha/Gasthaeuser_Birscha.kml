@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+            <Folder>
+        <name>Gasthäuser Birscha</name>
+	<Region>
+		<LatLonAltBox>
+			<north>23.81298014153157</north>
+			<south>23.80869217165211</south>
+			<east>2.327067021500694</east>
+			<west>2.320435406253254</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>256</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+        <Placemark>
+          <name>Karawanserei</name>
+          <LookAt>
+            <longitude>2.323842730125794</longitude>
+            <latitude>23.81080149185729</latitude>
+            <altitude>1000</altitude>
+            <range>682.2979751398253</range>
+            <tilt>0</tilt>
+            <heading>-0.01077587661061438</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Gasthaus</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Karawanserei in Birscha</value>
+			</Data>
+		</ExtendedData>
+		<Point id="KMLe_94">
+            <coordinates>2.322952300618086,23.80979093978265,0</coordinates>
+          </Point>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellspacing="0" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p>
+			Die <b>Karawanserei</b> wurde nach landestypischem Stil erbaut. F&uuml;r G&auml;ste stehen enge Einzelzimmer zu Verf&uuml;gung; &ouml;fters bieten H&auml;ndler ihre Waren im Hof an. Der Betreiber Khorim versorgt seine G&auml;ste selbst, seine besondere Spezialit&auml;t ist eingelegte Kamelzunge.<!-- END EDIT --></p>
+            <hr />
+            <div id="wiki"><a href="http://www.wiki-aventurica.de"><img alt="Wiki Aventurica" align="left" src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" /></a>
+			<p>Dieser Text basiert auf dem Artikel
+			<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+			aus der freien Website
+			<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+			und steht unter der
+			<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+			Im Wiki Aventurica ist eine
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+			verfügbar, dort kann man den
+			<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+			</td>
+			</tr>
+			</table>]]></description>
+        </Placemark>
+      </Folder>
+    </Document>
+</kml>

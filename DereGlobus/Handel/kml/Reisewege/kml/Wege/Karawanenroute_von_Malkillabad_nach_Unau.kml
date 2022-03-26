@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Karawanenroute von Malkillabad nach Unau</name>
+	<open>1</open>
+		<Placemark> 	<!-- Karawanenroute von Malkillabad nach Unau-->
+			<name>Karawanenroute von Malkillabad nach Unau</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Die <b>Karawanenroute von Malkillabad nach Unau</b> verbindet <a href="http://www.wiki-aventurica.de/wiki/Malkillabad" title="Malkillabad">Malkillabad</a> im <a href="http://www.wiki-aventurica.de/wiki/Szintotal" title="Szintotal">Szintotal</a> mit <a href="http://www.wiki-aventurica.de/wiki/Unau" title="Unau">Unau</a> und somit der <a href="http://www.wiki-aventurica.de/wiki/Khôm" title="Khôm">Khôm</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.495653483793013,22.54479695169266,0  	<!-- <POI>Siedlung:Unau</POI> --> <!-- <POI>Station:Karawanserei</POI> --> <!-- SOE:Karawanenroute von Keft nach Unau -->	
+						3.49557897422212,22.54469012889815,0 	
+						3.495490859067687,22.54452376920616,0 
+						3.495437042501464,22.5443744277719,0 
+						3.495321191358465,22.54421009368216,0 
+						3.49525070315623,22.54398593852612,0 	<!-- Ende Detailkarte Unau --> <!-- SOE:Karawanenroute von Keft nach Unau -->
+						3.446879647473975,22.47999999106126,0 	
+						3.429270127865058,22.44054368626896,0 
+						3.398490571553638,22.39656512999422,0 
+						3.394318725220649,22.3160896178936,0 
+						3.375934032369377,22.26689727439462,0 
+						3.380804183980828,22.25258846690299,0 	<!-- <POI>Station:Karawanserei "Bir-es-Soltan"</POI> -->
+						3.350885482066954,22.22190115169335,0 	
+						3.343938260533865,22.22123707976975,0 	<!-- <POI>Flussquerung:Chaneb</POI> -->
+						3.336381327407363,22.22095847639248,0 	
+						3.303595991275528,22.17304752908381,0   <!-- <POI>SOE:Karawanenroute von Unau nach Kannemünde</POI> -->
+					</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						3.303595991275528,22.17304752908381,0   <!-- <POI>SOE:Karawanenroute von Unau nach Kannemünde</POI> -->
+						3.291726154978185,22.17426333481206,0 
+						3.262997375221519,22.1419011970692,0 
+						3.250194015391301,22.10300397382477,0 
+						3.229572248932691,22.0782025063446,0 
+						3.200948637235965,22.06399231752085,0 
+						3.170931336117391,22.05516998654481,0 
+						3.140749006222012,22.04534953880074,0 
+						3.104250974496097,22.02098124609357,0 
+						3.098167386619717,22.00796916921662,0 
+						3.074952809846376,21.98506615884363,0 
+						3.040785167281124,21.96696348469588,0 
+						3.033501326435311,21.95229072125352,0 
+						3.00431586976482,21.92857943111355,0 
+						2.969033907424874,21.91004297658222,0 
+						2.930675675498842,21.90301355100373,0 
+						2.889026182652807,21.89099962440904,0 
+						2.837545780709807,21.8647058955141,0 
+						2.806243268654098,21.86483495218252,0 
+						2.765058599227899,21.88942544981077,0 
+						2.696650870887762,21.8890396074752,0 
+						2.678979811027751,21.88548631932471,0 
+						2.633399053248988,21.85482069386779,0 
+						2.599603889547908,21.81757960221775,0 
+						2.585520811785487,21.81012245558981,0 
+						2.526418922206466,21.80243088286733,0 
+						2.473326845182373,21.78408220858876,0  <!-- <POI>Flussquerung:Szinto</POI> -->
+						2.460020350915941,21.77693916047813,0  <!-- <POI>Siedlung:Malkillabad</POI> --> <!-- <POI>SOE:Straße von Selem nach Machsiz</POI> -->
+						</coordinates>
+			</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>2.977865</longitude>
+				<latitude>22.161862</latitude>
+				<altitude>133550</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

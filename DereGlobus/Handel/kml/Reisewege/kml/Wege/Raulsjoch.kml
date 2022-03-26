@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Raulsjoch</name>
+	<open>1</open>
+		<Placemark> 	<!-- Raulsjoch-->
+			<name>Raulsjoch</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Das <b>Raulsjoch</b> ist ein <a href="http://www.wiki-aventurica.de/wiki/Pass" title="Pass">Pass</a> über die <a href="http://www.wiki-aventurica.de/wiki/Drachensteine" title="Drachensteine">Drachensteine</a>. Er ist schwer zugänglich und verbindet <a href="http://www.wiki-aventurica.de/wiki/Perainefurten" title="Perainefurten">Perainefurten</a> in <a href="http://www.wiki-aventurica.de/wiki/Wei%C3%9Ftobrien" title="Weißtobrien" class="mw-redirect">Weißtobrien</a> über das <a href="http://www.wiki-aventurica.de/wiki/Tal_der_T%C3%BCrme" title="Tal der Türme">Tal der Türme</a> mit <a href="http://www.wiki-aventurica.de/wiki/Salderkeim" title="Salderkeim">Salderkeim</a> im <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> und war lange Zeit in Vergessenheit geraten.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					9.290100998157806,34.33391152913701,0  <!--<POI>Siedlung:Salderkeim</POI>--> <!--<POI>SOE:Weststraße</POI>-->
+					9.259604793449107,34.30396390838188,0 
+					9.258006949060306,34.25791735050097,0 
+					9.24858962099804,34.22829122620649,0 <!--<POI>Siedlung:Salderholt</POI>-->
+					9.218371324972768,34.18730031171793,0 
+					9.229077591464323,34.17134100145191,0 
+					9.220029033170219,34.1372302966558,0 
+					9.160406373682882,34.06864984856648,0 
+					9.104314569433992,34.02968389049671,0 
+					9.046573940062885,34.01830142430878,0 
+					8.99670574021501,33.98072483261917,0 
+					8.953439793906293,33.92401402823641,0 
+					8.89952744138875,33.89900190915503,0 
+					8.876266792838097,33.90090145980539,0
+					8.841156755543452,33.86394242132737,0
+					8.782249451610467,33.85716854414916,0 
+					8.744369734401685,33.85666799528626,0 
+					8.725664043501132,33.8643860298179,0 
+					8.667589651392078,33.84743919046082,0 
+					8.612749438468487,33.84102663629658,0 
+					8.581682433355386,33.82756813728226,0
+					8.544853236310443,33.82572001159008,0 
+					8.513331850477373,33.80189928851154,0 
+					8.456069261461748,33.81858122404485,0 
+					8.389212812801842,33.8790540761216,0 
+					8.316207405215106,33.84463011484024,0 
+					8.267495301928314,33.8434807051093,0 
+					8.223033242594172,33.82468229279584,0 
+					8.154612141919914,33.8138929354282,0 
+					8.119039790960658,33.8382244096896,0 
+					8.080854153139374,33.81078087636885,0
+					8.059652869322441,33.80071935904742,0
+					8.018907832140272,33.81265279575916,0
+					7.955398043137107,33.79700114662217
+					7.953752533099159,33.79682714504729,0 <!--<POI>Siedlung:Burg Drachenhaupt</POI>--> <!--<POI>SOE:Ornaldsjoch</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>8.526433</longitude>
+				<latitude>33.678026</latitude>
+				<altitude>250000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

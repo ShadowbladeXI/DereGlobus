@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+      <Folder>
+        <open>0</open>
+        <name>Privathäuser Ilsur 23 Hal</name>
+        <visibility>1</visibility>
+
+   <Region>
+      <LatLonAltBox>
+			<north>31.51630821257146</north>
+			<south>31.49958921400086</south>
+			<east>9.683694417326247</east>
+			<west>9.669644105513561</west>
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+        <Placemark>
+          <name>Villa Frengammer (6)</name>
+          <visibility>1</visibility>
+          <Snippet maxLines="0">
+          </Snippet>
+          <description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style><p>Quelle: <a href="http://www.wiki-aventurica.de/wiki/Aventurischer_Bote_Nr._54" title="Aventurischer Bote Nr. 54">AB54</a> - <a href="http://www.wiki-aventurica.de/wiki/Chronik:1016" title="Chronik 1016 BF (23 Hal)">1016 BF</a></p> <p>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und - so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert - diesen zu schreiben sowie in DereGlobus einzufügen.</p>]]></description>
+          <LookAt>
+            <longitude>9.679779867715126</longitude>
+            <latitude>31.50936241388111</latitude>
+            <altitude>1000</altitude>
+            <range>1554.511128108345</range>
+            <tilt>0</tilt>
+            <heading>0.001218325602015753</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+          <Point id="KMLe_46">
+            <coordinates>9.675449290170821,31.51323929138858,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+     </Document>
+</kml>

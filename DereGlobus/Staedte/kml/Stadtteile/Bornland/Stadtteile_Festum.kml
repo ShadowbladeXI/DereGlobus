@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Stadtteile_Festum.kml</name>
+		<open>0</open>	
+		<Placemark>
+			<name>Altstadt</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Altstadt in Festum</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Von der <b>Altstadt</b> <a href="http://www.wiki-aventurica.de"Festum">Festums</a> werden die Geschicke der Stadt und des Landes gelenkt. Im nach einem strengen Quadratmuster angelegten Stadtteil, dessen Mittelpunkt der im wahrsten Sinne des Wortes <a href="http://www.wiki-aventurica.de/wiki/Großer_Markt_in_Festum&amp;action=edit&amp;redlink=1" class="new" title="Großer Markt in Festum (Seite nicht vorhanden)">Große Markt</a> darstellt, befindet sich eine Vielzahl kaufmännischer, politischer und sakraler Einrichtungen.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+					10.09709367556395,33.91477257676584,1 
+					10.10305337286503,33.91345819062561,1 
+					10.1020445925267,33.9101871324813,1 
+					10.10072448477062,33.91046879124664,1 
+					10.10048879365325,33.90989751877814,1 
+					10.1003284955509,33.90992098653715,1 
+					10.09998903515039,33.91003834960112,1 
+					10.09848977823557,33.91003824882024,1 
+					10.0983011963089,33.90997563008234,1 
+					10.09786743124755,33.9101164553912,1 
+					10.09714133016499,33.91042941584299,1 
+					10.09672641652483,33.91053893648906,1 
+					10.09639637217474,33.91059368482423,1 
+					10.09613233885465,33.91060148514654,1 
+					10.09602850394082,33.91154054318704,1 
+					10.09650924948206,33.912988306817,1 
+					10.09704654071548,33.91465518954921,1 
+				</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09934754991752,33.91211715969213,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Am Seeufer</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<b>Am Seeufer</b> ist das Viertel der wohlhabenderen Bewohner der Stadt <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festum</a> im <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> und somit auch besonders gut von der Stadtgarde wie auch privaten Söldnern bewacht. Hier findet sich unter anderem die inzwischen verlassene <a href="http://www.wiki-aventurica.de/wiki/Villa_Stoerrebrandt&amp;action=edit&amp;redlink=1" class="new" title="Villa Stoerrebrandt (Seite nicht vorhanden)">Villa Stoerrebrandts</a>.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.11051797163823,33.90803032077098,1 
+								10.10825867377913,33.90805370124961,1 
+								10.10824748668684,33.90930775836929,1 
+								10.1079508071004,33.90932295050094,1 
+								10.10792649912383,33.91174531275249,1 
+								10.10823656553503,33.91175134742063,1 
+								10.10834364680385,33.9136894489158,1 
+								10.10843965339744,33.91394519854203,1 
+								<!--10.10806925695554,33.91413298197208,1 
+								10.10812160475284,33.91475376304135,1 
+								10.10801010560852,33.91555921211285,1 
+								10.10812676769461,33.91557888131337,1--> 
+								10.10880396439159,33.91524713233581,1 
+								10.10953304545613,33.91669359381216,1 
+								10.11111086982234,33.91620887627578,1 
+								10.11114325033013,33.91591903252038,1 
+								10.11111131674527,33.9156408806795,1 
+								10.11108032368456,33.91540558227773,1 
+								10.11105659545306,33.91491297467961,1 
+								10.110909416361,33.91467943672277,1 
+								10.11073312608103,33.9142963069139,1 
+								10.11005402335775,33.91277411037009,1 
+								10.11006199323018,33.91254894192736,1 
+								10.11011830623014,33.91217301060159,1 
+								10.11007581440686,33.91200218796104,1 
+								10.10987417722191,33.91164087239829,1 
+								10.1096748925315,33.91138668587553,1 
+								10.10958146972147,33.9112487816109,1 
+								10.10959084979531,33.9110878903991,1 
+								10.10966383421917,33.91088317143436,1 
+								10.10986379077782,33.91058008385281,1 
+								10.11003957479954,33.91035237780641,1 
+								10.11013908007021,33.91017940725919,1 
+								10.11014680990512,33.90994352323563,1 
+								10.11011534168031,33.90968679743225,1 
+								10.11003435664152,33.90952726979695,1 
+								10.10999233359252,33.90937786983005,1 
+								10.10992237345324,33.90913244016593,1 
+								10.10992237345324,33.90913244016593,1 
+								10.1100878341266,33.90902277273057,1 
+								10.1102917852151,33.90890180685344,1 
+								10.11038940264308,33.90864312747515,1 
+								10.11037107638808,33.90839691583319,1 
+								10.11050741878494,33.90813764982858,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.10899230966917,33.91172298250741,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Gerberviertel</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Westlich der <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festumer</a> <a href="http://www.wiki-aventurica.de/wiki/Altstadt_in_Festum" title="Altstadt in Festum">Altstadt</a>, am Fuß des <a href="http://www.wiki-aventurica.de/wiki/Zwielichtberg" title="Zwielichtberg">Zwielichtberges</a>, liegt das <b>Gerberviertel</b>. Das außerhalb der Stadtmauer liegende Gebiet wird von den Ärmsten der Stadt, hauptsächlich <a href="http://www.wiki-aventurica.de/wiki/Goblin" title="Goblin">Goblins</a>, bewohnt.
+							  <!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.09561355802611,33.90667152733609,1 
+								10.09553718796188,33.90664929151361,1 
+								10.0954755110026,33.90669004754541,1 
+								10.09528049996976,33.90658858298411,1 
+								10.09525849982311,33.90649696414116,1 
+								10.09511950967249,33.90644662290844,1 
+								10.0950149330616,33.90638447854018,1 
+								10.09488356449471,33.90638571745529,1 
+								10.09481434452989,33.90638063101934,1 
+								10.09466419796879,33.90652552566158,1 
+								10.09455396440135,33.90655526064437,1 
+								10.0943950958697,33.9065682364441,1 
+								10.09429908317593,33.90662653286787,1 
+								10.09412992068985,33.90689786684671,1 
+								10.09401489260933,33.90708260310635,1 
+								10.09391243586997,33.90717539458236,1 
+								10.09387849296347,33.90722162742853,1 
+								10.09388022054625,33.90734787198433,1 
+								10.09385342733458,33.90741125481379,1 
+								10.09390269080962,33.90747392101761,1 
+								10.09401536045263,33.90762207646431,1 
+								10.0942179155769,33.90776938443455,1 
+								10.09414987247877,33.90785037338731,1 
+								10.09401677390629,33.907725367266,1 
+								10.09394008887728,33.90768017697869,1 
+								10.09384273958385,33.90764092044305,1 
+								10.09368174871368,33.90749895911213,1 
+								10.09358298633542,33.90735641120764,1 
+								10.09354008764484,33.90725351085263,1 
+								10.09347047403197,33.90721973165256,1 
+								10.09348959041846,33.91013503976366,1 
+								10.09086370876229,33.91013794811287,1 
+								10.09140569371357,33.91043973276153,1 
+								10.09178967931888,33.91065930712689,1 
+								10.09201617290053,33.91083386617466,1 
+								10.09219823103472,33.91103674248921,1 
+								10.09239250926104,33.91131390095589,1 
+								10.09251816699716,33.91148941033722,1 
+								10.09247166310968,33.91171794506914,1 
+								10.09262391870461,33.91194853131124,1 
+								10.09275901772628,33.91228755616304,1 
+								10.09311817407004,33.91265540697398,1 
+								10.09332866663552,33.91305559634049,1 
+								10.09340617067067,33.91327142149922,1 
+								10.09339133871539,33.91354999113336,1 
+								10.09330259448978,33.91387566405185,1 
+								10.09323164046944,33.91413929696336,1 
+								10.09308402643167,33.91424896817903,1 
+								10.09303191860749,33.91452789377929,1 
+								10.092887892916,33.91490049961188,1 
+								10.09397794884074,33.91419413416951,1 
+								10.09434898697432,33.9140668869224,1 
+								10.09460735779512,33.91387882883557,1 
+								10.09480918267752,33.91364489883269,1 
+								10.09586594159546,33.91323275115924,1 
+								10.09653302602257,33.9129480255579,1 
+								10.09606625197456,33.91152936988475,1 
+								10.09607725474188,33.91097242129092,1 
+								10.09618016228241,33.91032180097924,1 
+								10.09660029114245,33.90969912302091,1 
+								10.09610453868918,33.90888401528322,1 
+								10.09515266988548,33.90878472489755,1 
+								10.09497161203369,33.90781196899324,1 
+								10.09548024903896,33.9068481736094,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09401308402726,33.91082775160258,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Hafen</name>
+			<ExtendedData>
+				<Data name="Link">
+ 					<value>Hafen von Festum</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <b>Hafen</b> <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festums</a> erstreckt sich sowohl auf der Festlandseite der Stadt mit seinen weitläufigen Kai- und Wohnanlagen als auch auf der mit Lagerhäusern bestandenen <a href="http://www.wiki-aventurica.de/wiki/Speicherinsel&amp;action=edit&amp;redlink=1" class="new" title="Speicherinsel (Seite nicht vorhanden)">Speicherinsel</a>, die über die <a href="http://www.wiki-aventurica.de/wiki/Zollbr%C3%BCcke&amp;action=edit&amp;redlink=1" class="new" title="Zollbrücke (Seite nicht vorhanden)">Zollbrücke</a> betreten werden kann.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.09645053929145,33.9057179446362,1 
+								10.09554338981064,33.90678022680717,1 
+								10.09492869730652,33.90781029874648,1 
+								10.09514591152343,33.90880229225682,1 
+								10.09604825164681,33.90889488841931,1 
+								10.09664146084472,33.90969271659054,1 
+								10.09616653694213,33.91031925304385,1 
+								10.09611691710457,33.91054094085462,1 
+								10.09671988856374,33.91049617902721,1 
+								10.0971133574061,33.91039755377745,1 
+								10.09837044520891,33.909929800979,1 
+								10.09838897280194,33.91001463736659,1 
+								10.09995847121165,33.91001536923711,1 
+								10.10043886306097,33.90990211558995,1 
+								10.10068727811178,33.91050647298367,1 
+								10.10245202594977,33.91013156517885,1 
+								10.10299580206774,33.90947825350713,1 
+								10.10299214576538,33.90908716815662,1 
+								10.10428874726037,33.90909407901013,1 
+								10.10482848873502,33.908355313506,1 
+								10.10444241889714,33.90797661694517,1 
+								10.10454411551153,33.90759961257199,1
+								10.10467378924808,33.9073538497574,1 
+								10.10470225687664,33.90727069252196,1 
+								10.10470493946709,33.90716117155002,1 
+								10.10467873987385,33.9071004976671,1 
+								10.10441878655962,33.90681082024263,1 
+								10.10443939997905,33.90679115228659,1 
+								10.10444429013895,33.906767029694,1 
+								10.10443622615786,33.90673375744883,1 
+								10.10441525909104,33.90671447532135,1 
+								10.10438531749196,33.9067082510259,1 
+								10.10434768612402,33.90671622984321,1 
+								10.10419583195947,33.90645154983482,1 
+								10.10422285802068,33.90643304215654,1 
+								10.10424214787854,33.90640485804242,1 
+								10.10424446233258,33.90637138930542,1 
+								10.10423110035944,33.90633689391611,1 
+								10.10420625540126,33.90631550732731,1 
+								10.10418018165374,33.90630811357859,1 
+								10.10415291753804,33.90630616384027,1 
+								10.10412033547559,33.90631491105098,1 
+								10.10399682821134,33.90601784840639,1 
+								10.10399460457334,33.90602651213013,1
+								10.10479113318857,33.90572123645228,1
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09995503999414,33.90863472568876,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Hesindendorf</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festumer</a> Stadtteil <b>Hesindendorf</b> gilt als Hort des Wissens, da neben der Magierakademie <a href="http://www.wiki-aventurica.de/wiki/Halle_des_Quecksilbers" title="Halle des Quecksilbers">Halle des Quecksilbers</a> auch wichtige Tempel und Gaststätten mit entsprechendem Klientel angesiedelt sind.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.10423581885367,33.91149810070526,1 
+								10.10401953064323,33.91245151239814,1 
+								10.10400458977259,33.91259046938985,1 
+								10.104021571715,33.91273588206395,1 
+								10.1042311833583,33.91307213328171,1 
+								10.10461872529641,33.9137712465574,1 
+								10.10482862681245,33.91414717827881,1 
+								10.10488478997463,33.91419980849144,1 
+								10.10504535849735,33.91436435208853,1 
+								10.10508582173046,33.91445012759493,1 
+								10.105632285936,33.91508232508305,1 
+								10.10686081732836,33.91415033277642,1 
+								10.10755197481392,33.91384929188992,1 
+								10.10755846250121,33.91364423999907,1 
+								10.10691254376595,33.9135879259137,1 
+								10.10644634985252,33.91193025318864,1 
+								10.10625476560897,33.91188490965287,1 
+								10.10621527093172,33.91082694389333,1 
+								10.10595220905108,33.91081502195954,1 
+								10.1056330810183,33.91076369632912,1 
+								10.10532139891494,33.91063958367417,1 
+								10.10496901832281,33.91039662707335,1 
+								10.10475514814127,33.91057625187511,1 
+								10.10469263447892,33.91074851289719,1 
+								10.1045217430645,33.91136441668095,1 
+								10.10445851591446,33.91143747797067,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.10528723785599,33.91253782779848,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Jodekspitze</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Im Südosten <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festums</a> erhebt sich die <b>Jodekspitze</b> über die Stadt, benannt nach Kapitän <a href="http://www.wiki-aventurica.de/wiki/Jodek" title="Jodek">Jodek</a>. Zu ihren Füßen liegt mit der <a href="http://www.wiki-aventurica.de/wiki/Boronstadt&amp;action=edit&amp;redlink=1" class="new" title="Boronstadt (Seite nicht vorhanden)">Boronstadt</a> das Gräberfeld.	
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.10819449269506,33.90785572856328,1 
+								10.10741791624132,33.90752891577173,1 
+								10.10709445771582,33.90687589053681,1 
+								10.10734949532305,33.90687303042724,1 
+								10.10781530510959,33.90658068456562,1 
+								10.10783399969605,33.90654246718381,1 
+								10.10810585414646,33.90626764722249,1 
+								10.10844293595121,33.90603617495987,1 
+								10.10878213221507,33.90587694266331,1 
+								10.10900802326109,33.90582651895727,1 
+								10.10928048715824,33.90584554843878,1 
+								10.10948596366483,33.90589117608754,1 
+								10.10969694815507,33.90595164780035,1 
+								10.1099394440447,33.90610121911518,1 
+								10.11002106808005,33.90608912284993,1 
+								10.11016629043085,33.90597230177657,1 
+								10.11026982749937,33.90594891223692,1 
+								10.1104217179781,33.90589543102049,1 
+								10.11054210813946,33.90585348277605,1 
+								10.11066542545159,33.90586684934797,1 
+								10.11077652410678,33.90590252595445,1 
+								10.11105435458688,33.905980855548,1 
+								10.11120526789823,33.90599028864899,1 
+								10.11129621606161,33.90605244458055,1 
+								10.11133882619445,33.90613772941603,1 
+								10.11141573001778,33.90618923046822,1 
+								10.1114787077665,33.90629738806246,1 
+								10.11151646458002,33.90637235329449,1 
+								10.11148311578879,33.90641808464447,1 
+								10.11145026262108,33.9064714857414,1 
+								10.11140922200699,33.90654031548714,1 
+								10.11138569078796,33.90659771284326,1 
+								10.11134905725229,33.90666687601195,1 
+								10.11130278792381,33.90673252107673,1 
+								10.11123495536438,33.90675631397284,1 
+								10.11118995430284,33.90677602970104,1 
+								10.11111298555191,33.9068038161782,1 
+								10.11104594067094,33.90684308429763,1 
+								10.11095356077407,33.90692521641967,1 
+								10.11078442916959,33.90705514014719,1 
+								10.11074848897337,33.90707889855987,1 
+								10.11074317058026,33.90714916591472,1 
+								10.11080444929652,33.90723850292925,1 
+								10.11093038042073,33.90746173576645,1 
+								10.11094836035385,33.90752499124201,1 
+								10.11087989206178,33.90764122557818,1 
+								10.11062526938222,33.90791308303589,1 
+								10.11054567713422,33.9080273259136,1 
+								10.1097700913071,33.90804009683877,1 
+								10.10820899216569,33.90806168258335,1 
+								10.10820402653312,33.9078999231867,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.10931798510517,33.90694359345936,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Löwenburg</name>
+			<ExtendedData>
+				<Data name="Link">
+ 					<value>Löwenburg (Festum)</value>
+				</Data>
+			</ExtendedData>  
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das Stadtviertel <B>$[name]</B> ...	
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.09389860711973,33.9497606815277,1 
+								10.09632203033807,33.94976089841089,1 
+								10.0963173483135,33.94807959807828,1 
+								10.09390769186061,33.94806589731962,1
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09494401933394,33.94876072985107,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Mauergärten</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Der <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festumer</a> Stadtteil <b>Mauergärten</b> verläuft im Halbkreis um die eigentliche Stadt und bietet flächenintensive Nutzungen wie den städtischen <a href="http://www.wiki-aventurica.de/wiki/Festumer_Tiergarten&amp;action=edit&amp;redlink=1" class="new" title="Festumer Tiergarten (Seite nicht vorhanden)">Tiergarten</a> oder die <a href="http://www.wiki-aventurica.de/wiki/Rennbahn_in_Festum&amp;action=edit&amp;redlink=1" class="new" title="Rennbahn in Festum (Seite nicht vorhanden)">Rennbahn</a>.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.10793160332629,33.90936569832774,1 
+								10.10791295729411,33.91173132017476,1 
+								10.1082130125432,33.91176243486082,1 
+								10.10819436487165,33.91364558514785,1 
+								10.10825064239073,33.91391015835563,1 
+								10.10798809667477,33.91405023655028,1 
+								10.10810066186803,33.91473501725616,1 
+								10.10800694540015,33.91559100465123,1 
+								10.10738809639135,33.91630693937756,1 
+								10.10663793489811,33.91657153489773,1 
+								10.10556894410468,33.91678944123465,1 
+								10.10433115665297,33.91672719911181,1 
+								10.10395607010752,33.91666494709867,1 
+								10.10346845817575,33.9167894565615,1 
+								10.10328091599602,33.91655600431961,1 
+								10.10238070055797,33.91705403553793,1 
+								10.10056148498751,33.91758318469658,1 
+								10.09999883944721,33.91759874074613,1 
+								10.09909860263117,33.91759872523164,1 
+								10.09808584251015,33.91742750088223,1 
+								10.0972606085561,33.91745860626416,1 
+								10.09506628545533,33.91682040746818,1 
+								10.09484123065146,33.91671145003342,1 
+								10.09362223010931,33.91577755312135,1 
+								10.09317218032575,33.91513940668364,1 
+								10.09290962324497,33.91493705961034,1 
+								10.09394129404434,33.91419006751094,1 
+								10.09431641468653,33.91406558305305,1 
+								10.09452273720117,33.91395665055372,1 
+								10.09480409571997,33.91367652368439,1 
+								10.09585441240907,33.91320968184169,1 
+								10.09615449582799,33.91310075473865,1 
+								10.09576055965952,33.91401897797307,1 
+								10.09538529179138,33.91552862731723,1 
+								10.09786089778422,33.91612014402531,1 
+								10.09832975461748,33.91627579380485,1 
+								10.09930499742531,33.91627581836696,1 
+								10.09971759996978,33.91622913678055,1 
+								10.10031774207973,33.9162447111256,1 
+								10.10056155147218,33.91619802458457,1 
+								10.10104916745927,33.91612021412993,1 
+								10.10168682171939,33.91579338952496,1 
+								10.10260577845079,33.91541987553218,1 
+								10.10393730962104,33.91546656561528,1 
+								10.10502503900898,33.91545099420024,1 
+								10.10549388159719,33.91520197555379,1 
+								10.10570017010187,33.91504633968481,1 
+								10.10680661328738,33.91417477610079,1 
+								10.10755674783604,33.91384792804177,1 
+								10.10757548943457,33.91361447918118,1 
+								10.10693786409323,33.91359893415234,1 
+								10.10645021119181,33.91193368763638,1 
+								10.10626267770179,33.9118870027038,1 
+								10.10620634598718,33.90936575977533,1 
+								10.10710647784716,33.90935016770326,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09454137146474,33.91495272556581,0</coordinates>
+				</Point>
+				<Point>
+					<coordinates>10.09862979825971,33.91669601931805,0</coordinates>
+				</Point>
+				<Point>
+					<coordinates>10.10549389493498,33.91568443844837,0</coordinates>
+				</Point>
+				<Point>
+					<coordinates>10.10701277382135,33.91104657001473,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Neu-Jergan</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								<b>Neu-Jergan</b> ist der von Exil-<a href="http://www.wiki-aventurica.de/wiki/Maraskaner" title="Maraskaner">Maraskanern</a> bewohnte Stadtteil von <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festum</a>. Aus Raumnot wurden besonders hohe Gebäude errichtet.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.10463825345124,33.9070590355328,1 
+								10.10502180205735,33.90689015827313,1 
+								10.10546683887995,33.90678183851107,1 
+								10.10595198512522,33.90668376696078,1 
+								10.10653729915361,33.9066997750551,1 
+								10.10708394880715,33.90685780558662,1 
+								10.1071356623522,33.90702408220957,1 
+								10.10727917143014,33.90726970175224,1 
+								10.10741229717083,33.90752145561765,1 
+								10.10819442525657,33.90785362069266,1 
+								10.1082339355566,33.90935594051001,1 
+								10.10628486691404,33.90936994953253,1 
+								10.10550772710461,33.90953445119854,1 
+								10.10489174638632,33.90827529422533,1 
+								10.10482855127124,33.90834907154946,1 
+								10.10448709464768,33.90809496325599,1 
+								10.10442240830974,33.90794319867069,1 
+								10.10469150373396,33.90728079891086,1 
+								10.10470410671914,33.90715033574779,1 
+								10.10467354984059,33.90710699754944,1
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.10651556339925,33.90847996452035,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Neustadt</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>Neustadt in Festum</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Nördlich der <a href="http://www.wiki-aventurica.de/wiki/Altstadt_in_Festum" title="Altstadt in Festum">Alt-</a> schließt die <b>Neustadt</b> an, die erste Stadterweiterung des prosperierenden <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festums</a>.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.09652688284825,33.91298685714877,1 
+								10.09616415532413,33.91314377371571,1 
+								10.09574621896119,33.91400149204692,1 
+								10.09538992600379,33.9154817869122,1 
+								10.09846614924515,33.91629847526732,1 
+								10.09929857867514,33.91627617958927,1 
+								10.10030679137073,33.91623381953478,1 
+								10.10103329630406,33.91613403175785,1 
+								10.10173504251682,33.91577159401383,1 
+								10.10262443692864,33.91541824404466,1 
+								10.10501669331187,33.9154586960566,1 
+								10.10564807276657,33.91509648518439,1 
+								10.10508182501116,33.91441727817717,1 
+								10.10483412754518,33.91412620819611,1 
+								10.10464501136742,33.91382520681703,1 
+								10.10443191177939,33.91341725112535,1 
+								10.10402994990302,33.91275694862021,1 
+								10.1040056254631,33.91258188068223,1 
+								10.10424636563012,33.91148148840077,1 
+								10.10446889783649,33.91143206865539,1 
+								10.10471148109333,33.91070142873733,1 
+								10.10478119973924,33.91057468839426,1 
+								10.10501463079523,33.91035980545247,1 
+								10.10537946588847,33.91063100672594,1 
+								10.10560263088637,33.91070808132542,1 
+								10.10591950067449,33.9107653696049,1 
+								10.1062361286409,33.91077400391694,1 
+								10.10620572406358,33.90938259446443,1 
+								10.10553793298193,33.9094919501513,1 
+								10.10493409736289,33.90831659093051,1 
+								10.1047821595962,33.90841442725678,1 
+								10.10430483496284,33.90909724518871,1 
+								10.10305038748009,33.90912102647748,1 
+								10.10302867929464,33.90947141223293,1 
+								10.10274888256869,33.90979348977561,1 
+								10.10248085806452,33.91012525537893,1 
+								10.10205939646934,33.91025319874751,1 
+								10.10300037104154,33.91320809176921,1 
+								10.10297822908105,33.91347089458799,1 
+								10.09706334986204,33.91478522850383,1 
+								10.09658641614072,33.91317153963201,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09680662284375,33.91503909959661,0</coordinates>
+				</Point>
+				<Point>
+					<coordinates>10.10226822089367,33.91452423629374,0</coordinates>
+				</Point>
+				<Point>
+					<coordinates>10.10360677324449,33.91018950432078,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Oberer Hafen</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Nachdem der <a href="http://www.wiki-aventurica.de/wiki/Hafen_von_Festum" title="Hafen von Festum">Hafen</a> <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festums</a> den ansteigenden Warenverkehr nicht mehr bewältigen konnte, lagerte man einige Einrichtungen wie den Kriegshafen oder die Werften in den neu gegründeten <b>Oberen Hafen</b> aus, der sich südlich des <a href="http://www.wiki-aventurica.de/wiki/Zwielichtberg" title="Zwielichtberg">Zwielichtberges</a> befindet. 
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.06810622000245,33.91716962826014,1 
+								10.07321204809355,33.91728290678312,1 
+								10.07330321623822,33.91453280861736,1 
+								10.06818357395217,33.91441500547659,1
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.07051894467937,33.91551514764089,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Prähnsgardt</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Das ehemalige Dorf <b>Prähnsgardt</b> wurde durch die Erweiterung der <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festumer</a> Stadtbefestigung zu dessen jüngstem Stadtteil, stellt aber nicht mehr als eine spärliche Ansammlung Gebäude im äußersten Norden <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festums</a> dar.
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.09292944981328,33.91494683534715,1 
+								10.09264157538259,33.91566727804899,1 
+								10.09245866510902,33.91580608256898,1 
+								10.09187205438281,33.91611573157845,1 
+								10.09158151956252,33.91656101460553,1 
+								10.09202572580058,33.91677210537155,1 
+								10.09274437476542,33.91678262655639,1 
+								10.09272946196792,33.91714964165718,1 
+								10.09580302115038,33.91873445590456,1 
+								10.10398313224965,33.9187715045482,1 
+								10.10469917769822,33.91852209718115,1 
+								10.10678137493178,33.91856927153882,1 
+								10.10709573427831,33.91868946273539,1 
+								10.10772236208559,33.91871582735888,1 
+								10.10891826239969,33.91855490542969,1 
+								10.11007116450164,33.91776746031112,1 
+								10.11155820626435,33.91723764719774,1 
+								10.11131541280698,33.9169029528343,1 
+								10.1112021754245,33.9166285367461,1 
+								10.11118224989347,33.91647579365878,1 
+								10.11106946574813,33.91624723890873,1 
+								10.10963681119218,33.91668495541122,1 
+								10.10928036078217,33.91602998948834,1 
+								10.10830197149964,33.91394219806443,1 
+								10.10802671424183,33.91405106415732,1 
+								10.10808900553172,33.91476915284946,1 
+								10.10800483272307,33.91557995426877,1 
+								10.10734871856327,33.91630288112421,1 
+								10.10661457930629,33.91658299203798,1 
+								10.10558466069959,33.91675807276802,1 
+								10.10436815038812,33.91668979789278,1 
+								10.10396259822979,33.91666194211544,1 
+								10.1034667272843,33.91681814083108,1 
+								10.10329841392855,33.91655938078335,1 
+								10.10238198254653,33.91703943185124,1 
+								10.10058206359606,33.91760182788909,1 
+								10.09920017508304,33.91758048526558,1 
+								10.09807499230477,33.91743511702612,1 
+								10.09728286286895,33.91744039925028,1 
+								10.09510319561236,33.9168433971825,1 
+								10.09486267970905,33.91673798096917,1 
+								10.09367470434391,33.91581330744561,1 
+								10.09317114088328,33.9151745532328,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09667817967893,33.91778076326679,0</coordinates>
+				</Point>
+				<Point>
+					<coordinates>10.10605070195663,33.91732058397798,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Zwielichtberg</name>
+			<ExtendedData>
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
+			<description>
+				<![CDATA[<style type="text/css">
+					<!--
+					a:link, a:visited { text-decoration: none; color: #B21C19; }
+					a:hover { text-decoration: underline; color: #B21C19; }
+					hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+					#wiki { font-size:10px; }
+				-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p><a href="http://www.wiki-aventurica.de/wiki/$[Link]"></a>
+								<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+								Westlich von <a href="http://www.wiki-aventurica.de/wiki/Festum" title="Festum">Festum</a> erhebt sich der 30 Schritt hohe <b>Zwielichtberg</b>. Auf seiner Kuppe finden sich Ruinen einer früheren, vermutlich <a href="http://www.wiki-aventurica.de/wiki/Al%27Hani" title="Al'Hani">alhanischen</a> Besiedlung.		
+								<!-- END EDIT -->
+							<p>&nbsp;</p>
+								<hr><div id="wiki">
+									<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+									<p>&nbsp;</p>
+									<p>Dieser Text basiert auf dem Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> aus der freien Website <a title="http://wiki.dsa4.de" rel="nofollow" href="http://www.wiki-aventurica.de">Wiki Aventurica</a> und steht unter der <a title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">CC-BY-SA 3.0</a>. Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=history">Liste der Autoren</a> verf&uuml;gbar, dort kann man den <a href="http://www.wiki-aventurica.de/wiki/$[Link]&amp;action=edit">Artikel bearbeiten</a>.</p>
+								</div>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Stadtteile.kml#Stadtteil</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								10.08981799105912,33.90984033953564,1 
+								10.08987119435982,33.91783687704513,1 
+								10.0902049962583,33.91770999297159,1 
+								10.09022962782085,33.91678167804061,1 
+								10.09129239977995,33.91680261924217,1 
+								10.09158785667408,33.91659875622529,1 
+								10.09187950962397,33.91611650717056,1 
+								10.09248988904148,33.91577046982606,1 
+								10.09290754637146,33.91496221180496,1 
+								10.09306575951543,33.91426467107426,1 
+								10.09321273690323,33.91410860932817,1 
+								10.09341012073992,33.91354990933235,1 
+								10.09338788637553,33.9132871651728,1 
+								10.09311787618047,33.91262458653973,1 
+								10.09281525039034,33.91230260596584,1 
+								10.09249081420125,33.91174880697171,1 
+								10.0925058524747,33.91148570780665,1 
+								10.09212571949055,33.91094789311179,1 
+								10.09082859625756,33.91014024252901,1 
+								10.09015725805036,33.91011559687832,1 
+								10.09015450819138,33.90991453130516,1 
+								10.08998635556853,33.90988516893855,1 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Point>
+					<coordinates>10.09137619104478,33.91338342267127,0</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+</Document>
+</kml>

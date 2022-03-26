@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Weg von Al'Anfa nach Tyrinth</name>
+	<open>1</open>
+		<Placemark> 	<!-- Weg von Al'Anfa nach Tyrinth-->
+			<name>Weg von Al'Anfa nach Tyrinth</name>
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-0.8169229453776339,18.41906262033118,0  <!-- <POI>Siedlung:Al'Anfa</POI> -->
+						-0.8173381660367696,18.41871804288631,0 
+						-0.8180215895658483,18.41794679601243,0  <!-- Ende Detailkarte Al'Anfa -->
+						-0.8442463095244002,18.3836822394771,0 
+						-0.8733010536319474,18.332342251557,0    <!-- <POI>Siedlung:unbenannt</POI> -->
+						-0.9026343914053714,18.30860497564961,0 
+						-0.9539613013881099,18.28535738168457,0 
+						-0.9932757069856124,18.26052197759257,0 
+						-1.020910863811894,18.22885882528196,0   <!-- <POI>Siedlung:unbenannt</POI> -->
+						-1.034227415158594,18.20637464193669,0   <!-- <POI>Abzweig:Weg nach H'Rabaal</POI> -->
+				</coordinates>
+				</LineString>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.034227415158594,18.20637464193669,0   <!-- <POI>Abzweig:Weg nach H'Rabaal</POI> -->
+						-0.9975577575143113,18.18900967321761,0 
+						-0.9625835024127749,18.192205374175,0 
+						-0.9287189803910778,18.17792750668066,0 
+						-0.8954131263284249,18.14788297169158,0 
+						-0.8344015145713291,18.1233457601037,0 
+						-0.7297827821742697,18.07905893203731,0 
+						-0.7071544845742384,18.07493048004206,0 
+						-0.6805491454760604,18.05909256902165,0 
+						-0.6576163017351133,18.03661111309247,0 
+						-0.6346789736172964,18.02013399167434,0 
+						-0.6083955606280089,17.97121710014536,0 
+						-0.5725328983208911,17.93668564403587,0 
+						-0.5668409713921851,17.90741924151216,0 
+						-0.5771827609941216,17.88560608224668,0 
+						-0.5722384372478162,17.86028943934264,0 
+						-0.5386454162627219,17.8327585927843,0
+						-0.4636944464665871,17.7442771343509,0 
+						-0.4338556813952688,17.72080677446405,0  <!-- <POI>Flussquerung:Jalob</POI> -->
+						-0.4189813480746329,17.71079373797536,0  <!-- <POI>Siedlung:Tyrinth</POI> --> <!-- <POI>SOE:Mysobstraße</POI> -->
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+			<Camera>
+				<longitude>-0.726604</longitude>
+				<latitude>18.064928</latitude>
+				<altitude>136320</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

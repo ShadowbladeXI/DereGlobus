@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+
+		<Placemark> 	<!-- Yaquirstraße -->
+			<name>Yaquirstraße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description>
+			<![CDATA[
+				<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+								Zwischen <a href="http://www.wiki-aventurica.de/wiki/Kuslik" title="Kuslik">Kuslik</a> und <a href="http://www.wiki-aventurica.de/wiki/Oberfels" title="Oberfels">Oberfels</a> verläuft im <a href="http://www.wiki-aventurica.de/wiki/Liebliches_Feld" title="Liebliches Feld">Lieblichen Feld</a> die <b>Yaquirstraße</b>, ehemals auch <b>Reichsstraße 4</b> genannt, eine hervorragend ausgebaute Straße vom Rang einer <a href="http://www.wiki-aventurica.de/wiki/Horasstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="Horasstraße (Seite nicht vorhanden)">Horasstraße</a>.<br><br>Ab der Grenze nach <a href="http://www.wiki-aventurica.de/wiki/Almada" title="Almada">Almada</a> findet sie ihre Fortsetzung im weniger gut ausgebauten <a href="http://www.wiki-aventurica.de/wiki/Yaquirstieg" title="Yaquirstieg">Yaquirstieg</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>
+			]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichsstrasse</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				-1.519534412628929,25.12180576905372,0  <!-- <POI>Siedlung:Kuslik</POI> --> <!-- <POI>Hafen</POI> -->
+				-1.522250863582866,25.12180577955247,0   <!-- <POI>Osttor</POI> -->
+				-1.523010713333726,25.12184215682052,0 				
+				-1.523872856021836,25.12183553037398,0
+					-1.523858320876459,25.12183974155484,0 
+					-1.524668861136309,25.12176996166055,0 
+					-1.525515692062341,25.12177687966824,0 
+					-1.526199137630371,25.12179829926089,0 
+					-1.527122278712607,25.12180496208871,0 
+					-1.527608853961969,25.12180188672531,0 
+					-1.528622993535408,25.12191950544622,0 <!-- <POI>Abzweig:Silem-Horas-Straße</POI> -->
+					-1.528535898487934,25.12304705967841,0 
+					-1.528466428904648,25.12382182362295,0 
+					-1.528360127602207,25.12448170931696,0 
+					-1.528263337990402,25.12507198471965,0 
+					-1.528137391102463,25.12537303072184,0 
+					-1.527960775966567,25.12558198143551,0 
+					-1.527772174705888,25.12591843367939,0 
+					-1.52765453835252,25.12617884873896,0 
+					-1.527572871584961,25.12635328093076,0 
+					-1.527408172224242,25.12636756983173,0 
+					-1.527447344446158,25.12672092982885,0 
+					-1.527545818296112,25.12689620233337,0 
+					-1.527545228949431,25.12742266056609,0 	<!-- <POI>Station:Nordtor</POI> -->			
+					-1.529303899892766,25.16198008299545,0 <!-- Anfang Detailkarte Kuslik -->
+					-1.525875481099125,25.18615933581549,0  <!-- <POI>Abzweig:Straße nach Arivor</POI> --> 
+					-1.539512626179486,25.22482543990137,0 
+					-1.538001142048799,25.24889447732383,0 
+					-1.528502013015316,25.27311926577593,0  <!-- <POI>Siedlung:Schelf</POI> --> <!-- <POI>Abzweig:Straße nach Horasia</POI> --> 
+					-1.516832233930979,25.29460684388622,0 
+					-1.477172278615667,25.33001520535934,0 
+					-1.469139056302204,25.35299791550632,0 
+					-1.450195160600177,25.37120079108133,0  <!-- <POI>Abzweig:Straße nach Norden</POI> --> 
+					-1.430478629431304,25.38196374707844,0 
+					-1.403788304455131,25.38444372298418,0 
+					-1.38498514475058,25.39277820795272,0 
+					-1.356726905564991,25.39317540830876,0 
+					-1.3080787003286,25.42514341073521,0    <!-- <POI>Siedlung:Cantris</POI> --> <!-- <POI>Abzweig:Seneb-Horas-Straße</POI> -->
+					-1.288797955358574,25.43347797079424,0 
+					-1.263782187829967,25.43742494597802,0 
+					-1.227536056346896,25.43324905119703,0 
+					-1.193185999048245,25.43763015687257,0 
+					-1.178276336025645,25.44277043805155,0  <!-- <POI>Siedlung:Pertakis</POI> --> <!-- <POI>Abzweig:Seneb-Horas-Straße</POI> --> <!-- <POI>Abzweig:Straße nach Arinken</POI> -->
+					-1.132680616366089,25.47236639480015,0 
+					-1.099816654964938,25.50228128271463,0  <!-- <POI>Siedlung:Chaer</POI> -->
+					-1.082406524349857,25.53973412112197,0 
+					-1.078167220872477,25.57358425011185,0  <!-- <POI>Siedlung:Chetan</POI> --> <!-- <POI>Fluss:Banquir</POI> -->
+					-1.057485796212857,25.60234685389166,0  
+					-0.9627499225124658,25.64341251400924,0 
+					-0.9341307254849007,25.64309928832626,0  <!-- <POI>Siedlung:Perainidal</POI> --> <!-- <POI>Abzweig:Straße nach Shumir</POI> -->
+					-0.8987905168909949,25.63712041375182,0 
+					-0.8625338895782886,25.61239571230838,0  <!-- <POI>Siedlung:Illstan</POI> --> <!-- <POI>Abzweig:Straße nach Aldyra</POI> -->
+					-0.841331905498599,25.61594351405219,0 
+					-0.8060041767775383,25.62751574727458,0 
+					-0.7786888329275987,25.64559172721449,0 
+					-0.7318603820798642,25.64576597968099,0  <!-- <POI>Siedlung:Striazirros</POI> -->
+					-0.697519907416948,25.6300236615944,0    <!-- <POI>Siedlung:Vestia</POI> -->
+					-0.6544826361760325,25.62595814264341,0 
+					-0.6307542876435657,25.61372644042801,0  <!-- <POI>Siedlung:Festung des Sternenrings 3</POI> -->
+					-0.6024540553180013,25.59341686243776,0 
+					-0.5826699244704336,25.58986281317483,0  <!-- Anfang Detailkarte Vinsalt-Region -->
+					-0.5814718879478564,25.59001486517288,0 
+					-0.5782720958138798,25.59079404074756,0 
+					-0.5765324754638479,25.59096085487916,0 
+					-0.5735694980377848,25.59092258011116,0 
+					-0.5717060381740091,25.59054027578994,0 
+					-0.5703386048680514,25.59015532286177,0 
+					-0.5682831781301689,25.58969863857996,0 
+					-0.5653126706042122,25.58960567594873,0 
+					-0.5636212505144234,25.58945619400881,0  <!-- Anfang Detailkarte Vinsalt -->
+					-0.5632628205531121,25.58944895911203,0 
+					-0.5619546455959923,25.58925222989302,0 
+					-0.5614301157571089,25.58935153199658,0 
+					-0.5605577668491291,25.58976068761357,0 
+					-0.5588714195632072,25.59062840693223,0 
+					-0.558760590499281,25.59189561595219,0 
+					-0.5585754620616512,25.59191193846999,0 
+					-0.5581704495288997,25.5921433229943,0 
+					-0.5579945588452018,25.59220373529306,0 
+					-0.5577208969343495,25.59237452416483,0 
+					-0.5567117778194897,25.59236989041977,0 
+					-0.5562652367453225,25.5924067525878,0 
+					-0.5553890233480241,25.59232521217543,0  <!-- <POI>Abzweig:Goldfelser Stieg</POI> --> 
+					-0.5553879635101267,25.59262630691083,0  <!-- <POI>Abzweig:König-Khadan-Straße</POI> --> 
+					-0.5542579446141205,25.59327422217598,0 
+					-0.5545121110466911,25.59384709052813,0  <!-- <POI>Siedlung:Vinsalt</POI> -->
+					-0.5545975505933387,25.59421804390907,0 
+					-0.554612637960924,25.59481503018546,0 
+					-0.5546024176852582,25.5959658785596,0 
+					-0.5544689941696623,25.59644131378509,0 
+					-0.5542938055002211,25.59673591544044,0 
+					-0.5538792962076111,25.59743417863658,0 
+					-0.553591118209017,25.59774351725548,0   <!-- Ende Detailkarte Vinsalt -->
+					-0.553273568976338,25.59796528672698,0 
+					-0.552759251241387,25.59876424226346,0   <!-- <POI>Station:Stadttor West</POI> -->
+					-0.5517983454068354,25.59998426485949,0 
+					-0.550966092197217,25.60143851760874,0 
+					-0.5503283168434481,25.60333124894319,0  <!-- <POI>Station:Stadttor Nord</POI> -->
+					-0.5492038887655304,25.60561686968125,0 
+					-0.5484517829461766,25.60817496816865,0 
+					-0.5481409877694721,25.61076477191666,0  <!-- Ende Detailkarte Vinsalt-Region -->
+					-0.550290445568512,25.63355008860691,0   <!-- <POI>Siedlung:Baliiri</POI> -->
+					-0.5217245730915321,25.6757281719233,0 
+					-0.5203744253172404,25.73067570713504,0 
+					-0.5112344101927768,25.75093666493746,0 
+					-0.5156602659189857,25.8321601379667,0 
+					-0.5234365534221608,25.8576826173595,0   <!-- <POI>Siedlung:Boronaya</POI> -->
+					-0.5196244099515668,25.91464160127577,0 
+					-0.5067018789485189,25.93447920762416,0 
+					-0.483396766904588,25.95511109818821,0 
+					-0.482426938331928,26.0047791625114,0 
+					-0.4758186606143333,26.02654533360219,0 
+					-0.4609834115007183,26.04429823067135,0 <!-- <POI>Abzweig:Herzogstraße</POI> -->
+					-0.440420793281614,26.05851170065583,0 <!-- Anfang Detailkarte Bomed -->
+					-0.4403418869057307,26.05912276920652,0 
+					-0.4400703001709094,26.05982637752199,0 
+					-0.4397755236008161,26.06033762282807,0 
+					-0.4394520888797204,26.06067664278887,0 
+					-0.4391735665575047,26.06086230242739,0 
+					-0.4388185564737845,26.06090781430752,0 
+					-0.4384366951186181,26.06092397611601,0 
+					-0.4377897801112751,26.06099664910358,0 
+					-0.4364902849419639,26.06123589795469,0 
+					-0.4360084434149159,26.06141051155782,0 
+					-0.4356156855232363,26.06170879465445,0 
+					-0.435275565405876,26.06208346340807,0 
+					-0.4349874262353026,26.06248600521622,0 
+					-0.4347453738827312,26.06305352801144,0 
+					-0.434713007056482,26.06401953175303,0   <!-- <POI>Siedlung:Bomed</POI> --> <!-- <POI>Brücke</POI> --> 
+					-0.434721121053856,26.06455482706798,0 
+					-0.4347911109260938,26.06520534649949,0  <!-- <POI>Abzweig:Herzogstraße</POI> -->
+					-0.4349009855572672,26.06632244368111,0 
+					-0.4349265519623002,26.06745056465473,0 
+					-0.4348365853042668,26.06811458349897,0 
+					-0.4346823345219397,26.0685572412777,0 
+					-0.4343680427564967,26.06913229770295,0 <!-- Ende Detailkarte Bomed -->
+					-0.4290810071632201,26.08238969845344,0 
+					-0.411840835342967,26.09663283475452,0 
+					-0.3926460981914082,26.12923764039285,0 
+					-0.3865558063604069,26.16268499167968,0 
+					-0.38622513176647,26.21831723862291,0 
+					-0.3725923815649701,26.24874097376161,0 
+					-0.3490847309639933,26.27885441511631,0 
+					-0.351438806177975,26.31287806073854,0 
+					-0.3635488382530649,26.36174725339559,0  <!-- <POI>Siedlung:Unterfels</POI> -->
+					-0.3582680645126546,26.38003536160811,0  <!-- <POI>Fluss:Uras</POI> -->
+					-0.3350608517503151,26.4102956595858,0 
+					-0.2989948256383612,26.43891701177735,0 
+					-0.2245606264924782,26.49156033034244,0  <!-- <POI>Siedlung:Zollkastell Therengarhah</POI> --> <!-- <POI>Fluss:Urastal</POI> -->
+				    -00.193676,26.504878,0                   <!-- <POI>Siedlung:Neu-Süderwacht</POI> --> <!-- <POI>SOE:Yaquirstieg</POI> -->
+				</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>-1.029219760794609</longitude>
+				<latitude>25.84655049256419</latitude>
+				<altitude>251000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+
+		</Placemark>
+	</Document>
+</kml>
+

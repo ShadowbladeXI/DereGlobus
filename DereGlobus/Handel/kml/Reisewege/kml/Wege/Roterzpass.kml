@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Roterzpass</name>
+	<open>1</open>
+		<Placemark> 	<!-- Roterzpass -->
+			<name>Roterzpass</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Der <b>Roterzpass</b> erstreckt sich von <a href="http://www.wiki-aventurica.de/wiki/Bragahn" title="Bragahn">Bragahn</a> nach <a href="http://www.wiki-aventurica.de/wiki/Jennbach" title="Jennbach">Jennbach</a> durch den <a href="http://www.wiki-aventurica.de/wiki/Amboss" title="Amboss">Amboss</a>. Auf halber Strecke des im Winter nicht passierbaren <a href="http://www.wiki-aventurica.de/wiki/Pass" title="Pass">Passes</a> liegt die Stadt <a href="http://www.wiki-aventurica.de/wiki/Eisenh%C3%BCtt" title="Eisenhütt" class="mw-redirect">Eisenhütt</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Weg</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					1.749307791407548,28.62025227907811,0 
+					1.75871424583836,28.60802218346261,0 
+					1.759296296190795,28.59402675015526,0 <!--<POI>Siedlung:Bragahn</POI>-->
+					1.759594955285311,28.56439484607414,0
+					1.791986006448851,28.52767731118794,0
+					1.824187629334908,28.46603387917424,0 <!--<POI>Siedlung:Warneburg</POI>-->
+					1.909446800846657,28.4257497790496,0 
+					1.916643672246525,28.41190426037094,0 
+					1.922306168521197,28.36819775584851,0 
+					1.913569432989124,28.32804584546,0 
+					1.933185606558536,28.25096065032618,0 <!--<POI>Siedlung:Eisenhuett</POI>-->
+					1.961268746008584,28.22904140493394,0 
+					1.986630053218739,28.21986229556734,0
+					1.993456533390439,28.19309100457492,0
+					2.025225540663662,28.16306813343327,0 
+					2.017323981910464,28.11576320900136,0
+					2.033303992649442,28.09185085523907,0
+					2.033142269016277,28.0579054233347,0 
+					2.068526312615668,28.01639135780334,0 <!--<POI>Abzweig:Bragahn</POI>-->
+					2.084745677302688,27.98419145245232,0 
+					2.142524066368825,27.96612028987446,0 
+					2.280053672786564,27.90336431367405,0 <!--<POI>Siedlung:Jennbach</POI>--> <!--<POI>Kreuzung:Straße von Taladur nach Grünau</POI>-->
+					</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>2.046182</longitude>
+				<latitude>28.251042</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

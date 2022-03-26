@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+  <Document>
+             <Folder>
+        <name>Staatliche Bauwerke Anchopal</name>
+	<Region>
+      <LatLonAltBox>
+        <north>25.52146813100769</north>
+			<south>25.49415259521553</south>
+			<east>6.12567503533441</east>
+			<west>6.104396479180085</west>
+
+      </LatLonAltBox>
+      <Lod>
+         <minLodPixels>256</minLodPixels>
+         <maxLodPixels>-1</maxLodPixels>
+         <minFadeExtent>0</minFadeExtent>
+         <maxFadeExtent>0</maxFadeExtent>
+      </Lod>
+   </Region>
+        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+        <Style>
+          <BalloonStyle>
+            <textColor>ff000000</textColor>
+            <bgColor>ffffffff</bgColor>
+            <displayMode>default</displayMode>
+          </BalloonStyle>
+        </Style>
+
+        <Placemark>
+          <name>Morgenröte-Tor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 71<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 22<TR><TD>Blutrosen und Marasken S. 53<TR><TD>Die Welt des Schwarzen Auges S. 72<TR><TD>Wunderwelten (50) S. 66<TR><TD>Geographia Aventurica S. 68<TR><TD>Meister der Dämonen S. 126<TR><TD>Aventurischer Bote (117) S. 15<TR><TD>Ritterburgen und Spelunken S. 169<TR><TD>Tempel, Türme und Tavernen<TR><TD>Die Legende von Assarbad S. 181<TR><TD>Götter, Kulte, Mythen S. 14<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 45<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 42<TR><TD>Die Sieben Gezeichneten S. 352<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.110974250324994,25.51201916723129,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Abendsonnen-Tor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 71<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 22<TR><TD>Blutrosen und Marasken S. 53<TR><TD>Die Welt des Schwarzen Auges S. 72<TR><TD>Wunderwelten (50) S. 66<TR><TD>Geographia Aventurica S. 68<TR><TD>Meister der Dämonen S. 126<TR><TD>Aventurischer Bote (117) S. 15<TR><TD>Ritterburgen und Spelunken S. 169<TR><TD>Tempel, Türme und Tavernen<TR><TD>Die Legende von Assarbad S. 181<TR><TD>Götter, Kulte, Mythen S. 14<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 45<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 42<TR><TD>Die Sieben Gezeichneten S. 352<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.105421733397611,25.51166849333698,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Mondtor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 71<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 22<TR><TD>Blutrosen und Marasken S. 53<TR><TD>Die Welt des Schwarzen Auges S. 72<TR><TD>Wunderwelten (50) S. 66<TR><TD>Geographia Aventurica S. 68<TR><TD>Meister der Dämonen S. 126<TR><TD>Aventurischer Bote (117) S. 15<TR><TD>Ritterburgen und Spelunken S. 169<TR><TD>Tempel, Türme und Tavernen<TR><TD>Die Legende von Assarbad S. 181<TR><TD>Götter, Kulte, Mythen S. 14<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 45<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 42<TR><TD>Die Sieben Gezeichneten S. 352<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.108566740060748,25.51434360244129,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Keshal Rohal im Sternentor</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		<b>Keshal Rohal</b> (<a title="Tulamidya" href="http://www.wiki-aventurica.de/wiki/Tulamidya">Tulamidya</a>: Haus <a class="mw-redirect" title="Rohal" href="http://www.wiki-aventurica.de/wiki/Rohal">Rohals</a>) fungierte ursprünglich als Stadttor-Burg <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopals</a> in Richtung <a class="mw-redirect" title="Gor" href="http://www.wiki-aventurica.de/wiki/Gor">Gor</a>. Doch seit den <a title="Magierkriege" href="http://www.wiki-aventurica.de/wiki/Magierkriege">Magierkriegen</a> ist zumindest das <b>Sternentor</b>, dessen Zugbrücke aus <a title="Basalt" href="http://www.wiki-aventurica.de/wiki/Basalt">Basalt</a> besteht immer geschlossen. Die Burg ist der Hauptsitz des <a class="mw-redirect" title="ODL" href="http://www.wiki-aventurica.de/wiki/ODL">ODL</a> in den <a title="Tulamidenlande" href="http://www.wiki-aventurica.de/wiki/Tulamidenlande">Tulamidenlanden</a> (inklusive <a title="Raschtulswall" href="http://www.wiki-aventurica.de/wiki/Raschtulswall">Raschtulswall</a> und <a title="Maraskan" href="http://www.wiki-aventurica.de/wiki/Maraskan">Maraskan</a>). Während der Eroberung <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopals</a> durch <a title="Hasrabal ben Yakuban" href="http://www.wiki-aventurica.de/wiki/Hasrabal_ben_Yakuban">Hasrabal von Gorien</a> verhielten sich die Ordensmitglieder neutral, allerdings wird das Nordtor trotz Waffenstillstand zwischen den beiden Parteien stark bewacht.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+		<longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>Keshal Rohal</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.108256378421499,25.50969457374072,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Aquädukt</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 71<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 22<TR><TD>Blutrosen und Marasken S. 53<TR><TD>Die Welt des Schwarzen Auges S. 72<TR><TD>Wunderwelten (50) S. 66<TR><TD>Geographia Aventurica S. 68<TR><TD>Meister der Dämonen S. 126<TR><TD>Aventurischer Bote (117) S. 15<TR><TD>Ritterburgen und Spelunken S. 169<TR><TD>Tempel, Türme und Tavernen<TR><TD>Die Legende von Assarbad S. 181<TR><TD>Götter, Kulte, Mythen S. 14<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 45<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 42<TR><TD>Die Sieben Gezeichneten S. 352<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.111517795632158,25.51422688899919,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Sultanspalast</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 71<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 22<TR><TD>Blutrosen und Marasken S. 53<TR><TD>Die Welt des Schwarzen Auges S. 72<TR><TD>Wunderwelten (50) S. 66<TR><TD>Geographia Aventurica S. 68<TR><TD>Meister der Dämonen S. 126<TR><TD>Aventurischer Bote (117) S. 15<TR><TD>Ritterburgen und Spelunken S. 169<TR><TD>Tempel, Türme und Tavernen<TR><TD>Die Legende von Assarbad S. 181<TR><TD>Götter, Kulte, Mythen S. 14<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 45<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 42<TR><TD>Die Sieben Gezeichneten S. 352<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.110204194121591</longitude>
+            <latitude>25.51093866460202</latitude>
+            <altitude>0</altitude>
+            <range>1319.436562718985</range>
+            <tilt>0</tilt>
+            <heading>-0.002080641457868842</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.109032817770855,25.51210086766946,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Garnison</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD><B>Mögliche Quellen:</B><BR><TR><TD><TR><TD>Das Land des Schwarzen Auges S. 71<TR><TD>Aventurien - Das Lexikon des Schwarzen Auges S. 22<TR><TD>Blutrosen und Marasken S. 53<TR><TD>Die Welt des Schwarzen Auges S. 72<TR><TD>Wunderwelten (50) S. 66<TR><TD>Geographia Aventurica S. 68<TR><TD>Meister der Dämonen S. 126<TR><TD>Aventurischer Bote (117) S. 15<TR><TD>Ritterburgen und Spelunken S. 169<TR><TD>Tempel, Türme und Tavernen<TR><TD>Die Legende von Assarbad S. 181<TR><TD>Götter, Kulte, Mythen S. 14<TR><TD>Im Bann des Diamanten S. 62<TR><TD>Aventurisches Archiv 6 S. 41<TR><TD>Aventurischer Bote (67)<TR><TD>Tabellenheft zum Meisterschirm DSA 4.1 S. 45<TR><TD>Tabellenheft zum Meisterschirm DSA 4.0 S. 42<TR><TD>Die Sieben Gezeichneten S. 352<TR><TD>Aventurischer Atlas S. 113<TR><TD><TR><TD><font size=-1>Es ist möglich, daß das Gebäude nicht in allen oder sogar nur in einer der genannten Quellen erwähnt wird.</font><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+          <LookAt>
+		  <longitude>6.108385099367642</longitude>
+            <latitude>25.50653392406414</latitude>
+            <altitude>0</altitude>
+            <range>494.8259740090246</range>
+            <tilt>0</tilt>
+            <heading>-0.002864161600797315</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+            <coordinates>6.107678881033509,25.50658864863515,0</coordinates>
+          </Point>
+        </Placemark>
+
+        <Placemark>
+          <name>Heilsamer Brunnen</name>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><table><TR><TD>
+		Der <b>Heilsame Brunnen</b> steht auf dem Marktplatz <a title="Anchopal" href="http://www.wiki-aventurica.de/wiki/Anchopal">Anchopals</a> und ist Ziel vieler <a title="Peraine" href="http://www.wiki-aventurica.de/wiki/Peraine">Peraine</a>-<a title="Pilger" href="http://www.wiki-aventurica.de/wiki/Pilger">Pilger</a>.
+		<hr>
+		<div id="wiki">
+		<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+		<p>Dieser Text basiert auf dem Artikel
+		<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+		aus der freien Website
+		<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+		und steht unter der
+		<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+		Im Wiki Aventurica ist eine
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+		verfügbar, dort kann man den
+		<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+		</td>
+		</tr>
+		</table>]]></description>
+		<LookAt>
+			<longitude>6.108134088835682</longitude>
+			<latitude>25.51151938816837</latitude>
+            <altitude>0</altitude>
+			<range>93.5081674654855</range>
+            <tilt>0</tilt>
+			<heading>-0.002958897543382932</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Staatliches_Bauwerk-X</styleUrl>
+		<ExtendedData>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>6.108134088835682,25.51151938816837,0</coordinates>
+          </Point>
+        </Placemark>
+
+	</Folder>
+    </Document>
+</kml>

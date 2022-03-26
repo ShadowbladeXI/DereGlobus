@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Menue-Style</name>
+
+<StyleMap id="menue">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#menue-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#menue-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+    <Style id="menue-n">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="menue-h">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+
+	
+	
+<StyleMap id="menue-notitle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#menue-notitle-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#menue-notitle-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+    <Style id="menue-notitle-n">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[<font color="#bbbbbb">$[description]</font>]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="menue-notitle-h">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[<font color="#bbbbbb">$[description]</font>]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+	
+	
+	
+	
+
+
+
+	<Style id="sh_poi">
+		<IconStyle>
+			<scale>2.33333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/poi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<Style id="sn_poi">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/poi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+	<StyleMap id="Projektfokus">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_poi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_poi</styleUrl>
+		</Pair>
+	</StyleMap>
+
+
+
+
+<StyleMap id="arbeit">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#arbeit-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#arbeit-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+    <Style id="arbeit-n">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DG-Symbol.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>0</scale>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<IconStyle>
+			<scale>1.0</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DG-Symbol.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="arbeit-h">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DG-Symbol.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<LabelStyle>
+			<scale>1</scale>
+			<color>ffffffff</color>
+		</LabelStyle>
+		<IconStyle>
+			<scale>1.5</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DG-Symbol.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+	  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+  </Document>
+</kml>

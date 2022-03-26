@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Kronstraße von Hinterbruch nach Rivilauken</name> 
+	<open>1</open>
+		<Placemark> 	<!-- Kronstraße von Hinterbruch nach Rivilauken-->
+			<name>Kronstraße von Hinterbruch nach Rivilauken</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Kronstraße von Hinterbruch nach Rivilauken</b> ist eine wichtige Wegeverbindung im östlichen <a href="http://www.wiki-aventurica.de/wiki/Festenland" title="Festenland">Festenland</a>.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Reichslandstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						10.8960317991383,34.59050372445287,0 <!--<POI>Siedlung:Rivilauken</POI>--> <!--<POI>SOE:Walsachstraße</POI>-->
+						10.8585387883782,34.54258165720783,0 
+						10.84599904792679,34.50464430552224,0 
+						10.81719073618817,34.47276265975125,0 
+						10.77800156372915,34.44532935006181,0  <!-- <POI>Siedlung:Jekdisit</POI> --> <!--<POI>Kreuzung:Weg von Uspiauen nach Elchdorf</POI>-->
+						10.77578084807329,34.41989230100456,0 
+						10.79217732712131,34.3800062593737,0 
+						10.79104798390392,34.36019031032048,0 
+						10.77987024160759,34.33624814047911,0 
+						10.77010493511851,34.30519375184757,0 
+						10.7708001976222,34.29136255300156,0   <!-- <POI>Siedlung:Plötzingen</POI> -->
+						10.77132624144472,34.21562861334515,0 
+						10.77667261713236,34.20426170771571,0 
+						10.77804072306944,34.16900254774124,0  <!-- <POI>Siedlung:Hinterbruch</POI> --> <!--<POI>SOE:Küstenstraße von Festum nach Neersand</POI>-->
+						</coordinates>
+				</LineString>
+			<Camera>
+				<longitude>10.842624</longitude>
+				<latitude>34.370243</latitude>
+				<altitude>110000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

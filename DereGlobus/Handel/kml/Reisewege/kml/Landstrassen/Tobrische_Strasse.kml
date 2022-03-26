@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<Document>
+	<name>Tobrische Straße</name>
+	<open>1</open>
+		<Placemark> 	<!-- Tobrische Straße -->
+			<name>Tobrische Straße</name>
+			<ExtendedData>
+<Data name="Link">
+ <value>$[name]</value>
+</Data>
+</ExtendedData> 
+			<description><![CDATA[<style type="text/css">
+					<!--
+						a:link, a:visited { text-decoration: none; color: #B21C19; }
+						a:hover { text-decoration: underline; color: #B21C19; }
+						hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+						#wiki { font-size:10px; }
+					-->
+				</style>
+				<table cellpadding="10" cellspacing="0" align="center">
+					<tr>
+						<td>
+							<p>
+							Die <b>Tobrische Straße</b> liegt in <a href="http://www.wiki-aventurica.de/wiki/Weiden" title="Weiden" class="mw-redirect">Weiden</a> und verbindet <a href="http://www.wiki-aventurica.de/wiki/Braunsfurt" title="Braunsfurt">Braunsfurt</a> mit <a href="http://www.wiki-aventurica.de/wiki/Salthel" title="Salthel">Salthel</a>. Sie ist in einem guten Zustand und durchgehend gepflastert. Der Großteil des Landhandels mit dem <a href="http://www.wiki-aventurica.de/wiki/Bornland" title="Bornland">Bornland</a> und <a href="http://www.wiki-aventurica.de/wiki/Wei%C3%9Ftobrien" title="Weißtobrien" class="mw-redirect">Weißtobrien</a> wird über diesen Weg transportiert, der sich in Salthel in den <a href="http://www.wiki-aventurica.de/wiki/Sieben-Baronien-Weg" title="Sieben-Baronien-Weg">Sieben-Baronien-Weg</a> und den <a href="http://www.wiki-aventurica.de/wiki/Sichelstieg" title="Sichelstieg">Sichelstieg</a> teilt.
+							</p>
+							<hr>
+								<div id="wiki">
+									<p>
+										<a href="http://www.wiki-aventurica.de">
+											<img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left">
+										</a>
+									</p>
+										<p>
+											Dieser Text basiert auf dem Artikel
+											<a href="http://www.wiki-aventurica.de/wiki/$[name]">
+												$[name]
+											</a>
+											aus der freien Website
+											<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">
+												Wiki Aventurica
+											</a>
+											und steht unter der
+											<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">
+												CC-BY-SA 3.0</a>.
+											Im Wiki Aventurica ist eine
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=history">
+												Liste der Autoren
+											</a>
+											verfügbar, dort kann man den
+											<a href="http://www.wiki-aventurica.de/index.php?title=$[name]&action=edit">
+												Artikel bearbeiten</a>.
+										</p>
+								</div>
+							</hr>
+						</td>
+					</tr>
+				</table>]]>
+			</description>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/style/Strassen.kml#Landstrasse</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+					05.074816,33.382940,0 	<!-- <POI>Siedlung:Braunsfurt</POI> --> <!--<POI>SOE:Reichsstraße 2</POI>-->
+					05.092047,33.356593,0 
+					05.105280,33.326554,0 
+					05.108356,33.300639,0 
+					05.118116,33.270470,0 
+					05.137491,33.252698,0 
+					05.158061,33.239520,0 
+					05.189892,33.233842,0 
+					05.219398,33.219789,0 
+					05.249717,33.200383,0 
+					05.269412,33.196134,0 
+					05.299468,33.197379,0 
+					05.325598,33.177918,0 
+					05.342671,33.156293,0 
+					05.365855,33.139869,0 
+					05.397104,33.136694,0 	<!--<POI>Siedlung:Braunenklamm</POI>-->
+					05.423352,33.139348,0 
+					05.435818,33.145394,0 
+					05.447788,33.143611,0 
+					05.458659,33.138472,0 
+					05.470867,33.137321,0 
+					05.492190,33.127350,0 
+					05.525532,33.126379,0 
+					05.554162,33.120622,0 
+					05.586249,33.126800,0 
+					05.620240,33.129436,0 
+					05.654357,33.130429,0 
+					05.712367,33.141177,0 
+					05.769130,33.150076,0 
+					05.814979,33.150457,0 
+					05.835870,33.151313,0  <!--<POI>Siedlung:Salthel</POI>--> <!--<POI>SOE:Tobrische Straße</POI>--> <!--<POI>SOE:Sichelstieg</POI>-->
+					</coordinates>
+			</LineString>
+			<Camera>
+				<longitude>5.375454</longitude>
+				<latitude>33.233929</latitude>
+				<altitude>120000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+		</Placemark>
+</Document>
+</kml>

@@ -147,10 +147,10 @@
                     //Perform transaltion according to this marker
                     $translationName = $transChildNode->getAttribute("translationName");
                     $translationNodes = $translationDocumentXPath->query($translationName . "/" . $language);
-                    if($translationNodes == FALSE){
+                    if($translationNodes == FALSE || $translationNodes->count() == 0){
                         $translationNodes = $translationDocumentXPath->query($translationName . "/" . "english");//Default to english
                     }
-                    if($translationNodes == FALSE){
+                    if($translationNodes == FALSE || $translationNodes->count() == 0){
                         //No translation possible, continue with non-translated content
                     }else{
                         $translation = $translationNodes->item(0)->nodeValue;

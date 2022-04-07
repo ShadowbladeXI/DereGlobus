@@ -46,6 +46,8 @@
     //$root->appendChild($testNode);
     
     $kmlOutput = $dom->saveXML();
+    header('Content-type: application/vnd.google-earth.kml+xml');
+    header('Content-Disposition: attachment; filename=' . $reqFile);
     echo $kmlOutput;
     
     function processNode (&$dom, &$node, &$selfURL, &$translationDocument, &$language) {

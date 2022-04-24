@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 
 <NetworkLinkControl>
 				<Camera>
@@ -58,7 +57,7 @@
 			<Icon>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			<hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
 	  </IconStyle>
       <BalloonStyle>
         <!-- a background color for the balloon -->
@@ -88,7 +87,7 @@
 			<Icon>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
 			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			<hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
 	  </IconStyle>
       <BalloonStyle>
         <!-- a background color for the balloon -->
@@ -143,8 +142,11 @@ Stadtviertel und innerstädtische Straßen runden das Städte-Projekt ab.
 
 
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Staedte.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Staedte.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Staedte/kml/Staedte.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 
@@ -178,8 +180,11 @@ Beschreibungen der wichtigen Gebäude aus Publikationen. Die Modelle erstellen w
 	<styleUrl>#menue</styleUrl>
 
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/3D-Modelle.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/3D-Modelle/kml/3D-Modelle.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/3D-Modelle/kml/3D-Modelle.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 
@@ -210,8 +215,11 @@ Die kulturellen Grenzen der Rassen, Völker, Kulturen und Stämme sind im Gegens
 				<styleUrl>#menue</styleUrl>
 				
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Grenzen/kml/Grenzen.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Grenzen/kml/Grenzen.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Grenzen/kml/Grenzen.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 
@@ -239,8 +247,11 @@ Die Reisewege Deres werden markiert und entsprechend ihrer Befahrbarkeit untersc
 			<styleUrl>#menue</styleUrl>
 	
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Handel/kml/Handel.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Handel/kml/Handel.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Handel/kml/Handel.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
   
   
@@ -274,8 +285,11 @@ Vegetationszonen wie das ewige Eis, die mittelländischen Wälder und Graslände
 					<styleUrl>#menue</styleUrl>
 
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaft.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaft.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Landschaft/kml/Landschaft.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 			
 
@@ -327,8 +341,11 @@ darzustellen.
 	<styleUrl>#menue</styleUrl>
 
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/kml/Chroniken.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/kml/Chroniken.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Chroniken/kml/Chroniken.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 
@@ -362,8 +379,11 @@ Im Rahmen dieses Projekts werden die verschlungenen Haare Madas, die sich wie ei
 			<styleUrl>#menue</styleUrl>
 		
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/kml/Kraftlinien.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kraftlinien/kml/Kraftlinien.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Kraftlinien/kml/Kraftlinien.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
   
@@ -417,8 +437,11 @@ Weitere Informationen zur Entstehungsgeschichte der gewählten Positionen der Ko
 				<styleUrl>#menue</styleUrl>
 	
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Kontinente/kml/Kontinente.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kontinente/kml/Kontinente.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Kontinente/kml/Kontinente.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 
@@ -453,8 +476,11 @@ archivierten Handlungsorten und Reiserouten. Die Mysteria et Arcana unterfütter
 				<styleUrl>#menue</styleUrl>
 	
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/kml/Publikationen.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/kml/Publikationen.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Publikationen/kml/Publikationen.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 
@@ -482,8 +508,11 @@ Dieses Projekt bringt ein interaktives, multimediales Erlebnis zu DereGlobus: Bi
 				<styleUrl>#menue</styleUrl>
 	
 				<Link>
-					<href>http://dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/kml/Multimedia.kml</href>
+					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/kml/Multimedia.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Multimedia/kml/Multimedia.kml</dg:FilePath>
+				</ExtendedData>
 				</NetworkLink>
 
 				

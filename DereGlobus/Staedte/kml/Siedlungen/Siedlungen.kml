@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Siedlungen</name>
 	<visibility>1</visibility>
@@ -150,7 +149,7 @@
 	<Folder>
 	<name>Metropolen</name>
 		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 		<![CDATA[
 		<style type="text/css"><!--
@@ -198,113 +197,146 @@ Kanalisation und beherbergen Tempel (fast) aller Zwölfgötter und einigen ander
                 </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Albernia/Metropolen_Albernia.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Albernia/Metropolen_Albernia.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Albernia/Metropolen_Albernia.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Almada</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Almada/Metropolen_Almada.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Almada/Metropolen_Almada.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Almada/Metropolen_Almada.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		 <NetworkLink>
 			<name>Bornland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Bornland/Metropolen_Bornland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Bornland/Metropolen_Bornland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Bornland/Metropolen_Bornland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Garetien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Garetien/Metropolen_Garetien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Garetien/Metropolen_Garetien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Garetien/Metropolen_Garetien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Horasreich</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Horasreich/Metropolen_Horasreich.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Horasreich/Metropolen_Horasreich.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Horasreich/Metropolen_Horasreich.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Meridiana</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Meridiana/Metropolen_Meridiana.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Meridiana/Metropolen_Meridiana.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Meridiana/Metropolen_Meridiana.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Mhanadistan</name>
 			<visibility>1</visibility>
 			<open>1</open>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Mhanadistan/Metropolen_Mhanadistan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Metropolen_Mhanadistan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Metropolen_Mhanadistan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 				<NetworkLink>
 			<name>Myranor-Hjaldingard</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Metropolen_Myr-Hjaldingard.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Metropolen_Myr-Hjaldingard.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Metropolen_Myr-Hjaldingard.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Myranor-Imperium</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Imperium/Metropolen_Myr-Imperium.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Metropolen_Myr-Imperium.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Metropolen_Myr-Imperium.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 				<NetworkLink>
 			<name>Myranor-Kerrish</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Kerrish/Metropolen_Myr-Kerrish.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Kerrish/Metropolen_Myr-Kerrish.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Kerrish/Metropolen_Myr-Kerrish.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Rakshazar</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Rakshazar/Metropolen_Rakshazar.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Metropolen_Rakshazar.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Metropolen_Rakshazar.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 	<!--	<NetworkLink>
@@ -312,7 +344,7 @@ Kanalisation und beherbergen Tempel (fast) aller Zwölfgötter und einigen ander
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Uthuria/Metropolen_Uthuria.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Uthuria/Metropolen_Uthuria.kml</href>
 				
 				
 			</Link>
@@ -335,7 +367,7 @@ Kanalisation und beherbergen Tempel (fast) aller Zwölfgötter und einigen ander
 	<Folder>
 	<name>Großstädte</name>
 		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 		<![CDATA[
 		<style type="text/css"><!--
@@ -369,7 +401,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Albernia/Grossstaedte_Albernia.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Albernia/Grossstaedte_Albernia.kml</href>
 				
 				
 			</Link>
@@ -379,7 +411,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Almada/Grossstaedte_Almada.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Almada/Grossstaedte_Almada.kml</href>
 				
 				
 			</Link>
@@ -387,50 +419,62 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 		<NetworkLink>
 			<name>Aranien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Aranien/Grossstaedte_Aranien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Aranien/Grossstaedte_Aranien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Aranien/Grossstaedte_Aranien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<NetworkLink>
 			<name>Darpatien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Darpatien/Grossstaedte_Darpatien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Darpatien/Grossstaedte_Darpatien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Darpatien/Grossstaedte_Darpatien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 
 		<NetworkLink>
 			<name>Garetien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Garetien/Grossstaedte_Garetien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Garetien/Grossstaedte_Garetien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Garetien/Grossstaedte_Garetien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Gorien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Gorien/Grossstaedte_Gorien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Gorien/Grossstaedte_Gorien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Gorien/Grossstaedte_Gorien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<!-- <NetworkLink>
 			<name>Greifenfurt</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Greifenfurt/Grossstaedte_Greifenfurt.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Grossstaedte_Greifenfurt.kml</href>
 				
 				
 			</Link>
@@ -440,7 +484,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Hoher_Norden/Grossstaedte_Hoher_Norden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Grossstaedte_Hoher_Norden.kml</href>
 				
 				
 			</Link>
@@ -448,150 +492,192 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 		<NetworkLink>
 			<name>Horasreich</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Horasreich/Grossstaedte_Horasreich.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Horasreich/Grossstaedte_Horasreich.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Horasreich/Grossstaedte_Horasreich.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Kalifat</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kalifat/Grossstaedte_Kalifat.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kalifat/Grossstaedte_Kalifat.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kalifat/Grossstaedte_Kalifat.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Kosch</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kosch/Grossstaedte_Kosch.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kosch/Grossstaedte_Kosch.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kosch/Grossstaedte_Kosch.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Maraskan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Maraskan/Grossstaedte_Maraskan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Maraskan/Grossstaedte_Maraskan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Maraskan/Grossstaedte_Maraskan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Meridiana</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Meridiana/Grossstaedte_Meridiana.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Meridiana/Grossstaedte_Meridiana.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Meridiana/Grossstaedte_Meridiana.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 				<NetworkLink>
 			<name>Myranor-Hjaldingard</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Grossstaedte_Myr-Hjaldingard.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Grossstaedte_Myr-Hjaldingard.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Grossstaedte_Myr-Hjaldingard.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Myranor-Imperium</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Imperium/Grossstaedte_Myr-Imperium.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Grossstaedte_Myr-Imperium.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Grossstaedte_Myr-Imperium.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
 			<name>Nordmarken</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nordmarken/Grossstaedte_Nordmarken.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Grossstaedte_Nordmarken.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Grossstaedte_Nordmarken.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Nostragast</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nostragast/Grossstaedte_Nostragast.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nostragast/Grossstaedte_Nostragast.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nostragast/Grossstaedte_Nostragast.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Orkland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Orkland/Grossstaedte_Orkland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Orkland/Grossstaedte_Orkland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Orkland/Grossstaedte_Orkland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Rakshazar</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Rakshazar/Grossstaedte_Rakshazar.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Grossstaedte_Rakshazar.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Grossstaedte_Rakshazar.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Schwarztobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Schwarztobrien/Grossstaedte_Schwarztobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Grossstaedte_Schwarztobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Grossstaedte_Schwarztobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Svelltland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Svelltland/Grossstaedte_Svelltland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Svelltland/Grossstaedte_Svelltland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Svelltland/Grossstaedte_Svelltland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Thorwal</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Thorwal/Grossstaedte_Thorwal.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Thorwal/Grossstaedte_Thorwal.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Thorwal/Grossstaedte_Thorwal.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<!--	<NetworkLink>
 			<name>Uthuria</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Uthuria/Grossstaedte_Uthuria.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Uthuria/Grossstaedte_Uthuria.kml</href>
 				
 				
 			</Link>
@@ -601,7 +687,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Waldinseln/Grossstaedte_Waldinseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Grossstaedte_Waldinseln.kml</href>
 				
 				
 			</Link>
@@ -609,12 +695,15 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 		<NetworkLink>
 			<name>Weiden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weiden/Grossstaedte_Weiden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weiden/Grossstaedte_Weiden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weiden/Grossstaedte_Weiden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 		<!-- <NetworkLink>
@@ -622,7 +711,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Windhag/Grossstaedte_Windhag.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Windhag/Grossstaedte_Windhag.kml</href>
 				
 				
 			</Link>
@@ -632,7 +721,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Zyklopeninseln/Grossstaedte_Zyklopeninseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Grossstaedte_Zyklopeninseln.kml</href>
 				
 				
 			</Link>
@@ -652,7 +741,7 @@ funktionsfähige Kanalisation und beherbergen Tempel der wichtigsten der Zwölfg
 	<Folder>
 	<name>Städte</name>
 		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 		<![CDATA[
 		<style type="text/css"><!--
@@ -694,261 +783,336 @@ Es gibt meist Tempel mehrerer für die Region bedeutende Zwölfgötter.
         </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Albernia/Staedte_Albernia.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Albernia/Staedte_Albernia.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Albernia/Staedte_Albernia.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Almada</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Almada/Staedte_Almada.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Almada/Staedte_Almada.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Almada/Staedte_Almada.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Aranien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Aranien/Staedte_Aranien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Aranien/Staedte_Aranien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Aranien/Staedte_Aranien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Bornland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Bornland/Staedte_Bornland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Bornland/Staedte_Bornland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Bornland/Staedte_Bornland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Darpatien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Darpatien/Staedte_Darpatien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Darpatien/Staedte_Darpatien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Darpatien/Staedte_Darpatien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Echsensuempfe</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Echsensuempfe/Staedte_Echsensuempfe.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Staedte_Echsensuempfe.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Staedte_Echsensuempfe.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
 			<name>Garetien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Garetien/Staedte_Garetien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Garetien/Staedte_Garetien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Garetien/Staedte_Garetien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Gorien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Gorien/Staedte_Gorien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Gorien/Staedte_Gorien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Gorien/Staedte_Gorien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Greifenfurt</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Greifenfurt/Staedte_Greifenfurt.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Staedte_Greifenfurt.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Staedte_Greifenfurt.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Hoher Norden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Hoher_Norden/Staedte_Hoher_Norden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Staedte_Hoher_Norden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Staedte_Hoher_Norden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Horasreich</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Horasreich/Staedte_Horasreich.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Horasreich/Staedte_Horasreich.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Horasreich/Staedte_Horasreich.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Kalifat</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kalifat/Staedte_Kalifat.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kalifat/Staedte_Kalifat.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kalifat/Staedte_Kalifat.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Kosch</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kosch/Staedte_Kosch.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kosch/Staedte_Kosch.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kosch/Staedte_Kosch.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Maraskan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Maraskan/Staedte_Maraskan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Maraskan/Staedte_Maraskan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Maraskan/Staedte_Maraskan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Meridiana</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Meridiana/Staedte_Meridiana.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Meridiana/Staedte_Meridiana.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Meridiana/Staedte_Meridiana.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Mhanadistan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Mhanadistan/Staedte_Mhanadistan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Staedte_Mhanadistan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Staedte_Mhanadistan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Myranor-Imperium</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Imperium/Staedte_Myr-Imperium.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Staedte_Myr-Imperium.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Staedte_Myr-Imperium.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
 			<name>Nordmarken</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nordmarken/Staedte_Nordmarken.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Staedte_Nordmarken.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Staedte_Nordmarken.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Nostragast</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nostragast/Staedte_Nostragast.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nostragast/Staedte_Nostragast.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nostragast/Staedte_Nostragast.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Orkland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Orkland/Staedte_Orkland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Orkland/Staedte_Orkland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Orkland/Staedte_Orkland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Rakshazar</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Rakshazar/Staedte_Rakshazar.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Staedte_Rakshazar.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Staedte_Rakshazar.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Schwarztobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Schwarztobrien/Staedte_Schwarztobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Staedte_Schwarztobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Staedte_Schwarztobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Südmeer</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Suedmeer/Staedte_Suedmeer.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Suedmeer/Staedte_Suedmeer.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Suedmeer/Staedte_Suedmeer.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Svelltland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Svelltland/Staedte_Svelltland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Svelltland/Staedte_Svelltland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Svelltland/Staedte_Svelltland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Thorwal</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Thorwal/Staedte_Thorwal.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Thorwal/Staedte_Thorwal.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Thorwal/Staedte_Thorwal.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<!-- 	<NetworkLink>
 			<name>Uthuria</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Uthuria/Staedte_Uthuria.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Uthuria/Staedte_Uthuria.kml</href>
 				
 				
 			</Link>
@@ -956,52 +1120,67 @@ Es gibt meist Tempel mehrerer für die Region bedeutende Zwölfgötter.
 		<NetworkLink>
 			<name>Waldinseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Waldinseln/Staedte_Waldinseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Staedte_Waldinseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Staedte_Waldinseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
    <NetworkLink>
 			<name>Weiden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weiden/Staedte_Weiden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weiden/Staedte_Weiden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weiden/Staedte_Weiden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Weisstobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weisstobrien/Staedte_Weisstobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Staedte_Weisstobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Staedte_Weisstobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Windhag</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Windhag/Staedte_Windhag.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Windhag/Staedte_Windhag.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Windhag/Staedte_Windhag.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Zyklopeninseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Zyklopeninseln/Staedte_Zyklopeninseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Staedte_Zyklopeninseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Staedte_Zyklopeninseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	</Folder>
 	
@@ -1020,7 +1199,7 @@ Es gibt meist Tempel mehrerer für die Region bedeutende Zwölfgötter.
 	<Folder>
 	<name>Kleinstädte</name>
 		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 		<![CDATA[
 		<style type="text/css"><!--
@@ -1066,89 +1245,113 @@ oft handelt es sich um Traviatempel oder Perainetempel.
       </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Albernia/Kleinstaedte_Albernia.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Albernia/Kleinstaedte_Albernia.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Albernia/Kleinstaedte_Albernia.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Almada</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Almada/Kleinstaedte_Almada.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Almada/Kleinstaedte_Almada.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Almada/Kleinstaedte_Almada.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Aranien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Aranien/Kleinstaedte_Aranien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Aranien/Kleinstaedte_Aranien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Aranien/Kleinstaedte_Aranien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Bornland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Bornland/Kleinstaedte_Bornland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Bornland/Kleinstaedte_Bornland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Bornland/Kleinstaedte_Bornland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Darpatien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Darpatien/Kleinstaedte_Darpatien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Darpatien/Kleinstaedte_Darpatien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Darpatien/Kleinstaedte_Darpatien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Echsensuempfe</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Echsensuempfe/Kleinstaedte_Echsensuempfe.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Kleinstaedte_Echsensuempfe.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Kleinstaedte_Echsensuempfe.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Garetien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Garetien/Kleinstaedte_Garetien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Garetien/Kleinstaedte_Garetien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Garetien/Kleinstaedte_Garetien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Gorien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Gorien/Kleinstaedte_Gorien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Gorien/Kleinstaedte_Gorien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Gorien/Kleinstaedte_Gorien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<!-- <NetworkLink>
 			<name>Greifenfurt</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Greifenfurt/Kleinstaedte_Greifenfurt.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Kleinstaedte_Greifenfurt.kml</href>
 				
 				
 			</Link>
@@ -1156,79 +1359,100 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 		<NetworkLink>
 			<name>Hoher Norden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Hoher_Norden/Kleinstaedte_Hoher_Norden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Kleinstaedte_Hoher_Norden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Kleinstaedte_Hoher_Norden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Horasreich</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Horasreich/Kleinstaedte_Horasreich.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Horasreich/Kleinstaedte_Horasreich.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Horasreich/Kleinstaedte_Horasreich.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Kalifat</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kalifat/Kleinstaedte_Kalifat.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kalifat/Kleinstaedte_Kalifat.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kalifat/Kleinstaedte_Kalifat.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Kosch</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kosch/Kleinstaedte_Kosch.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kosch/Kleinstaedte_Kosch.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kosch/Kleinstaedte_Kosch.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Maraskan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Maraskan/Kleinstaedte_Maraskan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Maraskan/Kleinstaedte_Maraskan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Maraskan/Kleinstaedte_Maraskan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Meridiana</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Meridiana/Kleinstaedte_Meridiana.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Meridiana/Kleinstaedte_Meridiana.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Meridiana/Kleinstaedte_Meridiana.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Mhanadistan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Mhanadistan/Kleinstaedte_Mhanadistan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Kleinstaedte_Mhanadistan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Kleinstaedte_Mhanadistan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<!-- <NetworkLink>
 			<name>Myranor</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Kleinstaedte_Myr-Hjaldingard.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Hjaldingard/Kleinstaedte_Myr-Hjaldingard.kml</href>
 				
 				
 			</Link>
@@ -1236,19 +1460,22 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 				<NetworkLink>
 			<name>Myranor</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Imperium/Kleinstaedte_Myr-Imperium.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Kleinstaedte_Myr-Imperium.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Kleinstaedte_Myr-Imperium.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 				<!-- <NetworkLink>
 			<name>Myranor</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Kerrish/Kleinstaedte_Myr-Kerrish.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Kerrish/Kleinstaedte_Myr-Kerrish.kml</href>
 				
 				
 			</Link>
@@ -1257,59 +1484,74 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 		<NetworkLink>
 			<name>Nordmarken</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nordmarken/Kleinstaedte_Nordmarken.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Kleinstaedte_Nordmarken.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Kleinstaedte_Nordmarken.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Nostragast</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nostragast/Kleinstaedte_Nostragast.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nostragast/Kleinstaedte_Nostragast.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nostragast/Kleinstaedte_Nostragast.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Orkland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Orkland/Kleinstaedte_Orkland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Orkland/Kleinstaedte_Orkland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Orkland/Kleinstaedte_Orkland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Rakshazar</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Rakshazar/Kleinstaedte_Rakshazar.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Kleinstaedte_Rakshazar.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Kleinstaedte_Rakshazar.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Schwarztobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Schwarztobrien/Kleinstaedte_Schwarztobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Kleinstaedte_Schwarztobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Kleinstaedte_Schwarztobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<!--	<NetworkLink>
 			<name>Svelltland</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Svelltland/Kleinstaedte_Svelltland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Svelltland/Kleinstaedte_Svelltland.kml</href>
 				
 				
 			</Link>
@@ -1317,19 +1559,22 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 		<NetworkLink>
 			<name>Thorwal</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Thorwal/Kleinstaedte_Thorwal.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Thorwal/Kleinstaedte_Thorwal.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Thorwal/Kleinstaedte_Thorwal.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<!-- 	<NetworkLink>
 			<name>Uthuria</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Uthuria/Kleinstaedte_Uthuria.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Uthuria/Kleinstaedte_Uthuria.kml</href>
 				
 				
 			</Link>
@@ -1337,52 +1582,67 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 		<NetworkLink>
 			<name>Waldinseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Waldinseln/Kleinstaedte_Waldinseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Kleinstaedte_Waldinseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Kleinstaedte_Waldinseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 			<NetworkLink>
 			<name>Weiden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weiden/Kleinstaedte_Weiden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weiden/Kleinstaedte_Weiden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weiden/Kleinstaedte_Weiden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Weisstobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weisstobrien/Kleinstaedte_Weisstobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Kleinstaedte_Weisstobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Kleinstaedte_Weisstobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Windhag</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Windhag/Kleinstaedte_Windhag.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Windhag/Kleinstaedte_Windhag.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Windhag/Kleinstaedte_Windhag.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Zyklopeninseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Zyklopeninseln/Kleinstaedte_Zyklopeninseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Kleinstaedte_Zyklopeninseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Kleinstaedte_Zyklopeninseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	</Folder>
 	
@@ -1395,7 +1655,7 @@ oft handelt es sich um Traviatempel oder Perainetempel.
 	<Folder>
 	<name>Dörfer</name>
 		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 		<![CDATA[
 		<style type="text/css"><!--
@@ -1443,211 +1703,271 @@ in denen für die Region wichtige Gottheiten angebetet wird.
                 </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Albernia/Doerfer_Albernia.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Albernia/Doerfer_Albernia.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Albernia/Doerfer_Albernia.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Almada</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Almada/Doerfer_Almada.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Almada/Doerfer_Almada.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Almada/Doerfer_Almada.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Aranien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Aranien/Doerfer_Aranien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Aranien/Doerfer_Aranien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Aranien/Doerfer_Aranien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Bornland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Bornland/Doerfer_Bornland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Bornland/Doerfer_Bornland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Bornland/Doerfer_Bornland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Darpatien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Darpatien/Doerfer_Darpatien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Darpatien/Doerfer_Darpatien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Darpatien/Doerfer_Darpatien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Echsensuempfe</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Echsensuempfe/Doerfer_Echsensuempfe.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Doerfer_Echsensuempfe.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Doerfer_Echsensuempfe.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
 			<name>Garetien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Garetien/Doerfer_Garetien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Garetien/Doerfer_Garetien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Garetien/Doerfer_Garetien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Gorien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Gorien/Doerfer_Gorien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Gorien/Doerfer_Gorien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Gorien/Doerfer_Gorien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Greifenfurt</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Greifenfurt/Doerfer_Greifenfurt.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Doerfer_Greifenfurt.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Doerfer_Greifenfurt.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Hoher Norden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Hoher_Norden/Doerfer_Hoher_Norden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Doerfer_Hoher_Norden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Doerfer_Hoher_Norden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Horasreich</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Horasreich/Doerfer_Horasreich.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Horasreich/Doerfer_Horasreich.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Horasreich/Doerfer_Horasreich.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Kalifat</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kalifat/Doerfer_Kalifat.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kalifat/Doerfer_Kalifat.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kalifat/Doerfer_Kalifat.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Kosch</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kosch/Doerfer_Kosch.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kosch/Doerfer_Kosch.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kosch/Doerfer_Kosch.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Maraskan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Maraskan/Doerfer_Maraskan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Maraskan/Doerfer_Maraskan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Maraskan/Doerfer_Maraskan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink> 
 			<name>Meridiana</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Meridiana/Doerfer_Meridiana.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Meridiana/Doerfer_Meridiana.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Meridiana/Doerfer_Meridiana.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Mhanadistan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Mhanadistan/Doerfer_Mhanadistan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Doerfer_Mhanadistan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Doerfer_Mhanadistan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Myranor-Imperium</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Imperium/Doerfer_Myr-Imperium.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Doerfer_Myr-Imperium.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Doerfer_Myr-Imperium.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
 			<name>Nordmarken</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nordmarken/Doerfer_Nordmarken.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Doerfer_Nordmarken.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Doerfer_Nordmarken.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Nostragast</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nostragast/Doerfer_Nostragast.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nostragast/Doerfer_Nostragast.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nostragast/Doerfer_Nostragast.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Orkland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Orkland/Doerfer_Orkland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Orkland/Doerfer_Orkland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Orkland/Doerfer_Orkland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 <!--		<NetworkLink>
 			<name>Rakshazar</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Rakshazar/Doerfer_Rakshazar.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Doerfer_Rakshazar.kml</href>
 				
 				
 			</Link>
@@ -1655,49 +1975,61 @@ in denen für die Region wichtige Gottheiten angebetet wird.
 		<NetworkLink>
 			<name>Schwarztobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Schwarztobrien/Doerfer_Schwarztobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Doerfer_Schwarztobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Doerfer_Schwarztobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Südmeer</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Suedmeer/Doerfer_Suedmeer.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Suedmeer/Doerfer_Suedmeer.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Suedmeer/Doerfer_Suedmeer.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Svelltland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Svelltland/Doerfer_Svelltland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Svelltland/Doerfer_Svelltland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Svelltland/Doerfer_Svelltland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Thorwal</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Thorwal/Doerfer_Thorwal.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Thorwal/Doerfer_Thorwal.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Thorwal/Doerfer_Thorwal.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<!--<NetworkLink>
 			<name>Uthuria</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Uthuria/Doerfer_Uthuria.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Uthuria/Doerfer_Uthuria.kml</href>
 				
 				
 			</Link>
@@ -1705,52 +2037,67 @@ in denen für die Region wichtige Gottheiten angebetet wird.
 		<NetworkLink>
 			<name>Waldinseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Waldinseln/Doerfer_Waldinseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Doerfer_Waldinseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Doerfer_Waldinseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 			<NetworkLink>
 			<name>Weiden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weiden/Doerfer_Weiden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weiden/Doerfer_Weiden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weiden/Doerfer_Weiden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Weisstobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weisstobrien/Doerfer_Weisstobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Doerfer_Weisstobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Doerfer_Weisstobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Windhag</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Windhag/Doerfer_Windhag.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Windhag/Doerfer_Windhag.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Windhag/Doerfer_Windhag.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Zyklopeninseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Zyklopeninseln/Doerfer_Zyklopeninseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Doerfer_Zyklopeninseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Doerfer_Zyklopeninseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 	</Folder>
 	
@@ -1768,7 +2115,7 @@ in denen für die Region wichtige Gottheiten angebetet wird.
 	<Folder>
 	<name>Weitere Ansiedlungen</name>
 		<visibility>1</visibility>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 		<![CDATA[
 		<style type="text/css"><!--
@@ -1830,212 +2177,272 @@ und/oder Funktion nicht als Dorf bezeichnen kann.
                 </Region>
 			<name>Albernia</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Albernia/Sonstige_Siedlungen_Albernia.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Albernia/Sonstige_Siedlungen_Albernia.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Albernia/Sonstige_Siedlungen_Albernia.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Almada</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Almada/Sonstige_Siedlungen_Almada.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Almada/Sonstige_Siedlungen_Almada.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Almada/Sonstige_Siedlungen_Almada.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Aranien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Aranien/Sonstige_Siedlungen_Aranien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Aranien/Sonstige_Siedlungen_Aranien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Aranien/Sonstige_Siedlungen_Aranien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Bornland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Bornland/Sonstige_Siedlungen_Bornland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Bornland/Sonstige_Siedlungen_Bornland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Bornland/Sonstige_Siedlungen_Bornland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Darpatien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Darpatien/Sonstige_Siedlungen_Darpatien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Darpatien/Sonstige_Siedlungen_Darpatien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Darpatien/Sonstige_Siedlungen_Darpatien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Echsensümpfe</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Echsensuempfe/Sonstige_Siedlungen_Echsensuempfe.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Sonstige_Siedlungen_Echsensuempfe.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Echsensuempfe/Sonstige_Siedlungen_Echsensuempfe.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Garetien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Garetien/Sonstige_Siedlungen_Garetien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Garetien/Sonstige_Siedlungen_Garetien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Garetien/Sonstige_Siedlungen_Garetien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Gorien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Gorien/Sonstige_Siedlungen_Gorien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Gorien/Sonstige_Siedlungen_Gorien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Gorien/Sonstige_Siedlungen_Gorien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Greifenfurt</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Greifenfurt/Sonstige_Siedlungen_Greifenfurt.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Sonstige_Siedlungen_Greifenfurt.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Greifenfurt/Sonstige_Siedlungen_Greifenfurt.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Hoher Norden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Hoher_Norden/Sonstige_Siedlungen_Hoher_Norden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Sonstige_Siedlungen_Hoher_Norden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Hoher_Norden/Sonstige_Siedlungen_Hoher_Norden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Horasreich</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Horasreich/Sonstige_Siedlungen_Horasreich.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Horasreich/Sonstige_Siedlungen_Horasreich.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Horasreich/Sonstige_Siedlungen_Horasreich.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Kalifat</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kalifat/Sonstige_Siedlungen_Kalifat.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kalifat/Sonstige_Siedlungen_Kalifat.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kalifat/Sonstige_Siedlungen_Kalifat.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		 <NetworkLink>
 			<name>Kosch</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Kosch/Sonstige_Siedlungen_Kosch.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Kosch/Sonstige_Siedlungen_Kosch.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Kosch/Sonstige_Siedlungen_Kosch.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Maraskan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Maraskan/Sonstige_Siedlungen_Maraskan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Maraskan/Sonstige_Siedlungen_Maraskan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Maraskan/Sonstige_Siedlungen_Maraskan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Meridiana</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Meridiana/Sonstige_Siedlungen_Meridiana.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Meridiana/Sonstige_Siedlungen_Meridiana.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Meridiana/Sonstige_Siedlungen_Meridiana.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink> 
 		<NetworkLink>
 			<name>Mhanadistan</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Mhanadistan/Sonstige_Siedlungen_Mhanadistan.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Sonstige_Siedlungen_Mhanadistan.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Mhanadistan/Sonstige_Siedlungen_Mhanadistan.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Myranor-Imperium</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Myranor-Imperium/Sonstige_Siedlungen_Myr-Imperium.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Sonstige_Siedlungen_Myr-Imperium.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Myranor-Imperium/Sonstige_Siedlungen_Myr-Imperium.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
 			<name>Nordmarken</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nordmarken/Sonstige_Siedlungen_Nordmarken.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Sonstige_Siedlungen_Nordmarken.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nordmarken/Sonstige_Siedlungen_Nordmarken.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 		<NetworkLink>
 			<name>Nostragast</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Nostragast/Sonstige_Siedlungen_Nostragast.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Nostragast/Sonstige_Siedlungen_Nostragast.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Nostragast/Sonstige_Siedlungen_Nostragast.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 		<NetworkLink>
 			<name>Orkland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Orkland/Sonstige_Siedlungen_Orkland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Orkland/Sonstige_Siedlungen_Orkland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Orkland/Sonstige_Siedlungen_Orkland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<!--	<NetworkLink>
 			<name>Rakshazar</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Rakshazar/Sonstige_Siedlungen_Rakshazar.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Rakshazar/Sonstige_Siedlungen_Rakshazar.kml</href>
 				
 				
 			</Link>
@@ -2043,49 +2450,61 @@ und/oder Funktion nicht als Dorf bezeichnen kann.
 		<NetworkLink>
 			<name>Schwarztobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Schwarztobrien/Sonstige_Siedlungen_Schwarztobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Sonstige_Siedlungen_Schwarztobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Schwarztobrien/Sonstige_Siedlungen_Schwarztobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Südmeer</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Suedmeer/Sonstige_Siedlungen_Suedmeer.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Suedmeer/Sonstige_Siedlungen_Suedmeer.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Suedmeer/Sonstige_Siedlungen_Suedmeer.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Svelltland</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Svelltland/Sonstige_Siedlungen_Svelltland.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Svelltland/Sonstige_Siedlungen_Svelltland.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Svelltland/Sonstige_Siedlungen_Svelltland.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Thorwal</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Thorwal/Sonstige_Siedlungen_Thorwal.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Thorwal/Sonstige_Siedlungen_Thorwal.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Thorwal/Sonstige_Siedlungen_Thorwal.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	<!--	<NetworkLink>
 			<name>Uthuria</name>
 			<visibility>1</visibility>
 			<Snippet maxLines="0"></Snippet>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Uthuria/Sonstige_Siedlungen_Uthuria.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Uthuria/Sonstige_Siedlungen_Uthuria.kml</href>
 				
 				
 			</Link>
@@ -2093,52 +2512,67 @@ und/oder Funktion nicht als Dorf bezeichnen kann.
 		<NetworkLink>
 			<name>Waldinseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Waldinseln/Sonstige_Siedlungen_Waldinseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Sonstige_Siedlungen_Waldinseln.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Waldinseln/Sonstige_Siedlungen_Waldinseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 			<NetworkLink>
 			<name>Weiden</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weiden/Sonstige_Siedlungen_Weiden.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weiden/Sonstige_Siedlungen_Weiden.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weiden/Sonstige_Siedlungen_Weiden.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Weisstobrien</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Weisstobrien/Sonstige_Siedlungen_Weissstobrien.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Sonstige_Siedlungen_Weissstobrien.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Weisstobrien/Sonstige_Siedlungen_Weissstobrien.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Windhag</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Windhag/Sonstige_Siedlungen_Windhag.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Windhag/Sonstige_Siedlungen_Windhag.kml</href>
 				
 				
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Windhag/Sonstige_Siedlungen_Windhag.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 			<name>Zyklopeninseln</name>
 			<visibility>1</visibility>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Zyklopeninseln/Sonstige_Siedlungen_Zyklopeninseln.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Sonstige_Siedlungen_Zyklopeninseln.kml</href>
 				
 				
-			</Link> 
+			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Zyklopeninseln/Sonstige_Siedlungen_Zyklopeninseln.kml</dg:FilePath>
+			</ExtendedData> 
 		</NetworkLink> 
 	</Folder>
 	

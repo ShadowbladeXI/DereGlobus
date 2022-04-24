@@ -19,7 +19,7 @@
 			<maxFadeExtent>0</maxFadeExtent>
 		</Lod>
 	</Region>
-        <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
         <Placemark>
           <name>Wohnhöhlen</name>
 		  	<description><![CDATA[		
@@ -38,7 +38,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <heading>-0.8796406309555478</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
-          <styleUrl>http://dereglobus.googlecode.com/svn/Release/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
+          <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Privathaus</styleUrl>
 		<ExtendedData>
 			<Data name="Link">
 				<value>$[name]</value>

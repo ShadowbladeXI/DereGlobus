@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Stadtteile.kml</name>
 	<open>0</open>
@@ -23,10 +22,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Nostragast/Stadtteile_Andergast.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Nostragast/Stadtteile_Andergast.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Nostragast/Stadtteile_Andergast.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 		<NetworkLink>
@@ -48,10 +50,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Bornland/Stadtteile_Festum.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Bornland/Stadtteile_Festum.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Bornland/Stadtteile_Festum.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 		<NetworkLink>
@@ -73,10 +78,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Svelltland/Stadtteile_Lowangen.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Svelltland/Stadtteile_Lowangen.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Svelltland/Stadtteile_Lowangen.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>	  
 		
 		<NetworkLink>
@@ -98,10 +106,13 @@
 			<maxFadeExtent>0</maxFadeExtent>
 		</Lod>
 	</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Mhanadistan/Stadtteile_Khunchom.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Mhanadistan/Stadtteile_Khunchom.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Mhanadistan/Stadtteile_Khunchom.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>	  
 	
 		<NetworkLink>
@@ -123,10 +134,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Echsensuempfe/Stadtteile_Kannemuende.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Echsensuempfe/Stadtteile_Kannemuende.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Echsensuempfe/Stadtteile_Kannemuende.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>	 
 	
 		<NetworkLink>
@@ -148,10 +162,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Orkland/Stadtteile_Khezzara.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Orkland/Stadtteile_Khezzara.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Orkland/Stadtteile_Khezzara.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>	 
 		
 		<NetworkLink>
@@ -173,10 +190,13 @@
           <maxFadeExtent>0</maxFadeExtent>
         </Lod>
       </Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Weisstobrien/Stadtteile_Perainefurten.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Weisstobrien/Stadtteile_Perainefurten.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Weisstobrien/Stadtteile_Perainefurten.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>	  
 			
 		<NetworkLink>
@@ -198,10 +218,13 @@
           <maxFadeExtent>0</maxFadeExtent>
         </Lod>
       </Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Garetien/Stadtteile_Perricum.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Garetien/Stadtteile_Perricum.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Garetien/Stadtteile_Perricum.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>	  
 	
 		<NetworkLink>
@@ -223,10 +246,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Almada/Stadtteile_Punin.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Almada/Stadtteile_Punin.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Almada/Stadtteile_Punin.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 		
 		<NetworkLink>
@@ -248,10 +274,13 @@
 				<maxFadeExtent>0</maxFadeExtent>
 			</Lod>
 		</Region>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="0"/>
 			<Link>
-				<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Weiden/Stadtteile_Trallop.kml</href>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Weiden/Stadtteile_Trallop.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Weiden/Stadtteile_Trallop.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 	
 </Document>

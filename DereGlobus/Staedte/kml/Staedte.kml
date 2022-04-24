@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 
 	<!-- STYLES -->
@@ -92,7 +91,7 @@
 	<NetworkLink>
 		<name>Siedlungen</name>
 		<open>0</open>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="0"/>
 		<description>
 			<![CDATA[
 		<style type="text/css"><!--
@@ -136,36 +135,51 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 		</description>
 		<styleUrl>#Siedlungen</styleUrl>
 	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Siedlungen/Siedlungen.kml</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Siedlungen.kml</href>
 	</Link>
+	<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+		<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Siedlungen.kml</dg:FilePath>
+	</ExtendedData>
 </NetworkLink>
 <NetworkLink>
 	<name>Stadtkarten</name>
 	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Stadtkarten.kml</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml</href>
 	</Link>
 		<styleUrl>#Stadtkarten</styleUrl>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<dg:FilePath>DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml</dg:FilePath>
+		</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
 	<name>Myranische Stadtkarten</name>
 	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</href>
 	</Link>
 		<styleUrl>#Stadtkarten</styleUrl>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<dg:FilePath>DereGlobus/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</dg:FilePath>
+		</ExtendedData>
 		</NetworkLink>
 <NetworkLink>
 	<name>Gebäude</name>
 	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Gebaeude/Gebaeude.kml</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Gebaeude/Gebaeude.kml</href>
 	</Link>
 			<styleUrl>#Gebaeude</styleUrl>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Staedte/kml/Gebaeude/Gebaeude.kml</dg:FilePath>
+			</ExtendedData>
 </NetworkLink>
 <NetworkLink>
 	<name>Stadtteile</name>
 	<visibility>0</visibility>
 	<Link>
-		<href>http://dereglobus.googlecode.com/svn/Release/Staedte/kml/Stadtteile/Stadtteile.kml</href>
+		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Stadtteile.kml</href>
 	</Link>
+	<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+		<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Stadtteile.kml</dg:FilePath>
+	</ExtendedData>
 </NetworkLink>
 
 </Document>

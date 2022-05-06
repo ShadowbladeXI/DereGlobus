@@ -146,6 +146,10 @@ Stadtviertel und innerstädtische Straßen runden das Städte-Projekt ab.
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Staedte/kml/Staedte.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Staedte_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Staedte_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -184,6 +188,10 @@ Beschreibungen der wichtigen Gebäude aus Publikationen. Die Modelle erstellen w
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/3D-Modelle/kml/3D-Modelle.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_3D-Modelle_name"/></name>
+						<description><dg:translationMarker translationName="Dere_3D-Modelle_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -219,6 +227,10 @@ Die kulturellen Grenzen der Rassen, Völker, Kulturen und Stämme sind im Gegens
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Grenzen/kml/Grenzen.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Grenzen_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Grenzen_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -251,6 +263,10 @@ Die Reisewege Deres werden markiert und entsprechend ihrer Befahrbarkeit untersc
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Handel/kml/Handel.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Handel_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Handel_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
   
@@ -289,6 +305,10 @@ Vegetationszonen wie das ewige Eis, die mittelländischen Wälder und Graslände
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Landschaft/kml/Landschaft.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Landschaft_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Landschaft_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 			
@@ -345,6 +365,10 @@ darzustellen.
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Chroniken/kml/Chroniken.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Chroniken_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Chroniken_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -383,6 +407,10 @@ Im Rahmen dieses Projekts werden die verschlungenen Haare Madas, die sich wie ei
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Kraftlinien/kml/Kraftlinien.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Kraftlinien_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Kraftlinien_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -441,6 +469,10 @@ Weitere Informationen zur Entstehungsgeschichte der gewählten Positionen der Ko
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Kontinente/kml/Kontinente.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Kontinente_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Kontinente_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -480,6 +512,10 @@ archivierten Handlungsorten und Reiserouten. Die Mysteria et Arcana unterfütter
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Publikationen/kml/Publikationen.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Publikationen_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Publikationen_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 
@@ -512,6 +548,10 @@ Dieses Projekt bringt ein interaktives, multimediales Erlebnis zu DereGlobus: Bi
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<dg:FilePath>DereGlobus/Multimedia/kml/Multimedia.kml</dg:FilePath>
+					<dg:translationStructure>
+						<name><dg:translationMarker translationName="Dere_Multimedia_name"/></name>
+						<description><dg:translationMarker translationName="Dere_Multimedia_description"/></description>
+					</dg:translationStructure>
 				</ExtendedData>
 				</NetworkLink>
 

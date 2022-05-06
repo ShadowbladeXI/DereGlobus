@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Staedte_Albernia.kml</name>
 
@@ -24,10 +23,14 @@
 		</Region>
     <Placemark>
         <name>Honingen</name>
-		<ExtendedData>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 <Data name="Link">
  <value>$[name]</value>
 </Data>
+<dg:translationStructure>
+	<name><dg:translationMarker translationName="Garetien_Honingen_name"/></name>
+	<description><dg:translationMarker translationName="Garetien_Honingen_description"/></description>
+</dg:translationStructure>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -92,15 +95,19 @@ verfügbar, dort kann man den
         </Point>
 		<TimeSpan>
   <begin>-827</begin>     <!-- kml:dateTime -->
-  <end></end>         <!-- kml:dateTime -->
+  <end/>         <!-- kml:dateTime -->
 </TimeSpan>
     </Placemark>
     <Placemark>
         <name>Winhall</name>
-		<ExtendedData>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 <Data name="Link">
  <value>$[name]</value>
 </Data>
+<dg:translationStructure>
+	<name><dg:translationMarker translationName="Garetien_Winhall_name"/></name>
+	<description><dg:translationMarker translationName="Garetien_Winhall_description"/></description>
+</dg:translationStructure>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -166,10 +173,14 @@ verfügbar, dort kann man den
     </Placemark>
 	    <Placemark>
         <name>Tommelsfurt</name>
-		<ExtendedData>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 <Data name="Link">
  <value>$[name]</value>
 </Data>
+<dg:translationStructure>
+	<name><dg:translationMarker translationName="Garetien_Tommelsfurt_name"/></name>
+	<description><dg:translationMarker translationName="Garetien_Tommelsfurt_description"/></description>
+</dg:translationStructure>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -234,10 +245,14 @@ verfügbar, dort kann man den
     </Placemark>
 		    <Placemark>
         <name>Tommelsfurt</name>
-		<ExtendedData>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 <Data name="Link">
  <value>$[name]</value>
 </Data>
+<dg:translationStructure>
+	<name><dg:translationMarker translationName="Garetien_TommelsfurtRuine_name"/></name>
+	<description><dg:translationMarker translationName="Garetien_TommelsfurtRuine_description"/></description>
+</dg:translationStructure>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }

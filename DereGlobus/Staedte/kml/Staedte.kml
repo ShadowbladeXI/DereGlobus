@@ -139,6 +139,10 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 	</Link>
 	<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 		<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Siedlungen.kml</dg:FilePath>
+		<dg:translationStructure>
+			<name><dg:translationMarker translationName="Staedte_Siedlungen_name"/></name>
+			<description><dg:translationMarker translationName="Staedte_Siedlungen_description"/></description>
+		</dg:translationStructure>
 	</ExtendedData>
 </NetworkLink>
 <NetworkLink>
@@ -149,6 +153,9 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 		<styleUrl>#Stadtkarten</styleUrl>
 		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 			<dg:FilePath>DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml</dg:FilePath>
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="Staedte_Stadtkarten_name"/></name>
+			</dg:translationStructure>
 		</ExtendedData>
 		</NetworkLink>
 		<NetworkLink>
@@ -159,6 +166,9 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 		<styleUrl>#Stadtkarten</styleUrl>
 		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 			<dg:FilePath>DereGlobus/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</dg:FilePath>
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="Staedte_MyranischeStadtkarten_name"/></name>
+			</dg:translationStructure>
 		</ExtendedData>
 		</NetworkLink>
 <NetworkLink>
@@ -169,6 +179,9 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 			<styleUrl>#Gebaeude</styleUrl>
 			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 				<dg:FilePath>DereGlobus/Staedte/kml/Gebaeude/Gebaeude.kml</dg:FilePath>
+				<dg:translationStructure>
+					<name><dg:translationMarker translationName="Staedte_Gebaeude_name"/></name>
+				</dg:translationStructure>
 			</ExtendedData>
 </NetworkLink>
 <NetworkLink>
@@ -179,6 +192,9 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 	</Link>
 	<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 		<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Stadtteile.kml</dg:FilePath>
+		<dg:translationStructure>
+			<name><dg:translationMarker translationName="Staedte_Stadtteile_name"/></name>
+		</dg:translationStructure>
 	</ExtendedData>
 </NetworkLink>
 

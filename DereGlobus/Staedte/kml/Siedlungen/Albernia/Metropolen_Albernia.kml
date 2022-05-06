@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Siedlungen</name>
 	<open>1</open>
@@ -24,10 +23,14 @@
 				</Region>
 				<Placemark>
 				<name>Havena</name>
-				<ExtendedData>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 <Data name="Link">
  <value>$[name]</value>
 </Data>
+<dg:translationStructure>
+	<name><dg:translationMarker translationName="Havena_name"/></name>
+	<description><dg:translationMarker translationName="Havena_description"/></description>
+</dg:translationStructure>
 </ExtendedData>
 				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -79,9 +82,9 @@ verfügbar, dort kann man den
 				<Point>
 					<coordinates>-3.149469887527394,29.07757963357658,0</coordinates>
 				</Point>
-				<TimeSpan >
+				<TimeSpan>
   <begin>-876</begin>     <!-- kml:dateTime -->
-  <end></end>         <!-- kml:dateTime -->
+  <end/>         <!-- kml:dateTime -->
 </TimeSpan>
 			</Placemark>
 			</Folder>

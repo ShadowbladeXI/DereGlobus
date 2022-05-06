@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
 
 <Document>
 	<name>DereGlobus</name>
@@ -58,6 +57,9 @@
 	<NetworkLink>
 		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de"><!-- data for processing by the DereGlobus web script -->
 			<dg:FilePath>DereGlobus/Dere.kml</dg:FilePath><!-- path for the DereGlobus web script -->
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="DereGlobus_Dere_name"/></name>
+			</dg:translationStructure>
 		</ExtendedData>
 		<name>Dere</name><!-- default name -->
 		<open>1</open>

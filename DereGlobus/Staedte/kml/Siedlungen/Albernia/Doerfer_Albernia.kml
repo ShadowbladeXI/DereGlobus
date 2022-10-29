@@ -1,37 +1,42 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-<Document>
-	<name>Doerfer_Albernia.kml</name>
-				<Region>
-					<LatLonAltBox>
-						<north>44.68523182173993</north>
-						<south>13.83211470255367</south>
-						<east>13.82951187257615</east>
-						<west>-8.928795211729799</west>
-						<minAltitude>0</minAltitude>
-						<maxAltitude>0</maxAltitude>
-					</LatLonAltBox>
-					<Lod>
-						<minLodPixels>5000</minLodPixels>
-						<maxLodPixels>-1</maxLodPixels>
-						<minFadeExtent>0</minFadeExtent>
-						<maxFadeExtent>0</maxFadeExtent>
-					</Lod>
-				</Region>
-	<Folder>
-		<name>Albernia</name>
-		<open>0</open>
-    <Placemark>
-        <name>Maradom</name>
-                 <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Maradom_name"/></name>
-         	<description><dg:translationMarker translationName="Maradom_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData> 
-			<description><![CDATA[<style type="text/css"><!--
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+	<Document>
+		<name>Doerfer_Albernia.kml</name>
+		<Region>
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>5000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Folder>
+			<name>Albernia</name>
+			<open>0</open>
+			<Placemark>
+				<name>Maradom</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Maradom_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Maradom_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -74,29 +79,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.036179</longitude>
-              <latitude> 29.594286</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.036179, 29.594286,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Jannendoch</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Jannendoch_name"/></name>
-         	<description><dg:translationMarker translationName="Jannendoch_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.036179</longitude>
+					<latitude> 29.594286</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.036179, 29.594286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jannendoch</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Jannendoch_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Jannendoch_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -140,29 +149,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.690136</longitude>
-              <latitude> 29.453559</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.690136, 29.453559,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Ilvidoch</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Ilvidoch_name"/></name>
-         	<description><dg:translationMarker translationName="Ilvidoch_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.690136</longitude>
+					<latitude> 29.453559</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.690136, 29.453559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ilvidoch</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Ilvidoch_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Ilvidoch_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -208,29 +221,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.603704</longitude>
-              <latitude> 29.384148</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.603704, 29.384148,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Lyngwyn</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>Lyngwyn_(Honingen)</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Lyngwyn_name"/></name>
-         	<description><dg:translationMarker translationName="Lyngwyn_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.603704</longitude>
+					<latitude> 29.384148</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.603704, 29.384148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lyngwyn</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>Lyngwyn_(Honingen)</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Lyngwyn_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Lyngwyn_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -274,29 +291,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.090273</longitude>
-              <latitude> 29.083445</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.090273, 29.083445,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Glydwick</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Glydwick_name"/></name>
-         	<description><dg:translationMarker translationName="Glydwick_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.090273</longitude>
+					<latitude> 29.083445</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.090273, 29.083445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glydwick</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Glydwick_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Glydwick_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -340,29 +361,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.251857</longitude>
-              <latitude> 29.546489</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.251857, 29.546489,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Otterntal</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Otterntal_name"/></name>
-         	<description><dg:translationMarker translationName="Otterntal_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.251857</longitude>
+					<latitude> 29.546489</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.251857, 29.546489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Otterntal</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Otterntal_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Otterntal_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -406,29 +431,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.598166</longitude>
-              <latitude> 29.223463</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.598166, 29.223463,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Nordhag</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>Nordhag_(Albernia)</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Nordhag_name"/></name>
-         	<description><dg:translationMarker translationName="Nordhag_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.598166</longitude>
+					<latitude> 29.223463</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.598166, 29.223463,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nordhag</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>Nordhag_(Albernia)</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Nordhag_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Nordhag_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -471,29 +500,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.846233</longitude>
-              <latitude> 29.410607</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.846233, 29.410607,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Aiwiallsburg</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Aiwiallsburg_name"/></name>
-         	<description><dg:translationMarker translationName="Aiwiallsburg_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.846233</longitude>
+					<latitude> 29.410607</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.846233, 29.410607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aiwiallsburg</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Aiwiallsburg_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Aiwiallsburg_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -536,29 +569,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.200648</longitude>
-              <latitude> 29.652907</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.200648, 29.652907,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Albentrutz</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Albentrutz_name"/></name>
-         	<description><dg:translationMarker translationName="Albentrutz_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.200648</longitude>
+					<latitude> 29.652907</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.200648, 29.652907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Albentrutz</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Albentrutz_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Albentrutz_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -602,29 +639,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-.539768</longitude>
-              <latitude> 29.185872</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-.539768, 29.185872,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Lyngwyn</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>Lyngwyn_(Havena)</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Lyngwyn_name"/></name>
-         	<description><dg:translationMarker translationName="Lyngwyn_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-.539768</longitude>
+					<latitude> 29.185872</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-.539768, 29.185872,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lyngwyn</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>Lyngwyn_(Havena)</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Lyngwyn_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Lyngwyn_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -668,30 +709,34 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.800850</longitude>
-              <latitude> 29.586896</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.800850, 29.586896,0</coordinates>
-        </Point>
-    </Placemark>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.800850</longitude>
+					<latitude> 29.586896</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.800850, 29.586896,0</coordinates>
+				</Point>
+			</Placemark>
 
-    <Placemark>
-        <name>Aran</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Aran_name"/></name>
-         	<description><dg:translationMarker translationName="Aran_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<Placemark>
+				<name>Aran</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Aran_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Aran_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -735,30 +780,34 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-.769000</longitude>
-              <latitude> 29.792660</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-.769000, 29.792660,0</coordinates>
-        </Point>
-    </Placemark>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-.769000</longitude>
+					<latitude> 29.792660</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-.769000, 29.792660,0</coordinates>
+				</Point>
+			</Placemark>
 
-    <Placemark>
-        <name>Wallersrain</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Wallersrain_name"/></name>
-         	<description><dg:translationMarker translationName="Wallersrain_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<Placemark>
+				<name>Wallersrain</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Wallersrain_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Wallersrain_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -802,31 +851,35 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.158277</longitude>
-              <latitude> 29.655894</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.158277, 29.655894,0</coordinates>
-        </Point>
-    </Placemark>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.158277</longitude>
+					<latitude> 29.655894</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.158277, 29.655894,0</coordinates>
+				</Point>
+			</Placemark>
 
- 
-    <Placemark>
-        <name>Gemharsbusch</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Gemharsbusch_name"/></name>
-         	<description><dg:translationMarker translationName="Gemharsbusch_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+
+			<Placemark>
+				<name>Gemharsbusch</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Gemharsbusch_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Gemharsbusch_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -870,29 +923,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.409768</longitude>
-              <latitude> 29.599686</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.409768, 29.599686,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Tommeldomm</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Tommeldomm_name"/></name>
-         	<description><dg:translationMarker translationName="Tommeldomm_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.409768</longitude>
+					<latitude> 29.599686</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.409768, 29.599686,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tommeldomm</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Tommeldomm_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Tommeldomm_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -936,44 +993,48 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.905598</longitude>
-              <latitude> 30.371167</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.905598, 30.371167,0</coordinates>
-        </Point>
-    </Placemark>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.905598</longitude>
+					<latitude> 30.371167</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.905598, 30.371167,0</coordinates>
+				</Point>
+			</Placemark>
 
-    <Placemark>
-        <name>Truhjebor</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Truhjebor_name"/></name>
-         	<description><dg:translationMarker translationName="Truhjebor_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  200<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Stromschnellen, S. 13<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-2.676540</longitude>
-              <latitude> 29.109576</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.676540, 29.109576,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Ortis</name>
-            <description><![CDATA[<style type="text/css"><!--
+			<Placemark>
+				<name>Truhjebor</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Truhjebor_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Truhjebor_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  200<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Stromschnellen, S. 13<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-2.676540</longitude>
+					<latitude> 29.109576</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.676540, 29.109576,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ortis</name>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1016,35 +1077,43 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-.687619</longitude>
-              <latitude> 30.244237</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-.687619, 30.244237,0</coordinates>
-        </Point>
-        <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-        	<dg:translationStructure>
-        		<name><dg:translationMarker translationName="Ortis_name"/></name>
-        		<description><dg:translationMarker translationName="Ortis_description"/></description>
-        	</dg:translationStructure>
-        </ExtendedData>
-    </Placemark>
-    <Placemark>
-        <name>Muhrwick</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Muhrwick_name"/></name>
-         	<description><dg:translationMarker translationName="Muhrwick_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-.687619</longitude>
+					<latitude> 30.244237</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-.687619, 30.244237,0</coordinates>
+				</Point>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Ortis_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Ortis_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Muhrwick</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Muhrwick_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Muhrwick_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -1088,29 +1157,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.095063</longitude>
-              <latitude> 29.092531</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.095063, 29.092531,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Altenfaehr</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Altenfaehr_name"/></name>
-         	<description><dg:translationMarker translationName="Altenfaehr_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.095063</longitude>
+					<latitude> 29.092531</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.095063, 29.092531,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Altenfaehr</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Altenfaehr_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Altenfaehr_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1154,29 +1227,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.691700</longitude>
-              <latitude> 28.923142</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.691700, 28.923142,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Weidenau</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Weidenau_name"/></name>
-         	<description><dg:translationMarker translationName="Weidenau_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.691700</longitude>
+					<latitude> 28.923142</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.691700, 28.923142,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Weidenau</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Weidenau_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Weidenau_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1220,29 +1297,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.429661</longitude>
-              <latitude> 28.799433</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.429661, 28.799433,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Arvun</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Arvun_name"/></name>
-         	<description><dg:translationMarker translationName="Arvun_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.429661</longitude>
+					<latitude> 28.799433</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.429661, 28.799433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arvun</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Arvun_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Arvun_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1285,29 +1366,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.737229</longitude>
-              <latitude> 28.387380</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.737229, 28.387380,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Draustein</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Draustein_name"/></name>
-         	<description><dg:translationMarker translationName="Draustein_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.737229</longitude>
+					<latitude> 28.387380</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.737229, 28.387380,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Draustein</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Draustein_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Draustein_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1351,35 +1436,39 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.021607</longitude>
-              <latitude> 28.622948</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-              <gx:TimeStamp>
-                 <when>-707</when>
-              </gx:TimeStamp>
-        </Camera>
-        <TimeSpan>
-          <begin>-707</begin>
-        </TimeSpan>
-        <Point>
-             <coordinates>-2.021607, 28.622948,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Traviarim</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Traviarim_name"/></name>
-         	<description><dg:translationMarker translationName="Traviarim_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.021607</longitude>
+					<latitude> 28.622948</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:TimeStamp>
+						<when>-707</when>
+					</gx:TimeStamp>
+				</Camera>
+				<TimeSpan>
+					<begin>-707</begin>
+				</TimeSpan>
+				<Point>
+					<coordinates>-2.021607, 28.622948,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Traviarim</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Traviarim_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Traviarim_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1423,52 +1512,60 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.371856</longitude>
-              <latitude> 28.843415</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.371856, 28.843415,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Aiwiallsfest</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Aiwiallsfest_name"/></name>
-         	<description><dg:translationMarker translationName="Aiwiallsfest_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (63), S. 17<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.273900</longitude>
-              <latitude> 29.925304</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.273900, 29.925304,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Duhnhus</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Duhnhus_name"/></name>
-         	<description><dg:translationMarker translationName="Duhnhus_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.371856</longitude>
+					<latitude> 28.843415</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.371856, 28.843415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aiwiallsfest</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Aiwiallsfest_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Aiwiallsfest_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aventurischer Bote (63), S. 17<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.273900</longitude>
+					<latitude> 29.925304</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.273900, 29.925304,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Duhnhus</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Duhnhus_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Duhnhus_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -1512,29 +1609,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.212670</longitude>
-              <latitude> 29.123445</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.212670, 29.123445,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Fairnhain</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Fairnhain_name"/></name>
-         	<description><dg:translationMarker translationName="Fairnhain_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.212670</longitude>
+					<latitude> 29.123445</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.212670, 29.123445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fairnhain</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Fairnhain_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Fairnhain_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1579,53 +1680,61 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.557334</longitude>
-              <latitude> 30.347913</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.557334, 30.347913,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Waldenau</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Waldenau_name"/></name>
-         	<description><dg:translationMarker translationName="Waldenau_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 61<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-2.037675</longitude>
-              <latitude> 29.523219</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.037675, 29.523219,0</coordinates>
-        </Point>
-    </Placemark>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.557334</longitude>
+					<latitude> 30.347913</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.557334, 30.347913,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Waldenau</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Waldenau_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Waldenau_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 61<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-2.037675</longitude>
+					<latitude> 29.523219</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.037675, 29.523219,0</coordinates>
+				</Point>
+			</Placemark>
 
-    <Placemark>
-        <name>Dela</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Dela_name"/></name>
-         	<description><dg:translationMarker translationName="Dela_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<Placemark>
+				<name>Dela</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Dela_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Dela_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1669,52 +1778,60 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.995790</longitude>
-              <latitude> 29.236370</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.995790, 29.236370,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Calladûn</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Calladun_name"/></name>
-         	<description><dg:translationMarker translationName="Calladun_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aus der Asche, S. 77<TR><TD>Am Großen Fluß, S. 54<TR><TD>Aventurischer Bote (112), S. 6<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.202830</longitude>
-              <latitude> 29.243213</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.202830, 29.243213,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Fairngard</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Fairngard_name"/></name>
-         	<description><dg:translationMarker translationName="Fairngard_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.995790</longitude>
+					<latitude> 29.236370</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.995790, 29.236370,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Calladûn</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Calladun_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Calladun_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Aus der Asche, S. 77<TR><TD>Am Großen Fluß, S. 54<TR><TD>Aventurischer Bote (112), S. 6<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.202830</longitude>
+					<latitude> 29.243213</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.202830, 29.243213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fairngard</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Fairngard_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Fairngard_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -1758,29 +1875,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.247875</longitude>
-              <latitude> 29.896615</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.247875, 29.896615,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Taining</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Taining_name"/></name>
-         	<description><dg:translationMarker translationName="Taining_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.247875</longitude>
+					<latitude> 29.896615</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.247875, 29.896615,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taining</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Taining_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Taining_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -1825,98 +1946,114 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.171834</longitude>
-              <latitude> 28.660349</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.171834, 28.660349,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Wietraun</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Wietraun_name"/></name>
-         	<description><dg:translationMarker translationName="Wietraun_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 90<TR><TD>Das Magische Erbe, S. 144<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.854655</longitude>
-              <latitude> 28.526761</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.854655, 28.526761,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Ravendoch</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Ravendoch_name"/></name>
-         	<description><dg:translationMarker translationName="Ravendoch_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweißkarte des Deltas des Großen Flusses<TR><TD><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.061970</longitude>
-              <latitude> 29.050396</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.061970, 29.050396,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Thunderbach</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Thunderbach_name"/></name>
-         	<description><dg:translationMarker translationName="Thunderbach_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 53<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-2.153371</longitude>
-              <latitude> 28.699938</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.153371, 28.699938,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Fiering</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Fiering_name"/></name>
-         	<description><dg:translationMarker translationName="Fiering_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.171834</longitude>
+					<latitude> 28.660349</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.171834, 28.660349,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wietraun</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Wietraun_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Wietraun_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 90<TR><TD>Das Magische Erbe, S. 144<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.854655</longitude>
+					<latitude> 28.526761</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.854655, 28.526761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ravendoch</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Ravendoch_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Ravendoch_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweißkarte des Deltas des Großen Flusses<TR><TD><TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.061970</longitude>
+					<latitude> 29.050396</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.061970, 29.050396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thunderbach</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Thunderbach_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Thunderbach_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 53<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-2.153371</longitude>
+					<latitude> 28.699938</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.153371, 28.699938,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiering</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Fiering_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Fiering_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -1961,29 +2098,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.354655</longitude>
-              <latitude> 28.816072</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.354655, 28.816072,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Ellerdoms Hof</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="EllerdomsHof_name"/></name>
-         	<description><dg:translationMarker translationName="EllerdomsHof_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.354655</longitude>
+					<latitude> 28.816072</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.354655, 28.816072,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellerdoms Hof</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="EllerdomsHof_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="EllerdomsHof_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -2028,29 +2169,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.045728</longitude>
-              <latitude> 28.669657</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.045728, 28.669657,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Wildwick</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Wildwick_name"/></name>
-         	<description><dg:translationMarker translationName="Wildwick_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.045728</longitude>
+					<latitude> 28.669657</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.045728, 28.669657,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wildwick</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Wildwick_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Wildwick_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -2095,29 +2240,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.020491</longitude>
-              <latitude> 28.867325</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.020491, 28.867325,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Schellwick</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Schellwick_name"/></name>
-         	<description><dg:translationMarker translationName="Schellwick_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.020491</longitude>
+					<latitude> 28.867325</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.020491, 28.867325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Schellwick</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Schellwick_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Schellwick_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -2162,29 +2311,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.371177</longitude>
-              <latitude> 28.925413</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.371177, 28.925413,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Gwydin</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Gwydin_name"/></name>
-         	<description><dg:translationMarker translationName="Gwydin_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.371177</longitude>
+					<latitude> 28.925413</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.371177, 28.925413,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gwydin</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Gwydin_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Gwydin_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -2228,75 +2381,87 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-3.112994</longitude>
-              <latitude> 29.004394</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.112994, 29.004394,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Gilgins</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Gilgins_name"/></name>
-         	<description><dg:translationMarker translationName="Gilgins_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 282<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.830714</longitude>
-              <latitude> 28.538956</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.830714, 28.538956,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Windanach</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Windanach_name"/></name>
-         	<description><dg:translationMarker translationName="Windanach_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  50<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Geteiltes Herz, S. 12<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-3.082416</longitude>
-              <latitude> 29.179670</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.082416, 29.179670,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Schindmeringen</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Schindmeringen_name"/></name>
-         	<description><dg:translationMarker translationName="Schindmeringen_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-3.112994</longitude>
+					<latitude> 29.004394</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.112994, 29.004394,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gilgins</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Gilgins_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Gilgins_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Magische Erbe, S. 282<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.830714</longitude>
+					<latitude> 28.538956</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.830714, 28.538956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Windanach</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Windanach_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Windanach_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  50<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Geteiltes Herz, S. 12<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-3.082416</longitude>
+					<latitude> 29.179670</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.082416, 29.179670,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Schindmeringen</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Schindmeringen_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Schindmeringen_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -2340,29 +2505,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-.639750</longitude>
-              <latitude> 28.897692</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-.639750, 28.897692,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Yantibair</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Yantibair_name"/></name>
-         	<description><dg:translationMarker translationName="Yantibair_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-.639750</longitude>
+					<latitude> 28.897692</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-.639750, 28.897692,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yantibair</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Yantibair_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Yantibair_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -2405,75 +2574,87 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-2.370401</longitude>
-              <latitude> 29.295121</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.370401, 29.295121,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Piratennest</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Piratennest_name"/></name>
-         	<description><dg:translationMarker translationName="Piratennest_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Fürstentum Albernia - Abenteuer in Albernia, S. 18<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf_Karte-X</styleUrl>
-        <Camera> 
-              <longitude>-3.146900</longitude>
-              <latitude> 28.839142</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-3.146900, 28.839142,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Elfensiedlung</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Elfensiedlung_name"/></name>
-         	<description><dg:translationMarker translationName="Elfensiedlung_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>Rückzugsort in mitten des Sees, schwimmende Siedlung<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 193<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-2.400621</longitude>
-              <latitude> 29.759286</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.400621, 29.759286,0</coordinates>
-        </Point>
-    </Placemark>
-	    <Placemark>
-        <name>Lileyan</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Lileyan_name"/></name>
-         	<description><dg:translationMarker translationName="Lileyan_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-2.370401</longitude>
+					<latitude> 29.295121</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.370401, 29.295121,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piratennest</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Piratennest_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Piratennest_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Fürstentum Albernia - Abenteuer in Albernia, S. 18<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf_Karte-X</styleUrl>
+				<Camera>
+					<longitude>-3.146900</longitude>
+					<latitude> 28.839142</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-3.146900, 28.839142,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Elfensiedlung</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Elfensiedlung_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Elfensiedlung_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD>Rückzugsort in mitten des Sees, schwimmende Siedlung<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Am Großen Fluß, S. 193<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-2.400621</longitude>
+					<latitude> 29.759286</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-2.400621, 29.759286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lileyan</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Lileyan_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Lileyan_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -2516,29 +2697,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.434624</longitude>
-              <latitude> 29.962573</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.434624, 29.962573,0</coordinates>
-        </Point>
-    </Placemark>
-		    <Placemark>
-        <name>Abagund</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>Abagund_(Dorf)</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Abagund_name"/></name>
-         	<description><dg:translationMarker translationName="Abagund_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.434624</longitude>
+					<latitude> 29.962573</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.434624, 29.962573,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Abagund</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>Abagund_(Dorf)</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Abagund_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Abagund_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -2583,29 +2768,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.592352</longitude>
-              <latitude> 28.960180</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.592352, 28.960180,0</coordinates>
-        </Point>
-    </Placemark>
-		    <Placemark>
-        <name>Rodaschmund</name>
-		      <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-         <Data name="Link">
-            <value>$[name]</value>
-         </Data>
-         <dg:translationStructure>
-         	<name><dg:translationMarker translationName="Rodaschmund_name"/></name>
-         	<description><dg:translationMarker translationName="Rodaschmund_description"/></description>
-         </dg:translationStructure>
-      </ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.592352</longitude>
+					<latitude> 28.960180</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.592352, 28.960180,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rodaschmund</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Rodaschmund_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Rodaschmund_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -2650,66 +2839,74 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
-        <Camera> 
-              <longitude>-1.702454</longitude>
-              <latitude> 28.490012</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.702454, 28.490012,0</coordinates>
-        </Point>
-    </Placemark>
-	    <Placemark>
-        <name>Bruinhall</name>
-<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name=" Link ">
-<value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Bruinhall_name"/></name>
-	<description><dg:translationMarker translationName="Bruinhall_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Feenstaub und Fabelwesen, S. 69<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-1.05858325571382</longitude>
-              <latitude> 30.5339497615567</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.05858325571382, 30.5339497615567,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Pfalz Tommelgau</name>
-<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name=" Link ">
-<value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="PfalzTommelgau_name"/></name>
-	<description><dg:translationMarker translationName="PfalzTommelgau_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I>Zeitraum:</I> bis   1027 BF. </TD><TR><TD><i>Einwohner:</i>  50<TR><TD>im Farindelwald<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Herz des Reiches, S. 52<TR><TD>Am Großen Fluß, S. 62<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude>-.836614620678011</longitude>
-              <latitude> 29.83460759423</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <TimeSpan>
-          <end> 1027</end>
-        </TimeSpan>
-        <Point>
-             <coordinates>-.836614620678011, 29.83460759423,0</coordinates>
-        </Point>
-    </Placemark>
-	</Folder>
-</Document>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+				<Camera>
+					<longitude>-1.702454</longitude>
+					<latitude> 28.490012</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.702454, 28.490012,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bruinhall</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name=" Link ">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Bruinhall_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Bruinhall_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Feenstaub und Fabelwesen, S. 69<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-1.05858325571382</longitude>
+					<latitude> 30.5339497615567</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<Point>
+					<coordinates>-1.05858325571382, 30.5339497615567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pfalz Tommelgau</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name=" Link ">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="PfalzTommelgau_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="PfalzTommelgau_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I>Zeitraum:</I> bis   1027 BF. </TD><TR><TD><i>Einwohner:</i>  50<TR><TD>im Farindelwald<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Herz des Reiches, S. 52<TR><TD>Am Großen Fluß, S. 62<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<Camera>
+					<longitude>-.836614620678011</longitude>
+					<latitude> 29.83460759423</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+				<TimeSpan>
+					<end> 1027</end>
+				</TimeSpan>
+				<Point>
+					<coordinates>-.836614620678011, 29.83460759423,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
 </kml>

@@ -1,37 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-<Document>
-	<name>Siedlungen</name>
-	<open>1</open>
-	
-	<Folder><name>Albernia</name>
-				<open>1</open>
-				<Region>
-					<LatLonAltBox>
-						<north>44.68523182173993</north>
-						<south>13.83211470255367</south>
-						<east>13.82951187257615</east>
-						<west>-8.928795211729799</west>
-						<minAltitude>0</minAltitude>
-						<maxAltitude>0</maxAltitude>
-					</LatLonAltBox>
-					<Lod>
-						<minLodPixels>800</minLodPixels>
-						<maxLodPixels>-1</maxLodPixels>
-						<minFadeExtent>0</minFadeExtent>
-						<maxFadeExtent>0</maxFadeExtent>
-					</Lod>
-				</Region>
-				<Placemark>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+	<Document>
+		<name>Siedlungen</name>
+		<open>1</open>
+
+		<Folder>
+			<name>Albernia</name>
+			<open>1</open>
+			<Region>
+				<LatLonAltBox>
+					<north>44.68523182173993</north>
+					<south>13.83211470255367</south>
+					<east>13.82951187257615</east>
+					<west>-8.928795211729799</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>800</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Placemark>
 				<name>Havena</name>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Havena_name"/></name>
-	<description><dg:translationMarker translationName="Havena_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Havena_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Havena_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
 				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -78,15 +84,15 @@ verfügbar, dort kann man den
 					<tilt>2.945761216429925</tilt>
 					<roll>0.007180071105969885</roll>
 				</Camera>
-					<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Metropole_Karte</styleUrl>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Metropole_Karte</styleUrl>
 				<Point>
 					<coordinates>-3.149469887527394,29.07757963357658,0</coordinates>
 				</Point>
 				<TimeSpan>
-  <begin>-876</begin>     <!-- kml:dateTime -->
-  <end/>         <!-- kml:dateTime -->
-</TimeSpan>
+					<begin>-876</begin>     <!-- kml:dateTime -->
+					<end />         <!-- kml:dateTime -->
+				</TimeSpan>
 			</Placemark>
-			</Folder>
+		</Folder>
 	</Document>
 </kml>

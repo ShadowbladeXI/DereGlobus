@@ -1,38 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-<Document>
-	<name>Staedte_Albernia.kml</name>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+	<Document>
+		<name>Staedte_Albernia.kml</name>
 
-	<Folder>
-		<name>Garetien</name>
-		<open>1</open>
-		<Region>
-			<LatLonAltBox>
-				<north>44.68523182173993</north>
-				<south>13.83211470255367</south>
-				<east>13.82951187257615</east>
-				<west>-8.928795211729799</west>
-				<minAltitude>0</minAltitude>
-				<maxAltitude>0</maxAltitude>
-			</LatLonAltBox>
-			<Lod>
-				<minLodPixels>1800</minLodPixels>
-				<maxLodPixels>-1</maxLodPixels>
-				<minFadeExtent>0</minFadeExtent>
-				<maxFadeExtent>0</maxFadeExtent>
-			</Lod>
-		</Region>
-    <Placemark>
-        <name>Honingen</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Garetien_Honingen_name"/></name>
-	<description><dg:translationMarker translationName="Garetien_Honingen_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+		<Folder>
+			<name>Garetien</name>
+			<open>1</open>
+			<Region>
+				<LatLonAltBox>
+					<north>44.68523182173993</north>
+					<south>13.83211470255367</south>
+					<east>13.82951187257615</east>
+					<west>-8.928795211729799</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>1800</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<Placemark>
+				<name>Honingen</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Garetien_Honingen_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Garetien_Honingen_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -77,39 +82,43 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
-        <Camera> 
-              <longitude>-.678788</longitude>
-              <latitude> 29.645314</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-              <gx:TimeStamp>
-                 <when>-867</when>
-              </gx:TimeStamp>
-        </Camera>
-        <TimeSpan>
-          <begin>-867</begin>
-        </TimeSpan>
-        <Point>
-             <coordinates>-.678788, 29.645314,0</coordinates>
-        </Point>
-		<TimeSpan>
-  <begin>-827</begin>     <!-- kml:dateTime -->
-  <end/>         <!-- kml:dateTime -->
-</TimeSpan>
-    </Placemark>
-    <Placemark>
-        <name>Winhall</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Garetien_Winhall_name"/></name>
-	<description><dg:translationMarker translationName="Garetien_Winhall_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+				<Camera>
+					<longitude>-.678788</longitude>
+					<latitude> 29.645314</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:TimeStamp>
+						<when>-867</when>
+					</gx:TimeStamp>
+				</Camera>
+				<TimeSpan>
+					<begin>-867</begin>
+				</TimeSpan>
+				<Point>
+					<coordinates>-.678788, 29.645314,0</coordinates>
+				</Point>
+				<TimeSpan>
+					<begin>-827</begin>     <!-- kml:dateTime -->
+					<end />         <!-- kml:dateTime -->
+				</TimeSpan>
+			</Placemark>
+			<Placemark>
+				<name>Winhall</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Garetien_Winhall_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Garetien_Winhall_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -154,35 +163,39 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
-        <Camera> 
-              <longitude>-.913675</longitude>
-              <latitude> 30.569775</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-              <gx:TimeStamp>
-                 <when>-697</when>
-              </gx:TimeStamp>
-        </Camera>
-        <TimeSpan>
-          <begin>-697</begin>
-        </TimeSpan>
-        <Point>
-             <coordinates>-.913675, 30.569775,0</coordinates>
-        </Point>
-    </Placemark>
-	    <Placemark>
-        <name>Tommelsfurt</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Garetien_Tommelsfurt_name"/></name>
-	<description><dg:translationMarker translationName="Garetien_Tommelsfurt_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt_Karte</styleUrl>
+				<Camera>
+					<longitude>-.913675</longitude>
+					<latitude> 30.569775</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:TimeStamp>
+						<when>-697</when>
+					</gx:TimeStamp>
+				</Camera>
+				<TimeSpan>
+					<begin>-697</begin>
+				</TimeSpan>
+				<Point>
+					<coordinates>-.913675, 30.569775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tommelsfurt</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Garetien_Tommelsfurt_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Garetien_Tommelsfurt_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -227,34 +240,38 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt</styleUrl>
-        <Camera> 
-              <longitude>-.913675</longitude>
-              <latitude> 30.569775</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Stadt</styleUrl>
+				<Camera>
+					<longitude>-.913675</longitude>
+					<latitude> 30.569775</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
 
-        </Camera>
-        <TimeSpan>
-          <begin>-867</begin>
-		  <end>-706</end>
-        </TimeSpan>
-        <Point>
-             <coordinates>-.913675, 30.569775,0</coordinates>
-        </Point>
-    </Placemark>
-		    <Placemark>
-        <name>Tommelsfurt</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Garetien_TommelsfurtRuine_name"/></name>
-	<description><dg:translationMarker translationName="Garetien_TommelsfurtRuine_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+				</Camera>
+				<TimeSpan>
+					<begin>-867</begin>
+					<end>-706</end>
+				</TimeSpan>
+				<Point>
+					<coordinates>-.913675, 30.569775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tommelsfurt</name>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<Data name="Link">
+						<value>$[name]</value>
+					</Data>
+					<dg:translationStructure>
+						<name>
+							<dg:translationMarker translationName="Garetien_TommelsfurtRuine_name" />
+						</name>
+						<description>
+							<dg:translationMarker translationName="Garetien_TommelsfurtRuine_description" />
+						</description>
+					</dg:translationStructure>
+				</ExtendedData>
+				<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -299,22 +316,22 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
-        <Camera> 
-              <longitude>-.913675</longitude>
-              <latitude> 30.569775</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-            
-        </Camera>
-        <TimeSpan>
-          <begin>-706</begin>
-		  <end>-697</end>
-        </TimeSpan>
-        <Point>
-             <coordinates>-.913675, 30.569775,0</coordinates>
-        </Point>
-    </Placemark>
-	</Folder>
-</Document>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
+				<Camera>
+					<longitude>-.913675</longitude>
+					<latitude> 30.569775</latitude>
+					<altitude>200000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+
+				</Camera>
+				<TimeSpan>
+					<begin>-706</begin>
+					<end>-697</end>
+				</TimeSpan>
+				<Point>
+					<coordinates>-.913675, 30.569775,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
 </kml>

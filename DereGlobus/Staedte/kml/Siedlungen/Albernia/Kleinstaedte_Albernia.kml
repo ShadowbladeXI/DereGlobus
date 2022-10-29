@@ -1,34 +1,39 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
-<Document>
-	<name>Kleinstädte Albernia</name>
-      <visibility>1</visibility>
-	  	
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+	<Document>
+		<name>Kleinstädte Albernia</name>
+		<visibility>1</visibility>
+
 		<Region>
-         <LatLonAltBox>
-            <north>44.68523182173993</north>
-            <south>13.83211470255367</south>
-            <east>13.82951187257615</east>
-            <west>-8.928795211729799</west>
-         </LatLonAltBox>
-         <Lod>
-           <minLodPixels>3000</minLodPixels>
-           <maxLodPixels>-1</maxLodPixels>
-           <minFadeExtent>0</minFadeExtent>
-           <maxFadeExtent>0</maxFadeExtent>
-         </Lod>
-      </Region>
-    <Placemark>
-        <name>Abilacht</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Abilacht_name"/></name>
-	<description><dg:translationMarker translationName="Abilacht_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<LatLonAltBox>
+				<north>44.68523182173993</north>
+				<south>13.83211470255367</south>
+				<east>13.82951187257615</east>
+				<west>-8.928795211729799</west>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>3000</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>Abilacht</name>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+				<dg:translationStructure>
+					<name>
+						<dg:translationMarker translationName="Abilacht_name" />
+					</name>
+					<description>
+						<dg:translationMarker translationName="Abilacht_description" />
+					</description>
+				</dg:translationStructure>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -74,35 +79,39 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
-        <Camera> 
-              <longitude>-.963580</longitude>
-              <latitude> 29.227378</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-              <gx:TimeStamp>
-                 <when>-841</when>
-              </gx:TimeStamp>
-        </Camera>
-        <TimeSpan>
-          <begin>-841</begin>
-        </TimeSpan>
-        <Point>
-             <coordinates>-.963580, 29.227378,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Bredenhag</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Bredenhag_name"/></name>
-	<description><dg:translationMarker translationName="Bredenhag_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+			<Camera>
+				<longitude>-.963580</longitude>
+				<latitude> 29.227378</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:TimeStamp>
+					<when>-841</when>
+				</gx:TimeStamp>
+			</Camera>
+			<TimeSpan>
+				<begin>-841</begin>
+			</TimeSpan>
+			<Point>
+				<coordinates>-.963580, 29.227378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bredenhag</name>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+				<dg:translationStructure>
+					<name>
+						<dg:translationMarker translationName="Bredenhag_name" />
+					</name>
+					<description>
+						<dg:translationMarker translationName="Bredenhag_description" />
+					</description>
+				</dg:translationStructure>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -148,29 +157,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
-        <Camera> 
-              <longitude>-1.515784</longitude>
-              <latitude> 29.651635</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-1.515784, 29.651635,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Seshwick</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Seshwick_name"/></name>
-	<description><dg:translationMarker translationName="Seshwick_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+			<Camera>
+				<longitude>-1.515784</longitude>
+				<latitude> 29.651635</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<Point>
+				<coordinates>-1.515784, 29.651635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seshwick</name>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+				<dg:translationStructure>
+					<name>
+						<dg:translationMarker translationName="Seshwick_name" />
+					</name>
+					<description>
+						<dg:translationMarker translationName="Seshwick_description" />
+					</description>
+				</dg:translationStructure>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -216,29 +229,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
-        <Camera> 
-              <longitude>-.873514</longitude>
-              <latitude> 29.426079</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-.873514, 29.426079,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Orbatal</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Orbatal_name"/></name>
-	<description><dg:translationMarker translationName="Orbatal_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+			<Camera>
+				<longitude>-.873514</longitude>
+				<latitude> 29.426079</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<Point>
+				<coordinates>-.873514, 29.426079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orbatal</name>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+				<dg:translationStructure>
+					<name>
+						<dg:translationMarker translationName="Orbatal_name" />
+					</name>
+					<description>
+						<dg:translationMarker translationName="Orbatal_description" />
+					</description>
+				</dg:translationStructure>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -283,29 +300,33 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
-        <Camera> 
-              <longitude>-2.074716</longitude>
-              <latitude> 29.223345</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.074716, 29.223345,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
-        <name>Bockshag</name>
-		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-<dg:translationStructure>
-	<name><dg:translationMarker translationName="Bockshag_name"/></name>
-	<description><dg:translationMarker translationName="Bockshag_description"/></description>
-</dg:translationStructure>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+			<Camera>
+				<longitude>-2.074716</longitude>
+				<latitude> 29.223345</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<Point>
+				<coordinates>-2.074716, 29.223345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bockshag</name>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+				<dg:translationStructure>
+					<name>
+						<dg:translationMarker translationName="Bockshag_name" />
+					</name>
+					<description>
+						<dg:translationMarker translationName="Bockshag_description" />
+					</description>
+				</dg:translationStructure>
+			</ExtendedData>
+			<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -351,16 +372,16 @@ verfügbar, dort kann man den
 </td>
 </tr>
 </table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
-        <Camera> 
-              <longitude>-2.020479</longitude>
-              <latitude> 29.871670</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates>-2.020479, 29.871670,0</coordinates>
-        </Point>
-    </Placemark>
-		</Document>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Kleinstadt</styleUrl>
+			<Camera>
+				<longitude>-2.020479</longitude>
+				<latitude> 29.871670</latitude>
+				<altitude>200000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</Camera>
+			<Point>
+				<coordinates>-2.020479, 29.871670,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
 </kml>

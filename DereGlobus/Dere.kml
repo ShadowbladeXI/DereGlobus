@@ -280,11 +280,11 @@ Die Reisewege Deres werden markiert und entsprechend ihrer Befahrbarkeit untersc
 
   <!-- Landschaft -->
 
-				<NetworkLink>
-				<name>Landschaft</name>
-				<open>0</open>
-				<visibility>1</visibility>
-				<description><![CDATA[<style type="text/css"><!--
+	<NetworkLink>
+		<name>Landschaft</name>
+		<open>0</open>
+		<visibility>1</visibility>
+		<description><![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #d5ac00; }
 a:hover { text-decoration: underline; color: #d5ac00; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
@@ -298,19 +298,19 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 Vegetationszonen wie das ewige Eis, die mittelländischen Wälder und Grasländer oder die dampfenden Dschungel des Südens werden gemeinsam mit wichtigen Landmarken wie Bergen und Wäldern, Flüssen und Seen, Inseln und Buchten dargestellt. Geplant sind des Weiteren Verbreitungsgebiete von Flora und Fauna sowie abgegrenzte derographische Regionen wie der Balash oder Abagund.
 
 ]]></description>
-					<styleUrl>#menue</styleUrl>
+		<styleUrl>#menue</styleUrl>
 
-				<Link>
-					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaft.kml</href>
-				</Link>
-				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-					<dg:FilePath>DereGlobus/Landschaft/kml/Landschaft.kml</dg:FilePath>
-					<dg:translationStructure>
-						<name><dg:translationMarker translationName="Dere_Landschaft_name"/></name>
-						<description><dg:translationMarker translationName="Dere_Landschaft_description"/></description>
-					</dg:translationStructure>
-				</ExtendedData>
-				</NetworkLink>
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaft.kml</href>
+		</Link>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<dg:FilePath>DereGlobus/Landschaft/kml/Landschaft.kml</dg:FilePath>
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="Dere_Landschaft_name"/></name>
+				<description><dg:translationMarker translationName="Dere_Landschaft_description"/></description>
+			</dg:translationStructure>
+		</ExtendedData>
+	</NetworkLink>
 			
 
 
@@ -364,7 +364,7 @@ darzustellen.
 					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Chroniken/kml/Chroniken.kml</href>
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-					<dg:FilePath>DereGlobus/Chroniken/kml/Chroniken.kml</dg:FilePath>
+					<!-- <dg:FilePath>DereGlobus/Chroniken/kml/Chroniken.kml</dg:FilePath> -->
 					<dg:translationStructure>
 						<name><dg:translationMarker translationName="Dere_Chroniken_name"/></name>
 						<description><dg:translationMarker translationName="Dere_Chroniken_description"/></description>
@@ -511,7 +511,7 @@ archivierten Handlungsorten und Reiserouten. Die Mysteria et Arcana unterfütter
 					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Publikationen/kml/Publikationen.kml</href>
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-					<dg:FilePath>DereGlobus/Publikationen/kml/Publikationen.kml</dg:FilePath>
+					<!-- <dg:FilePath>DereGlobus/Publikationen/kml/Publikationen.kml</dg:FilePath> -->
 					<dg:translationStructure>
 						<name><dg:translationMarker translationName="Dere_Publikationen_name"/></name>
 						<description><dg:translationMarker translationName="Dere_Publikationen_description"/></description>
@@ -547,7 +547,7 @@ Dieses Projekt bringt ein interaktives, multimediales Erlebnis zu DereGlobus: Bi
 					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Multimedia/kml/Multimedia.kml</href>
 				</Link>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-					<dg:FilePath>DereGlobus/Multimedia/kml/Multimedia.kml</dg:FilePath>
+					<!-- <dg:FilePath>DereGlobus/Multimedia/kml/Multimedia.kml</dg:FilePath> -->
 					<dg:translationStructure>
 						<name><dg:translationMarker translationName="Dere_Multimedia_name"/></name>
 						<description><dg:translationMarker translationName="Dere_Multimedia_description"/></description>

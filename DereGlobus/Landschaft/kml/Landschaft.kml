@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
 <Document>
 	<name>Landschaft</name>
 	<open>1</open>
@@ -11,10 +10,13 @@
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftstypen/Landschaftstypen.kml</href>
 		</Link>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftstypen/Landschaftstypen.kml</dg:FilePath>
+		</ExtendedData>
 	</NetworkLink>
 
-	<NetworkLink>
-	<visibility>0</visibility>
+	<Folder>
+		<visibility>0</visibility>
 		<name>Landmarken</name>
 
 		<NetworkLink>
@@ -28,6 +30,9 @@
 				<Link>
 					<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Fluesse.kml</href>
 				</Link>
+				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+					<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Fluesse.kml</dg:FilePath>
+				</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -41,6 +46,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Gewaesser.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Gewaesser.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -54,6 +62,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Seen.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Seen.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -62,6 +73,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Suempfe.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Suempfe.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -70,6 +84,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Inseln.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Inseln.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -78,6 +95,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Ebenen.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Ebenen.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -86,6 +106,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Gebirge.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Gebirge.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -94,6 +117,9 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Waelder.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Waelder.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
 		<NetworkLink>
@@ -107,9 +133,12 @@
 			<Link>
 				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsmerkmale/Wuesten.kml</href>
 			</Link>
+			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+				<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsmerkmale/Wuesten.kml</dg:FilePath>
+			</ExtendedData>
 		</NetworkLink>
 
-	</NetworkLink>
+	</Folder>
 
 	<NetworkLink>
 	<visibility>0</visibility>
@@ -117,6 +146,9 @@
 		<Link>
 			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Landschaft/kml/Landschaftsregionen/Landschaftsregionen.kml</href>
 		</Link>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<dg:FilePath>DereGlobus/Landschaft/kml/Landschaftsregionen/Landschaftsregionen.kml</dg:FilePath>
+		</ExtendedData>
 	</NetworkLink>
 
 </Document>

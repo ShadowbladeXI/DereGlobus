@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"><!-- Diese Datei steht unter der DereGlobus-Lizenzvereinbarung: http://www.dereglobus.org/lizenz -->
+
+<NetworkLinkControl>
+				<Camera>
+					<gx:TimeStamp>
+						<when>1036</when>
+					</gx:TimeStamp>
+					<longitude>5.003457410849199</longitude>
+					<latitude>28.23149698551686</latitude>
+					<altitude>4567000</altitude>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</Camera>
+</NetworkLinkControl>
+
+<Document>
+	<name>Dere</name>
+	<open>1</open>
+	<visibility>1</visibility>
+
+
+	<!-- Zeit -->
+	<TimeSpan>
+		<begin>-1600</begin>
+		<end>1036</end>
+	</TimeSpan>
+
+
+	<!-- Styles -->
+	<StyleMap id="menue">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#menue-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#menue-h</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<Style id="menue-n">
+	<ListStyle>
+		<ItemIcon>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+		</ItemIcon>
+		<maxSnippetLines>0</maxSnippetLines>
+	</ListStyle>
+	<IconStyle>
+		<scale>0.9</scale>
+		<color>ffffffff</color>
+		<colorMode>normal</colorMode>
+		<Icon>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+		</Icon>
+		<hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+	
+	<Style id="menue-h">
+		<ListStyle>
+		  	<ItemIcon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>	
+			</ItemIcon>
+			<maxSnippetLines>0</maxSnippetLines>
+		</ListStyle>
+		<IconStyle>
+			<scale>0.9</scale>
+			<color>ffffffff</color>
+			<colorMode>normal</colorMode>
+			<Icon>
+				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+	  </IconStyle>
+      <BalloonStyle>
+        <!-- a background color for the balloon -->
+        <bgColor>FF1C1A1A</bgColor>
+        <!-- styling of the balloon text -->
+        <text><![CDATA[
+      <font face="Calibri" color="#366698" size="+3">$[name]</font>
+      <br/><br/>
+	<font color="#bbbbbb">$[description]</font>
+      ]]></text>
+        <textColor>FF000000</textColor>
+      </BalloonStyle>
+	</Style>
+
+
+
+	<!-- Kontinente -->
+	<NetworkLink>
+		<name>Kontinente</name>
+		<open>0</open>
+		<visibility>1</visibility>
+		<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #d5ac00; }
+a:hover { text-decoration: underline; color: #d5ac00; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#footnote { font-size:10px; }
+.style4 {font-size: x-large}
+--></style>
+Das folgende Video veranschaulicht die Gestalt Deres. Insbesondere wird die mit Thomas Römer abgesprochene Position Aventuriens auf der Derekugel vorgestellt und mit einigen Eckdaten veranschaulicht. Am besten in hoher Auflösung betrachten. ACHTUNG: Der Teaser enthält Meisterinformationen zur Gestalt Deres! 
+<br><br>
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/BNgWOfX3VSs&hl=de_DE&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BNgWOfX3VSs&hl=de_DE&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object><br><br>
+Weitere Informationen zur Entstehungsgeschichte der gewählten Positionen der Kontinente finden sich im Videoclip "<a target="_blank" title="im Browser öffnen" href="http://www.youtube.com/watch?v=V7cimuQgSvg&feature=channel">Wie ist die Gestalt Deres?</a>" und vor allem im <a target="_blank" title="im Browser öffnen" href="http://www.dereglobus.org/dokumentation/die-gestalt-deres">Traktat zur Gestalt Deres</a>.]]></description>
+		<styleUrl>#menue</styleUrl>
+	
+		<Link>
+			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Kontinente/kml/Kontinente.kml</href>
+		</Link>
+		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<dg:FilePath>DereGlobus_SQLite/Kontinente/kml/Kontinente.kml</dg:FilePath>
+			<dg:translationStructure>
+				<name><dg:translationMarker translationName="Dere_Kontinente_name"/></name>
+				<description><dg:translationMarker translationName="Dere_Kontinente_description"/></description>
+			</dg:translationStructure>
+		</ExtendedData>
+	</NetworkLink>
+				
+
+</Document>
+</kml>

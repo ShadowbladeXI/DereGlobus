@@ -7,3 +7,5 @@ Idea: Have a single php script resonsible for handing files to the user.
 	- This new data does not need to be added for parts of the kml tree which already exists and is not modified (can also be omitted in new files, optional feature)
 - language can be addd as a query, php script can look for a language specific file and then return that one (or a default one if none is found)
  
+ 
+ The DereGlobus_SQLite is a version where (most of) the .kml files are generated based on a SQLite database

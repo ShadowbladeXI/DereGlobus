@@ -107,12 +107,12 @@ verfügbar, dort kann man den
     <Placemark>
         <name>Geheimlager des Horasiats</name>
 		<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Firuns Atem, S. 51<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData> 
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  30<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Firuns Atem, S. 51<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Handelsstaette-X</styleUrl>
         <Camera> 
               <longitude> 2.121865</longitude>
               <latitude> 38.849839</latitude>
@@ -188,7 +188,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData> 
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  20<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Orkland, S. 41<TR><TD>Reich des Roten Mondes, S. 62<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette</styleUrl>
         <Camera> 
               <longitude> 2.389810</longitude>
               <latitude> 33.968562</latitude>
@@ -429,7 +429,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  10<TR><TD>Gasthaus und Widerstandsnest gegen die Orkbesatzer<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Orkengold, S. 67<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Gaststaette-X</styleUrl>
         <Camera> 
               <longitude> .981245461476129</longitude>
               <latitude> 34.8799819606678</latitude>
@@ -467,7 +467,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Sternenschweif, S.-1<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Handelsstaette-X</styleUrl>
         <Camera> 
               <longitude> 2.71826479934884</longitude>
               <latitude> 34.1143091780567</latitude>
@@ -524,7 +524,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  0<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD><i>Karte:</i> Schwarzweißkarte: Orkengold (22)<TR><TD><TR><TD>Orkengold, S. 23<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine</styleUrl>
         <Camera> 
               <longitude> 1.8435690899192</longitude>
               <latitude> 35.9104737116224</latitude>

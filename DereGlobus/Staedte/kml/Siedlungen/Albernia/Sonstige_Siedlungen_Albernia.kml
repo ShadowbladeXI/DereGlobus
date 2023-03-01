@@ -884,39 +884,6 @@ verfügbar, dort kann man den
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Caergyl</name>
-				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
-					<Data name=" Link ">
-						<value>$[name]</value>
-					</Data>
-					<dg:translationStructure>
-						<name>
-							<dg:translationMarker translationName="Caergyl_name" />
-						</name>
-						<description>
-							<dg:translationMarker translationName="Caergyl_description" />
-						</description>
-					</dg:translationStructure>
-				</ExtendedData>
-				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I>Zeitraum:</I> bis Heute 829 </TD><TR><TD><i>Einwohner:</i>  ?<TR><TD><TR><TD><i>Herrschaft:</i> <TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Das Fürstentum Albernia - Abenteuer in Albernia, S. 21<TR><TD>Am Großen Fluß, S. 176<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-				<Camera>
-					<longitude>-3.23574532877869</longitude>
-					<latitude> 28.8318757487456</latitude>
-					<altitude>200000</altitude>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<gx:TimeStamp>
-						<when> 829</when>
-					</gx:TimeStamp>
-				</Camera>
-				<TimeSpan>
-					<begin> 829</begin>
-				</TimeSpan>
-				<Point>
-					<coordinates>-3.23574532877869, 28.8318757487456,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Schindocher Anger</name>
 				<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 					<Data name=" Link ">
@@ -986,7 +953,7 @@ verfügbar, dort kann man den
 					</dg:translationStructure>
 				</ExtendedData>
 				<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  0<TR><TD><TR><TD><i>Herrschaft:</i> Jendar Gwenlian<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Feenstaub und Fabelwesen, S. 69<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+				<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette-X</styleUrl>
 				<Camera>
 					<longitude>-1.06157742832564</longitude>
 					<latitude> 30.4532564345575</latitude>

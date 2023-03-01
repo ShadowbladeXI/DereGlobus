@@ -114,13 +114,13 @@ verfügbar, dort kann man den
 				<coordinates>-50.832540,10.620413,0</coordinates>
 			</Point>
 		</Placemark>  
-						 <Placemark>
+		<Placemark>
 			<name>Ebonshaya</name>
 			<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
+				<Data name="Link">
+					<value>$[name]</value>
+				</Data>
+			</ExtendedData> 
 			<description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
@@ -175,7 +175,7 @@ verfügbar, dort kann man den
 				<heading>0</heading>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-					<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine-X_Karte</styleUrl>
+			<styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine-X</styleUrl>
 			<Point>
 				<coordinates>-54.029610,7.690834,0</coordinates>
 			</Point>

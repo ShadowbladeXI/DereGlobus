@@ -216,6 +216,61 @@ verfügbar, dort kann man den
 						<coordinates>6.273288,22.792133,0</coordinates>
 					</Point>
 				</Placemark>
+				
+				<Placemark>
+			        <name>Zhamorrah</name>
+					<ExtendedData>
+						<Data name="Link">
+							<value>$[name]</value>
+						</Data>
+					</ExtendedData> 
+					<description><![CDATA[<style type="text/css"><!--
+a:link, a:visited { text-decoration: none; color: #B21C19; }
+a:hover { text-decoration: underline; color: #B21C19; }
+hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
+#wiki { font-size:10px; }
+--></style>
+<table cellpadding="10" cellspacing="0" align="center">
+<tr>
+<td>
+<p>
+
+<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
+<b>Zhamorrah</b> war eine urtulamidische Stadt am Zusammenfluss von <a href="http://www.wiki-aventurica.de/wiki/Mhanadi" title="Mhanadi">Mhanadi</a> und <a href="http://www.wiki-aventurica.de/wiki/Gadang" title="Gadang">Gadang</a>. Ursprünglich unter dem Namen <i>Zsaah'mr</i> eine Siedlung der <a href="http://www.wiki-aventurica.de/wiki/Leviatan" title="Leviatan">Leviatanim</a> und womöglich deren damalige Metropole, wurde sie etwas nach <a href="http://www.wiki-aventurica.de/wiki/Chronik:Vorzeit_bis_1000_v._BF" title="Chronik:Vorzeit bis 1000 v. BF">2000 v. BF</a> von den <a href="http://www.wiki-aventurica.de/wiki/Urtulamiden&amp;action=edit&amp;redlink=1" class="new" title="Urtulamiden (Seite nicht vorhanden)">Urtulamiden</a> unter <a href="http://www.wiki-aventurica.de/wiki/Rashtul_al%27Sheik" title="Rashtul al'Sheik">Rashtul al'Sheik</a> erobert. Die urtulamidischen Zauberer-Traditionen der <a href="http://www.wiki-aventurica.de/wiki/Kophtanim" title="Kophtanim" class="mw-redirect">Kophtanim</a> und <a href="http://www.wiki-aventurica.de/wiki/Mudramulim&amp;action=edit&amp;redlink=1" class="new" title="Mudramulim (Seite nicht vorhanden)">Mudramulim</a> fußen auf dem dabei erbeuteten magischen Wissen.<br>
+
+Ab <a href="http://www.wiki-aventurica.de/wiki/Chronik:Vorzeit_bis_1000_v._BF" title="Chronik:Vorzeit bis 1000 v. BF">1609 v. BF</a> war die Stadt neben <a href="http://www.wiki-aventurica.de/wiki/Fasar" title="Fasar">Fasar</a> Zentrum des Herrschaftsgebiets der <a href="http://www.wiki-aventurica.de/wiki/Magiermogul" title="Magiermogul" class="mw-redirect">Magiermogule</a> vom <a href="http://www.wiki-aventurica.de/wiki/Gadang" title="Gadang">Gadang</a>. Im Jahr <a href="http://www.wiki-aventurica.de/wiki/Chronik:Vorzeit_bis_1000_v._BF" title="Chronik:Vorzeit bis 1000 v. BF">1327 v. BF</a> wurde sie vom <a href="http://www.wiki-aventurica.de/wiki/Khunchom" title="Khunchom">Khunchomer</a> <a href="http://www.wiki-aventurica.de/wiki/Sultan" title="Sultan">Sultan</a> <a href="http://www.wiki-aventurica.de/wiki/Sulman_al%27Nassori" title="Sulman al'Nassori">Sulman al'Nassori</a> mit machtvoller Magie und neuartigen Belagerungswaffen dem Erdboden gleichgemacht. Übrig blieb ein Ruinenfeld vier Meilen östlich von <a href="http://www.wiki-aventurica.de/wiki/Samra" title="Samra">Samra</a>.<br> Die Überreste der Stadt sind durchweg von <a href="http://www.wiki-aventurica.de/wiki/Chuchas" title="Chuchas">Chuchas</a>-Zeichen bedeckt, deren Übersetzung sich angeblich im legendären <a href="http://www.wiki-aventurica.de/wiki/Liber_Zhammoricam_per_Satinav" title="Liber Zhammoricam per Satinav">Liber Zhammoricam per Satinav</a> findet.
+
+<!-- END EDIT -->
+
+</p>
+<hr><div id="wiki">
+<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
+<p>Dieser Text basiert auf dem Artikel
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
+
+aus der freien Website
+<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
+
+und steht unter der
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
+
+Im Wiki Aventurica ist eine
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
+
+verfügbar, dort kann man den
+<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
+</td>
+</tr>
+</table>]]></description>            
+			        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Metropole</styleUrl>
+					<Point>
+					<coordinates>5.517462374477837,25.20730073287906,0</coordinates>
+					</Point>
+					<TimeSpan>
+						<begin>-1600</begin>
+						<end>-1327</end>
+					</TimeSpan>
+			    </Placemark>
 			</Folder>
 	</Document>
 </kml>

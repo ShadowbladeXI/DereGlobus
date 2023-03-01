@@ -25,12 +25,12 @@
 				<Placemark>
         <name>Boron-Kapelle</name>
 		<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  2<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Donner und Sturm, S. 38<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+			<Data name="Link">
+ 				<value>$[name]</value>
+			</Data>
+		</ExtendedData> 
+        <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  2<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Donner und Sturm, S. 38<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Sakralbauwerk-X</styleUrl>
         <Camera> 
               <longitude> .798606680868325</longitude>
               <latitude> 26.4748616322725</latitude>
@@ -1401,7 +1401,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData> 
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD><TR><TD><i>Einwohner:</i>  0<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Die Wandelbare<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine-X</styleUrl>
         <LookAt> 
               <longitude> 2.81408407164065</longitude>
               <latitude> 26.665835839504</latitude>
@@ -1665,7 +1665,7 @@ verfügbar, dort kann man den
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  2<TR><TD>verlassene Zwergenbinge<TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Katakomben und Kavernen, S. 151<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Ruine-X</styleUrl>
         <Camera> 
               <longitude> 3.15242302179299</longitude>
               <latitude> 26.8347883334076</latitude>
@@ -1677,14 +1677,14 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
     <Placemark>
-        <name>Fähre über den Creval</name>
+        <name>Fähre über den Cresval</name>
 <ExtendedData>
 <Data name="Link">
 <value>$[name]</value>
 </Data>
 </ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Der Mondenkaiser, S. 74<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Werkstaette-X</styleUrl>
         <Camera> 
               <longitude> 2.42184490450798</longitude>
               <latitude> 27.7251047079657</latitude>

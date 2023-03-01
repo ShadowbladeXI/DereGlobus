@@ -696,67 +696,6 @@ verfügbar, dort kann man den
         </Point>
     </Placemark>
     <Placemark>
-        <name>Avestreu</name>
-		<ExtendedData>
-<Data name="Link">
- <value>$[name]</value>
-</Data>
-</ExtendedData> 
-            <description><![CDATA[<style type="text/css"><!--
-a:link, a:visited { text-decoration: none; color: #B21C19; }
-a:hover { text-decoration: underline; color: #B21C19; }
-hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
-#wiki { font-size:10px; }
---></style>
-<table cellpadding="10" cellspacing="0" align="center">
-<tr>
-<td>
-<p>
-
-<!-- EDIT: LINK DES WAPPENS -->
-
-<!-- END EDIT -->
-
-<!-- EDIT: KURZBESCHREIBUNG (CODE) -->
-<b>Avestreu</b> ist ein kleiner Weiler vor der Stadt <a href="http://www.wiki-aventurica.de/wiki/Ferdok" title="Ferdok">Ferdok</a>. Wegen seiner Nähe zum <a href="http://www.wiki-aventurica.de/wiki/Dunkelwald" title="Dunkelwald">Dunkelwald</a> beklagen sich Reisende oft über Angriffe von Wildtieren.
-
-
-<!-- END EDIT -->
-
-</p>
-<!-- FlyToLink BEGIN-->
-
-<!--FlyToLink END -->
-<hr><div id="wiki">
-<a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
-<p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
-
-aus der freien Website
-<a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>
-
-und steht unter der
-<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Creative Commons Attribution-ShareAlike 3.0 Germany" rel="nofollow">CC-BY-SA 3.0</a>.
-
-Im Wiki Aventurica ist eine <a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=history">Liste der Autoren</a>
-
-verfügbar, dort kann man den
-<a href="http://www.wiki-aventurica.de/index.php?title=$[Link]&action=edit">Artikel bearbeiten</a>.</div>
-</td>
-</tr>
-</table>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
-        <Camera> 
-              <longitude> 2.041380</longitude>
-              <latitude> 29.285017</latitude>
-              <altitude>200000</altitude>
-              <altitudeMode>relativeToGround</altitudeMode>
-        </Camera>
-        <Point>
-             <coordinates> 2.041380, 29.285017,0</coordinates>
-        </Point>
-    </Placemark>
-    <Placemark>
         <name>Gut Dunkelforst</name>
 		<ExtendedData>
 <Data name="Link">
@@ -913,15 +852,15 @@ verfügbar, dort kann man den
              <coordinates> 1.037901, 29.749809,0</coordinates>
         </Point>
     </Placemark>
-	   <Placemark>
+    <Placemark>
         <name>Geheimer Piratenhafen</name>
-<ExtendedData>
-<Data name=" Link ">
-<value>$[name]</value>
-</Data>
-</ExtendedData>
-            <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Vater der Fluten, S. 127<TR><TD>Drakensang - Am Fluss der Zeit, S.-1<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+		<ExtendedData>
+			<Data name=" Link ">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+		<description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  100<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Vater der Fluten, S. 127<TR><TD>Drakensang - Am Fluss der Zeit, S.-1<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Handelsstaette-X</styleUrl>
         <Camera> 
               <longitude> 1.59505084690001</longitude>
               <latitude> 28.2356072587549</latitude>
@@ -1072,13 +1011,13 @@ verfügbar, dort kann man den
     </Placemark>
     <Placemark>
         <name>Höhle des Wasserdrachen</name>
-<ExtendedData>
-<Data name=" Link ">
-<value>$[name]</value>
-</Data>
-</ExtendedData>
+		<ExtendedData>
+			<Data name=" Link ">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
             <description><![CDATA[<style type="text/css"><!--a:link, a:visited { text-decoration: none; color: #B21C19; }a:hover { text-decoration: underline; color: #B21C19; }hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }#wiki { font-size:10px; }--></style><Table><TR><TD> <I> Zeitraum:</I> bis Heute </TD><TR><TD><i>Einwohner:</i>  1<TR><TD><TR><TD><HR><TR><TD><B>Quellen:<B> <TR><TD>Drakensang - Am Fluss der Zeit, S.-1<TR><TD>Vater der Fluten, S. 71<TR><TD><HR><font size=-1> Dieser Datensatz stammt von gnom und wurde <A href="http://dereglobus.orkenspalter.de/viewtopic.php?p=7440#p7440">automatisch generiert</A>. Fehler bitte <A href="http://dereglobus.orkenspalter.de/viewtopic.php?f=14&t=442">hier</A> im DereGlobus Forum posten. Danke. <BR><BR> Eine Kurzbeschreibung der Siedlung mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen DereGlobus-Version noch. Du bist herzlich eingeladen <a href="http://sites.google.com/site/dereglobus/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.</TR></TABLE>]]></description>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Dorf-X</styleUrl>
+        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Staedte.kml#Sonstige_Privathaus-X</styleUrl>
         <Camera> 
               <longitude> 1.27467437743486</longitude>
               <latitude> 29.1205440781798</latitude>

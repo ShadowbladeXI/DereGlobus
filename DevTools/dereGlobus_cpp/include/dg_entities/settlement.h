@@ -1,22 +1,21 @@
 /*
  * settlement.h
  *
- *  Created on: Dec 25, 2022
- *      Author: ShadowbladeXI
+ *  Created on: 26 Mar 2023
+ *      Author: Alex
  */
 
-#ifndef SETTLEMENT_H_
-#define SETTLEMENT_H_
-
-#include <string>
-#include <array>
+#ifndef DEREGLOBUS_DG_SETTLEMENT_H_
+#define DEREGLOBUS_DG_SETTLEMENT_H_
 
 #include "location.h"
 
-#include "sqlite3.h"
-#include "sqlite3_tableRead_helper.h"
+namespace dg {
 
 class Settlement : public Location{
+public:
+	typedef Location DereGlobusParentType;
+
 private:
 	std::optional<unsigned int> population;//No value means that population is unknown/not yet in the database
 
@@ -66,6 +65,8 @@ public:
 		,population(population)
 	{}
 
+	virtual ~Settlement(){}
+
 	//Uses data from an SQL Request to create an object.
 	//Returns an empty optional if construction failed
 	static std::optional<Settlement> make_fromSQLRequest(const SQL_RequestList& requestList){
@@ -75,25 +76,17 @@ public:
 		}else{
 			return std::nullopt;
 		}
-
 	}
 
-public:
-	/*
-	 * Functionality for .kml file creation
-	 */
-
-	//Function to create a kml node for this entity inside the document doc
-	template<typename Ch=char>
-	rapidxml::xml_node<Ch>* build_kmlNode(rapidxml::xml_document<Ch>& doc) const{
-		auto* node_entity = Location::build_kmlNode(doc);
-
-		//TODO: add settlement specific information
-
-		return node_entity;
+	void execute_resolved(DereGlobus_DynamicEntityResolver& resolver) const override{
+		resolver.do_fixedType(*this);
 	}
+	void execute_resolved(DereGlobus_DynamicEntityResolver& resolver) override{
+		resolver.do_fixedType(*this);
+	}
+
 };
 
+}
 
-
-#endif /* SETTLEMENT_H_ */
+#endif /* DEREGLOBUS_DG_SETTLEMENT_H_ */

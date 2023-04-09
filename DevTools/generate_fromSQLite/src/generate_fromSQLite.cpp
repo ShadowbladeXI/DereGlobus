@@ -10,16 +10,54 @@
 #include <fstream>
 #include <tuple>
 #include <filesystem>
-
-#include "../includes/rapidxml-1.13/rapidxml.hpp"
-#include "../includes/rapidxml-1.13/rapidxml_print.hpp"
+#include <unordered_map>
+#include <memory>
 
 #include "sqlite3.h"
 
-#include "../include/sqlite3_tableRead_helper.h"
-#include "../include/settlement.h"
+//TODO: Remove
+#include "../lib/rapidxml-1.13/rapidxml.hpp"
+#include "../lib/rapidxml-1.13/rapidxml_print.hpp"
 
-using namespace rapidxml;
+#include "kml.h"
+#include "dereGlobus.h"
+
+#include "../include/dereGlobus_kml/dgkml_entities.h"
+#include "../include/dereGlobus_kml/dgkml_factory.h"
+
+//Class for reading all languages //TODO: move to other location
+class SQLite_Helper_RequestList_Language : dg::SQLite_Helper_RequestList{
+private:
+	typedef dg::SQLite_Helper_RequestList Parent;//Define parent for easier copying of boilerplate
+
+private:
+	constexpr static auto id_attribute = dg::SQLite3_Helper_Attribute<std::string>("language", "language_id");
+	constexpr static auto attributes_part = std::make_tuple(id_attribute);//Has to be the same number and the same order as in the "get_attributeValues_part" function
+
+public:
+	std::optional<std::string> id;
+
+protected:
+	auto get_attributeValues_part(){
+		return std::tie(id);//Has to be the same number and the same order as in the static "attributes_part" variable //TODO: Is there a way to ensure this better?
+	}
+
+public:
+	static auto get_attributes(){
+		return std::tuple_cat(Parent::get_attributes(), attributes_part);
+	}
+
+	static constexpr std::size_t attributeIndex_start = std::tuple_size_v<decltype(Parent::get_attributes())>;
+	static constexpr std::size_t attributeIndex_end = attributeIndex_start + std::tuple_size_v<decltype(attributes_part)>;
+	template<typename AttributeValueTuple_Type>
+	SQLite_Helper_RequestList_Language(const AttributeValueTuple_Type& attributeValues)
+		:Parent(attributeValues)
+	{
+		get_attributeValues_part() = get_tuplePart<attributeIndex_start, attributeIndex_end>(attributeValues);
+	}
+};
+
+
 
 int main() {
 
@@ -33,71 +71,98 @@ int main() {
 	}
 
 	/*
+	 * Read texts (in different languages)
+	 */
+	// Get all languages
+	//Create the information to read the table
+	auto tableRead_languages = dg::SQLite3_Helper_TableRead<dg::SQLite_Helper_RequestList_Language>("language");
+
+	//Read the table
+	auto languages_requests = tableRead_languages.execute_toRequestVector(mainDatabase);
+
+	auto languages = std::vector<std::string>();
+	languages.reserve(languages_requests.size());
+	for(auto language_request : languages_requests){
+		const auto& language_id_opt = language_request.id;
+		if(language_id_opt.has_value()){
+			languages.push_back(*(language_request.id));
+		}else{
+			throw "Language ID cannot be empty!";
+		}
+	}
+
+	//get the texts
+	auto texts_map = dg::Texts_Map(languages);
+	//auto language_attributes = std::vector<SQLite3_Helper_Attribute<std::string>>();
+	auto languageAndId_attributes = std::vector<dg::SQLite3_Helper_Attribute<std::string>>();
+	languageAndId_attributes.reserve(languages.size()+1);
+	languageAndId_attributes.push_back(dg::SQLite3_Helper_Attribute<std::string>("text", "text_id"));
+	for(const std::string& language_id : languages){
+		languageAndId_attributes.push_back(dg::SQLite3_Helper_Attribute<std::string>("text", language_id));
+	}
+	auto tableRead_texts = dg::SQLite3_Helper_TableRead_Dynamic<std::string>(languageAndId_attributes, "text");
+	auto function_addToTexts = [&texts_map](const std::vector<std::optional<std::string>>& languageAndId_values){
+		std::optional<std::string> text_id_optional = languageAndId_values.front();
+		if(text_id_optional.has_value()){
+			const std::string& text_id = *text_id_optional;
+
+			auto translations = std::vector<std::optional<std::string>>(languageAndId_values.begin()+1, languageAndId_values.end());
+
+			auto [insert_it, success] = texts_map.insert(std::make_pair(text_id, translations));
+			if(!success){
+				throw "Text with ID " + insert_it->first + " is duplicate!";
+			}
+		}else{
+			throw "Language ID cannot be empty!";
+		}
+
+	};
+	tableRead_texts.execute(mainDatabase, function_addToTexts);
+
+	/*
 	 * Read settlement information
 	 */
 	//Create the information to read the table
-	auto tableRead_settlements = SQLite3_Helper_TableRead<Settlement::SQL_RequestList>({"location", "settlement"}, {"id", "id"});
+	auto tableRead_settlements = dg::SQLite3_Helper_TableRead<dg::Settlement::SQL_RequestList>({"entity", "location", "settlement"}, {"id", "id", "id"});
 	//Read the table to a vector of settlements
-	auto settlements = tableRead_settlements.execute_toObjectVector<Settlement>(mainDatabase);
+	auto settlements = tableRead_settlements.execute_toObjectVector<dg::Settlement>(mainDatabase);
 
 	//Close main database connection
 	sqlite3_close(mainDatabase);
 
 	/*
+	 * Create dereGlobus kml objects
+	 */
+
+	auto settlements_doc = std::make_unique<kml::Document>();
+	settlements_doc->set_name("Settlements.kml");
+	kml::Folder& settlements_folder = settlements_doc->add_feature(std::make_unique<kml::Folder>());
+	settlements_folder.set_name("???");
+
+	auto dgkml_factory = DG_KML_Factory();
+	for(const auto& settlement : settlements){
+		auto settlement_dgkml = dgkml_factory.make_typeDeduction(texts_map, settlement);
+		settlements_folder.add_feature(std::move(settlement_dgkml));
+	}
+
+	/*
 	 * Create Settlements file as a test
 	 */
 
-	rapidxml::xml_document<> doc;
-
-	//Add declaration node with standard attributes
-	auto* declarationNode = doc.allocate_node(rapidxml::node_declaration);
-	auto* declarationNode_version = doc.allocate_attribute("version", "1.0");
-	declarationNode->append_attribute(declarationNode_version);
-	auto* declarationNode_encoding = doc.allocate_attribute("encoding", "UTF-8");
-	declarationNode->append_attribute(declarationNode_encoding);
-	auto* declarationNode_standaloneFlag = doc.allocate_attribute("standalone", "yes");
-	declarationNode->append_attribute(declarationNode_standaloneFlag);
-	doc.append_node(declarationNode);
-
-	//Add kml node
-	auto* kmlNode = doc.allocate_node(rapidxml::node_element, "kml");
-	auto* kmlNode_xmlns = doc.allocate_attribute("xmlns", "http://www.opengis.net/kml/2.2");
-	kmlNode->append_attribute(kmlNode_xmlns);
-	auto* kmlNode_xmlnsAtom = doc.allocate_attribute("xmlns:atom", "http://www.w3.org/2005/Atom");
-	kmlNode->append_attribute(kmlNode_xmlnsAtom);
-	auto* kmlNode_xmlnsGx = doc.allocate_attribute("xmlns:gx", "http://www.google.com/kml/ext/2.2");
-	kmlNode->append_attribute(kmlNode_xmlnsGx);
-	auto* kmlNode_xmlnsKml = doc.allocate_attribute("xmlns:kml", "http://www.opengis.net/kml/2.2");
-	kmlNode->append_attribute(kmlNode_xmlnsKml);
-	doc.append_node(kmlNode);
-
-	//Add the main document
-	auto* documentNode = doc.allocate_node(rapidxml::node_element, "Document");
-	auto* documentNode_name = doc.allocate_node(rapidxml::node_element, "name", "Settlements.kml");
-	documentNode->append_node(documentNode_name);
-	kmlNode->append_node(documentNode);
-
-	//Add folder for all settlements
-	auto* folderNode = doc.allocate_node(rapidxml::node_element, "Folder");
-	auto* folderNode_name = doc.allocate_node(rapidxml::node_element, "name", "???");
-	folderNode->append_node(folderNode_name);
-	documentNode->append_node(folderNode);
-
-	//Add settlements
-	for(const auto& settlement : settlements){
-		auto* settlement_node = settlement.build_kmlNode(doc);
-		folderNode->append_node(settlement_node);
-	}
-
-	//For Debugging: display document content in console //TODO: Remove
-	std::cout << doc;
+	auto kml_file = kml::File();
+	kml_file.add_feature(std::move(settlements_doc));
 
 	//Write to file
+	auto xml_doc = rapidxml::xml_document<kml::Ch_T>();
+	kml_file.create_xmlDocument(xml_doc);
 	std::filesystem::create_directory("../../DereGlobus_SQLite/AutoGeneratedContent");
 	std::filesystem::create_directory("../../DereGlobus_SQLite/AutoGeneratedContent/Settlements");
 	auto file_stream_out = std::ofstream("../../DereGlobus_SQLite/AutoGeneratedContent/Settlements/Settlements.kml");
-	file_stream_out << doc;
+	file_stream_out << xml_doc;
 	file_stream_out.close();
+	xml_doc.clear();
+
 
 	return 0;
 }
+

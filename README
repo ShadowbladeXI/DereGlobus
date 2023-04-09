@@ -9,3 +9,5 @@ Idea: Have a single php script resonsible for handing files to the user.
  
  
  The DereGlobus_SQLite is a version where (most of) the .kml files are generated based on a SQLite database
+ 
+ NOTE: Google Earth has to be set to ignore errors, otherwise it will detect the custom namespace "dg" for DereGlobus in the ExtendedData fields as an error. This is a know bug of GoogleErath (see https://code.google.com/archive/p/earth-issues/issues/438) but is unlikely to get fixed any time soon.

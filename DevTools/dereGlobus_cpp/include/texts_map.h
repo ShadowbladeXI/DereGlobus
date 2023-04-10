@@ -129,6 +129,14 @@ public:
 		return languages;
 	}
 
+	auto get_texts_begin() const{
+		return texts_map.begin();
+	}
+
+	auto get_texts_end() const{
+		return texts_map.end();
+	}
+
 private:
 
 	//Return requested language or highest priority available

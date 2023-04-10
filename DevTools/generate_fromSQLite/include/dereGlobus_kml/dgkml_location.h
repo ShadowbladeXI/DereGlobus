@@ -12,8 +12,8 @@ class DGKML_Location : public DGKML_Entity<kml::Placemark> {
 
 public:
 
-	DGKML_Location(const dg::Texts_Map& texts_map, const dg::Location& location)
-		:DGKML_Entity(texts_map, location)
+	DGKML_Location(const dg::Texts_Map& texts_map, dg::Texts_Map& texts_map_local, const dg::Location& location)
+		:DGKML_Entity(texts_map, texts_map_local, location)
 	{
 		if(location.get_coordinates().has_value()){
 			auto coordinates = *location.get_coordinates();

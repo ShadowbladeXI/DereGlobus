@@ -24,7 +24,12 @@
 		</Region>
     <Placemark>
         <name>Lowangen</name>
-            <description>
+        <ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
+			<Data name="Link">
+				<value>$[name]</value>
+			</Data>
+		</ExtendedData>
+        <description>
 <![CDATA[<style type="text/css"><!--
 a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
@@ -57,7 +62,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 <hr><div id="wiki">
 <a href="http://www.wiki-aventurica.de"><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Wiki_Aventurica.png" alt="Wiki Aventurica" align="left"></a></p>
 <p>Dieser Text basiert auf dem Artikel
-<a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a>
+<a href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a>
 
 aus der freien Website
 <a href="http://www.wiki-aventurica.de" title="http://wiki.dsa4.de" rel="nofollow">Wiki Aventurica</a>

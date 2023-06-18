@@ -26,6 +26,8 @@ public:
 	virtual void do_fixedType(const Location& location);
 
 	virtual void do_fixedType(const Settlement& settlement);
+
+	virtual void do_fixedType(const Town& town);
 };
 
 }

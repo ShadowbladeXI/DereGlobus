@@ -11,6 +11,7 @@
 #include "entity.h"
 #include "location.h"
 #include "settlement.h"
+#include "town.h"
 
 
 

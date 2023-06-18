@@ -45,6 +45,10 @@ private:
 		return make_fixedType(static_cast<std::remove_reference_t<decltype(settlement)>::DereGlobusParentType>(settlement));
 	}
 
+	virtual std::unique_ptr<Output_BaseType> make_fixedType(const Town& town) const{
+		return make_fixedType(static_cast<std::remove_reference_t<decltype(town)>::DereGlobusParentType>(town));
+	}
+
 private:
 	void do_fixedType(const Entity& entity) override{
 		object = std::move(make_fixedType(entity));
@@ -56,6 +60,10 @@ private:
 
 	void do_fixedType(const Settlement& settlement) override{
 		object = std::move(make_fixedType(settlement));
+	}
+
+	void do_fixedType(const Town& town) override{
+		object = std::move(make_fixedType(town));
 	}
 
 };

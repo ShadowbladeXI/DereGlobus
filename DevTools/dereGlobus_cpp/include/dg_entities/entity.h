@@ -94,6 +94,10 @@ public:
 		return name_id;
 	}
 
+	const std::optional<std::string>& get_description_id() const{
+		return description_id;
+	}
+
 	//virtual void execute_resolved(DereGlobus_DynamicEntityResolver& resolver) const = 0;
 	//virtual void execute_resolved(DereGlobus_DynamicEntityResolver& resolver) = 0;
 

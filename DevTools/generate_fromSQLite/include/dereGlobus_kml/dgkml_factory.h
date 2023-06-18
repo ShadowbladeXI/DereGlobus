@@ -42,10 +42,13 @@ public:
 
 	}
 
-	std::unique_ptr<kml::Feature> make_fixedType(const dg::Settlement& settlement) const override{
+	/*std::unique_ptr<kml::Feature> make_fixedType(const dg::Settlement& settlement) const override{
 		return make_fixedType(static_cast<std::remove_reference_t<decltype(settlement)>::DereGlobusParentType>(settlement));
-	}
+	}*/
 
+	std::unique_ptr<kml::Feature> make_fixedType(const dg::Town& town) const override{
+		return std::make_unique<DGKML_Town>(*texts_map_ref, *texts_map_local_ref, town);
+	}
 
 };
 

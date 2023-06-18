@@ -128,6 +128,12 @@ int main() {
 	//Read the table to a vector of settlements
 	auto settlements = tableRead_settlements.execute_toObjectVector<dg::Settlement>(mainDatabase);
 
+	//Create the information to read the table
+	auto tableRead_towns = dg::SQLite3_Helper_TableRead<dg::Town::SQL_RequestList>({"entity", "location", "settlement", "town"}, {"id", "id", "id", "id"});
+	//Read the table to a vector of settlements
+	auto towns = tableRead_towns.execute_toObjectVector<dg::Town>(mainDatabase);
+
+
 	//Close main database connection
 	sqlite3_close(mainDatabase);
 
@@ -142,8 +148,8 @@ int main() {
 	settlements_folder.set_name("???");
 
 	auto dgkml_factory = DG_KML_Factory();
-	for(const auto& settlement : settlements){
-		auto settlement_dgkml = dgkml_factory.make_typeDeduction(texts_map, settlements_texts_map, settlement);
+	for(const auto& town : towns){
+		auto settlement_dgkml = dgkml_factory.make_typeDeduction(texts_map, settlements_texts_map, town);
 		settlements_folder.add_feature(std::move(settlement_dgkml));
 	}
 

@@ -8,6 +8,8 @@
 #ifndef DEREGLOBUS_KML_DGKML_LOCATION_H_
 #define DEREGLOBUS_KML_DGKML_LOCATION_H_
 
+#include "dgkml_entity.h"
+
 class DGKML_Location : public DGKML_Entity<kml::Placemark> {
 
 public:

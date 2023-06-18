@@ -85,6 +85,9 @@ public:
 		resolver.do_fixedType(*this);
 	}
 
+	const std::optional<unsigned int>& get_population() const{
+		return population;
+	}
 };
 
 }

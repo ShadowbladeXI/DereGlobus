@@ -13,6 +13,7 @@ namespace dg{
 class Entity;
 class Location;
 class Settlement;
+class Town;
 
 }
 

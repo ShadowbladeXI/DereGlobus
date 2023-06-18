@@ -23,6 +23,10 @@ void DereGlobus_DynamicEntityResolver::do_fixedType(const Settlement& settlement
 	do_fixedType(static_cast<std::remove_reference_t<decltype(settlement)>::DereGlobusParentType>(settlement));
 }
 
+void DereGlobus_DynamicEntityResolver::do_fixedType(const Town& town){
+	do_fixedType(static_cast<std::remove_reference_t<decltype(town)>::DereGlobusParentType>(town));
+}
+
 }
 
 

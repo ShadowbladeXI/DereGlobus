@@ -22,13 +22,15 @@ public:
 
 		//TODO: Option for relative path in dereglobus for icon
 		std::string icon_href;
-		if(!town.get_population().has_value() || *town.get_population() <= 500){
+		auto population_recent = town.get_population_recent();
+
+		if(!population_recent.has_value() || *population_recent <= 500){
 			icon_href = "http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Dorf.png";
-		}else if(*town.get_population() <= 1000){
+		}else if(*population_recent <= 1000){
 			icon_href = "http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Kleinstadt.png";
-		}else if(*town.get_population() <= 5000){
+		}else if(*population_recent <= 5000){
 			icon_href = "http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Stadt.png";
-		}else if(*town.get_population() <= 20000){
+		}else if(*population_recent <= 20000){
 			icon_href = "http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Grossstadt.png";
 		}else{
 			icon_href = "http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Metropole.png";

@@ -24,10 +24,10 @@ public:
 			//Calculate size
 			unsigned int pop_norm;
 			unsigned int pop_norm_min = 100;
-			if(!settlement.get_population().has_value() || *settlement.get_population() < pop_norm_min){
+			if(!settlement.get_population_recent().has_value() || *settlement.get_population_recent() < pop_norm_min){
 				pop_norm = pop_norm_min;
 			}else{
-				pop_norm = *settlement.get_population();
+				pop_norm = *settlement.get_population_recent();
 			}
 
 			float a = 1e4f * std::exp(-2.1);

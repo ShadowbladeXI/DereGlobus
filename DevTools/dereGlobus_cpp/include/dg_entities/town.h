@@ -24,8 +24,8 @@ public:
 
 	//Uses data from an SQL Request to create an object.
 	//Returns an empty optional if construction failed
-	static std::optional<Town> make_fromSQLRequest(const SQL_RequestList& requestList){
-		auto settlement_opt = Settlement::make_fromSQLRequest(requestList);
+	static std::optional<Town> make_fromSQLRequest(sqlite3* database, const SQL_RequestList& requestList){
+		auto settlement_opt = Settlement::make_fromSQLRequest(database, requestList);
 		if(settlement_opt.has_value()){
 			return Town(*settlement_opt);
 		}else{

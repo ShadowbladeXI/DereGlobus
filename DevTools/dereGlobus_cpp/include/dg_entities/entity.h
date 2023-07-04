@@ -25,6 +25,8 @@ protected:
 	std::string id;
 	std::optional<std::string> name_id;
 	std::optional<std::string> description_id;
+	std::optional<int> begin_yearBF;
+	std::optional<int> end_yearBF;
 
 public:
 	//Class for the information for the SQL request to generate a new object
@@ -37,17 +39,21 @@ public:
 		constexpr static auto id_attribute = SQLite3_Helper_Attribute<std::string>("entity", "id");
 		constexpr static auto nameID_attribute = SQLite3_Helper_Attribute<std::string>("entity", "name_id");
 		constexpr static auto descriptionID_attribute = SQLite3_Helper_Attribute<std::string>("entity", "description_short_htmlText_id");
+		constexpr static auto beginYearBF_attribute = SQLite3_Helper_Attribute<int>("entity", "begin_yearBF");
+		constexpr static auto endYearBF_attribute = SQLite3_Helper_Attribute<int>("entity", "end_yearBF");
 
-		constexpr static auto attributes_part = std::make_tuple(id_attribute, nameID_attribute, descriptionID_attribute);//Has to be the same number and the same order as in the "get_attributeValues_part" function
+		constexpr static auto attributes_part = std::make_tuple(id_attribute, nameID_attribute, descriptionID_attribute, beginYearBF_attribute, endYearBF_attribute);//Has to be the same number and the same order as in the "get_attributeValues_part" function
 
 	public:
 		std::optional<std::string> id;
 		std::optional<std::string> name_id;
 		std::optional<std::string> description_id;
+		std::optional<int> begin_yearBF;
+		std::optional<int> end_yearBF;
 
 	protected:
 		auto get_attributeValues_part(){
-			return std::tie(id, name_id, description_id);//Has to be the same number and the same order as in the static "attributes_part" variable //TODO: Is there a way to ensure this better?
+			return std::tie(id, name_id, description_id, begin_yearBF, end_yearBF);//Has to be the same number and the same order as in the static "attributes_part" variable //TODO: Is there a way to ensure this better?
 		}
 
 	public:
@@ -70,10 +76,11 @@ public:
 	};
 
 public:
-	Entity(std::string id, std::optional<std::string> name_id, std::optional<std::string> description_id)
+	Entity(std::string id, std::optional<std::string> name_id, std::optional<std::string> description_id, std::optional<int> begin_yearBF, std::optional<int> end_yearBF)
 		:id(id)
 		,name_id(name_id)
 		,description_id(description_id)
+		,begin_yearBF(begin_yearBF), end_yearBF(end_yearBF)
 	{}
 
 	virtual ~Entity(){}
@@ -83,7 +90,7 @@ public:
 	static std::optional<Entity> make_fromSQLRequest(const SQL_RequestList& requestList){
 		assert(requestList.id.has_value());//ID should always be defined
 
-		return Entity(*(requestList.id), requestList.name_id, requestList.description_id);
+		return Entity(*(requestList.id), requestList.name_id, requestList.description_id, requestList.begin_yearBF, requestList.end_yearBF);
 	}
 
 	const std::string& get_id() const{
@@ -96,6 +103,13 @@ public:
 
 	const std::optional<std::string>& get_description_id() const{
 		return description_id;
+	}
+
+	const std::optional<int>& get_begin_yearBF() const{
+		return begin_yearBF;
+	}
+	const std::optional<int>& get_end_yearBF() const{
+		return end_yearBF;
 	}
 
 	//virtual void execute_resolved(DereGlobus_DynamicEntityResolver& resolver) const = 0;

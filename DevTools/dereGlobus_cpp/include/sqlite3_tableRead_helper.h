@@ -254,6 +254,10 @@ private:
 					//std::cout << "unsigned int, ";
 					//assert(attributeType_sqlite3 == SQLITE_INTEGER);
 					attributeValue = sqlite3_value_int(attributeValue_sqlite3_protected);
+				}else if constexpr(std::is_same_v<int, Value_Type>){
+					//std::cout << "int, ";
+					//assert(attributeType_sqlite3 == SQLITE_INTEGER);
+					attributeValue = sqlite3_value_int(attributeValue_sqlite3_protected);
 				}else{
 					//std::cout << "error for type " << typeid(Value_Type()).name() << ", ";//For debugging
 
@@ -329,8 +333,8 @@ public:
 	template<typename GeneratedObject_Type>
 	std::vector<GeneratedObject_Type> execute_toObjectVector(sqlite3* database){
 		std::vector<GeneratedObject_Type> objects;
-		auto function = [&objects](const SQL_RequestList_Type& request){
-			auto object_optional = GeneratedObject_Type::make_fromSQLRequest(request);
+		auto function = [&objects, &database](const SQL_RequestList_Type& request){
+			auto object_optional = GeneratedObject_Type::make_fromSQLRequest(database, request);
 			if(object_optional.has_value()){
 				const auto& object = *object_optional;
 				objects.push_back(object);

@@ -11,6 +11,7 @@
 #include "../external/rapidxml-1.13/rapidxml.hpp"
 
 #include "kml_feature.h"
+#include "kml_timeSpan.h"
 
 #include "dereGlobus.h"
 
@@ -45,6 +46,24 @@ public:
 			}else{
 				KML_Feature_Type::set_description("No description available in any language");//TODO: Test //TODO: replace by a constant
 			}
+		}
+
+		if(entity.get_begin_yearBF().has_value() || entity.get_end_yearBF().has_value()){
+			std::optional<std::string> begin;
+			if(entity.get_begin_yearBF().has_value()){
+				begin = std::make_optional(std::to_string(*entity.get_begin_yearBF()));
+			}else{
+				begin = std::nullopt;
+			}
+
+			std::optional<std::string> end;
+			if(entity.get_end_yearBF().has_value()){
+				end = std::make_optional(std::to_string(*entity.get_end_yearBF()));
+			}else{
+				end = std::nullopt;
+			}
+
+			KML_Feature_Type::set_timePrimitive(kml::TimeSpan(std::move(begin), std::move(end)));
 		}
 	}
 

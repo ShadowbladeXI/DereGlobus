@@ -8,7 +8,7 @@
  	<Style id="DereGlobus">
     		<ListStyle>
   			<ItemIcon>     
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DereGlobus_Favicon.png</href>
+				<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/DereGlobus_Favicon.png</href>
  			</ItemIcon>     
 		</ListStyle>
 	</Style>
@@ -16,7 +16,7 @@
  	<Style id="Menue">
     		<ListStyle>
 			<ItemIcon>     
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
+				<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Menue.png</href>
   			</ItemIcon>     
 		</ListStyle>
 	</Style>
@@ -24,7 +24,7 @@
  	<Style id="Dere">
     		<ListStyle>
   			<ItemIcon>     
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Dere.png</href>
+				<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/Dere.png</href>
   			</ItemIcon>     
 		</ListStyle>
 	</Style>
@@ -50,7 +50,7 @@
 		<open>0</open>
 		<styleUrl>#Menue</styleUrl>
 		<Link>
-			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/kml/Menue.kml</href>
+			<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/kml/Menue.kml</href>
 		</Link>
 	</NetworkLink>
 
@@ -66,7 +66,7 @@
 		<flyToView>1</flyToView>
 		<styleUrl>#Dere</styleUrl>
 		<Link><!-- default link for use without DereGlobus web script -->
-			<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Dere.kml</href>
+			<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Dere.kml</href>
 		</Link>
 	</NetworkLink>
 

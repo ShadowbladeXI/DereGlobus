@@ -5,7 +5,7 @@
 	<Style id="Siedlungen">
 		<ListStyle>
 		  	<ItemIcon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png</href>	
+				<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png</href>	
 			</ItemIcon>
 		</ListStyle>
 		<BalloonStyle>
@@ -27,7 +27,7 @@
 	<Style id="Stadtkarten">
 		<ListStyle>
 		  	<ItemIcon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Stadtkarte-Listicon.png</href>	
+				<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/staedte/Stadtkarte-Listicon.png</href>	
 			</ItemIcon>
 		</ListStyle>
 		<BalloonStyle>
@@ -51,7 +51,7 @@
 	<Style id="Gebaeude">
 		<ListStyle>
 		  	<ItemIcon>
-				<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>	
+				<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/media/icons/bauwerke/Privathaus.png</href>	
 			</ItemIcon>
 		</ListStyle>
 		<BalloonStyle>
@@ -104,7 +104,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
 In dieser Ebene finden sich 
 Ansieldungen von der Großstadtmetropole bis zur kleinen Schäferhütte 
 (siehe auch 
-<a href="http://www.wiki-aventurica.de/wiki/Kategorie:Siedlung" class="postlink">Siedlungen 
+<a href="https://www.wiki-aventurica.de/wiki/Kategorie:Siedlung" class="postlink">Siedlungen 
 im Wiki Aventurica</a>). 
 Diese sind unterteilt nach Größe in Metropolen (mehr als 20.000 Einwohner), 
 Großstädte (bis 20.000 Einwohner), Städte (bis 5000 Einwohner), Kleinstädte (bis 1000 Einwoher), 
@@ -115,17 +115,17 @@ alleinstehende Gebäude) oder die ausschließlich einen bestimmten Zweck
 erfüllen, wie Burgen, Wegherbergen oder Klöster.<br>Die verschiedenen Kategorien 
 werden auf der Karte durch folgende Symbole dargestellt:
 <br />
-<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Metropole.png" width="24" height="24" alt="Metropole">
+<br /><img src="https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Metropole.png" width="24" height="24" alt="Metropole">
  Metropolen - über 20.000 Einwohner
-<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Grossstadt.png" width="24" height="24" alt="Großstadt">
+<br /><img src="https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Grossstadt.png" width="24" height="24" alt="Großstadt">
  Großstädte - bis 20.000 Einwohner
-<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png" width="24" height="24" alt="Stadt">
+<br /><img src="https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Stadt.png" width="24" height="24" alt="Stadt">
  Städte - bis 5000 Einwohner
-<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Kleinstadt.png" width="24" height="24" alt="Kleinstadt">
+<br /><img src="https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Kleinstadt.png" width="24" height="24" alt="Kleinstadt">
  Kleinstädte - bis 1000 Einwohner
-<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Dorf.png" width="24" height="24" alt="Dorf">
+<br /><img src="https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Dorf.png" width="24" height="24" alt="Dorf">
  Dörfer - bis 500 Einwohner
-<br /><img src="http://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Festung.png" width="24" height="24" alt="Dorf">
+<br /><img src="https://www.dereglobus.orkenspalter.de/public/DereGlobus/Menue/media/LI_Festung.png" width="24" height="24" alt="Dorf">
  Weitere Ansiedlungen
 <br /><br />
 Wird hinter dem entsprechenden Symbol ein zusammengerolltes Pergament angezeigt, so verdeutlicht das, dass ein Stadtplan existiert. Falls der Link "Stadtplan betrachten" im Beschreibungstext vorhanden ist, ist dieser in DereGlobus integriert oder soll in Zukunft eingefügt werden. In ersterem Fall führt der Link direkt auf die Stadtplanebene hinab.
@@ -135,7 +135,7 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 		</description>
 		<styleUrl>#Siedlungen</styleUrl>
 	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Siedlungen.kml</href>
+		<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Siedlungen/Siedlungen.kml</href>
 	</Link>
 	<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 		<dg:FilePath>DereGlobus/Staedte/kml/Siedlungen/Siedlungen.kml</dg:FilePath>
@@ -148,7 +148,7 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 <NetworkLink>
 	<name>Stadtkarten</name>
 	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml</href>
+		<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Stadtkarten.kml</href>
 	</Link>
 		<styleUrl>#Stadtkarten</styleUrl>
 		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
@@ -161,7 +161,7 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 		<NetworkLink>
 	<name>Myranische Stadtkarten</name>
 	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</href>
+		<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtkarten/Myranische_Stadtkarten.kml</href>
 	</Link>
 		<styleUrl>#Stadtkarten</styleUrl>
 		<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
@@ -174,7 +174,7 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 <NetworkLink>
 	<name>Gebäude</name>
 	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Gebaeude/Gebaeude.kml</href>
+		<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Gebaeude/Gebaeude.kml</href>
 	</Link>
 			<styleUrl>#Gebaeude</styleUrl>
 			<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
@@ -188,7 +188,7 @@ Ist ein Symbol transparent, ist seine Position nicht eindeutig aus den Quellen h
 	<name>Stadtteile</name>
 	<visibility>0</visibility>
 	<Link>
-		<href>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Stadtteile.kml</href>
+		<href>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/kml/Stadtteile/Stadtteile.kml</href>
 	</Link>
 	<ExtendedData xmlns:dg="http://www.dereglobus.orkenspalter.de">
 		<dg:FilePath>DereGlobus/Staedte/kml/Stadtteile/Stadtteile.kml</dg:FilePath>

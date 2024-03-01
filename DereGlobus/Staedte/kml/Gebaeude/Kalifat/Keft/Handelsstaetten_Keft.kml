@@ -17,7 +17,7 @@
          <maxFadeExtent>0</maxFadeExtent>
       </Lod>
    </Region>
-        <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+        <styleUrl>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
         <Placemark>
           <name>Karawanserei</name>
 		  	<description><![CDATA[		
@@ -26,7 +26,7 @@ a:link, a:visited { text-decoration: none; color: #B21C19; }
 a:hover { text-decoration: underline; color: #B21C19; }
 hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:0px; }
 #wiki { font-size:10px; }
---></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="http://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="http://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
+--></style>Eine Kurzbeschreibung des Gebäudes mit Link zum <a href="https://www.wiki-aventurica.de">Wiki Aventurica</a> fehlt in der derzeitigen Version noch. Du bist herzlich eingeladen <a href="http://www.dereglobus.org/mach-mit-1">mitzumachen</a> und, so der Artikel <a href="https://www.wiki-aventurica.de/wiki/$[name]">$[name]</a> im Wiki noch nicht existiert diesen zu schreiben, sowie in DereGlobus einzufügen.]]></description>
           <LookAt>
             <longitude>3.187690267666981</longitude>
             <latitude>23.55601396814191</latitude>
@@ -36,7 +36,7 @@ hr { width:100%; color:black; background-color:black; height:1px; margin-bottom:
             <heading>0.0001059250083113551</heading>
             <altitudeMode>relativeToGround</altitudeMode>
           </LookAt>
-          <styleUrl>http://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
+          <styleUrl>https://www.dereglobus.orkenspalter.de/public/DereGlobus/Staedte/style/Gebaeude.kml#Handelsstaette</styleUrl>
 		<ExtendedData>
 			<Data name="Link">
 				<value>$[name]</value>

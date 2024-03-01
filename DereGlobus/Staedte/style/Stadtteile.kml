@@ -17,7 +17,7 @@
 	<Style id="Stadtteil-n">
 		<BalloonStyle>
         <text><![CDATA[
-      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="https://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]
       ]]></text>
@@ -49,7 +49,7 @@
 	<Style id="Stadtteil-h">
 		<BalloonStyle>
         <text><![CDATA[
-      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="http://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
+      <font face="Mason" color="#CC0000" size="+3"><a title="Im Wiki-Aventurica öffnen" href="https://www.wiki-aventurica.de/wiki/$[Link]">$[name]</a></font>
       <br/><br/>
       $[description]
       ]]></text>
